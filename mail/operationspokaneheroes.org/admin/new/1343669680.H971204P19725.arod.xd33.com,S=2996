@@ -1,0 +1,73 @@
+Return-path: <3scUWUBAKAB4466IOHNM-HIL8JFSAIIAF8.6IG@gaia.bounces.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Mon, 30 Jul 2012 12:34:40 -0500
+Received: from mail-pb0-f70.google.com ([209.85.160.70]:61913)
+	by arod.xd33.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <3scUWUBAKAB4466IOHNM-HIL8JFSAIIAF8.6IG@gaia.bounces.google.com>)
+	id 1Svtrc-00057w-R0
+	for admin@operationspokaneheroes.org; Mon, 30 Jul 2012 12:34:40 -0500
+Received: by pbbro2 with SMTP id ro2so19205276pbb.5
+        for <admin@operationspokaneheroes.org>; Mon, 30 Jul 2012 10:34:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=ATM0ce5XQ6RaKKB+X2z/8E19ANlK9U6nDD3It7dGd5c=;
+        b=EYkmG9Q/z1Lai6W24nyu4iW/18E+g3w2luTDZAEoYKjdLkrJbF+zeVT6oknyfj5epO
+         l3bDR6zCy3AHuku9d2C5OPMTE3cTnT2KhwDOOSCdc1nOy4PWxh8U/vPftiz27Iuhn1Y9
+         q274C6EsFmdkyV8mjS3cmCq8fmAhRKDIGXFhJLM5c0tPLCFQSMIVbIe8PtmphD1eGVKI
+         amPna7KDZdDjN+daNTrq7ecMqJEo6lvXtbZoFR3t3Lg/UuXP7U0AXqEHRtBboxqECceG
+         MpGYlMGrzM+uv6Rf3V6OWkKQkAr7lLcMJDvl74mFlRVTeIaFRTD7PiLD17M3mZtr79Vm
+         POHw==
+MIME-Version: 1.0
+Received: by 10.66.85.231 with SMTP id k7mr1964176paz.38.1343669681512; Mon,
+ 30 Jul 2012 10:34:41 -0700 (PDT)
+Message-ID: <f46d042de6730fe1d304c60f7a5c@google.com>
+Date: Mon, 30 Jul 2012 17:34:41 +0000
+Subject: Google Accounts - Important information about 2-step verification
+From: accounts-noreply@google.com
+To: admin@operationspokaneheroes.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+
+Dear Google Accounts user,
+
+Congratulations on signing up for 2-step verification! Now that your account
+is more secure, you'll need to complete just a couple more steps
+to make sure you can always access your account.
+
+SET UP YOUR BACKUP PHONE
+
+What if you don't have your phone? If you ever lose access to your primary
+phone number, Google can send a code to a backup, like your home or work
+phone. To set up a backup phone, follow these steps:
+
+Go to https://accounts.google.com/SmsAuthConfig
+Click on "Add a phone number: next to "Backup phone number."
+Enter your phone number and select whether you want to send codes by SMS or
+by voice call.
+
+PRINT A SET OF BACKUP CODES
+
+If you're travelling or don't have access to your primary or backup phone,
+you can use a backup code to sign in. We'll give you a set of 10 codes that
+you can keep in your wallet or save as a file on your computer. If you run
+out of codes, you can always create more.
+
+Go to https://accounts.google.com/SmsAuthConfig
+Click "Show/Generate codes."
+Print or download your codes, and keep them in a safe place.
+
+To learn more about 2-step verification, visit:
+
+http://www.google.com/support/accounts/bin/answer.py?answer=180744
+
+
+Thank you,
+
+The Google Accounts team
+
+This is a post-only mailing. Replies to this message are not monitored or
+answered.
+
+

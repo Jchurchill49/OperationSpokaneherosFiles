@@ -1,0 +1,830 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201307 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 15023               
+POS_DAY 24144               
+POS_DOMAIN 3593                
+POS_LOGIN 4097                
+POS_ROBOT 4252                
+POS_WORMS 4775                
+POS_EMAILSENDER 4906                
+POS_EMAILRECEIVER 5049                
+POS_SESSION 24997               
+POS_SIDER 25205               
+POS_FILETYPES 5184                
+POS_DOWNLOADS 5415                
+POS_OS 6887                
+POS_BROWSER 7081                
+POS_SCREENSIZE 8134                
+POS_UNKNOWNREFERER 8208                
+POS_UNKNOWNREFERERBROWSER 9114                
+POS_ORIGIN 9783                
+POS_SEREFERRALS 9926                
+POS_PAGEREFS 10123               
+POS_SEARCHWORDS 10737               
+POS_KEYWORDS 11432               
+POS_MISC 2357                
+POS_ERRORS 11869               
+POS_CLUSTER 3953                
+POS_SIDER_404 11966               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130801001406 6 792 9930093140536
+FirstTime 20130701023855
+LastTime 20130731153134
+LastUpdate 20130801181853 6 0 5 0 0
+TotalVisits 283                 
+TotalUnique 183                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 245                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 214 14100417 46 102 5051827
+1 54 177 8990282 61 154 4753673
+2 17 134 7372403 52 108 3920754
+3 10 41 1705807 66 119 3865788
+4 38 41 1069643 61 106 1021309
+5 14 62 3660461 65 114 5056498
+6 12 13 189527 58 93 7450983
+7 46 84 2607922 91 150 6745836
+8 13 41 1864509 63 105 7556262
+9 13 68 3180936 42 80 2592845
+10 23 135 5157391 61 110 769492
+11 53 315 16710922 66 147 2565038
+12 70 348 20651195 64 191 6521577
+13 46 279 12952897 73 142 3677824
+14 78 434 27990994 57 150 3984864
+15 40 322 19851072 44 114 2978114
+16 18 117 4728155 50 93 9971591
+17 38 252 16720736 69 157 1541393
+18 78 344 20280521 45 153 7025823
+19 12 74 4084638 57 98 3228139
+20 20 90 5972835 53 106 3680141
+21 27 126 7965672 78 152 3995312
+22 22 155 7193148 58 98 620037
+23 31 121 6357496 48 100 6484174
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 595 3646 208452988
+ro 55 70 2110567
+fr 38 38 399060
+cn 27 27 299349
+ru 27 59 1399468
+jp 12 12 128830
+in 12 65 2848274
+ua 8 8 85080
+nl 7 7 2347371
+lt 5 5 52943
+de 4 5 826189
+ph 3 32 1564038
+ca 3 3 35001
+cz 3 3 32821
+sa 2 2 21270
+tr 1 1 10635
+cl 1 1 11667
+fi 1 1 11667
+nz 1 1 0
+gt 1 1 10635
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+googlebot 477 43218313 20130731171911 0
+bot[\s_+:,\.\;\/\\-] 462 55166772 20130731221739 0
+robot 461 4408835 20130731213040 0
+spider 70 738363 20130731033024 0
+[\s_+:,\.\;\/\\-]bot 40 376984 20130730125726 0
+crawl 33 283144 20130721005447 0
+no_user_agent 26 293938 20130730172627 0
+msnbot 24 226767 20130725021959 0
+msnbot\-media 8 320386 20130716194735 0
+netcraft 3 16792 20130708120827 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 523 2012268 0 0
+png 1428 53426764 0 0
+pdf 26 21874096 0 0
+php 501 3617956 0 0
+html 300 2179949 0 0
+jpg 907 111640522 0 0
+js 297 23570197 0 0
+Unknown 5 2326101 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 25
+/pdf/Survival%20Camp%202013%202%20pg%20flyer.pdf 18 0 14067378
+/pdf/march_for_the%20_fallen.pdf 18 0 21214206
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 13 7 9964164
+/pdf/Spokane%20Indians%20Pennant%20poster-color%20copy.pdf 12 0 21526968
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 8 0 983104
+/pdf/ready_set_go.pdf 4 0 834464
+/pdf/OSH%20Freedom%20Fridays%20Sign%20Up%20Sheet.pdf 4 0 681272
+/pdf/2013%20Salute%20Armed%20Forces.pdf 3 0 5248365
+/pdf/REVISION2%20Military%20Kids%20Camp%202012%20(2).pdf 3 0 5073984
+/pdf/11x17%20Pennant%20Run%20Poster.pdf 2 0 6151120
+/pdf/OSH%20Freedom%20Fridays%20Flyer%20-%20Informational%20Handout%20Final.pdf 2 0 1452186
+/pdf/2013%20-%20Women%20Warriors%20and%20the%20Cowgirls%20Flyer.pdf 2 0 758594
+/pdf/Operation%20Wings%20of%20Hope%20-%20Kids.pdf 2 0 68184
+/pdf/osh_show.pdf 2 0 13589878
+/pdf/Gunny%20Poster%20Final.pdf 1 0 479121
+/pdf/veteran_benefits.pdf 1 0 111163
+/pdf/OSH%20Freedom%20Fridays%20Flyer%20w-back.pdf 1 0 1146408
+/pdf/Veterans%20Resource%20Fair%20Exhib%20App.pdf 1 0 26168
+/pdf/Operation%20Wings%20of%20Hope.pdf 1 0 52094
+/pdf/pearl%20harbor_map.pdf 1 0 1596009
+/pdf/WAwillvetsFINAL.pdf 1 0 4202968
+/pdf/freaky_farms.pdf 1 0 390664
+/pdf/2012%204th%20of%20July%20Pennant%20Run%20Entry%20Form%205-14-12.pdf 1 0 231633
+/pdf/Operation%20Wings%20of%20Hope%20Poster.pdf 1 0 298825
+/pdf/Welcome%20Home%20Event%20Flyer%202012.pdf 1 0 462917
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+linuxandroid 242
+blackberry 1
+winxp 595
+winlong 93
+winnt 42
+java 29
+linux 128
+winvista 8
+win7 2017
+macosx 602
+winme 1
+bsdfreebsd 1
+win2003 40
+Unknown 195
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 63
+msie6.0 16
+firefox5.0 4
+chrome5.0.381 1
+firefox20.0 32
+firefox3.8 2
+chrome23.0.1271.64 8
+android 219
+firefox7.0 1
+chrome28.0.1500.94 23
+chrome22.0.1229.79 1
+firefox4.0 1
+safari4.0.5 11
+lynx 5
+curl 1
+chrome23.0.1271.95 2
+opera9.80 54
+firefox3.6.15 4
+msie8.0 405
+chrome28.0.1500.72 167
+iphone 66
+firefox13.0.1 1
+chrome11.0.696.34 83
+chrome24.0.1290.1 1
+msie7.0 191
+firefox16.0 5
+firefox23.0 65
+msie5.0 3
+msie9.0 763
+chrome18.0.1025.1634 2
+Unknown 116
+chrome24.0.1312.52 1
+firefox11.0 4
+chrome8.0.552.224 1
+chrome22.0.1229.96 1
+blackberry 1
+chrome21.0.1180.75 1
+firefox17.0 5
+firefox13.0 1
+firefox21.0 98
+safari6.0 256
+chrome27.0.1453.110 7
+msie5.5 5
+firefox7.0.1 33
+chrome20.0.1132.57 2
+chrome28.0.1500.71 89
+chrome23.0.1271.91 2
+firefox12.0 11
+safari6.0.5 39
+mozilla 219
+chrome26.0.1410.64 32
+netscape5.0 9
+firefox14.0.1 16
+firefox22.0 155
+chrome25.0.1364.172 5
+msie10.0 308
+safari5.1 61
+firefox6.0 6
+chrome22.0.1229.94 2
+safari6.0.3 103
+firefox3.6.3 1
+chrome27.0.1453.116 231
+firefox3.0.19 1
+safari 35
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+HTTP_Request2/2.1.1_(http://pear.php.net/package/http_request2)_PHP/5.3.2-1ubuntu4.18 20130705211108
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130719021714
+PycURL/7.23.1 20130709082245
+PHP/5.2.17 20130721234947
+Xenu_Link_Sleuth/1.3.8 20130731010359
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130731115147
+Mnogosearch-3.1.21 20130717105631
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20130714023440
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/30.3498;_U;_en)_Presto/2.8.119_Version/11.10 20130722231447
+Mozilla/4.0_(compatible;) 20130727142922
+larbin_2.6.3_system@noc.cair.ru 20130727062753
+MyNutchTest/Nutch-1.7 20130723124701
+Jakarta_Commons-HttpClient/3.0 20130704180426
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20130713080712
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+HTTP_Request2/2.1.1_(http://pear.php.net/package/http_request2)_PHP/5.3.2-1ubuntu4.18 20130705211108
+PHP/5.2.17 20130721234947
+Xenu_Link_Sleuth/1.3.8 20130731010359
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130731115147
+Mnogosearch-3.1.21 20130717105631
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20130714023440
+larbin_2.6.3_system@noc.cair.ru 20130727062753
+MyNutchTest/Nutch-1.7 20130723124701
+Jakarta_Commons-HttpClient/3.0 20130704180426
+Apache-HttpClient/4.2.1_(java_1.5) 20130714212008
+Java/1.6.0_04 20130702074045
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 235 382
+From1 2 2
+From2 60 61
+From3 27 28
+From4 482 3521
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 37 38
+baidu 4 4
+bing 9 9
+yandex 7 7
+yahoo 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://www.facebook.com/l.php 5 5
+http://nagus.net 4 4
+http://www.nwveteranresources.org/operation-spokane-heroes.html 3 4
+http://m.facebook.com/l.php 3 3
+http://www.bsn.ru 2 2
+http://piratik.at.ua 2 2
+http://www.mama-vartovsk.ru 2 2
+https://m.facebook.com 2 2
+http://www.khq.com/story/8389426/as-seen-on-khq-tv 1 1
+http://www.937themountain.com/common/page.php 1 1
+http://evuln.com/tools/malware-scanner/operationspokaneheroes.org/ 1 1
+http://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 17
+operation+spokane+heroes 15
+operationspokaneheroes.org 5
+operationspokaneheroes 4
+spokane+operation+heroes 2
+downtown+operation+hero+spokane 1
+spokane+military+support+groups 1
+opera 1
+operation+heroes+spokane 1
+spokane+opoeration+hero 1
+spokane+foundations+for+soldiers 1
+%e3%83%95%e3%82%a9%e3%83%bc%e3%83%ac%e3%83%b3+hero%e3%80%80%e3%80%80%e3%80%80%e3%82%b9%e3%83%9d%e3%83%bc%e3%82%b1%e3%83%b3 1
+brittany+cozza 1
+spokane+military+discounts 1
+operation+heroes 1
+spokane+families+in+need 1
+operation+spokane+heros 1
+spokane+operation+heros 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 24
+spokane 26
+operation 22
+heroes 19
+operationspokaneheroes.org 5
+operationspokaneheroes 4
+hero 2
+military 2
+heros 2
+downtown 1
+support 1
+brittany 1
+need 1
+opera 1
+in 1
+groups 1
+cozza 1
+soldiers 1
+for 1
+discounts 1
+hero%e3%80%80%e3%80%80%e3%80%80%e3%82%b9%e3%83%9d%e3%83%bc%e3%82%b1%e3%83%b3 1
+%e3%83%95%e3%82%a9%e3%83%bc%e3%83%ac%e3%83%b3 1
+families 1
+opoeration 1
+foundations 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 9000
+404 1191 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 81
+/assets/images/btn_main_search_hover.png 190 http://operationspokaneheroes.org/_inc/slide.php
+/js/'+s.src+' 3 -
+/robots.txt 549 -
+/contact.php' 1 -
+/pdf/CarrouselPoster.pdf 2 -
+/java_for_joes/index.html/wp-trackback.php 2 -
+//language/en-GB/en-GB.xml 1 -
+/admin.php 1 -
+/forum/ 1 -
+/forums/ 1 -
+/hzovetcxfbaju.html 1 -
+/pdf/Christmas%20Carrousel%20Flyer2011.pdf 1 -
+/3t53b97nw620q1z5.html 1 http://operationspokaneheroes.org/
+/vb/ 1 -
+/blog/wp-trackback.php 1 -
+/byn2y294zrm0ql8u.html 1 http://operationspokaneheroes.org/
+/../images/logo.png 1 -
+/../css/footer.css 1 -
+/assets/images/littleWings.png 1 -
+/images/raceway.jpg 1 -
+/pdf/MCL%20Breakfast%20-%20February%202012.pdf 3 -
+/72p56b10fvg8zpvp.html 1 http://operationspokaneheroes.org/
+/java_for_joes/index.html/news/wp-trackback.php 2 -
+/java_for_joes/java_for_joes_flyer2.pdf 1 -
+/wp//wp-login.php 1 -
+/join/ 18 -
+/smf/ 1 -
+/pdf/wreath_across_america.pdf 2 -
+/java_for_joes/press_release.pdf 2 -
+//wp-login.php 2 -
+/rznhbpndsjstr.html 1 -
+/pdf/OSH%20Gift%20Cards%202011%20Media%20Advisory.pdf 1 -
+/pdf/174 1 -
+/java_for_joes/index.html/blog/wp-trackback.php 2 -
+/java_for_joes/index.html/wp/wp-trackback.php 2 -
+/bvqvhniecwi.html 1 -
+/administrator/ 1 -
+/assets/images/tabbed_content_bg.png 1 -
+/a 1 -
+/java_for_joes/index.html 92 -
+/wp-login.php 1 -
+/apple-touch-icon-144x144-precomposed.png 1 -
+/yyrjeleeprsbf.html 1 -
+/java_for_joes/index.html/wordpress/wp-trackback.php 2 -
+/pdf/2010_top100_ 1 -
+/modules/user/user.css 1 -
+/apple-touch-icon.png 5 -
+/js/'+opts.iframeSrc+' 1 -
+/_inc/slide_cal.php 2 -
+/contact/contactengine.phpcontactthanks.php 2 -
+/employers.php 5 -
+/pdf/Veterans%20Day%202011%20-%20Flyer.pdf 1 -
+/wedo.php 5 -
+/assets/images/tabbed_content_nav_ds.png 1 -
+/benefits.php 7 -
+/pdf/Operation%2520Wings%2520of%2520Hope%2520Poster.pdf 3 -
+/blog//wp-login.php 1 -
+/business_discount.php 4 -
+/donation.php 1 -
+/apple-touch-icon-precomposed.png 4 -
+/join 3 -
+/assets/images/mastheadbg.png 2 -
+/events/vet_picnic/images/67.jpg 21 http://operationspokaneheroes.org/events/vet_picnic/vet_picnic.html
+/administrator/index.php 1 -
+/pdf/Invite%20for%20vets%20listening%20session%20%28mm%20edits%29.pdf 3 -
+/assets/images/tabbed_content_nav_bg.png 1 -
+/wp-trackback.php 1 -
+/nahpydbkbom.html 1 -
+/images/Flag-Day-2011-001.jpg 3 -
+/assets/images/btn_top_search_hover.png 190 http://operationspokaneheroes.org/_inc/slide.php
+/contact.php_inc/slide.php 1 -
+/wordpress/wp-trackback.php 1 -
+/pdf/174StoresandBusinessOfferingMilitaryDiscounts1.pdf 1 -
+/apple-touch-icon-144x144.png 1 -
+/wordpress//wp-login.php 1 -
+/news/wp-trackback.php 1 -
+/wp/wp-trackback.php 1 -
+/mission.php 3 -
+/favicon.png 6 http://www.facebook.com
+/pdf/NWMSGrandPrix2011FLYER.pdf 2 -
+/contact.php_inc/contact.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 245
+66.45.169.252 45 207 10481850 20130729124859
+178.156.154.125 34 34 244474 20130709073540
+50.135.240.110 26 108 7127529 20130708183332
+147.222.214.172 22 96 5676219 20130719014749
+71.37.142.230 21 98 4312705 20130702185746
+174.61.144.46 19 48 1680306 20130717013702
+24.19.159.206 19 93 5661261 20130702143632
+50.78.164.249 18 93 5659441 20130716140726
+70.89.141.89 17 68 2896589 20130715123403
+98.247.88.78 13 103 7859490 20130728150520
+69.46.45.135 13 106 7166193 20130729125905
+92.82.224.158 13 27 1070756 20130702074045
+97.115.174.188 12 79 3169605 20130716114258
+69.58.178.58 11 11 99811 20130707233421
+98.247.56.72 11 87 6452256 20130711005536
+174.61.169.168 11 64 3643389 20130704145514
+71.217.196.219 10 39 1611891 20130703003002
+206.209.238.11 10 61 1456563 20130721235746
+63.224.213.112 9 83 5604647 20130716150518
+38.100.21.63 9 11 101510 20130702074023
+66.193.136.126 9 83 5603624 20130729140849
+166.147.88.30 9 83 5603624 20130704172723
+132.3.65.81 9 53 3288553 20130717210706
+207.172.209.16 8 9 799565 20130711113249
+74.118.176.2 8 87 2846545 20130702225113
+131.253.24.96 1 3 9291 20130711185921
+60.148.126.179 1 1 11667 20130701223748
+198.200.32.93 5 5 58335 20130731145400
+67.185.202.244 4 47 2587806 20130712130756
+199.115.113.136 2 2 21270 20130723164728
+69.171.245.0 0 1 5737 
+70.199.135.242 3 32 1564038 20130710133927
+132.3.65.80 3 18 797520 20130724015212
+64.122.105.198 6 66 3368156 20130729121631
+23.19.132.84 2 2 14872 20130703124859
+23.22.183.95 1 1 10635 20130716175656
+142.0.129.109 1 1 11667 20130705050328
+66.87.66.237 6 64 1937211 20130715104734
+69.171.247.116 0 2 452258 
+175.42.93.33 2 2 23334 20130728132704
+69.171.230.246 0 2 231133 
+69.171.234.114 0 3 457995 
+131.253.26.238 1 5 10876 20130728115949
+192.74.244.100 1 1 11667 20130718191252
+173.252.103.5 0 1 5737 
+173.252.100.114 0 2 231866 
+67.165.123.206 2 23 1265446 20130715205555
+88.190.47.222 3 3 35001 20130722162548
+108.196.50.76 3 32 1564038 20130708191839
+66.193.135.216 3 32 1564038 20130730115553
+173.252.100.119 0 1 226129 
+202.46.62.91 1 1 10635 20130724181613
+67.185.126.31 2 23 1266332 20130708232518
+173.252.112.112 0 1 226129 
+202.46.62.24 1 1 10635 20130728101542
+54.234.46.177 1 1 10635 20130704180422
+69.171.247.118 0 1 226129 
+131.253.36.203 1 2 103148 20130728025327
+184.97.95.159 3 32 1564038 20130703211257
+202.46.57.60 1 1 10455 20130712013759
+5.135.125.180 1 1 10635 20130724151801
+97.114.120.124 3 32 1564038 20130718022852
+173.252.73.118 0 1 226129 
+69.171.237.9 0 2 452258 
+112.205.151.220 3 32 1564038 20130701023856
+69.171.245.6 0 2 9503 
+61.135.190.223 2 2 21270 20130725100156
+173.252.101.112 0 1 226129 
+69.171.242.119 0 1 5004 
+173.252.110.112 0 2 452258 
+50.46.164.160 4 33 1574673 20130711014603
+70.199.132.10 3 34 2350563 20130703002625
+65.55.213.45 1 4 178641 20130728141321
+173.252.101.114 0 2 452258 
+69.171.242.118 0 1 226129 
+173.252.110.119 0 1 226129 
+66.191.40.17 4 26 1992044 20130722225053
+95.28.102.230 3 11 310243 20130708224717
+70.199.133.84 5 34 1577878 20130724173019
+198.200.33.1 4 4 46668 20130713205756
+66.249.84.43 1 1 10635 20130721194018
+50.149.76.208 7 36 1592759 20130724182739
+61.135.190.220 2 2 21270 20130726035420
+88.190.61.98 1 1 11667 20130707041157
+173.252.110.114 0 3 678387 
+50.19.162.88 1 1 10635 20130704180427
+176.195.32.231 3 11 310243 20130707205337
+69.171.224.112 0 1 226129 
+214.3.90.8 3 33 2742605 20130702185025
+112.111.161.73 2 2 23334 20130714115238
+88.190.47.232 7 7 81669 20130720232422
+69.171.242.114 0 1 226129 
+63.224.213.88 8 66 3141916 20130726152609
+173.252.110.118 0 1 226129 
+69.171.242.112 0 1 226129 
+141.0.9.155 3 28 1284643 20130722231446
+110.85.104.163 1 1 11667 20130712235001
+146.120.158.104 1 1 11667 20130705223723
+78.228.127.117 7 7 72384 20130713135021
+173.252.100.116 1 2 15639 20130718131738
+69.171.247.117 0 1 226129 
+69.171.247.112 0 2 452258 
+46.105.59.74 3 3 0 20130721022425
+69.171.224.119 0 1 226129 
+119.63.193.194 4 4 42540 20130728101707
+66.220.152.113 0 1 226129 
+24.19.37.174 5 37 1911187 20130706011349
+69.171.234.115 0 2 231133 
+199.30.24.242 0 21 1286440 
+195.161.25.254 1 1 11667 20130727062753
+132.3.65.78 4 25 943860 20130716135521
+119.63.193.131 3 3 31905 20130724181738
+50.132.102.29 3 32 1564038 20130717131008
+69.171.234.116 0 1 5004 
+67.185.232.125 3 32 1564038 20130717142330
+88.190.47.234 5 5 58335 20130706121208
+69.171.224.115 0 2 452258 
+173.252.101.116 0 1 226129 
+168.156.168.253 2 23 1266332 20130710155452
+202.46.53.38 1 1 10635 20130724001612
+65.52.241.183 1 1 10813 20130722170016
+131.253.26.255 0 2 3116 
+222.77.207.54 1 1 11667 20130711211331
+95.28.103.51 3 11 310243 20130710092023
+69.171.237.8 0 1 226129 
+173.252.73.117 0 1 226129 
+72.21.217.70 1 1 10635 20130704180426
+69.171.224.114 0 2 452258 
+190.111.3.33 1 1 10635 20130712165238
+65.52.246.161 1 1 10635 20130719220840
+88.190.61.95 2 2 23334 20130705150531
+67.185.39.217 5 37 5331880 20130705115950
+66.249.85.216 3 3 31905 20130729100909
+54.225.50.101 1 1 10635 20130730114553
+54.226.169.34 1 1 10635 20130704180421
+66.172.127.92 2 23 1265446 20130723095420
+121.99.30.36 1 1 0 20130731010359
+173.49.24.118 1 1 10635 20130717105631
+70.199.136.76 3 32 1564038 20130710171136
+198.239.178.119 5 36 1679631 20130729113609
+66.162.130.58 2 24 1388334 20130730154132
+176.14.110.226 3 11 310243 20130711164910
+71.226.74.87 5 35 2289782 20130708054755
+199.30.25.3 2 28 1538163 20130721085107
+69.171.230.244 0 1 5737 
+69.171.228.115 0 1 226129 
+70.199.132.215 0 2 3382656 
+188.40.111.19 0 1 781521 
+192.99.1.164 1 1 11667 20130731153134
+173.252.103.1 0 1 5004 
+69.171.224.113 0 3 678387 
+192.74.241.220 7 7 81669 20130717191816
+65.55.212.85 3 7 38052 20130728115949
+66.249.83.210 2 2 21270 20130709133722
+69.171.237.13 0 1 226129 
+142.4.126.228 3 3 35001 20130715104812
+66.87.66.110 3 32 1564038 20130731134530
+131.253.24.95 3 11 310243 20130731014034
+199.30.24.164 0 21 1286440 
+202.46.51.46 1 1 10635 20130705041740
+46.229.170.197 1 1 10635 20130719184011
+175.44.59.215 2 2 23334 20130720081216
+88.190.61.100 3 3 35001 20130705234439
+178.156.190.66 8 9 795337 20130706045757
+23.21.28.8 1 1 11667 20130705211108
+142.0.133.44 5 5 58335 20130716053634
+69.171.228.119 0 2 452258 
+69.171.234.113 1 2 236942 20130722165917
+98.247.58.38 5 55 1578056 20130722165842
+69.171.242.117 1 1 10635 20130704205244
+173.252.110.115 0 1 226129 
+195.234.136.80 3 3 34033 20130726181700
+69.171.242.115 0 3 236365 
+120.43.9.98 2 2 23334 20130729152157
+132.3.65.82 4 28 1473091 20130717010727
+65.113.247.2 3 32 1564038 20130712152450
+5.1.21.200 1 1 10635 20130701044410
+173.252.110.117 0 1 226129 
+132.3.65.68 1 1 10635 20130718042438
+69.171.245.5 0 1 226129 
+178.163.89.240 1 1 10635 20130715111834
+173.252.101.113 0 1 226129 
+78.158.11.226 5 5 52943 20130719021714
+202.46.50.18 1 1 10635 20130724061539
+173.252.100.113 0 1 226129 
+54.224.13.49 1 1 11667 20130723124701
+205.143.53.1 3 32 1564038 20130724115202
+46.229.167.149 1 1 10635 20130704030437
+119.63.193.132 1 1 10635 20130724061705
+117.203.73.147 7 37 1580117 20130715040210
+67.185.33.208 3 32 1564038 20130730223011
+74.93.76.230 2 2 21270 20130714212008
+109.120.157.179 6 6 63810 20130713080712
+5.135.125.178 1 1 10635 20130726032957
+54.254.97.178 3 3 31789 20130717041544
+188.143.232.211 7 7 72384 20130726202943
+184.48.114.29 0 1 711726 
+66.220.152.117 0 1 226129 
+173.129.10.145 2 23 1265446 20130722182927
+95.211.224.29 3 3 2180846 20130711215726
+173.252.73.114 0 1 226129 
+119.63.193.196 2 2 21270 20130712013802
+71.231.252.204 0 1 0 
+202.46.54.34 1 1 10635 20130709053754
+150.70.173.47 1 1 10813 20130724095916
+173.252.110.113 0 1 226129 
+174.239.225.94 4 26 2113406 20130719230227
+75.165.167.235 2 25 2032378 20130713155910
+31.210.123.98 1 1 10635 20130721234947
+195.242.218.133 7 7 74445 20130713165505
+173.204.19.10 1 1 10635 20130702212956
+173.252.110.116 0 1 226129 
+27.159.201.192 1 1 11667 20130701035332
+173.252.112.114 0 2 452258 
+74.68.55.95 0 1 36530 
+198.200.32.92 8 8 93336 20130716053356
+74.208.5.52 2 2 21270 20130726124559
+175.44.57.5 1 1 11667 20130704201816
+67.185.224.48 5 34 1578942 20130702173554
+199.30.24.186 1 24 1516273 20130723115533
+98.67.96.230 2 23 1265446 20130722170052
+202.46.54.56 2 2 21270 20130715061646
+198.2.193.195 1 1 11667 20130703130032
+202.46.53.30 1 1 10635 20130704201800
+69.171.234.118 0 1 226129 
+88.190.47.233 4 4 46668 20130721003009
+85.25.108.64 1 1 10635 20130716002552
+88.190.61.96 3 3 35001 20130722034940
+199.30.24.48 1 24 1294379 20130703020634
+123.151.39.41 1 1 10635 20130714213251
+132.3.65.79 4 28 762272 20130716123457
+146.120.112.34 1 1 10635 20130711125921
+166.216.226.35 2 23 1265446 20130722170546
+174.239.194.144 3 33 1569042 20130716102620
+146.120.158.152 1 1 10519 20130705223724
+199.30.228.148 3 32 1564038 20130715181829
+69.171.234.117 0 1 5737 
+117.203.97.31 5 28 1268157 20130717080457
+199.30.24.239 2 27 1312034 20130718092900
+131.253.24.104 3 11 310243 20130730104541
+66.220.152.115 0 1 226129 
+95.211.209.103 2 2 145255 20130701185122
+152.131.10.75 6 35 1595943 20130715144709
+67.185.215.96 4 26 1336378 20130717000656
+66.135.38.216 1 1 10635 20130709082245
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20130701 28 96 3700083 14
+20130702 80 356 16807589 12
+20130703 30 191 10541346 12
+20130704 30 151 13355713 15
+20130705 26 90 7431893 18
+20130706 15 17 1093641 7
+20130707 16 46 1945957 4
+20130708 89 378 19128139 17
+20130709 28 29 267181 11
+20130710 32 178 8194008 13
+20130711 39 234 15776391 13
+20130712 10 62 2940603 7
+20130713 17 73 5056937 6
+20130714 13 43 1874127 6
+20130715 32 199 8071400 10
+20130716 53 365 21225929 16
+20130717 42 170 6891370 12
+20130718 8 67 3156620 5
+20130719 34 151 9119797 8
+20130720 4 6 274176 4
+20130721 9 58 3301325 7
+20130722 23 218 15296640 11
+20130723 7 55 3730839 5
+20130724 24 118 5880655 13
+20130725 3 3 32937 2
+20130726 23 82 4085061 9
+20130727 1 4 463925 1
+20130728 12 58 3561633 8
+20130729 57 341 20966503 7
+20130730 12 101 5063417 5
+20130731 9 47 2123744 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 4
+0s-30s 256
+15mn-30mn 1
+2mn-5mn 6
+30s-2mn 11
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/_inc/slide.php 204 653820 8 79
+/ 170 1775865 146 68
+/aboutus.php 123 1423374 91 80
+/slider/ 83 233208 7 24
+/business.php 38 410894 13 5
+/events.php 25 160175 2 2
+/contact.php 22 231418 4 4
+/index.php 22 233970 2 1
+/calendar.php 19 202236 1 0
+/donate.php 19 222281 5 2
+/events/vet_picnic/vet_picnic.html 15 47445 1 1
+/events/carousel_11/carousel_11.html 15 55680 0 1
+/events/ermy_event/ermy.html 15 52605 0 3
+/_inc/contact.php 14 10584 0 3
+/contact/contactengine.php 6 366 0 3
+/freedom.php 6 67362 0 1
+/contact/contactthanks.php 3 1476 0 2
+/aboutus.php/trackback/ 1 11667 0 1
+/pdf/Operation%20Wings%20of%20Hope%20-%20Kids.pdf\r 1 34092 1 0
+/pdf/2013%20-%20Women%20Warriors%20and%20the%20Cowgirls%20Flyer.pdf\r 1 379297 0 0
+/events/bbq/va_bbq.html 1 3479 1 1
+/pdf/2013%20Salute%20Armed%20Forces.pdf\r 1 1749455 0 1
+/pdf/Operation%20Wings%20of%20Hope.pdf\r 1 52094 1 0
+/pdf/veteran_benefits.pdf\r 1 111163 0 1
+END_SIDER

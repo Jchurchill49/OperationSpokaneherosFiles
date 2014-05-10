@@ -1,0 +1,47 @@
+arod: Thu Nov 15 13:09:45 CST 2012: Logging to: /root/tmp/scanlog.1353006585
+arod: Thu Nov 15 13:09:45 CST 2012: Logging to: /home/operatio/.security/scanlog.1353006585
+arod: Thu Nov 15 13:09:45 CST 2012: Cleaning up.
+arod: Thu Nov 15 13:09:46 CST 2012: Preparing ClamAV.
+arod: Thu Nov 15 13:09:54 CST 2012: Preparation completed.
+arod: Thu Nov 15 13:09:54 CST 2012: Scan directory: /home/operatio
+arod: Thu Nov 15 13:09:54 CST 2012: Backup directory: /home/operatio/.security/scanbackup.1353006585
+arod: Thu Nov 15 13:09:54 CST 2012: Scannning.
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 64731
+Engine version: 0.97.2
+Scanned directories: 249
+Scanned files: 2059
+Infected files: 0
+Data scanned: 49.01 MB
+Data read: 93.05 MB (ratio 0.53:1)
+Time: 66.470 sec (1 m 6 s)
+
+arod: Thu Nov 15 13:11:01 CST 2012: Scannning '/dev/shm'.
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 64731
+Engine version: 0.97.2
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 8.463 sec (0 m 8 s)
+
+arod: Thu Nov 15 13:11:09 CST 2012: Scannning '/tmp'.
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 64731
+Engine version: 0.97.2
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 1.828 sec (0 m 1 s)
+
+arod: Thu Nov 15 13:11:11 CST 2012: Scan Complete.

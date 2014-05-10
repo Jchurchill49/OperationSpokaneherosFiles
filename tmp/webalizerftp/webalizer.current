@@ -1,0 +1,146 @@
+# Webalizer V2.23-05 Incremental Data - 05/07/2014 12:52:42
+2014 5 7 12 52 42
+15 15 3 9 0 0 311085 5 3 1
+1 3 8 5 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 6 247130 2 1 1
+6 6 45005 1 1 1
+3 3 18950 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+6 6 250593 4
+0 0 0 0
+3 3 15487 0
+6 6 45005 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/operatio/images/logo.png
+0 1 0 226129 0 0
+/home/operatio/
+0 2 0 9416 2 0
+/home/operatio/public_html/
+0 3 0 18950 1 0
+/home/operatio/style.css
+0 1 0 20122 0 0
+/home/operatio/public_html/business.php
+0 4 0 26580 0 0
+/home/operatio/.sqmaildata/bethann@operationspokaneheroes.org.pref
+0 1 0 240 0 0
+/home/operatio/public_html/slider.html
+0 1 0 8552 0 0
+/home/operatio/css/footer.css
+0 1 0 806 0 0
+/home/operatio/public_html/mainbk.png
+0 1 0 290 0 0
+# End Of Table - urls
+# -sites- (monthly)
+146.187.0.41
+0 3 3 18950 1 1399467162
+/home/operatio/public_html/
+146.187.0.42
+0 3 3 231643 1 1399294030
+/home/operatio/
+206.63.116.15
+0 9 9 60492 1 1399390103
+/home/operatio/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+146.187.0.41
+0 3 3 18950 1 1399467162
+/home/operatio/public_html/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+operatio
+0 15 15 311085 4 1399467162
+# End Of Table - usernames

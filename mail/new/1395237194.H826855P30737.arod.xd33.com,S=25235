@@ -1,0 +1,457 @@
+Return-path: <bounce-1061303@bounce.getresponse.com>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Wed, 19 Mar 2014 08:53:14 -0500
+Received: from mta-1.getresponse.com ([209.2.32.27]:59802)
+	by arod.xd33.com with esmtp (Exim 4.80.1)
+	(envelope-from <bounce-1061303@bounce.getresponse.com>)
+	id 1WQGvi-0007zg-9W
+	for bethann@operationspokaneheroes.org; Wed, 19 Mar 2014 08:53:14 -0500
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
+Date: Wed, 19 Mar 2014 13:53:13 +0000
+From: "Guide by Cell" <learn@guidebycell.com>
+To: "Bethann Long" <bethann@operationspokaneheroes.org>
+Reply-To: learn@guidebycell.com
+Subject: Mobile technology...finding the balance between personal and work life.
+Message-Id: <1395237193.712107@getresponse.com>
+X-Serial: s56bjeOrIkQ/a1lF1xE7FgZ6Lm+JuAxskz1KKwhDyDUsWZ7pFF9I1Dceg9CFvmRLJfWsanhZtEqxBeYsdXKoFKN5wynrYyLAqXuR0jdjERBJYW8=
+X-Complaints-To: abuse@getresponse.com
+Sender: guidebycell@getresponse.com
+Require-Recipient-Valid-Since: bethann@operationspokaneheroes.org; Fri, 17 Jan 2014 12:12:48 +0000
+List-Unsubscribe: <mailto:listunsubscribe@getresponse.com?subject=s56bjeOrIkQ/a1lF1xE7FgZ6Lm+JuAxskz1KKwhDyDUsWZ7pFF9I1Dceg9CFvmRLJfWsanhZtEqxBeYsdXKoFKN5wynrYyLAqXuR0jdjERBJYW8=>, <http://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=Sw7R0&s=24lC9&y=f&>
+X-Mailer: GetResponse 6.0
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=getresponse.com; s=k1024c; h=sender:from:to:subject; bh=zKfD9egsWX/q6RdFMKMsNe41k4rhHCfBC7Oe9i31vQM=; b=R+xhUv8hzw59535KDcAQlVTycxsISiW+8qc/G8A/AN8PjMdvrqzHTOI83A9yFmD9BYQdyGoBcRfSifKIKW69jOILGn3OkpB77YsiJdAaWP/04W8iXecJe3MutPznls5Z4qKGoAyYth6oE1GmvqXEwTDf5anX12x/NNfQNu0O7Uc=;
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1">
+<style type=3D"text/css">
+<!--
+.ReadMsgBody {width: 100%;background-color: #ffffff;}
+.ExternalClass {width: 100%;background-color: #ffffff;}
+html {width: 100%;padding: 0px;margin: 0px;}
+body {width: 100% !important;-webkit-text-size-adjust:100%;-ms-text-size-ad=
+just:100%;margin: 0px;padding: 0px;background-color: #ffffff;transform: sca=
+le(1, 1);zoom: 1;}
+.wrap {width: 100% !important;padding: 0px;margin: 0px;}
+img {display: block;-ms-interpolation-mode: bicubic;margin: 0 !important;pa=
+dding: 0 !important;-webkit-box-sizing: border-box;-moz-box-sizing: border-=
+box;box-sizing: border-box;}
+table font {background-color: inherit;}
+table {border-collapse: collapse;border-spacing: 0px;padding: 0px;empty-cel=
+ls: hide;mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+tr {border-collapse: collapse;border-spacing: 0px;}
+td {display: table-cell !important;border-collapse: collapse;border-spacing=
+: 0px;}
+td.column { min-width: 0 !important; }
+body[data-getresponse] td.column {display: table-cell !important;float: non=
+e !important;min-width: auto;max-width: auto;}
+table.wrapper {width: 550px !important;max-width: 550px;font-size: 16px;}
+@media all and (max-width: 480px) {
+body {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing=
+: border-box;}
+table {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizin=
+g: border-box;}
+table td {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-si=
+zing: border-box;}
+table.wrapper {width: 100% !important;max-width: 100% !important;}
+table[data-mobile-width=3D"1"] {max-width: 100% !important;width: 100% !imp=
+ortant;}
+table[data-mobile-width=3D"0"] {max-width: 100% !important;}
+table[data-mobile-width=3D"0"] td {padding-left: 10px !important;padding-ri=
+ght: 10px !important;}
+table[data-editable=3D"image"] img {width: 100%;max-width: 100% !important;=
+height: auto !important;-webkit-box-sizing: border-box;-moz-box-sizing: bor=
+der-box;box-sizing: border-box;}
+table[data-mobile-width=3D"1"] {width: 100% !important;}
+table[data-mobile-width=3D"1"] img {width: 100% !important;max-width: 100% =
+!important;height: auto !important;}
+body[data-getresponse] table td {display: block !important;width: 100% !imp=
+ortant;height: auto !important;}
+body[data-getresponse] td.column { display: block !important; }
+table[data-editable=3D"text"] table[data-editable=3D"button"] {float: none;}
+table[data-mobile-width=3D"1"] td {padding-left: 0 !important; padding-righ=
+t: 0 !important;}
+table[data-editable=3D"text"] {padding-left: 10px !important;padding-right:=
+ 10px !important;}
+table[data-editable=3D"text"] table[data-editable=3D"image"] {max-width: 10=
+0% !important;margin: 0px;float: none;}
+table[data-editable=3D"text"] table[data-mobile-width] td {padding: 0 !impo=
+rtant;padding-bottom: 10px !important;}
+table[data-editable=3D"socialmedia"] table {text-align: center !important;}
+tr[data-columns=3D"no"] { text-align: center; }
+tr[data-columns=3D"no"] > td {display: inline-block !important;width: auto =
+!important;margin: auto;padding: 5px;}
+body[data-getresponse] table.nowrap td { display: table-cell !important; wi=
+dth: auto !important; }tfoot .wrapper table { float: none !important; margi=
+n: auto !important; width: 100% !important; }
+tfoot .wrapper table td { text-align: center !important; }
+tfoot .wrapper table td img { margin: auto !important; }
+.pl_image { width: 100% !important; }
+body[data-getresponse] tr[data-columns=3D"no"] > td {display: inline-block =
+!important;width: auto !important;margin: auto !important;padding: 5px;}}
+.pl_image, .outline .editable .imagemask div {vertical-align: middle;text-a=
+lign: center;font-family: Arial,Helvetica,sans-serif;color: #ffffff;font-si=
+ze: 20px;-webkit-border-radius: 6px;-moz-border-radius: 6px;border-radius: =
+6px;background: #dedede url(/images/common/templates/messages/elements/plac=
+eholders/image.png) no-repeat 50% 50%;width: 100%;height: 100%;overflow: hi=
+dden;}
+--></style>
+<!--[if gte mso 9]><style type=3D"text/css"></style><![endif]--></head>
+<body data-getresponse=3D"true" style=3D"margin: 0; padding: 0;">
+<div class=3D"wrap"><style type=3D"text/css"><!-- table.wrapper {width: 550=
+px;max-width: 550px !important;font-size: 16px;}
+td.column { min-width: 0 !important; }=20
+body[data-getresponse] td.column { float: none !important; }body[xx-iframe]=
+ td.column { display: table-cell !important; float: none !important; }--></=
+style>
+<table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" data-mobile=3D"true" dir=3D"ltr" data-width=3D"550" style=3D"f=
+ont-size: 16px; background-color: rgb(255, 255, 255);">
+    <tbody><tr>
+        <td align=3D"center" valign=3D"top" style=3D"margin:0;padding:0 0 9=
+9px 0;">
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"550" class=3D"wrapper" style=3D"width: 550px;">
+                <tbody>
+                <tr>
+                    <td align=3D"center" style=3D"margin: 0px; padding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%">
+                            <tbody><tr data-columns=3D"yes">
+                                <td align=3D"left" width=3D"347" valign=3D"=
+middle" style=3D"margin: 0px; padding: 0px;" axis=3D"col" class=3D"column">
+                                    <table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" data-editable=3D"image" data-mobile-width=
+=3D"1" style=3D"margin-right: 0px; margin-left: 0px;" width=3D"95%">
+                                        <tbody><tr>
+                                            <td align=3D"left" valign=3D"to=
+p" style=3D"margin: 0px; padding: 20px 99px 26px 37px; font-family: Helveti=
+ca, sans-serif; color: rgb(55, 55, 55); font-size: 14px; font-weight: bold;=
+"><img src=3D"https://multimedia.getresponse.com/167/570167/photos/8125302.=
+png?img1395236851667" width=3D"194" data-src=3D"https://multimedia.getrespo=
+nse.com/167/570167/photos/8125302.png|480|72|396|79|0|0|2.4742268041237114"=
+ height=3D"29" data-origsrc=3D"https://multimedia.getresponse.com/167/57016=
+7/photos/8070902.png" style=3D"border: 0px none transparent; display: block=
+;"></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                                <td align=3D"left" width=3D"203" valign=3D"=
+middle" style=3D"margin: 0px; padding: 0px;" axis=3D"col" class=3D"column">
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" data-editable=3D"socialmedia" style=3D"ma=
+rgin-right: auto; margin-left: auto;">
+                                        <tbody><tr>
+                                            <td align=3D"right" style=3D"ma=
+rgin: 0px; padding: 20px 0px 20px 5px;">
+                                                <table cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" width=3D"100%">
+                                                    <tbody><tr data-columns=
+=3D"no">
+                                                        <td style=3D"displa=
+y: inline-block !important; width: auto !important; margin: auto;padding-ri=
+ght: 5px;">
+                                                            <a title=3D"For=
+ward" href=3D"http://app.getresponse.com/forward.html?x=3Da62b&m=3DSw7R0&s=
+=3D24lC9&u=3DSX09&y=3D3&">
+                                                                <img src=3D=
+"https://app.getresponse.com/images/common/templates/messages/326/1/img/02.=
+png" alt=3D"Forward" width=3D"65" height=3D"20" border=3D"0" style=3D"borde=
+r: 0px none transparent; display: block;">
+                                                            </a>
+                                                        </td>
+                                                        <td style=3D"displa=
+y: inline-block !important; width: auto !important; margin: auto;padding-ri=
+ght: 5px;">
+                                                            <a title=3D"Fac=
+ebook" href=3D"http://gr8.com/r/Sw7R0/24lC9/SX09/?source=3Demail&service=3D=
+facebook&">
+                                                                <img src=3D=
+"https://app.getresponse.com/images/common/templates/messages/326/1/img/04.=
+png" alt=3D"Facebook" width=3D"51" height=3D"20" border=3D"0" style=3D"bord=
+er: 0px none transparent; display: block;">
+                                                            </a>
+                                                        </td>
+                                                        <td style=3D"displa=
+y: inline-block !important; width: auto !important; margin: auto;padding-ri=
+ght: 5px;">
+                                                            <a title=3D"Twi=
+tter" href=3D"http://gr8.com/r/Sw7R0/24lC9/SX09/?source=3Demail&service=3Dt=
+witter&">
+                                                                <img src=3D=
+"https://app.getresponse.com/images/common/templates/messages/326/1/img/03.=
+png" alt=3D"Twitter" width=3D"60" height=3D"20" border=3D"0" style=3D"borde=
+r: 0px none transparent; display: block;">
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"margin:0;p=
+adding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"line" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding: 10px 42px 10px 37px; margin: 0px;"><div style=3D"height:1px;li=
+ne-height:1px;border-top:1px solid #9e9e9e;">
+                                        <img src=3D"data:image/gif;base64,R=
+0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=3D=3D" alt=3D"" w=
+idth=3D"1" height=3D"1" style=3D"display:block;">
+                                    </div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"text" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+margin: 0px; padding: 10px 22px 38px 37px; font-family: Trebuchet, 'Trebuch=
+et MS', Arial, Helvetica, sans-serif; color: rgb(83, 83, 83); line-height: =
+1.45;"><font size=3D"13" style=3D"font-size: 13px; font-family: Trebuchet, =
+'Trebuchet MS', Arial, Helvetica, sans-serif;">As many of you know we manag=
+e three divisions; Guide by Cell, Give by Cell and Train by Cell. Through t=
+hese divisions we provide mobile solutions to over 5,000 organizations, ran=
+ging from mobile fundraising, mobile training or to simply engaging your au=
+dience through mobile gaming and audio tours.</font><div style=3D""><font s=
+ize=3D"13" style=3D"font-size: 13px; font-family: Trebuchet, 'Trebuchet MS'=
+, Arial, Helvetica, sans-serif;"><br></font></div><div style=3D""><span sty=
+le=3D"font-family: Trebuchet, 'Trebuchet MS', Arial, Helvetica, sans-serif;=
+"><font size=3D"13" style=3D"font-size: 13px;">Mobile creates unique opport=
+unities, and also challenges. We consult with many organizations on finding=
+ the right balance between work and home when mobile can so easily help blu=
+r those lines.</font></span><br></div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" ali=
+gn=3D"center" data-editable=3D"image" data-mobile-width=3D"1" style=3D"marg=
+in-right: auto; margin-left: auto;" width=3D"18%"><tbody><tr><td valign=3D"=
+top" align=3D"center" style=3D"margin: 0px; padding: 0px 10px 10px 0px;"><a=
+ href=3D"http://app.getresponse.com/click.html?x=3Da62b&lc=3DhrEf0&mc=3DBY&=
+s=3D24lC9&u=3DSX09&y=3De&" target=3D"_blank"><img src=3D"https://multimedia=
+.getresponse.com/167/570167/photos/8126302.jpg?img1395236851667" width=3D"8=
+8" data-src=3D"https://multimedia.getresponse.com/167/570167/photos/8126302=
+.jpg|88|110|80|107|0|0|1" height=3D"110" data-origsrc=3D"https://multimedia=
+.getresponse.com/167/570167/photos/8103702.jpg" style=3D"border: 0px none t=
+ransparent; display: block;"></a></td></tr></tbody></table></td></tr><tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"text" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+margin: 0px; padding: 10px 22px 38px 37px; font-family: Trebuchet, 'Trebuch=
+et MS', Arial, Helvetica, sans-serif; color: rgb(83, 83, 83); line-height: =
+1.45;"><div style=3D""><font size=3D"13" style=3D"font-size: 13px;">That's =
+why we are excited that our CEO, David Asheim, has been asked by the World =
+at Work organization to speak on a panel at their conference in Baltimore t=
+his Thursday about juggling work and personal life in our very mobile world=
+.</font></div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding:0;=
+margin:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" data-editable=3D"image" data-mobile-width=3D"1" sty=
+le=3D"margin-right: auto; margin-left: auto;" width=3D"32%">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+margin: 0px; padding: 0px 0px 33px;"><a href=3D"http://app.getresponse.com/=
+click.html?x=3Da62b&lc=3DhrE8a&mc=3DBY&s=3D24lC9&u=3DSX09&y=3DG&" target=3D=
+"_blank"><img src=3D"https://multimedia.getresponse.com/167/570167/photos/8=
+125102.jpg?img1395236851667" width=3D"175" height=3D"119" data-src=3D"https=
+://multimedia.getresponse.com/167/570167/photos/8125102.jpg|175|119|173|114=
+|0|0|1" data-origsrc=3D"https://multimedia.getresponse.com/167/570167/photo=
+s/8124902.jpg" style=3D"border: 0px none transparent; display: block;"></a>=
+</td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </tr>
+                <tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"text" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+margin: 0px; padding: 10px 22px 38px 37px; font-family: Trebuchet, 'Trebuch=
+et MS', Arial, Helvetica, sans-serif; color: rgb(83, 83, 83); line-height: =
+1.45;"><div style=3D""><font size=3D"13" style=3D"font-size: 13px;">If you'=
+d like a copy of the presentation, a recorded audio of the workshop, articl=
+es and statistics, or would simply like to brainstorm with us, simply compl=
+ete the form and we will email information next week. <a href=3D"http://app=
+.getresponse.com/click.html?x=3Da62b&lc=3DhrEUP&mc=3DBY&s=3D24lC9&u=3DSX09&=
+y=3Dx&" target=3D"_blank" title=3D"">Click Here.</a></font></div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr><tr>
+                    <td align=3D"left" valign=3D"top" style=3D"margin:0;pad=
+ding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"text" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td valign=3D"top" align=3D"left" style=3D"=
+margin: 0px; padding: 10px 22px 38px 37px; font-family: Trebuchet, 'Trebuch=
+et MS', Arial, Helvetica, sans-serif; color: rgb(83, 83, 83); line-height: =
+1.55;"><div style=3D""><font size=3D"13" style=3D"font-size: 13px;">Katheri=
+ne Defensor<br>Marketing Manager<br>Guide by Cell<br>P: (415) 997-0219<br>w=
+ww.guidebycell.com<br><br>PS: Hit "reply" if you have a question or comment=
+, thanks!</font></div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr><tr>
+                    <td align=3D"center" valign=3D"top" style=3D"margin:0;p=
+adding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"line" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding: 10px 42px 10px 37px; margin: 0px;"><div style=3D"height:1px;li=
+ne-height:1px;border-top:1px solid #e4e4e4;">
+                                        <img src=3D"data:image/gif;base64,R=
+0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=3D=3D" alt=3D"" w=
+idth=3D"1" height=3D"1" style=3D"display:block;">
+                                    </div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"left" style=3D"padding:0;margin:0">
+                        <table align=3D"left" width=3D"100%" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"margin-right: auto; margin-left=
+: auto;">
+                            <tbody><tr>
+                                <td align=3D"left" valign=3D"top" style=3D"=
+padding:0;margin:0;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"margin:0;p=
+adding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%" data-editable=3D"line" style=3D"marg=
+in-right: auto; margin-left: auto;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"padding: 10px 42px 10px 37px; margin: 0px;"><div style=3D"height:1px;li=
+ne-height:1px;border-top:1px solid #e4e4e4;">
+                                        <img src=3D"data:image/gif;base64,R=
+0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=3D=3D" alt=3D"" w=
+idth=3D"1" height=3D"1" style=3D"display:block;">
+                                    </div></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"left" style=3D"margin: 0px; padding:0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"center" width=3D"100%">
+                            <tbody><tr>
+                                <td align=3D"left" width=3D"100%" style=3D"=
+margin: 0px; padding:0;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody><tfoot style=3D""><tr><td align=3D"center" style=3D"margin: 0px; pa=
+dding: 15px 0px; background-color: rgb(255, 255, 255);"><table cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center" border=3D"0" class=3D"wrapper" wi=
+dth=3D"550" style=3D"width: 550px;"><tbody><tr><td valign=3D"top" align=3D"=
+center"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" border=3D"0" class=3D"wrapper"><tr><td valign=3D"top" align=3D"cent=
+er" class=3D"column" width=3D"auto" style=3D"float: left; min-width: 320px;=
+ max-width: 100% !important; margin: 0px; padding: 0px;"><table border=3D"0=
+" align=3D"left" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"left"=
+ valign=3D"middle" style=3D"margin: 0; padding: 0 0 10px 0;"><span style=3D=
+"font-family: Arial, Helvetica, sans-serif;color: #939598;font-size: 10px;"=
+>300 Beale 608, San Francisco, CA 94105, United States</span></td></tr><tr>=
+<td align=3D"left" valign=3D"middle" style=3D"margin: 0; padding: 0;"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; color: #939598; font-s=
+ize: 10px;">You may <a href=3D"http://app.getresponse.com/me.html?x=3Da62b&=
+m=3DSw7R0&s=3D24lC9&u=3DSX09&y=3D3&" style=3D"color: #0985f5; text-decorati=
+on: underline;">unsubscribe</a> or <a href=3D"http://app.getresponse.com/me=
+.html?x=3Da62b&m=3DSw7R0&s=3D24lC9&u=3DSX09&y=3D3&" style=3D"color:#0985f5;=
+ text-decoration: underline;">change your contact details</a> at any time.<=
+/span></td></tr></table></td><td valign=3D"top" align=3D"center" class=3D"c=
+olumn" width=3D"150" style=3D"float: left; min-width: 100%; max-width: 100%=
+ !important; margin: 0px; padding: 15px 0px;"><table border=3D"0" align=3D"=
+right" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center" valign=
+=3D"top" style=3D"margin: 0; padding: 15px 0;"><a href=3D"http://app.getres=
+ponse.com/referral.html?x=3Da62b&u=3DSX09&y=3D9&"><br /><span style=3D"colo=
+r: #939598;">Powered by:</span><a href=3D"http://app.getresponse.com/referr=
+al.html?x=3Da62b&u=3DSX09&y=3D9&"><img src=3D"http://www.getresponse.com/im=
+ages/core/global/_external/emails/system/badges/gr_logo.gif" alt=3D"GetResp=
+onse" border=3D"0" style=3D"display:block;" width=3D"101" height=3D"33"/></=
+a></a></td></tr></table></td></tr></table></td></tr></tbody></table></td></=
+tr></tfoot></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></body>
+</html><img src=3D"http://app.getresponse.com/open.html?x=3Da62b&m=3DSw7R0&=
+mc=3DBY&s=3D24lC9&u=3DSX09&y=3De&" width=3D"0" height=3D"0" border=3D"0" al=
+t=3D"open" />=
+

@@ -1,0 +1,141 @@
+/* ** ---------------------------------------------------------- */
+/* here is the splash slider on the home page */
+#splash {
+	width:929px;
+	background:#fff;
+	overflow:hidden;
+	margin: 0px 0px 0px 0px;
+	}
+#slide_wrapper {
+	width:928px;
+	overflow:hidden;
+	height:294px;
+	position:relative;
+	}
+#splash_slider {
+	width:3712px;
+	height:294px;
+	position:absolute;
+	top:0;
+	left:0;
+	}
+#splash_slider .slide {
+	width:928px;
+	height:294px;
+	position:relative;
+	float:left;
+	background-image: url(../images/4.jpg);
+	}
+#splash_slider .slide .message {
+	position:absolute;
+	bottom:46px;
+	left:278px;
+	min-height:183px;
+	width:648px;
+	}
+#splash_slider .slide .message a {
+	display:block;
+	text-decoration:none;
+	}
+#splash_slider .message .inner_wrapper {
+	min-height:156px;
+	padding:15px 0;
+	width:650px;
+	background:url(../images/mission_statement_bg.png) repeat-y;
+	}
+#splash_slider .message h1 {
+	display:block;
+	margin:0 0 0 40px;
+	}
+#slide_we_believe .message h1 span {
+	display:block;
+	width:320px;
+	height:50px;
+	margin:0 0 10px 0;
+	background:url('../images/we_believe.png') 0 0 no-repeat;
+	text-indent:-9999px;
+	}	
+#slide_we_strive .message h1 span {
+	display:block;
+	width:320px;
+	height:50px;
+	margin:0 0 10px 0;
+	background:url('../images/we_strive.png') 0 0 no-repeat;
+	text-indent:-9999px;
+	}	
+#slide_we_work_hard .message h1 span {
+	display:block;
+	width:320px;
+	height:50px;
+	margin:0 0 10px 0;
+	background:url('../images/we_help.png') 0 0 no-repeat;
+	text-indent:-9999px;
+	}		
+#slide_we_need_you .message h1 span {
+	display:block;
+	width:283px;
+	height:50px;
+	margin:0 0 10px 0;
+	background:url('../images/we_need.png') 0 0 no-repeat;
+	text-indent:-9999px;
+	}	
+	
+
+	
+#splash_slider .slide .message h1 em {
+	display:block;
+	margin:0 0 0 3px;
+	font-style:italic;
+	color:#FF0000;
+	font-family:georgia, times, serif;
+	font-size:18px;
+	font-weight:normal;
+	}
+#splash_slider .slide .message h2 {
+	color:#fff;
+	font-weight:normal;
+	font-size:16px;
+	line-height:22px;
+	margin:10px 30px 0 44px;
+	}
+#splash_slider .slide .message h2 span {
+	color:#51ceef;
+	}
+#splash_slider .slide .message a:hover h2 span {
+	border-bottom:1px dotted #51ceef;
+	}
+
+	
+/* ** ---------------------------------------------------------- */
+/* this is the splash slider navigation on the home page */
+#splash_nav {
+	height:37px;
+	width:928px;
+	background:#0a074e;
+	}
+#splash_nav li {
+	float:left;
+	width:232px;
+	}
+#splash_nav li a {
+	display:block;
+	width:232px;
+	height:33px;
+	text-align:center;
+	line-height:33px;
+	color:#fff;
+	font-size:14px;
+	text-decoration:none;
+	border:1px solid #ffffff;
+	}
+#splash_nav li a:hover {
+	background:#ac2101;
+	border-color:#e59d8d;
+	}
+#splash_nav li a.active {
+	background:#ac2101;
+	border-color:#FFFFFF;
+	}
+	
+/* ** ---------------------------------------------------------- */
+/* this ends the splash slider and begins the program slider on the home page */

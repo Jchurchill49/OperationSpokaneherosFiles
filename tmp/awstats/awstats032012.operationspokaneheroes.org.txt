@@ -1,0 +1,1027 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201203 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2695                
+POS_VISITOR 27474               
+POS_DAY 33223               
+POS_DOMAIN 3564                
+POS_LOGIN 3962                
+POS_ROBOT 4117                
+POS_WORMS 4639                
+POS_EMAILSENDER 4770                
+POS_EMAILRECEIVER 4913                
+POS_SESSION 34056               
+POS_SIDER 34258               
+POS_FILETYPES 5048                
+POS_DOWNLOADS 5255                
+POS_OS 5849                
+POS_BROWSER 6033                
+POS_SCREENSIZE 6702                
+POS_UNKNOWNREFERER 6776                
+POS_UNKNOWNREFERERBROWSER 7647                
+POS_ORIGIN 8180                
+POS_SEREFERRALS 8325                
+POS_PAGEREFS 8510                
+POS_SEARCHWORDS 8876                
+POS_KEYWORDS 9315                
+POS_MISC 2359                
+POS_ERRORS 9573                
+POS_CLUSTER 3818                
+POS_SIDER_404 9672                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120401021629 17 2179 46217217970
+FirstTime 20120301011719
+LastTime 20120331235906
+LastUpdate 20120401180412 17 0 16 0 0
+TotalVisits 144                 
+TotalUnique 113                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 156                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 106 10558773 325 395 8089601
+1 9 41 1490588 30 59 1833920
+2 13 19 5036283 35 71 5636641
+3 12 44 2660793 28 65 2212387
+4 3 3 24121 41 81 10123744
+5 20 63 2749917 31 77 6874857
+6 21 21 202895 33 75 1805293
+7 3 4 247461 37 79 439612
+8 1 2 16035 24 44 145828
+9 7 19 1926286 22 51 3741634
+10 6 71 2877375 39 80 552333
+11 25 121 4417351 33 87 1941216
+12 46 172 6039683 38 87 1989203
+13 31 139 12650322 23 96 139897
+14 54 353 16730057 53 149 646215
+15 66 404 13899852 56 131 858303
+16 85 308 13263982 30 165 540636
+17 20 116 9202068 68 132 1820004
+18 55 285 17236443 48 128 3977732
+19 17 83 12457363 31 90 6966544
+20 41 102 4704537 36 94 347368
+21 73 402 19717869 70 163 589095
+22 19 148 9919858 372 429 1604694
+23 12 55 1959091 65 105 2175724
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 563 2939 147488036
+de 23 23 238673
+nl 14 14 127835
+ro 11 19 558591
+pt 10 10 88055
+tw 10 10 88055
+th 10 10 88055
+cn 8 8 82304
+ca 5 36 1445636
+jp 2 10 5457740
+ie 1 1 10288
+cz 1 1 10288
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+msnbot 234 2276001 20120331221604 0
+googlebot 184 43083665 20120331173303 0
+bot[\s_+:,\.\;\/\\-] 161 16331115 20120331072408 0
+spider 146 1863865 20120331200418 0
+robot 25 203635 20120326164930 0
+[\s_+:,\.\;\/\\-]bot 19 413660 20120331164229 0
+crawl 9 96767 20120313211938 0
+no_user_agent 5 41152 20120329021409 0
+msnbot\-media 3 246705 20120322173427 0
+discovery 2 20576 20120326061922 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 416 1785844 0 0
+php 428 2864964 0 0
+png 961 18873874 0 0
+html 230 2028657 0 0
+jpg 712 55955900 0 0
+js 299 16524093 0 0
+pdf 35 57650224 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 9
+/pdf/pearl%20harbor_map.pdf 21 44 44468685
+/pdf/OSH%20Freedom%20Fridays%20Flyer%20w-back.pdf 16 47 20100098
+/pdf/REVISION2%20Military%20Kids%20Camp%202012%20(2).pdf 7 9 13393716
+/pdf/OSH%20Freedom%20Fridays%20Sign%20Up%20Sheet.pdf 7 0 1192226
+/pdf/MCL%20Breakfast%20-%20March%202012.pdf 7 0 25040071
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 1 0 122888
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 1 0 711726
+/pdf/osh_show.pdf 1 0 6794939
+/pdf/Holiday%20Navy%20Care%20Packages%20Media%20Advisory.pdf 0 1 40961
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 146
+blackberry 38
+winxp 983
+winlong 161
+java 19
+winnt 1
+linuxubuntu 10
+linux 3
+win7 1020
+macosx 580
+winme 2
+win2003 94
+Unknown 125
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+firefox3.6.24 9
+msie6.0 57
+chrome17.0.963.78 40
+firefox4.0.1 4
+firefox3.6 2
+firefox10.0 70
+android 146
+opera9.61 1
+curl 1
+chrome12.0.742.112 42
+chrome17.0.963.79 6
+opera9.63 1
+links 9
+safari5.0.2 34
+msie8.0 697
+iphone 139
+firefox6.0.2 2
+safari6.0.0.600 36
+msie7.0 211
+firefox9.0.1 73
+chrome17.0.963.83 50
+wget 6
+msie9.0 527
+Unknown 124
+firefox11.0 149
+safari5.1.3 29
+firefox3.0.18 1
+blackberry 2
+chrome17.0.963.56 39
+libwww 1
+firefox10.0.1 25
+safari5.1.4 137
+firefox7.0.1 12
+firefox1.0.7 2
+mozilla 5
+chrome16.0.912.77 1
+firefox5.0.1 1
+safari5.1 155
+firefox8.0.1 4
+firefox10.0.2 291
+firefox3.0.19 40
+chrome0.4.154.29 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20120313173537
+\ 20120301065632
+EC2LinkFinder 20120324121922
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20120313061042
+findlinks/2.0.2_(_http://wortschatz.uni-leipzig.de/findlinks/) 20120331133120
+Jakarta_Commons-HttpClient/3.1 20120313094912
+libwww-perl/5.829 20120303004540
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120331235906
+findlinks/2.0.1_(_http://wortschatz.uni-leipzig.de/findlinks/) 20120330122632
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120330100824
+Summify_(Summify/1.0.1;__http://summify.com) 20120313211720
+Mozilla/4.0_(compatible;) 20120323205512
+Wget/1.9_cvs-stable_(Red_Hat_modified) 20120326172717
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Jakarta_Commons-HttpClient/3.1 20120313094912
+\ 20120301065632
+EC2LinkFinder 20120324121922
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120331235906
+Java/1.6.0_22 20120315155648
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20120313061042
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120330100824
+Summify_(Summify/1.0.1;__http://summify.com) 20120313211720
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 214 413
+From1 14 14
+From2 34 37
+From3 13 13
+From4 383 2705
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 28 31
+bing 2 2
+live 1 1
+yahoo 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.facebook.com/l.php 6 6
+http://m.facebook.com/l.php 2 2
+http://www.facebook.com 2 2
+http://test31337.com 1 1
+http://www.swagbucks.com 1 1
+http://www.launchpadinw.com/group/operationspokaneheroescommittee 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 10
+operation+spokane+heroes 11
+http+//www.operationspokaneheroes.org/ 5
+operationspokaneheroes.org 2
+operation+spokane+heores 1
+operation+hero+spokane 1
+operaation+spokane+hero 1
+spokane+heroes+in+spokane 1
+heros+over+spokane 1
+spokane+operation+hereos 1
+www.opertationspokaneheroes.org 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 14
+spokane 18
+operation 14
+heroes 12
+//www.operationspokaneheroes.org/ 5
+http 5
+hero 2
+operationspokaneheroes.org 2
+over 1
+heros 1
+operaation 1
+in 1
+hereos 1
+heores 1
+www.opertationspokaneheroes.org 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 3 475340
+404 2039 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 452
+/pdf/Internation%20Ministries%20for%20Vets%20by%20Vets%20July%2029%20to%2031%202011%20001.pdf 3 -
+//phpdb/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-pl1/index.php 2 -
+/events/vet_picnic/images/6.jpg 1 -
+//sqlweb/scripts/setup.php 2 -
+//%0D/scripts/setup.php 2 -
+/events/lilac_parade/images/2.jpg 1 -
+/images/barbg.gif 1 -
+/js/:this.idOrName(element),generated:true}).addClass(this.settings.errorClass).html(message|| 1 -
+/js/,f) 1 -
+//phpMyAdmin3/scripts/setup.php 2 -
+//phpMyAdmin-2.11.1/scripts/setup.php 2 -
+/images/raceway.jpg 1 -
+//dbAdmin2/scripts/setup.php 2 -
+//phpMyAdmin-3.0.1.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0-pl2/scripts/setup.php 2 -
+//cpadmin/scripts/setup.php 2 -
+/js/)j.html(e 1 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 2 -
+/images/pointman.JPG 1 -
+//phpMyAdmin-2.6.4-pl2/scripts/setup.php 2 -
+/images/camp.jpg 1 -
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 2 -
+//phpmanager/scripts/setup.php 2 -
+//bkup/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0-pl1/scripts/setup.php 2 -
+/_inc/n/a 1 -
+//PMA/scripts/setup.php 2 -
+//phpMyAdmin-2.9.1/scripts/setup.php 2 -
+/images/osh_logo.jpg 22 -
+/contact/0 1 -
+/js/bebas_400.font.js 3 http://operationspokaneheroes.org/js/bebas_400.font.js
+/join/ 15 -
+/fckeditor/editor/images/anchor.gif 1 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 2 -
+//81/phpmyadmin/scripts/setup.php 2 -
+//admn/scripts/setup.php 2 -
+//phpmyadmin1/scripts/setup.php 2 -
+//phpadmin/index.php 2 -
+//phpMyAdmin-2.5.5/index.php 2 -
+//xampp/phpmyadmin/index.php 3 -
+//webdb/scripts/setup.php 2 -
+/text/plain 1 -
+//admm/scripts/setup.php 2 -
+/frameset 1 -
+//phpMyAdmin-2.7.0-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.7.6/scripts/setup.php 2 -
+//_admin/scripts/setup.php 2 -
+/wp-login.php 1 -
+//backup/phpmyadmin/scripts/setup.php 2 -
+http://operationspokaneheroes.org/robots.txt 1 -
+/events/lilac_parade/images/1.jpg 1 -
+//phpMyAdmin-2.4.6/scripts/setup.php 2 -
+//phpMyAdmin-2.8.9/scripts/setup.php 2 -
+//phpMyAdmin/%0D/scripts/setup.php 2 -
+//bbs/data/scripts/setup.php 2 -
+/events/lilac_parade/images/3.jpg 1 -
+/_inc/application/javascript 1 -
+/_inc/text/xml 1 -
+//phpMyAdmin-2.5.2/scripts/setup.php 2 -
+//webadmin/scripts/setup.php 2 -
+/_inc/multipart/form-data 1 -
+//phpMyAdmin-2.11.9.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.5.1/scripts/setup.php 2 -
+//phpMyAdmin-2.7.9/scripts/setup.php 2 -
+/text/css 1 -
+//phpMyAdmin-2.3.7/scripts/setup.php 2 -
+/employers.php 23 -
+/events/care_package/images/1.jpg 1 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 2 -
+//databaseadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.4.0/scripts/setup.php 2 -
+//phpMyAdmin-3/scripts/setup.php 2 -
+//admin/pma/scripts/setup.php 2 -
+//pma2/scripts/setup.php 2 -
+/assets/images/btn_top_search.png 1 -
+/donation.php 2 -
+//phpMyAdmin-2.6.0/scripts/setup.php 2 -
+//phpMyAdmin-2.11.10/scripts/setup.php 2 -
+//pma2005/scripts/setup.php 2 -
+/pdf/t4tspaghetti2010.pdf 2 -
+//phpmyadmin/index.php 5 -
+//cpanelmysql/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc1/scripts/setup.php 2 -
+//backup/phpMyAdmin/scripts/setup.php 2 -
+/assets/images/btn_main_search.png 1 -
+/pdf/veteran_benefits.pdf 5 -
+//phpMyAdmin-2.7.3/scripts/setup.php 2 -
+//pma2009/scripts/setup.php 2 -
+/pdf/United%20We%20Stand%20American%20Legion%20Riders.pdf 1 -
+/pdf/Invite%20for%20vets%20listening%20session%20%28mm%20edits%29.pdf 4 -
+//administrator/components/com_joommyadmin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8.0-english/scripts/setup.php 2 -
+//sl2/data/scripts/setup.php 2 -
+/assets/images/btn_top_search_hover.png 178 http://operationspokaneheroes.org/_inc/slide.php
+//phpmyadmin/%0D/scripts/setup.php 2 -
+/pdf/Invite%20for%20vets%20listening%20session%20(mm%20edits).pdf 2 -
+//Admin/scripts/setup.php 2 -
+//admin/mysql/scripts/setup.php 2 -
+//forum/phpmyadmin/scripts/setup.php 2 -
+/application/x-www-form-urlencoded 1 -
+//phpMyAdmin-2.6.2/scripts/setup.php 2 -
+//admin/phpmyadmin/index.php 3 -
+//mysql/index.php 2 -
+//phpMyAdmin-2.4.5/scripts/setup.php 2 -
+//pma3/scripts/setup.php 2 -
+//phpMyAdmin-2.11.5.0-all-languages/scripts/setup.php 2 -
+/robots.txt 545 http://operationspokaneheroes.org/robots.txt
+/pdf/CarrouselPoster.pdf 7 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 2 -
+//php-myadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.3-english/scripts/setup.php 2 -
+//phpMyAdmin-2.7.8/scripts/setup.php 2 -
+//adminmysql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.1-english/scripts/setup.php 2 -
+//_pHpMyAdMiN/scripts/setup.php 2 -
+//phpMyAdmin-2.11.6.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-3.1.3.0-english/scripts/setup.php 2 -
+/events/bbq/va_bbq.html 9 -
+//PHPMYADMIN/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc1/scripts/setup.php 2 -
+//_PHPMYADMIN/scripts/setup.php 2 -
+//phpMyAdmi/scripts/setup.php 2 -
+//sql/scripts/setup.php 2 -
+//php-my-admin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8/scripts/setup.php 2 -
+/events/lilac_parade/images/4.jpg 1 -
+//phpMyAdmin-2.5.9/scripts/setup.php 2 -
+//libs/scripts/setup.php 2 -
+/events/vet_picnic/vet_picnic.html 11 -
+//phpMyAdmin-2.7.1/scripts/setup.php 2 -
+/events/care_package/images/2.jpg 1 -
+/java_for_joes/java_for_joes_flyer2.pdf 3 -
+//phpMyAdmin-2.8.0-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8.0-all-languages/scripts/setup.php 2 -
+//phpmyadmin3/scripts/setup.php 2 -
+//pHpMyAdMiN/scripts/setup.php 2 -
+//phpMyAdmin-2.4.3/scripts/setup.php 2 -
+//phpMyAdmin-2.3.5/scripts/setup.php 2 -
+/_inc/line- 2 -
+/pdf/9-11%20Coin%20order%20form.pdf 1 -
+//phpMyAdmin-2.11.7/scripts/setup.php 2 -
+//phpMyAdmin-2.8.5/scripts/setup.php 2 -
+//MySQLAdmin/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6/index.php 2 -
+//phpMyAdmin-2.2.3/scripts/setup.php 2 -
+//phpMyAdmin-2.5.7-pl1/scripts/setup.php 2 -
+/images/backtoschool.jpg 1 -
+/pdf/wreath_across_america.pdf 10 -
+//_phpMyAdmin/scripts/setup.php 2 -
+//admin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.3-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc1/index.php 2 -
+/images/bodybg.gif 2 -
+//cpanelsql/scripts/setup.php 2 -
+//phpMyAdmin-2.3.4/scripts/setup.php 2 -
+//phpmy-admin/scripts/setup.php 2 -
+//p/m/a/scripts/setup.php 2 -
+/checkbox/ 1 -
+/text 1 -
+/a 1 -
+//cpanelphpmyadmin/scripts/setup.php 2 -
+//phpmy/scripts/setup.php 2 -
+/featured-content-slider/event_mages/image2.jpg 1 -
+//phpMyAdmin-2.11.5.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.5.3/scripts/setup.php 2 -
+//phpMyAdmin-2.7.5/scripts/setup.php 2 -
+//Admin/phpmyadmin/scripts/setup.php 2 -
+/js/).html(unescape($c.find( 1 -
+//phpMyAdmin-2.5.7-pl1/index.php 2 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-pl1/scripts/setup.php 2 -
+//phpMyAdmin-2.5.7/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0/scripts/setup.php 2 -
+//phpMyAdmin-4/scripts/setup.php 2 -
+//phpMyAds/scripts/setup.php 2 -
+/js/)&&label.html(message) 1 -
+//phpMyAdmin-2.5.5-rc2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 2 -
+//mysqladminconfig/scripts/setup.php 2 -
+//phpMyAdmin-2.6.8/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.2-english/scripts/setup.php 2 -
+//phpMyAdmin-3.1.1.0-all-languages/scripts/setup.php 2 -
+//pHpMy/scripts/setup.php 2 -
+/-c/2 1 -
+/events/lilac_parade/images/6.jpg 1 -
+//phpMyAdmin-2.11.11-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.8.3/scripts/setup.php 2 -
+//php/scripts/setup.php 2 -
+//phpMyAdmin-2.5.4/scripts/setup.php 2 -
+/featured-content-slider/event_mages/image3.jpg 1 -
+//dbg/scripts/setup.php 2 -
+//cpdbadmin/scripts/setup.php 2 -
+/benefits.php 21 -
+/text/xml 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 2 -
+/business_discount.php 24 -
+/images/campfire.jpg 2 http://operationspokaneheroes.org/slider.html
+/c/2 1 -
+//phpMyAdmin-2.5.6-rc2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-pl3/scripts/setup.php 2 -
+//phpMyAdmin-3.1.0.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.2.3/index.php 2 -
+/assets/images/mastheadbg.png 1 http://operationspokaneheroes.org/
+//phpMyAdmin-3.1.2.0-english/scripts/setup.php 2 -
+/events/lilac_parade/images/rightarrow.png 1 -
+/events/care_package/images/7.jpg 1 -
+//phpMyAdmin-3.0.1.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.6.6/scripts/setup.php 2 -
+/events/care_package/care.html 7 -
+/images/veterans.jpg 1 -
+//phpMyAdmin-2.6.4-pl4/scripts/setup.php 2 -
+/application/javascript 1 -
+//websql/index.php 2 -
+//PMA2/scripts/setup.php 2 -
+//wp-phpmyadmin/scripts/setup.php 2 -
+/mission.php 17 -
+//db/index.php 2 -
+//phpMyAdmin-2.11.5/scripts/setup.php 2 -
+/pdf/NWMSGrandPrix2011FLYER.pdf 13 http://www.greaterspokane.org/community-overview/78-military.html
+//admin/phpMyAmdin/scripts/setup.php 2 -
+//phpmyad/scripts/setup.php 2 -
+//phpMyAdmin-2.3.2/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc2/index.php 2 -
+/js/'+s.src+' 1 -
+//phpMyAdmin-2.4.1/scripts/setup.php 2 -
+//phpMyAdmin-2.8.4/scripts/setup.php 2 -
+//web/phpMyAdmin/index.php 3 -
+/images/records_logo.jpg 1 -
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-pl1/scripts/setup.php 2 -
+//myadmin/index.php 2 -
+//padmin/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 2 -
+//phpMyAdmin-2/scripts/setup.php 2 -
+//phpMyAdmin-2.4.2/scripts/setup.php 2 -
+//MyAdmin/scripts/setup.php 2 -
+/images/Melvin.jpg 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 2 -
+//phpMyAdmin-2.5.1/index.php 2 -
+/pdf/MCL%20Breakfast%20-%20February%202012.pdf 8 -
+//phpMyAdmin-2.2.6/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 2 -
+//phpMyAdmin/index.php 4 -
+//cpphpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.1-all-languages/scripts/setup.php 2 -
+//web/index.php 3 -
+/js/]} 1 -
+//phpMyAdmin-2.7.0-beta1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 2 -
+//admin/pma/index.php 3 -
+//phpMyAdmin-3.0.0.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin/%20/scripts/setup.php 2 -
+//database/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 2 -
+/events/vet_picnic/images/5.jpg 1 -
+/js/).html(options.highlight(formatted,term)).addClass(i%2==0 1 -
+//pma/index.php 2 -
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 14 -
+//phpMyAdmin-2.11.9.4-all-languages/scripts/setup.php 2 -
+/java_for_joes/press_release.pdf 2 -
+//phpMyAdmin-2.11.3-all-languages/scripts/setup.php 2 -
+/pdf/OSH%20Gift%20Cards%202011%20Media%20Advisory.pdf 8 -
+/events/care_package/images/4.jpg 1 -
+/images/boxtop.gif 1 -
+//pmadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0/scripts/setup.php 2 -
+//phpMyAdmin-2.11.6.0-english/scripts/setup.php 2 -
+//phpMyAdmin-3.1.1.0-english/scripts/setup.php 2 -
+//mysql-admin/scripts/setup.php 2 -
+//phpmyadmin.old/scripts/setup.php 2 -
+//phpMyAdmin-2.6.9/scripts/setup.php 2 -
+/_inc/text/html 1 -
+//phpm/scripts/setup.php 2 -
+//phpMyAdmin-3.1.3.0-all-languages/scripts/setup.php 2 -
+//web/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.3.6/scripts/setup.php 2 -
+/java_for_joes/index.html 57 -
+//phpMyAdmin-2.4.8/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.1-all-languages/scripts/setup.php 2 -
+/and/or 1 -
+//htdocs/scripts/setup.php 2 -
+//phpMyAdmin-2.6.3-rc1/scripts/setup.php 2 -
+//pma/scripts/setup.php 2 -
+//bkup/phpMyAdmin/scripts/setup.php 2 -
+//wp-content/plugins/wp-phpmyadmin/wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-rc1/scripts/setup.php 2 -
+//phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.8.2/scripts/setup.php 2 -
+/events/lilac_parade/lilac_parade.html 6 -
+//phpMyAdmin-2.6.5/scripts/setup.php 2 -
+//pma/%20/scripts/setup.php 2 -
+/js/'+opts.iframeSrc+' 1 -
+//phpMyAdmin-2.8.6/scripts/setup.php 2 -
+/featured-content-slider/event_mages/image1.jpg 1 -
+/admin/fckeditor/editor/images/anchor.gif 1 -
+//phpMyA/scripts/setup.php 2 -
+/FCKeditor/editor/images/anchor.gif 4 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 2 -
+//mysqladmin/scripts/setup.php 2 -
+//mysqladmin/index.php 2 -
+//SSLMySQLAdmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.2/scripts/setup.php 2 -
+//phpMyAdmin-2.11.4.0-english/scripts/setup.php 2 -
+//sql/phpmyadmin/scripts/setup.php 2 -
+/images/Christmas-Carrousel-Flyer2011.jpg 1 -
+//sqladmin/scripts/setup.php 2 -
+/select 1 -
+//myadmin/scripts/setup.php 2 -
+//phpmyadmin1/index.php 2 -
+//phpMyAdmin-2.6.3-pl1/scripts/setup.php 2 -
+/line- 1 -
+/images/gboxtop.gif 1 -
+/_inc/text/plain 1 -
+//phpAdmin/scripts/setup.php 2 -
+//dbadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.7.4/scripts/setup.php 2 -
+//~/phpmanager/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.0-english/scripts/setup.php 2 -
+//phpmyadmin2/index.php 3 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 2 -
+/pdf/The%20new%20address%20for%20the%20National%20Personnel%20Records%20Center%20is.pdf 5 -
+//phpMyAdmin-2.11.3/scripts/setup.php 2 -
+//typo3/phpmyadmin/index.php 3 -
+//phpMyAdmin-2.5.6-rc1/index.php 2 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 2 -
+/_inc/text/javascript 1 -
+//phpMyAdmin-2/index.php 2 -
+//phpMyAdmin-2.6.4/scripts/setup.php 2 -
+/assets/images/ 1 -
+//phpMyAdmin-2.7.2/scripts/setup.php 2 -
+//phpMyAdmin-2.8.7/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-alpha/scripts/setup.php 2 -
+//phpMyAdmin-2.3.9/scripts/setup.php 2 -
+//admin/index.php 3 -
+//mysqlmanager/scripts/setup.php 2 -
+/assets/images/btn_main_search_hover.png 178 http://operationspokaneheroes.org/_inc/slide.php
+//phpMyAdmin-2.11.9.0-all-languages/scripts/setup.php 2 -
+//scripts/setup.php 2 -
+/_inc/checkbox/ 1 -
+//phpMyAdmin-2.11.8.1-all-languages-utf-8-only/scripts/setup.php 2 -
+/pdf/Christmas%20Carrousel%20Flyer2011.pdf 4 -
+//PMA3/scripts/setup.php 2 -
+//phpMyAdmin-2.8.1/scripts/setup.php 2 -
+//pMA/scripts/setup.php 2 -
+//phpMyAdmin-2.11.4/scripts/setup.php 2 -
+/images/wreaths.jpg 1 -
+//phpmya/scripts/setup.php 2 -
+//phpMyAdmin-3.0.0-rc1-english/scripts/setup.php 2 -
+//phpMyAdmin-2.3.0/scripts/setup.php 2 -
+//phpadmin/scripts/setup.php 2 -
+/events/bbq/images/6.jpg 2 -
+//phpMyAdmin-2.4.7/scripts/setup.php 2 -
+//phpMyAdmin-2.11.1-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.10.0/scripts/setup.php 2 -
+//apache-default/phpmyadmin/scripts/setup.php 2 -
+//httpdocs/scripts/setup.php 2 -
+/events/oif/oif.html 3 -
+//phpMyAdmin-2.3.1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.7/scripts/setup.php 2 -
+//cpadmindb/scripts/setup.php 2 -
+//PMA2005/scripts/setup.php 2 -
+//phpMyAdmin-2.3.3/scripts/setup.php 2 -
+//phpMyAdmin-2.3.8/scripts/setup.php 2 -
+//phpMyAdmin1/scripts/setup.php 2 -
+/pdf/174 1 -
+//phpMyAdmin-2.7.7/scripts/setup.php 2 -
+//wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+/images/Circle_Consumer_Sticker_Largesd.jpg 1 -
+//admin/sql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.5.7/index.php 2 -
+//phpMyAdmin2/scripts/setup.php 2 -
+//sql/phpMyAdmin/scripts/setup.php 2 -
+/js/).show().html(unescape($c.attr( 1 -
+//web/scripts/setup.php 2 -
+//roundcube/scripts/setup.php 2 -
+//phpMyAdmin-2.8.8/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.2-all-languages/scripts/setup.php 2 -
+/text/html 1 -
+//sqlmanager/scripts/setup.php 2 -
+/images/box.gif 1 -
+//phpMyAdmin-2.11.6/scripts/setup.php 2 -
+//phpMyAdmin-2.5.8/scripts/setup.php 2 -
+//SQL/scripts/setup.php 2 -
+//websql/scripts/setup.php 2 -
+//mydatadmin/scripts/setup.php 2 -
+/text/javascript 1 -
+//phpmyadmin2/scripts/setup.php 2 -
+//phpMyAdmin-3.1.2.0-all-languages/scripts/setup.php 2 -
+//dbadmin/index.php 2 -
+/pdf/Cellphones%20for%20Soldiers%20press%20release.pdf 19 http://www.google.com/search
+/events/lilac_parade/images/leftarrow.png 1 -
+//vhcs2/tools/pma/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5/scripts/setup.php 2 -
+//xampp/phpmyadmin/scripts/setup.php 2 -
+//php-my-admin/index.php 4 -
+//phpMyAdmin-2.11.9.5-all-languages/scripts/setup.php 2 -
+/events/care_package/images/3.jpg 1 -
+/images/fair.jpg 1 -
+//Admin/phpMyAdmin/scripts/setup.php 2 -
+/pdf/Veterans%20Day%202011%20-%20Flyer.pdf 1 -
+//_phpmyadmin/scripts/setup.php 2 -
+/wedo.php 17 -
+/events/care_package/images/6.jpg 1 -
+/muieblackcat 4 -
+/images/breakfast.jpg 2 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 2 -
+//blog/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 2 -
+//db/scripts/setup.php 2 -
+//phpMyAdmin-2.5.4/index.php 2 -
+/events/ermy_event/ermy.html 11 -
+//phpMyAdmin-3.0.0.0-english/scripts/setup.php 2 -
+//php/phpmyadmin/scripts/setup.php 2 -
+//3rdparty/phpMyAdmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.1-english/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.4-english/scripts/setup.php 2 -
+/join 1 -
+/_inc/application/x-www-form-urlencoded 1 -
+//phpMyAdmin-2.6.3/scripts/setup.php 2 -
+/style.css 2 -
+//phpMyAdmin-2.11.4.0-all-languages/scripts/setup.php 2 -
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 15 -
+/images/coins.jpg 1 -
+//PMA2009/scripts/setup.php 2 -
+/events/lilac_lunch/lilac_lunch.html 1 -
+//phpMyAdmin-2.5.0/scripts/setup.php 2 -
+//admin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc2/index.php 2 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc1config/scripts/setup.php 2 -
+/featured-content-slider/featured-content-slider/style.css 1 http://operationspokaneheroes.org/_inc/upcoming.php
+//typo3/phpmyadmin/scripts/setup.php 2 -
+/images/united.jpg 1 -
+//phpMyAdmin-2.2.6/index.php 2 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 2 -
+//phpmyad-sys/scripts/setup.php 2 -
+//phpMyAdmin-2.4.9/scripts/setup.php 2 -
+//mysql/scripts/setup.php 2 -
+//phpMyAdmin/scripts/setup.php 2 -
+/events/carousel_11/carousel_11.html 4 -
+/events/lilac_parade/images/5.jpg 1 -
+//phpMyAdmin-2.4.4/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9/scripts/setup.php 2 -
+//phpMyAdmin-2.9.2/scripts/setup.php 2 -
+//phpMyAdmin-3.1.0.0-english/scripts/setup.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 156
+98.247.90.77 35 284 5850352 20120329154415
+67.5.111.206 29 103 3808108 20120331051015
+98.247.87.214 28 254 13408150 20120322221028
+208.83.141.254 28 129 4700949 20120316181926
+76.28.216.85 19 115 7799651 20120319213403
+67.185.169.96 19 106 7544286 20120320001625
+70.96.168.194 18 50 1532368 20120323162310
+75.148.58.38 15 108 4333394 20120329151508
+24.19.37.98 15 46 1512398 20120319235753
+75.146.48.117 13 44 1501712 20120316164311
+98.142.42.2 13 42 1464576 20120301164513
+66.226.77.39 12 12 129293 20120307053858
+206.63.230.125 12 84 6256289 20120318150104
+98.247.57.211 12 54 2587138 20120321204059
+97.119.240.19 11 93 4483159 20120302154328
+69.58.178.57 11 11 98343 20120312023301
+92.82.226.241 11 19 558591 20120315155648
+193.126.233.66 10 10 88055 20120319185625
+50.22.11.32 10 10 88055 20120315063846
+198.239.178.118 10 42 1474535 20120326111700
+64.91.248.2 10 10 88055 20120313200154
+209.143.0.57 10 10 88055 20120316123639
+203.172.138.170 10 10 88055 20120320205801
+141.138.196.47 10 10 88055 20120314124719
+220.130.155.241 10 10 88055 20120315211540
+198.228.222.134 3 34 1430082 20120313101529
+50.19.37.21 0 1 226129 
+174.237.71.217 9 42 1630292 20120329141059
+207.46.12.29 0 1 1596009 
+67.185.202.175 0 6 3163907 
+65.61.126.1 3 34 1430082 20120322142542
+65.52.108.21 3 9 205241 20120325052931
+69.164.111.198 3 11 282202 20120320090700
+66.220.146.247 0 1 5737 
+69.171.228.249 0 6 69646 
+69.28.40.173 9 40 1471065 20120306214725
+143.231.249.137 0 6 3192018 
+69.28.44.183 3 47 3120404 20120313210839
+184.72.128.94 7 7 76191 20120316170322
+207.46.195.207 3 9 205241 20120325131623
+202.46.50.70 1 1 10288 20120329155032
+184.105.140.157 1 1 0 20120322092109
+69.171.234.4 0 3 237603 
+69.196.241.254 2 2 20576 20120313094912
+176.34.221.241 1 1 10288 20120309215937
+66.220.147.247 0 1 5737 
+69.171.224.246 0 1 5737 
+173.126.168.54 4 35 1440190 20120317013445
+188.138.113.146 1 1 10288 20120329212454
+69.171.228.248 0 5 28685 
+69.171.229.248 0 3 17211 
+66.220.147.245 0 1 5737 
+66.220.149.248 1 2 16025 20120313225530
+70.89.141.89 3 34 1430082 20120305171506
+69.171.234.6 0 4 22948 
+67.168.14.124 5 36 1443879 20120306012227
+74.217.36.97 4 35 1440370 20120317001425
+69.171.234.2 0 3 17211 
+97.134.29.160 1 1 3205 20120316114956
+107.60.196.40 3 34 1430082 20120313211016
+198.228.220.4 3 34 1430082 20120320182411
+66.220.147.248 0 1 4499 
+198.228.221.158 3 34 1430082 20120318183400
+69.171.224.248 0 3 17211 
+107.20.127.210 7 7 76191 20120324121922
+173.160.202.25 5 52 6904624 20120308190425
+72.94.249.38 1 1 10288 20120306035827
+69.171.242.244 1 1 10288 20120331235906
+74.82.64.144 0 8 483163 
+157.55.17.77 2 7 206135 20120310023720
+46.4.95.200 2 2 20576 20120302222622
+107.21.193.83 1 1 10288 20120314072847
+150.70.172.108 2 9 3766412 20120323130611
+74.125.156.80 1 1 10288 20120313061042
+157.55.112.242 1 1 3545 20120310041936
+64.235.157.234 1 1 10288 20120316114645
+67.168.116.105 7 38 1458275 20120328110450
+66.249.17.154 3 34 1430082 20120302182755
+208.90.56.152 4 4 32863 20120325034408
+69.171.224.250 0 1 5737 
+207.46.204.200 1 5 72018 20120328151104
+69.171.228.250 0 3 17211 
+139.18.2.209 5 5 53963 20120330122632
+69.171.229.246 0 1 5737 
+69.171.224.251 0 2 46698 
+98.232.118.0 3 35 2576490 20120314035554
+69.171.228.246 0 3 17211 
+74.82.64.160 0 6 211764 
+157.55.17.91 1 4 178641 20120312184827
+69.171.229.247 0 3 97531 
+69.171.229.244 0 1 5737 
+77.20.158.103 1 1 12791 20120315183340
+188.138.120.209 1 1 10288 20120320034825
+69.171.229.249 0 1 5737 
+108.59.2.201 1 1 10288 20120314092547
+173.202.195.112 0 1 1596009 
+24.16.101.28 5 27 1281181 20120315161628
+69.171.224.245 1 2 16025 20120317214405
+85.17.213.242 4 4 39780 20120320114006
+173.10.98.137 3 34 1430082 20120320152455
+69.171.234.5 0 2 11474 
+77.20.4.67 1 1 11446 20120326211437
+71.227.241.130 3 34 1430082 20120316120845
+207.46.12.112 2 7 203632 20120308230328
+66.220.146.250 0 1 5737 
+69.171.228.247 0 5 27952 
+69.171.228.251 0 1 5737 
+66.197.181.48 1 1 10288 20120307113535
+67.185.193.84 8 39 1467860 20120318145219
+69.171.224.244 0 1 5737 
+69.28.58.35 3 3 30864 20120326172717
+132.3.65.68 6 51 4944152 20120326183940
+66.220.149.246 0 2 46698 
+69.171.234.7 0 1 5737 
+64.120.183.213 1 1 10288 20120303150934
+205.143.53.1 3 36 2746808 20120307193313
+69.171.234.3 1 3 21762 20120324215952
+77.20.154.156 1 1 11446 20120331133120
+69.171.234.1 1 3 21762 20120306214527
+69.28.58.2 1 1 10288 20120325070641
+66.220.149.245 0 1 5737 
+69.171.228.244 0 3 17211 
+97.160.192.206 3 34 1430082 20120315192536
+66.220.147.244 0 1 5737 
+93.198.25.185 1 1 10288 20120304062107
+66.220.146.246 0 1 5737 
+198.1.40.116 5 37 3039584 20120313211627
+146.187.13.203 9 43 5905817 20120323130852
+69.171.229.245 0 3 17211 
+202.46.55.24 1 1 10288 20120329155031
+69.171.224.247 0 2 11474 
+69.28.58.33 1 1 10288 20120301033720
+66.228.171.110 1 1 10288 20120303004540
+66.220.147.251 0 1 5737 
+66.220.147.249 0 1 5737 
+1.202.218.8 6 6 61728 20120301065632
+150.70.75.29 0 1 1691328 
+69.76.9.141 3 34 1430082 20120313213043
+50.78.171.41 10 42 1472370 20120314153144
+69.28.58.9 1 1 10288 20120320014506
+109.206.176.240 1 1 10288 20120325234626
+141.116.212.32 5 36 1454319 20120321141351
+184.82.131.106 1 1 10288 20120316154045
+67.105.200.250 9 40 1473568 20120314120443
+38.100.21.21 10 16 114046 20120327163745
+157.55.112.243 2 7 204790 20120325051431
+207.46.12.70 1 1 756 20120311074740
+198.228.221.45 3 34 1430082 20120302162437
+85.25.95.90 9 9 87299 20120320192004
+24.19.159.85 9 40 1472822 20120328131136
+199.87.252.43 1 1 10288 20120313173537
+63.142.207.26 3 25 671005 20120328225932
+50.16.51.20 1 1 0 20120313211720
+62.75.229.85 1 1 10288 20120314092425
+74.82.68.160 5 22 750709 20120323172708
+70.57.162.40 3 34 1430082 20120317110522
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20120301 20 49 1536592 6
+20120302 32 215 11729611 5
+20120303 11 33 1424287 4
+20120304 1 1 10288 1
+20120305 3 34 1430082 1
+20120306 22 84 2998920 5
+20120307 24 123 5995996 6
+20120308 10 49 9841990 4
+20120309 1 1 10288 1
+20120310 13 49 1692191 4
+20120311 2 2 11054 2
+20120312 15 49 1707066 3
+20120313 52 416 19855493 15
+20120314 35 140 17099661 7
+20120315 40 103 3470229 6
+20120316 68 257 10790578 10
+20120317 9 72 2896585 4
+20120318 14 110 4345235 3
+20120319 39 136 11433701 5
+20120320 44 171 12469772 10
+20120321 9 62 2739828 2
+20120322 30 144 8162281 7
+20120323 40 211 17069797 5
+20120324 8 11 267899 2
+20120325 14 32 2264720 6
+20120326 18 90 7946569 4
+20120327 10 16 114046 1
+20120328 20 112 3697068 4
+20120329 43 265 4675712 7
+20120330 1 2 16025 1
+20120331 10 42 2285439 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 6
+2mn-5mn 8
+15mn-30mn 2
+30s-2mn 21
+0s-30s 105
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/_inc/slide.php 194 621770 3 52
+/ 137 1388700 117 41
+/slider.html 89 600177 1 18
+/aboutus.php 40 457840 5 2
+/business.php 38 402496 0 0
+/index.php 38 390944 4 3
+/contact.php 33 339834 5 2
+/calendar.php 32 335616 1 3
+/_inc/contact.php 28 21168 1 16
+/donate.php 22 281402 3 3
+http://www.OPERATIONSPOKANEHEROES.ORG/ 2 20071 2 0
+http://OPERATIONSPOKANEHEROES.ORG/ 2 19709 0 2
+/contact/contactengine.php 1 61 0 1
+/resources.php 1 10288 1 0
+/_inc/upcoming.php 1 3545 1 1
+END_SIDER

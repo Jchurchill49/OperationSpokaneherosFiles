@@ -1,0 +1,27 @@
+
+; <<>> DiG 9.3.6-P1-RedHat-9.3.6-16.P1.el5 <<>> @67.19.22.194 operationspokaneheroes.org TXT
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15465
+;; flags: qr aa rd; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;operationspokaneheroes.org.	IN	TXT
+
+;; ANSWER SECTION:
+operationspokaneheroes.org. 14400 IN	TXT	"v=spf1 a mx -all"
+
+;; AUTHORITY SECTION:
+operationspokaneheroes.org. 86400 IN	NS	ns2.xd33.com.
+operationspokaneheroes.org. 86400 IN	NS	ns1.xd33.com.
+
+;; ADDITIONAL SECTION:
+ns1.xd33.com.		14400	IN	A	67.19.22.194
+ns2.xd33.com.		14400	IN	A	67.19.22.195
+
+;; Query time: 0 msec
+;; SERVER: 67.19.22.194#53(67.19.22.194)
+;; WHEN: Sat Jun 11 15:20:29 2011
+;; MSG SIZE  rcvd: 149
+

@@ -1,0 +1,359 @@
+Return-path: <bounce@bmsend.com>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Tue, 02 Oct 2012 13:09:00 -0500
+Received: from benchmarkmails29.com ([38.107.205.109]:56323)
+	by arod.xd33.com with esmtp (Exim 4.77)
+	(envelope-from <bounce@bmsend.com>)
+	id 1TJ6tv-0007TL-P5
+	for bethann@operationspokaneheroes.org; Tue, 02 Oct 2012 13:09:00 -0500
+Received: from benchmarkmails29.com (benchmarkmails29.com [127.0.0.1])
+	by benchmarkmails29.com (Postfix) with ESMTP id 61A062AD660
+	for <bethann@operationspokaneheroes.org>; Tue,  2 Oct 2012 09:51:14 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=
+	guidebycell.com.bmsend.com; h=reply-to:list-unsubscribe:from
+	:sender:to:subject:date:mime-version:content-type; s=bmdeda; bh=
+	QfFetSgrx9I8OLWoe5xQRjk4s0c=; b=CIy4SSsbRAaLynJ5B+iYiH5RwzMUgiK7
+	ZLtxgR2Eli+Y2xf/i0d65pGxjm7cT8QT7XqEJzWXGL86ENQn2eWcWJ0K7dHxuugj
+	BpWnctPjJYeK9PK7jRPWpz5t7SDRI57Oz2iuKRKPIypPVTVGkZeRlp6N3j6oN+h7
+	dwAhCauF8FA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=guidebycell.com.bmsend.com;
+	 h=reply-to:list-unsubscribe:from:sender:to:subject:date
+	:mime-version:content-type; q=dns; s=bmdeda; b=Wulg9+WILdpiVADeq
+	ZV88WiPVTYnhe3TWliH8TcpJqdmPy9LL0r40s4YTYL0odlkQh3UHp/cRjoTlGNaj
+	8fCTZ/N7nKk3OeA/TawVQeR0D7JZsyUWxcAvIowQlpazZum6CFJ0WeVOOGC5lThH
+	t06WN1zJuYLet5ErhNIghgBRLc=
+Reply-To: marketing@givebycell.com
+X-Identify: <1654705_95247642@benchmarkemail.com>
+X-Mailer: 6, 5, 0, 3
+X-campaignid: 1654705
+MimeOLE: <Produced By Microsoft MimeOLE V6.00.2800.1165>
+RemoveEmail: unsubscribe.asp?g=0&c=1654705&l=95247642&e=bethann@operationspokaneheroes.org&ver=2&SentFromServer=38.107.205.109
+SentFromServer: 38.107.205.109
+Message-Info: <JGTYoYF78jHtqObOVWzB5PrEu5+x4SzP>
+List-Unsubscribe: <http://www.benchmarkemail.com/c/u?9tSN8Jgb1CaQkZixh3mdOAuHhmWdBR5vBHE54uoNl4Db7p%2FT0v%2BI8xM%2B3m9VIv36BZoJ5F8d2z9%2BPQALy89m3JjGAA6rwhdP>
+From: "Give by Cell" <marketing@givebycell.com>
+Sender: "Give by Cell" <marketing@guidebycell.com.bmsend.com>
+To: bethann@operationspokaneheroes.org
+Subject: Parks' Mobile App Integrates Fundraising Solution
+Date: Tue, 2 Oct 2012 14:08:54 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_2913219462480518854183"
+
+------=_NextPart_2913219462480518854183
+Content-type: text/plain; charset=ISO-8859-1
+
+
+Having trouble viewing this email? click here: http://visitor.benchmarkemail.com/c/v?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+You are receiving this email because of your relationship with Give by Cell. Please reconfirm your interest in receiving email from us.
+ Confirm URL :http://visitor.benchmarkemail.com/c/opt?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+  If you do not wish to receive any more emails, you can unsubscribe here
+http://visitor.benchmarkemail.com/c/u?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+[1]
+
+Parks Integrate Donations into Official Mobile App
+
+Grand Teton National Park Foundation and Jackson Hole Land Trust
+
+Launch Innovative New Smartphone App including Mobile Give
+
+[2]
+
+[3] (Click here to see a high resolution of the example)
+
+Did you know you can integrate mobile fundraising into a mobile app, reaching donors for text message donations while they are already engaged with your organization? Grand Teton National Park Foundation and the Jackson Hole Land Trust just recently incorporated mobile fundraising into their new app, TravelStorysGPS. TravelStorysGPSconnects travelers to the landscapes around them in real time and raises money for land conservation via mobile giving through Give by Cell’s Mobile Give service.
+
+“Our effort to connect people to the park and to educate them about this amazing resource remains one of the most important components of our mission at the Foundation,” said Leslie A, Mattson, President of Grand Teton National Park Foundation. “Projects like this are a great way to deepen visitors’ understanding of and connection to Grand Teton National Park.”
+
+Along  the way, users are invited to make a donation to the nonprofit organization working to protect the scenic views they are enjoying, through the partnership with Give by Cell.  Users click on the donate button, and a pre-populated text message appears to donate. The supporter hits send, and the gift is conveniently charged to their mobile phone bill. To read the full press release, [4] please click here.
+
+Give us a call or email today, or [5] click here to request more information. We look forward to helping you achieve your mobile fundraising goals.
+
+Best,
+
+Jessica Dal Porto
+
+Director of Marketing
+
+Give by Cell
+
+P: (415) 615 - 0150
+
+[6] Jessica@givebycell.com
+
+[7] www.givebycell.com
+
+
+ References:
+
+1. u=19EB8BD
+2. u=19EB8BE
+3. u=19EB8BF
+4. u=19EB8C0
+5. u=19EB8C1
+6. mailto:Jessica@givebycell.com
+7. u=19EB8C2
+
+
+
+
+This message was sent to bethann@operationspokaneheroes.org by marketing@givebycell.com
+
+You can modify/update your subscription via the link below.
+
+Unsubscribe from all mailings
+http://visitor.benchmarkemail.com/c/su?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+Manage Subscription
+http://visitor.benchmarkemail.com/c/s?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+Forward Email
+http://visitor.benchmarkemail.com/c/f?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+Report Abuse
+http://visitor.benchmarkemail.com/Abuse?e=20F56A&c=E824&l=5AD5D1A&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD6D
+
+Email Marketing
+BenchmarkEmail.com
+ [http://visitor.benchmarkemail.com]
+
+Address: 300 Beale Street, Suite 608,  San Francisco,  CA, 94105
+
+
+------=_NextPart_2913219462480518854183
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D1654705&l=3D95247642&e=3Dbethann@operations=
+pokaneheroes=2Eorg&ver=3D2&SentFromServer=3D38=2E107=2E205=2E109
+ -->
+<!-- Online Path -->
+<div align=3D"center"=20
+ style=3D"width:100%">
+<div
+ style=3D"font-size:11px; color:#666666; font-family:Arial, Helvetica, sa=
+ns-serif; width:600px; padding-bottom:5px;" align=3D"center">
+Having trouble viewing this email=3F <a target=3D=5Fnew
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/v=3Fe=3D20F56A&c=3DE824&=
+l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD6D">click here</a>
+
+<br />You are receiving this email because of your relationship with Give=
+ by Cell=2E Please <a target=3D=5Fnew
+ style=3D'color:#0000ff;'
+ href=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/opt=3Fe=3D20F56A&c=3DE82=
+4&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZty=
+YxgAOq8IXTw%3D%3D&relid=3D266BCD6D'>reconfirm</a> your interest in receiv=
+ing email from us=2E  If you do not wish to receive any more emails, you =
+can <a target=3D=5Fnew
+ style=3D'color:#0000ff;'
+ href=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/u=3Fe=3D20F56A&c=3DE824&=
+l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD6D'>unsubscribe here</a>
+</div></div>
+<!-- /Online Path -->
+<div align=3D"center"
+ style=3D"font-family: Arial, Verdana; font-size: 12px; ">
+<br>=20
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <t=
+body><tr> <td valign=3D"top"
+ style=3D"padding: 3px; background-color: #000000;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <=
+tbody><tr> <td valign=3D"top"
+ style=3D"background-color: #ffffff;">
+<table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%" na=
+me=3D"block=5FArticle"
+ style=3D"  background-repeat: repeat repeat; ">=0A<tbody>=0A<tr>=0A<td
+ style=3D"text-align: center;">=0A
+<table align=3D"default" cellpadding=3D"0" cellspacing=3D"0"
+ style=3D"padding: 0px;" name=3D"imgHolder">=0A<tbody>=0A<tr>=0A<td align=
+=3D"center"><a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8BD&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+><img caption=3D""
+ src=3D"http://images=2Ebenchmarkemail=2Ecom/client59428/image635613=2Epn=
+g" alt=3D"" width=3D"588" height=3D"101" border=3D"0" hspace=3D"0" vspace=
+=3D"0"></a></td>=0A</tr>=0A</tbody>=0A
+</table>=0A<p align=3D"center"><span
+ style=3D"font-size: 20px;"><strong>Parks Integrate Donations into Offici=
+al Mobile App </strong><strong>
+<br> </strong></span><span
+ style=3D"font-size: 14px;">
+<em>Grand Teton National Park Foundation and Jackson Hole Land Trust&nbsp=
+;</em> </span>
+<br><span
+ style=3D"font-size: 14px;">=20
+<em>Launch Innovative New Smartphone App including Mobile Give</em></span=
+></p>=0A
+<table align=3D"default" cellpadding=3D"0" cellspacing=3D"0"
+ style=3D"padding: 0px;" name=3D"imgHolder">=0A<tbody>=0A<tr>=0A<td align=
+=3D"center"><a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8BE&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+><img caption=3D""
+ src=3D"http://images=2Ebenchmarkemail=2Ecom/client59428/image678145=2Epn=
+g" alt=3D"" width=3D"608" height=3D"260" border=3D"0" hspace=3D"0" vspace=
+=3D"0"></a></td>=0A</tr>=0A<tr>=0A<td align=3D"center" class=3D"CaptionTe=
+xt"
+ style=3D"font-family: Arial,Verdana; font-size: 12px;"></td>=0A</tr>=0A<=
+/tbody>=0A
+</table>=0A
+<em><span
+ style=3D"font-size: 10px;"> <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8BF&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>(Click here to see a high resolution of the example)</a> &nbsp;
+<br></span></em></td>=0A</tr>=0A</tbody>=0A
+</table></td> </tr> <tr> <td align=3D"left" valign=3D"top"
+ style=3D"background-color: #ffffff;"></td> </tr> <tr> <td align=3D"cente=
+r" width=3D"100%" valign=3D"top"
+ style=3D"padding: 5px; background-color: #ffffff;">  =20
+<table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%" na=
+me=3D"block=5FArticle"
+ style=3D"margin-bottom: 10px;   background-repeat: repeat repeat; ">=0A<=
+tbody>=0A<tr>=0A<td><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Di=
+d you know you can integrate mobile fundraising into a mobile app, reachi=
+ng donors for text message donations while they are already engaged with =
+your organization=3F Grand Teton National Park Foundation and the Jackson=
+ Hole Land Trust just recently incorporated mobile fundraising into their=
+ new app,=20
+<em>TravelStorysGPS=2E TravelStorysGPS</em> connects travelers to the lan=
+dscapes around them in real time and raises money for land conservation v=
+ia mobile giving through Give by Cell&#8217;s Mobile Give service=2E&nbsp=
+;</span>=0A<p><span><span
+ style=3D"font-size: 12px;"> <strong><span
+ style=3D"font-family: Arial, Helvetica, sans-serif;">&#8220;Our effort t=
+o connect people to the park and to educate them about this amazing resou=
+rce remains one of the most important components of our mission at the Fo=
+undation,&#8221; said Leslie A, Mattson, President of Grand Teton Nationa=
+l Park Foundation=2E &#8220;Projects like this are a great way to deepen =
+visitors&#8217; understanding of and connection to Grand Teton National P=
+ark=2E&#8221;&nbsp;</span> </strong></span><strong>
+<br>=20
+<br></strong><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Al=
+ong &nbsp;the way, users are invited to make a donation to the nonprofit =
+organization working to protect the scenic views they are enjoying, throu=
+gh the partnership with Give by Cell=2E&nbsp; Users click on the donate b=
+utton, and a pre-populated text message appears to donate=2E The&nbsp;sup=
+porter hits send, and the gift is conveniently charged to their mobile ph=
+one bill=2E </span></span><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">To=
+ read the full press release, <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8C0&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>please click here</a>=2E&nbsp;</span><span>
+<br>
+<br><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Gi=
+ve us a call or email today, or&nbsp;<a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8C1&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>click here to request more information</a>=2E&nbsp;We look forward to he=
+lping you achieve your mobile fundraising goals=2E </span>
+<br>=20
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Be=
+st, </span>
+<br>=20
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Je=
+ssica Dal Porto </span>
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Di=
+rector of Marketing</span>=20
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">Gi=
+ve by Cell </span>
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">P:=
+ (415) 615 - 0150 </span>
+<br> <span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><a=
+
+ href=3D"mailto:Jessica@givebycell=2Ecom" target=3D"=5Fblank">Jessica@giv=
+ebycell=2Ecom</a> </span>
+<br> <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D19EB8C2&e=3D20F5=
+6A&c=3DE824&t=3D0&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>www=2Egivebycell=2Ecom</a>
+<br></span></p>=0A</td>=0A</tr>=0A</tbody>=0A
+</table></td> </tr> <tr> <td align=3D"center"
+ style=3D"background-color: #ffffff;"></td> </tr> </tbody>
+</table></td> </tr> </tbody>
+</table>=20
+<br> </div><!-- Footer Path -->
+<div align=3D"center"  class=3Dbmefooter><div
+ style=3D"width: 600px; font-family: Verdana,Arial,Helvetica,sans-serif; =
+font-size: 10px; text-align: left; padding-top:10px;" align=3Dcenter>
+
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr><td align=3Dleft width=3D"79%"
+ style=3D"color: #666666;font-family: Verdana,Arial,Helvetica,sans-serif;=
+ font-size: 10px;" class=3Dbmefootertext>
+This message was sent to bethann@operationspokaneheroes=2Eorg by marketin=
+g@givebycell=2Ecom
+<div
+ style=3D"padding-top: 10px; font-size: 10px;" class=3Dbmefootertext><a
+ href=3Dhttp://visitor=2Ebenchmarkemail=2Ecom/c/su=3Fe=3D20F56A&c=3DE824&=
+l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD6D><img
+ src=3D"http://visitor=2Ebenchmarkemail=2Ecom/images/verified=2Epng" alt=3D=
+"Unsubscribe from all mailings" title=3D"Unsubscribe from all mailings" b=
+order=3D0 /></a>
+<br />
+<br /><a class=3Dbmefootertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/su=3Fe=3D20F56A&c=3DE824=
+&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyY=
+xgAOq8IXTw%3D%3D&relid=3D266BCD6D">Unsubscribe</a>   | <a class=3Dbmefoot=
+ertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/s=3Fe=3D20F56A&c=3DE824&=
+l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD6D">Manage Subscription</a>   |  <a class=3D=
+bmefootertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/f=3Fe=3D20F56A&c=3DE824&=
+l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD6D">Forward Email</a>  |  <a class=3Dbmefoo=
+tertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/Abuse=3Fe=3D20F56A&c=3DE82=
+4&l=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZty=
+YxgAOq8IXTw%3D%3D&relid=3D266BCD6D">Report Abuse</a>
+<br /></div>
+<br/></td></tr>
+</table></div></div><div align=3D"center"  class=3Dbmefooter>
+<div
+ style=3D"text-align:left;">
+
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center"><tr><td
+ style=3D"font-size: 10px; font-family: Verdana,Arial,Helvetica,sans-seri=
+f; color: #666666;" class=3Dbmefootertext>
+300 Beale Street, Suite 608,  San Francisco,  CA, 94105</td></tr><tr><td>=
+
+<br /></td></tr>
+</table></div></div><!-- /Footer Path -->
+<img
+ src=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/o=3Fe=3D20F56A&c=3DE824&l=
+=3D5AD5D1A&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxg=
+AOq8IXTw%3D%3D&relid=3D266BCD6D'>
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D1654705&l=3D95247642&e=3Dbethann@operations=
+pokaneheroes=2Eorg&ver=3D2&SentFromServer=3D38=2E107=2E205=2E109
+ -->
+
+<!-- campaignid: 1654705 -->
+
+------=_NextPart_2913219462480518854183--
+

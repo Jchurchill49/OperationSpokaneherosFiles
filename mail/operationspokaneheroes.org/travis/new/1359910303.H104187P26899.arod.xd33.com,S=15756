@@ -1,0 +1,323 @@
+Return-path: <member@paypal.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Sun, 03 Feb 2013 10:51:43 -0600
+Received: from mx3.slc.paypal.com ([173.0.84.228]:23769 helo=mx2.slc.paypal.com)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <member@paypal.com>)
+	id 1U22n8-0006zf-RF
+	for travis@operationspokaneheroes.org; Sun, 03 Feb 2013 10:51:43 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkim; d=paypal.com;
+	h=DKIM-Signature:Received:Date:Message-Id:Subject:X-MaxCode-Template:To:From:X-Email-Type-Id:Reply-To:X-XPT-XSL-Name:Content-Type:MIME-Version;
+	b=2os71kGTDjYxI9pqB8cMHQ/xtVhs4u1Be2ptfukG8S3BZ00O1rdmH36xpkz+WCHN
+	/epPMvuy4HsO0QnXGE+uUM8qaqXnlmryu4TnyiNnQmrw2KAnEz7TBrQtZcGwKlYe
+	2d2I3WcWl8s5Ug5NnNtHkwycFwuG0ZDZmxzF6Zc94/U=
+DKIM-Signature: v=1; a=rsa-sha1; d=paypal.com; s=dkim; c=relaxed/relaxed;
+	q=dns/txt; i=@paypal.com; t=1359910301;
+	h=From:From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=yTf235Mo8Rs7Fa18Qsn/WAbhr/U=;
+	b=lDlkquhX5Dwj229HPNU0WAfmjly9fidgerniCVg0vvX18wXKARAWYJoxriIEC+st
+	iBQgDRSZy2GyIUF/Kie3OpGzoUvscQ4ptPulre/HBN/LQxtYsDVe6aqBqeGRa5Nl
+	ROY19uvTtO3gXALOz0u758KBZPPxrZI47eDpykhmM7A=;
+Received: (qmail 24956 invoked by uid 993); 3 Feb 2013 16:51:41 -0000
+Date: Sun, 03 Feb 2013 08:51:41 -0800
+Message-Id: <1359910301.24956@paypal.com>
+Subject: Reference: 01 Operation Spokane Heroes - Donation from Mary
+ Wilkinson (maryoo@comcast.net)
+X-MaxCode-Template: email-xclick-donation-notification
+To: Operation Spokane Heroes <travis@operationspokaneheroes.org>
+From: Mary Wilkinson via PayPal <member@paypal.com>
+X-Email-Type-Id: PP1304
+Reply-To: maryoo@comcast.net
+X-XPT-XSL-Name: email_pimp/default/en_US/customer/donations/XClickDonationNotification.xsl
+Content-Type: multipart/alternative;
+ boundary=--NextPart_048F8BC8A2197DE2036A
+MIME-Version: 1.0
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=windows-1252
+
+Hello Operation Spokane Heroes,
+
+This email confirms that you have received a donation of=2428.00 USD from =
+Mary Wilkinson(maryoo=40comcast.net). You can view the transaction details =
+online.
+
+
+----------------------------------------------------------------
+
+
+-----------------------------------
+Donation Details
+-----------------------------------
+
+ Total amount: =2428.00 USD
+Currency: U.S. Dollars
+Reference: 01
+Confirmation number: 88420377N1795994S
+Purpose: Operation Spokane Heroes
+Contributor: Mary Wilkinson
+  =20
+----------------------------------------------------------------
+
+
+
+-----------------------------------
+Mary Wilkinson's confirmed address
+-----------------------------------
+
+Mary Wilkinson
+1219 W 9th Ave
+Spokane, WA 99204
+United States
+
+
+
+
+----------------------------------------------------------------
+
+
+Sincerely,
+PayPal
+
+----------------------------------------------------------------
+
+
+PPID PP1304=20
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=windows-1252
+
+<html><head title=3D=22PayPal=22/><body><div class=3D=22ppmail=22><style =
+type=3D=22text/css=22>BODY, TD =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 12px;color: =23000000;=7D
+
+LI =7Bline-height: 120%;=7D
+UL.smallBorder =7Bmargin:10px 5px 10px 20px;=7D
+LI.smallBorderLi =7Bmargin:0px 0px 5px 0px;=7D
+UL.Narrow =7Bmargin:10px 5px 0px 40px;=7D
+HR.dotted =7Bwidth: 100%; margin-top: 0px; margin-bottom: 0px; =
+border-left: =23fff; border-right: =23fff; border-top: =23fff; =
+border-bottom: 2px dotted =23ccc;=7D
+=2EsmallEmphasis =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: =
+bold;color: =23000000;=7D
+=2Erefund =7Bfont-family: verdana,arial,helvetica,sans-serif;font-size: =
+10pt;font-weight: bold;color: =23000000;=7D
+=2EserifBig =7Bfont-family: serif;font-size: 20px;font-weight: bold;color: =
+=23000000;=7D
+=2Eserif=7Bfont-family: serif;font-size: 16px;color: =23000000;=7D
+=2EsansSerif=7Bfont-family: verdana,arial,helvetica,sans-serif; font-size: =
+16px;color: =23000000;=7D
+=2Eheading =7Bfont-family: verdana,arial,helvetica,sans-serif;font-size: =
+18px;font-weight: bold;color: =23003366;=7D
+=2EsubHeadingEoa =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: =
+bold;color: =23000000;=7D
+=2EsubHeading =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: =
+bold;color: =23003366;=7D
+=2EsidebarText =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 11px;color: =23003366;=7D
+=2EsidebarTextBold =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: =
+bold;color: =23003366;=7D
+=2ExptFooter =7Bfont-family: verdana,arial,helvetica,sans-serif;font-size: =
+11px;color: =23aaaaaa;=7D
+=2Ebutton =7Bfont-size: 13px; font-family: =
+verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; =
+color:=23000000; background-color: =23cccccc;=7D
+=2Esmaller =7Bfont-family: verdana,arial,helvetica,sans-serif;font-size: =
+10px;color: =23000000;=7D
+=2EsmallerSidebar =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 10px;color: =23003366;=7D
+=2Eemphasis =7Bfont-weight: 700;=7D
+table=23invoice, table=23invoice_controls, table=23invoice_note =
+=7B=09width: 600px;=7D
+table=23invoice_note =7Bmargin-top:10px; margin-bottom:10px;=7D
+table=23invoice_controls =7Btext-align: right;=7D
+table=23invoice =7Bborder-collapse: collapse; border:1px solid =23aaa; =7D
+table=23invoice td =7Bfont-size:11px; border:1px solid =
+=23ccc;=09padding:2px;=7D
+table=23invoice td.field_label_right, table=23invoice =
+td.field_label_right_error =7Bfont-weight:bold;=09text-align:right;=7D
+table=23invoice td.field_label_right_error, table=23invoice =
+td.field_label_error =7Bcolor:red;=7D
+table=23invoice tr.title td =7Bfont-weight:bold; line-height:20px; =
+text-align:left; background-color: =23ccddee;=7D
+table=23invoice input.readonly =7Bborder:0; text-align:right;=7D
+table=23invoice input.readonly_currency =7Bborder:0; width:10px;=7D
+=2Efield_error, .field_error input.readonly_currency =
+=7Bbackground-color:=23FF3333;=7D
+=2Ecurrency_highlight =7Bbackground-color: =23ffffcc;=7D
+=2Etax =7Bfont-weight: 400; float: left;=7D
+table=23invoice td span.curr =7Bfloat: left;=7D
+table=23invoice td.currency =7Bborder-right:1px solid =23fff;=7D
+table=23invoice td.calc =7Bfont-weight:bold; text-align:right;=7D
+=2EinlineBlue =7Bcolor: =2300f;=7D
+=2Esmall =7Bfont-size: 11px; font-weight: 400;=7D
+HR.solid =7Bwidth: 100%; margin-top: 5px; margin-bottom: 0px; border-left: =
+=23fff; border-right: =23fff; border-top: =23fff; border-bottom: 2px solid =
+=23999;=7D
+=2Elarge =7Bfont-size: 17px;=7D=20
+=2EsmallVerdanaGrey=7Bfont-family: verdana; font-size: 10px; color: =
+=23999999;=7D=20
+=2EsmallVerdana =7Bfont-family: verdana; font-size: 10px; color =
+:=23000000;=7D=20
+=2EsmallArial =7Bfont-family: arial; font-size: 13px; =7D=20
+=2EsmallArialBlue =7Bfont-family: verdana; font-size: 9px; color: =
+=230000FF;=7D=20
+=2EsmallVerdanaGreen=7Bfont-family: verdana; font-size: 10px; color: =
+=23666666;=7D=20
+=2Esmaller =7Bfont-size: 10px; color: gray;=7D=20
+=2Elarger =7Bfont-size: 18px; font-family: arial; font-weight: 600; =7D =20
+=2ElongTableValue=7Bword-break:break-all;=7D=20
+=2ElongSideBarText=7Bword-break: normal;=7D=20
+=2EgeCompliantName=7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 12px;font-weight: normal; =
+color: =23003366;=7D=20
+=2EcontentHeading =7Bfont-family: =
+verdana,arial,helvetica,sans-serif;font-size: 14px;font-weight: =
+bold;color: =23003366;=7D
+p.getVerify =7Bfont-family: verdana,arial,helvetica,sans-serif;font-size: =
+17px;font-weight: bold;color: =23003366;=7D
+=23ImageCaption=7Bfont-family:verdana;font-size:11px;font-weight:bold;margi=
+n:0px;padding:0px;color:=23666666;=7D
+=23ImagePoints=7Bfont-family:verdana;font-size:12px;margin:0px;padding:0px;=
+color:=23666666;=7D
+table.stepBox, table.stepBox td =7B margin: 0; padding: 0;=7D
+table.stepBox td =7B  margin: 0;  padding: 10px 0px 0px 0px; font-size: =
+11px  =21important;=7D
+table.stepBox td.step1 =7Bfloat: left; width: 150px;  text-align: center;=7D
+table.stepBox td.step2 =7B  float: left;  width: 170px;  text-align: =
+center;  padding: 10px 0px 0px 20px;=7D
+table.stepBox td.step3 =7B  float: left;  width: 150px;  text-align: =
+center;  padding: 10px 0px 0px 20px;=7D
+p.lower  =7B clear: both; padding: 10px 0px 0px 0px;=7D
+=23Recipientitemdetails .longTableValue=7Bword-break:keep-all;=7D
+</style>
+
+<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 width=3D=22600=22><tr valign=3D=22top=22><td><a =
+href=3D=22https://www.paypal.com/us=22><img =
+src=3D=22http://images.paypal.com/en_US/i/logo/email_logo.gif=22 =
+border=3D=220=22 alt=3D=22PayPal=22/></a></td></tr></table><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 width=3D=22100%=22><tr><td =
+background=3D=22http://images.paypal.com/en_US/i/scr/bg_clk.gif=22 =
+width=3D=22100%=22><img alt=3D=22=22 border=3D=220=22 height=3D=2229=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr><tr><td><img alt=3D=22=22 border=3D=220=22 =
+height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr></table><table align=3D=22center=22 =
+border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+width=3D=22100%=22><tr><td/></tr></table><table align=3D=22center=22 =
+border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+width=3D=22600=22><tr valign=3D=22top=22><td =
+width=3D=22100%=22><span>Hello Operation Spokane =
+Heroes,</span><br/><br/>This email confirms that you have received a =
+donation of=2428.00 USD from Mary Wilkinson(<a target=3D=22_new=22 =
+href=3D=22mailto:maryoo=40comcast.net=22>maryoo=40comcast.net</a>). You =
+can <a =
+href=3D=22https://www.paypal.com/us/vst/id=3D88420377N1795994S=22>view the =
+transaction details online</a>.<br/><br/><hr =
+class=3D=22dotted=22/><br/><h3><span style=3D=22font:bold 13px Verdana, =
+Arial, Helvetica, sans-serif;color:=23333;=22>Donation =
+Details</span></h3><img alt=3D=22=22 border=3D=220=22 height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/><table align=3D=22justify=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22font:11px Verdana, =
+Arial, Helvetica, sans-serif;color:=23333;=22 width=3D=22390=22><tr =
+valign=3D=22top=22><td class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Total amount:</td><td width=3D=225%=22><img =
+alt=3D=22=22 border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>=2428.00 USD</td></tr><tr =
+valign=3D=22top=22><td class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Currency:</td><td width=3D=225%=22><img alt=3D=22=22 =
+border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>U.S. Dollars</td></tr><tr =
+valign=3D=22top=22><td class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Reference:</td><td width=3D=225%=22><img alt=3D=22=22 =
+border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>01</td></tr><tr =
+valign=3D=22top=22><td class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Confirmation number:</td><td width=3D=225%=22><img =
+alt=3D=22=22 border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>88420377N1795994S</td></tr><tr =
+valign=3D=22top=22><td class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Purpose:</td><td width=3D=225%=22><img alt=3D=22=22 =
+border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>Operation Spokane =
+Heroes</td></tr><tr valign=3D=22top=22><td class=3D=22smallEmphasis=22 =
+width=3D=2240%=22 align=3D=22right=22>Contributor:</td><td =
+width=3D=225%=22><img alt=3D=22=22 border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>Mary =
+Wilkinson</td></tr></table><img alt=3D=22=22 border=3D=220=22 =
+height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=22110=22/><img alt=3D=22=22 border=3D=220=22 height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=22110=22/><img alt=3D=22=22 border=3D=220=22 height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=22110=22/><hr class=3D=22dotted=22/><br/><br/><table =
+align=3D=22justify=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 style=3D=22font:11px Verdana, Arial, Helvetica, =
+sans-serif;color:=23333;=22 width=3D=22390=22><tr><td =
+align=3D=22left=22><table align=3D=22left=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22font:11px Verdana, =
+Arial, Helvetica, sans-serif;color:=23333;=22 width=3D=22100%=22><tr><td =
+colspan=3D=223=22><h3><span style=3D=22font:bold 13px Verdana, Arial, =
+Helvetica, sans-serif;color:=23333;=22>Mailing =
+Information:</span></h3></td></tr><tr><td colspan=3D=223=22><img =
+alt=3D=22=22 border=3D=220=22 height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr><tr valign=3D=22top=22><td =
+class=3D=22smallEmphasis=22 width=3D=2240%=22 =
+align=3D=22right=22>Address</td><td width=3D=225%=22><img alt=3D=22=22 =
+border=3D=220=22 height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>Mary Wilkinson<br/>1219 W 9th =
+Ave<br/>Spokane,=A0WA=A099204<br/>United States<br/></td></tr><tr><td =
+colspan=3D=222=22><img alt=3D=22=22 border=3D=220=22 height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr><tr valign=3D=22top=22><td =
+class=3D=22smallEmphasis=22 width=3D=2240%=22 align=3D=22right=22>Address =
+status</td><td width=3D=225%=22><img alt=3D=22=22 border=3D=220=22 =
+height=3D=225=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td><td width=3D=2255%=22>Confirmed <a =
+href=3D=22https://www.paypal.com/us/cgi-bin/?cmd=3Dp/pop/confirmed_address=
+=22><img =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_symQuestion.gif=22 =
+border=3D=220=22 alt=3D=22=22/></a> </td></tr><tr><td =
+colspan=3D=222=22><img alt=3D=22=22 border=3D=220=22 height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr><tr><td colspan=3D=223=22/></tr><tr><td><img =
+alt=3D=22=22 border=3D=220=22 height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=22110=22/></td><td><img alt=3D=22=22 border=3D=220=22 =
+height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=225=22/></td><td width=3D=2270%=22><img alt=3D=22=22 =
+border=3D=220=22 height=3D=221=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr></table></td></tr></table><br/><hr =
+class=3D=22dotted=22/><br/><br/>Sincerely,<br/>PayPal<br/><hr =
+class=3D=22dotted=22/><br/><br/><span><span class=3D=22xptFooter =
+ppid=22>PayPal Email ID PP1304</span></span><img height=3D=221=22 =
+width=3D=221=22 =
+src=3D=22https://102.112.2O7.net/b/ss/paypalglobal/1/G.4--NS/123456?pageNam=
+e=3Dsystem_email_PP1304=22 border=3D=220=22 =
+alt=3D=22=22/></td></tr></table></div></body></html>=
+
+----NextPart_048F8BC8A2197DE2036A--
+

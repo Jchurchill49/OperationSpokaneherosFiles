@@ -1,0 +1,685 @@
+Return-path: <3C66aURAKAGQEJGEMQWV-PQTGRNaIQQING.EQO@scoutcamp.bounces.google.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Mon, 20 May 2013 18:13:16 -0500
+Received: from mail-yh0-f72.google.com ([209.85.213.72]:43337)
+	by arod.xd33.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <3C66aURAKAGQEJGEMQWV-PQTGRNaIQQING.EQO@scoutcamp.bounces.google.com>)
+	id 1UeZGW-000124-6a
+	for travis@operationspokaneheroes.org; Mon, 20 May 2013 18:13:16 -0500
+Received: by mail-yh0-f72.google.com with SMTP id z6so9442265yhz.3
+        for <travis@operationspokaneheroes.org>; Mon, 20 May 2013 16:13:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-received:precedence:x-google-id:reply-to:message-id
+         :date:subject:from:to:content-type;
+        bh=I+BS6wYENn0KCIVaNc09DDNI2A4UHLvJe4nwlR4hK78=;
+        b=i04yaU8Bc+mohBopJJM53NJgBqohFxR+Axe25W2tts3iTC/muvN9lQzWgersiLe6Nk
+         e95pPnZJcC6bDDUL8abZaL+wRPCjRXswyGHPNy64sCpEboHH5znespOFbCTADtcc5pk4
+         MJQkf8jMff9m/dt+4froOtWFzG2KZtJfv5xvixSDWAbjFo6Ry3R4cJjJ+w4AETyAaud1
+         Yk4k9W/kz47mK1i+z/CUwBQ2cJI5xyQKuO6HX8u93jjNZYrEuLY/TnqONjqTQ3Pi4Bvj
+         slLVfCvUNv+i7voBhULkG0qfJvOHCp6nGg4YXiBNJZ8ReJqtUQqHyUpNsz3YZO68pNg2
+         rJgg==
+MIME-Version: 1.0
+X-Received: by 10.236.62.166 with SMTP id y26mr29904385yhc.39.1369091595310;
+ Mon, 20 May 2013 16:13:15 -0700 (PDT)
+Precedence: bulk
+X-Google-Id: 157108
+Reply-To: checkout-noreply@google.com
+Message-ID: <dc8e261f.1369091593.205710.157108.en-US.683f8d45@google.com>
+Date: Mon, 20 May 2013 23:13:15 +0000
+Subject: An update to Google Checkout
+From: Google Checkout <checkout-noreply@google.com>
+To: travis@operationspokaneheroes.org
+Content-Type: multipart/alternative; boundary=089e0122f1c23417ac04dd2e7a3d
+
+--089e0122f1c23417ac04dd2e7a3d
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+Google Wallet - Safe & Secure
+
+An update to Google Checkout
+
+Hello,
+
+A key focus of Google Wallet is to simplify and improve the commerce  
+experience for merchants and shoppers. Just last week, we announced two  
+enhancements to the Google Wallet platform. The Instant Buy API enables  
+merchants to offer a fast buying experience to Google Wallet shoppers on  
+their Android apps and websites, while processing their own payments. In  
+addition, the new Wallet Objects API enables merchants to engage their  
+customers with loyalty, offers, and more.
+Instant Buy API:  
+<http://googlecommerce.blogspot.com/2013/05/fast-and-easy-checkout-for-android-apps.html?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+Wallet Objects API:  
+<http://googlecommerce.blogspot.com/2013/05/connect-your-loyalty-programs-offers.html?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+As we continue to build the Wallet platform, we must focus our priorities.  
+That is why we are announcing today that we will retire Google Checkout. We  
+remain heavily invested in building a platform that enables merchants to  
+meet the demands of a multi-screen world where consumers shop in-store, at  
+their desk and on their mobile devices.
+
+I sell goods or services using Google Checkout. What does this mean for me?
+
+Merchants can continue to accept payments using Google Checkout until  
+November 20, 2013. We have partnered with a few best-in-class companies to  
+provide you with discounted migration options, so you can continue to run  
+your business with as little disruption as possible.
+
+Braintree provides everything merchants need to accept payments, and powers  
+many of the fastest-growing online and mobile businesses around the world.
+<https://www.braintreepayments.com/google-checkout?partner_source=google-checkout&utm_medium=ptn&utm_source=google-checkout&utm_campaign=google-checkout?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+Shopify offers a fully hosted online shopping cart so you can quickly and  
+easily accept payments with top payment providers.
+<http://www.shopify.com/googlecheckout?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+FreshBooks is an easy to use online invoicing solution.
+<http://www.freshbooks.com/googlecheckout/?ref=9396&utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+If you are a U.S. merchant that does have payment processing, you can apply  
+for Google Wallet Instant Buy, which offers a fast buying experience to  
+Google Wallet shoppers.
+<http://getinstantbuy.withgoogle.com/?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+I am an Google Play Apps or digital goods merchant. What does this mean for  
+me?
+
+Sellers of digital goods on Google (Google Play, Chrome Web Store, Offers  
+Marketplace and Google Wallet for digital goods) will automatically  
+transition to Google Wallet and will not be impacted. Learn more >>
+<https://support.google.com/checkout/sell/answer/3098749?hl=en&ref_topic=3080448?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+If you are a user of the above products, but use the Google Checkout APIs  
+for notifications or reporting, stay tuned. We will be announcing  
+replacement APIs shortly and recommend you stop using the Checkout APIs as  
+soon as possible.
+
+Learn more about integration types, the best migration solution for your  
+business and next steps on closing your Checkout account.
+<https://support.google.com/checkout/sell/answer/3080449?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+What this means for shoppers
+
+There are no changes. Shoppers can continue to use Google Wallet to  
+purchase goods wherever they see the "Buy with Google" button.
+
+More details
+
+- We will continue to process Checkout transactions until November 20,  
+2013. The last date for refunds will be December 20, 2013.
+- After November 20, 2013, all order reports and history will be available  
+for download.
+- In order to help us disburse all funds to you and file your tax forms  
+properly, please verify that your Tax ID and business name match what is  
+shown on your income tax return.
+- You will see slight changes to the Merchant Center as we go through this  
+process with you.
+
+More help
+
+To learn more about this change, we invite you to join us for our live  
+webinar on May 23, 2013, at 10AM PST. As always, feel free to contact us at  
+any time. We look forward to working with you as we explore new payment  
+methods.
+Join us:  
+<https://developers.google.com/live/shows/505515436/?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+Contact us:  
+<https://support.google.com/checkout/sell/answer/3148548?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+Sincerely,
+
+The Google Checkout Team
+
+Google Wallet:  
+<http://google.com/wallet/business?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+Help Center:  
+<https://support.google.com/checkout/sell/answer/3080449?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+Call support:  
+<https://support.google.com/checkout/sell/answer/3148548?utm_source=wallet-checkout&utm_medium=email&utm_campaign=checkoutsunset1&utm_term=may202013>
+
+----------
+
+(c) 2013 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+You have received this mandatory email service announcement to update you  
+about important changes to your Google Checkout account.
+
+--089e0122f1c23417ac04dd2e7a3d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" DIR=3D"LTR">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>Google Wallet</title>
+<style type=3D"text/css">
+.ExternalClass {
+    width:100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+	line-height: 100%;
+}
+body {
+    -webkit-text-size-adjust:none;
+    -ms-text-size-adjust:none;
+    margin:0;
+    padding:0;
+}
+table {
+    border-collapse:collapse;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+}
+table td {
+    border-collapse:collapse;
+}
+img {
+    outline:none;
+    text-decoration:none;
+    -ms-interpolation-mode: bicubic;
+}
+a img {
+    border:none;
+}
+p {
+    margin:0;
+    padding:0;
+    margin-bottom:0;
+}
+.forApple a {
+    color: #777777 !important;
+    text-decoration: none !important;
+}
+</style>
+<!--[if lte mso 7]>
+<style>
+/* Target Outlook 2003 to fix logo max width */
+#logo {
+ width: 216px !important;
+ height: 41px !important;
+}
+#braintree {
+ width: 110px !important;
+ height: 28px !important;
+}
+#shopify {
+ width: 124px !important;
+ height: 34px !important;
+}
+#freshbooks {
+ width: 110px !important;
+ height: 44px !important;
+}
+</style>
+<![endif]-->
+</head>
+<body>
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#ffffff" style=3D"background-color:#ffffff;">
+  	<tr>
+    	<td align=3D"center" bgcolor=3D"#f5f5f5" style=3D"background-color: #f=
+5f5f5; padding-bottom: 35px;">
+<!-- Target Outlook 2003 -->
+<!--[if lte mso 7]>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse; table-width:fixed;" align=3D"center">
+<tr><td style=3D"width:600px !important;">
+<![endif]-->
+<!-- Target Outlook 2007 and 2010 -->
+<!--[if gte mso 9]>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse; table-width:fixed;" align=3D"center">
+<tr><td style=3D"width:600px !important;">
+<![endif]-->
+	    	<div style=3D"max-width: 600px; margin: 0 auto; padding: 0 10px;">
+				<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+bgcolor=3D"#f5f5f5" align=3D"center" style=3D"max-width: 600px; padding: 0;=
+ margin: 0; font-family:Arial, Helvetica, sans-serif; font-weight:normal; f=
+ont-size:13px; line-height:18px; color:#444444; background-color:#f5f5f5; t=
+ext-align: left;">
+					<tr>
+						<td width=3D"100%">
+							<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" bgcolor=3D"#f5f5f5" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-weight:normal; font-size:13px; line-height:18px; color:#444444; padding=
+: 0; margin: 0; background-color:#f5f5f5;">
+			              		<tr>
+                                  <td width=3D"100%">
+                                    <table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" bgcolor=3D"#F5F5F5" style=3D"padding-top:0p=
+x; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:=
+13px; line-height:18px; color:#434343; background-color:#F5F5F5;">
+                                          <tr>
+                                              <td width=3D"70%" align=3D"le=
+ft" valign=3D"middle" id=3D"logo" style=3D"padding: 22px 0;"><img src=3D"ht=
+tp://www.gstatic.com/gmktg/mtv-img/gwallet_logo.png" id=3D"logo" alt=3D"Goo=
+gle Wallet" title=3D"Google Wallet" width=3D"100%" border=3D"0" style=3D"di=
+splay: block; max-width: 216px;" /></td>
+                                              <td width=3D"16%" align=3D"ri=
+ght" valign=3D"top" style=3D"padding: 38px 0 0;"><img src=3D"http://www.gst=
+atic.com/gmktg/mtv-img/gwallet_secure_lock.png" width=3D"9" height=3D"11" b=
+order=3D"0" style=3D"display: block;" /></td>
+                                              <td width=3D"14%" align=3D"ri=
+ght" valign=3D"top" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-weight:normal; font-size:12px; line-height:18px; color:#333333; white-spac=
+e: nowrap; text-align: right; padding: 36px 0 0 3px;">Safe &amp; Secure</td=
+>
+                                          </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+			                </table>
+			            </td>
+			        </tr>
+			        <tr>
+			        	<td width=3D"100%">
+				        	<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" bgcolor=3D"#ffffff" style=3D"border-collapse:collapse; border: 1px=
+ solid #e1e1e1; font-family:Arial, Helvetica, sans-serif; font-weight:norma=
+l; font-size:13px; line-height:18px; color:#444444; background-color:#fffff=
+f; padding: 0; margin: 0;">
+					        	<tr>
+						        	<td width=3D"100%" style=3D"padding: 30px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:24px; line-he=
+ight:30px; color:#222222;">
+							        	An update to Google Checkout
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	Hello,
+							        	<br /><br />
+							        	A key focus of Google Wallet is to simplify and improve the=
+ commerce experience for merchants and shoppers. Just last week, we announc=
+ed two enhancements to the Google Wallet platform. The <a href=3D"http://ww=
+w.google.com/appserve/mkt/5xto0Gr9Yl2WJH4otp9ktf" style=3D"text-decoration:=
+ none; color:#1155cc;">Instant Buy API</a> enables merchants to offer a fas=
+t buying experience to Google Wallet shoppers on their Android apps and web=
+sites, while processing their own payments. In addition, the new <a href=3D=
+"http://www.google.com/appserve/mkt/1bBukaT3DrmUMQPjQUWnrD" style=3D"text-d=
+ecoration: none; color:#1155cc;">Wallet Objects API</a> enables merchants t=
+o engage their customers with loyalty, offers, and more.
+							        	<br /><br />
+							        	As we continue to build the Wallet platform, we must focus =
+our priorities. That is why we are announcing today that we will retire Goo=
+gle Checkout. We remain heavily invested in building a platform that enable=
+s merchants to meet the demands of a multi-screen world where consumers sho=
+p in-store, at their desk and on their mobile devices.
+									</td>
+								</tr>
+								<tr>
+								    <td width=3D"100%" style=3D"padding: 20px 20px 0;">
+								        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" bgcolor=3D"#fef9db" style=3D"border-collapse:collapse; border: =
+1px solid #f7e5a3; font-family:Arial, Helvetica, sans-serif; font-weight:no=
+rmal; font-size:13px; line-height:18px; color:#444444; background-color:#fe=
+f9db; padding: 0; margin: 0;">
+								            <tr>
+								                <td width=3D"100%" style=3D"padding: 20px 20px 0; f=
+ont-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px=
+; line-height:26px; color:#222222;">
+								                    I sell goods or services using Google Checkout.=
+ What does this mean for me?
+								                </td>
+								            </tr>
+								            <tr>
+								                <td width=3D"100%" style=3D"padding: 15px 20px 0; f=
+ont-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px=
+; line-height:18px; color:#222222;">
+								                    Merchants can continue to accept payments using=
+ Google Checkout until November 20, 2013. We have partnered with a few best=
+-in-class companies to provide you with discounted migration options, so yo=
+u can continue to run your business with as little disruption as possible.
+								                </td>
+								            </tr>
+								            <tr>
+								                <td width=3D"100%" style=3D"padding: 0 20px 20px;">
+								                    <table width=3D"175" align=3D"left" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-weight:normal; font-size:13px; line-height:18px; color:#=
+444444; padding: 0; margin: 0;">
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 25px 0 0;">
+								                                <a href=3D"http://www.google.com/ap=
+pserve/mkt/4dUCuI5bJEoRsLB0f02Npv"><img src=3D"http://www.gstatic.com/gmktg=
+/mtv-img/wallet_braintree_logo_fef9db.png" id=3D"braintree" alt=3D"Braintre=
+e" title=3D"Braintree" width=3D"100%" border=3D"0" style=3D"display: block;=
+ max-width: 110px;" /></a>
+								                            </td>
+								                        </tr>
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 14px 5px 0 0; font-family:Arial, Helvetica, san=
+s-serif; font-weight:normal; font-size:13px; line-height:18px; color:#22222=
+2;">
+								                                provides everything merchants need =
+to accept payments, and powers many of the fastest-growing online and mobil=
+e businesses around the world.
+								                            </td>
+								                        </tr>
+								                    </table>
+								                    <table width=3D"175" align=3D"left" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-weight:normal; font-size:13px; line-height:18px; color:#=
+444444; padding: 0; margin: 0;">
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 23px 0 0;">
+								                                <a href=3D"http://www.google.com/ap=
+pserve/mkt/1SPDFwyXRxWeakanRWdNpl"><img src=3D"http://www.gstatic.com/gmktg=
+/mtv-img/wallet_shopify_logo_fef9db.png" id=3D"shopify" alt=3D"Shopify" tit=
+le=3D"Shopify" width=3D"100%" border=3D"0" style=3D"display: block; max-wid=
+th: 124px;" /></a>
+								                            </td>
+								                        </tr>
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 10px 5px 0 0; font-family:Arial, Helvetica, san=
+s-serif; font-weight:normal; font-size:13px; line-height:18px; color:#22222=
+2;">
+								                                offers a fully hosted online shoppi=
+ng cart so you can quickly and easily accept payments with top payment prov=
+iders.
+								                            </td>
+								                        </tr>
+								                    </table>
+								                    <table width=3D"165" align=3D"left" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-weight:normal; font-size:13px; line-height:18px; color:#=
+444444; padding: 0; margin: 0;">
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 10px 0 0;">
+								                                <a href=3D"http://www.google.com/ap=
+pserve/mkt/2WWQdPQBJwT3Ol75DOUNiV"><img src=3D"http://www.gstatic.com/gmktg=
+/mtv-img/wallet_freshbooks_logo_fef9db.png" id=3D"freshbooks" alt=3D"FreshB=
+ooks" title=3D"FreshBooks" width=3D"100%" border=3D"0" style=3D"display: bl=
+ock; max-width: 110px;" /></a>
+								                            </td>
+								                        </tr>
+								                        <tr>
+								                            <td width=3D"100%" align=3D"left" valig=
+n=3D"top" style=3D"padding: 11px 0 0; font-family:Arial, Helvetica, sans-se=
+rif; font-weight:normal; font-size:13px; line-height:18px; color:#222222;">
+								                                is an easy to use online invoicing =
+solution.
+								                            </td>
+								                        </tr>
+								                    </table>
+								                </td>
+								            </tr>
+								        </table>
+								    </td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 30px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	If you are a U.S. merchant that does have payment processin=
+g, you can <a href=3D"http://www.google.com/appserve/mkt/2n1nBj1C3LxxgHFcyo=
+a9YK" style=3D"text-decoration: none; color:#1155cc;">apply for Google Wall=
+et Instant Buy</a>, which offers a fast buying experience to Google Wallet =
+shoppers.
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px; line-he=
+ight:26px; color:#222222;">
+							        	I am an Google Play Apps or digital goods merchant. What do=
+es this mean for me?
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	Sellers of digital goods on Google (Google Play, Chrome Web=
+ Store, Offers Marketplace and Google Wallet for digital goods) will automa=
+tically transition to Google Wallet and will not be impacted. <a href=3D"ht=
+tp://www.google.com/appserve/mkt/1BfuSPZg3ZhIPD1y4Q0F1i" style=3D"text-deco=
+ration: none; color:#1155cc;">Learn more &raquo;</a>
+							        	<br /><br />
+							        	If you are a user of the above products, but use the Google=
+ Checkout APIs for notifications or reporting, stay tuned. We will be annou=
+ncing replacement APIs shortly and recommend you stop using the Checkout AP=
+Is as soon as possible.
+							        	<br /><br />
+							        	<a href=3D"http://www.google.com/appserve/mkt/1cUeTXVxXiN61=
+xrFrgbZjA" style=3D"text-decoration: none; color:#1155cc;">Learn more</a> a=
+bout integration types, the best migration solution for your business and n=
+ext steps on closing your Checkout account.
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px; line-he=
+ight:26px; color:#222222;">
+							        	What this means for shoppers
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	There are no changes. Shoppers can continue to use Google W=
+allet to purchase goods wherever they see the "Buy with Google" button.
+									</td>
+								</tr>
+								<tr>
+								    <td width=3D"100%" style=3D"padding: 0 20px;">
+								        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:=
+normal; font-size:13px; line-height:18px; color:#444444; padding: 0; margin=
+: 0;">
+								            <tr>
+								                <td width=3D"100%" height=3D"30" style=3D"border-co=
+llapse:collapse; border-bottom: 1px solid #e5e5e5;">&nbsp;</td>
+								            </tr>
+								        </table>
+								    </td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px; line-he=
+ight:26px; color:#222222;">
+							        	More details
+									</td>
+								</tr>
+								<tr>
+								    <td width=3D"100%" style=3D"padding: 15px 20px 0;">
+								        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:=
+normal; font-size:13px; line-height:18px; color:#444444; padding: 0; margin=
+: 0;">
+								            <tr>
+								                <td width=3D"5%" align=3D"right" valign=3D"top">
+    								                &bull;
+								                </td>
+								                <td width=3D"95%" align=3D"left" valign=3D"top" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-si=
+ze:13px; line-height:18px; color:#222222; padding: 0 0 0 10px;">
+								                    We will continue to process Checkout transactio=
+ns until November 20, 2013. The last date for refunds will be December 20, =
+2013.
+								                </td>
+								            </tr>
+								            <tr>
+								                <td width=3D"5%" align=3D"right" valign=3D"top" sty=
+le=3D"padding: 15px 0 0;">
+    								                &bull;
+								                </td>
+								                <td width=3D"95%" align=3D"left" valign=3D"top" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-si=
+ze:13px; line-height:18px; color:#222222; padding: 15px 0 0 10px;">
+								                    After November 20, 2013, all order reports and =
+history will be available for download.
+								                </td>
+								            </tr>
+								            <tr>
+								                <td width=3D"5%" align=3D"right" valign=3D"top" sty=
+le=3D"padding: 15px 0 0;">
+    								                &bull;
+								                </td>
+								                <td width=3D"95%" align=3D"left" valign=3D"top" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-si=
+ze:13px; line-height:18px; color:#222222; padding: 15px 0 0 10px;">
+								                    In order to help us disburse all funds to you a=
+nd file your tax forms properly, please verify that your Tax ID and busines=
+s name match what is shown on your income tax return.
+								                </td>
+								            </tr>
+								            <tr>
+								                <td width=3D"5%" align=3D"right" valign=3D"top" sty=
+le=3D"padding: 15px 0 0;">
+    								                &bull;
+								                </td>
+								                <td width=3D"95%" align=3D"left" valign=3D"top" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-si=
+ze:13px; line-height:18px; color:#222222; padding: 15px 0 0 10px;">
+								                    You will see slight changes to the Merchant Cen=
+ter as we go through this process with you.
+								                </td>
+								            </tr>
+								        </table>
+								    </td>
+								</tr>
+								<tr>
+								    <td width=3D"100%" style=3D"padding: 0 20px;">
+								        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:=
+normal; font-size:13px; line-height:18px; color:#444444; padding: 0; margin=
+: 0;">
+								            <tr>
+								                <td width=3D"100%" height=3D"30" style=3D"border-co=
+llapse:collapse; border-bottom: 1px solid #e5e5e5;">&nbsp;</td>
+								            </tr>
+								        </table>
+								    </td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 20px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:20px; line-he=
+ight:26px; color:#222222;">
+							        	More help
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 15px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	To learn more about this change, we invite you to <a href=
+=3D"http://www.google.com/appserve/mkt/7IZMPVlvu0gHy1yIRIb5Go" style=3D"tex=
+t-decoration: none; color:#1155cc;">join us</a> for our live webinar on May=
+ 23, 2013, at 10AM PST. As always, feel free to <a href=3D"http://www.googl=
+e.com/appserve/mkt/1wiNyojJIjeJKsFX7ugFpC" style=3D"text-decoration: none; =
+color:#1155cc;">contact us</a> at any time. We look forward to working with=
+ you as we explore new payment methods.
+									</td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 25px 20px 0; font-famil=
+y:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-he=
+ight:18px; color:#222222;">
+							        	Sincerely,
+							        	<br />
+							        	The Google Checkout Team
+									</td>
+								</tr>
+								<tr>
+								    <td width=3D"100%" style=3D"padding: 0 20px;">
+								        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-weight:=
+normal; font-size:13px; line-height:18px; color:#444444; padding: 0; margin=
+: 0;">
+								            <tr>
+								                <td width=3D"100%" height=3D"30" style=3D"border-co=
+llapse:collapse; border-bottom: 1px solid #e5e5e5;">&nbsp;</td>
+								            </tr>
+								        </table>
+								    </td>
+								</tr>
+								<tr>
+						        	<td width=3D"100%" style=3D"padding: 15px 20px; font-family:=
+Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-heig=
+ht:18px; color:#222222;">
+							        	<a href=3D"http://www.google.com/appserve/mkt/3i5kXaGPkCEji=
+oWAzrSaeZ" style=3D"text-decoration: none; color:#1155cc;">Google Wallet</a=
+> | <a href=3D"http://www.google.com/appserve/mkt/78XR4g7Aw69wZC8Q7LnVam" s=
+tyle=3D"text-decoration: none; color:#1155cc;">Help Center</a> | <a href=3D=
+"http://www.google.com/appserve/mkt/0ZTw3BMKLgCaIWvOIvblnT" style=3D"text-d=
+ecoration: none; color:#1155cc;">Call support</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+	    	</div>
+<!--[if lte mso 7]>
+</td></tr></table>
+<![endif]-->
+<!--[if gte mso 9]>
+</td></tr></table>
+<![endif]-->
+		</td>
+	</tr>
+	<!-- !footer -->
+	<tr>
+		<td align=3D"center" bgcolor=3D"#ffffff" style=3D"background-color: #ffff=
+ff; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size=
+:10px; line-height:15px; color:#777777; border-collapse:collapse; padding: =
+20px 0;">
+<!-- Target Outlook 2003 -->
+<!--[if lte mso 7]>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse; table-width:fixed;" align=3D"center">
+<tr><td style=3D"width:600px !important;">
+<![endif]-->
+<!-- Target Outlook 2007 and 2010 -->
+<!--[if gte mso 9]>
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"border-collapse:collapse; table-width:fixed;" align=3D"center">
+<tr><td style=3D"width:600px !important;">
+<![endif]-->
+			<div style=3D"max-width: 600px; margin: 0 auto; padding: 0 10px;">
+				<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+align=3D"center" style=3D"max-width: 600px; padding: 0; margin: 0; font-fam=
+ily:Arial, Helvetica, sans-serif; font-weight:normal; font-size:13px; line-=
+height:18px; color:#444444; text-align: center;">
+					<tr>
+						<td width=3D"100%">
+							<p style=3D"font-size: 10px; line-height: 15px; color: #777777; marg=
+in: 0; padding: 0;"><span class=3D"forApple">&copy; 2013 Google Inc. 1600 A=
+mphitheatre Parkway, Mountain View, CA 94043</span><br /><br />You have rec=
+eived this mandatory email service announcement to update you <br />about i=
+mportant changes to your Google Checkout account.</p>
+						</td>
+					</tr>
+				</table>
+			</div>
+<!--[if lte mso 7]>
+</td></tr></table>
+<![endif]-->
+<!--[if gte mso 9]>
+</td></tr></table>
+<![endif]-->
+		</td>
+	</tr>
+</table>
+
+<img height=3D"1" width=3D"3" src=3D"http://www.google.com/appserve/mkt/img=
+/3Wgd2NBbxVSJ5EoQRe7ejW.gif">
+</body>
+</html>
+
+--089e0122f1c23417ac04dd2e7a3d--

@@ -1,0 +1,565 @@
+Return-path: <bounce-mc.us5_10088423.153029-bethann=operationspokaneheroes.org@mail20.us4.mcsv.net>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Thu, 15 Nov 2012 14:06:07 -0600
+Received: from mail20.us4.mcsv.net ([205.201.128.20]:51182)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <bounce-mc.us5_10088423.153029-bethann=operationspokaneheroes.org@mail20.us4.mcsv.net>)
+	id 1TZ5hP-00009j-Bl
+	for bethann@operationspokaneheroes.org; Thu, 15 Nov 2012 14:06:07 -0600
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail20.us4.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type; i=marketing=3Dguidebycell.com@mail20.us4.mcsv.net;
+ bh=QRD/Ct43gLM6rFVhDyz+b8W0+l8=;
+ b=Rr82dS7u2Un0FEd0k9rj+aVgWHo3NGTYAYIl48IdS5XDyxCR+ohD8904BsXJyUWJyUKZLBvoufXq
+   vCv0Nl72k1gdoI6Z16VBCd03+vqf/42UpsEhH0cEQmN/0XSBcl/8FQzjProo/711Hq8nUQK72/jl
+   UuPeZ9APhCiq088MXJk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail20.us4.mcsv.net;
+ b=LVlBI9WHogFtqJGtmzIUozDFTyIUfQ/8PEaFDTZ8vcyAxojDbY+DzyPWTKObLNyhQdE9cdwhpkee
+   dW8lLcoGc2n1vqm51tMXN/oCIx4xhgwDy32rYXC30YvdF6D4Z8jyJsMZ1h64hwlxWQ0xs4ZEIK/G
+   xmNI/3LXY7cWupQ60sQ=;
+Received: from (127.0.0.1) by mail20.us4.mcsv.net id hkl5j014huok for <bethann@operationspokaneheroes.org>; Thu, 15 Nov 2012 20:06:00 +0000 (envelope-from <bounce-mc.us5_10088423.153029-bethann=operationspokaneheroes.org@mail20.us4.mcsv.net>)
+Subject: =?utf-8?Q?2012=20BBB=20Mobile=20Giving=20Forum?=
+From: =?utf-8?Q?Guide=20by=20Cell?= <marketing@guidebycell.com>
+Reply-To: =?utf-8?Q?Guide=20by=20Cell?= <marketing@guidebycell.com>
+To: <bethann@operationspokaneheroes.org>
+Date: Thu, 15 Nov 2012 20:06:00 +0000
+Message-ID: <ca355d977d6503a80379b8e1f63b8777989.20121115200543@mail20.us4.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID95f112ba3863b8777989**
+X-Campaign: mailchimpca355d977d6503a80379b8e1f.95f112ba38
+X-campaignid: mailchimpca355d977d6503a80379b8e1f.95f112ba38
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=ca355d977d6503a80379b8e1f&id=95f112ba38&e=63b8777989
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-ca355d977d6503a80379b8e1f-95f112ba38-63b8777989@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://guidebycell.us5.list-manage1.com/unsubscribe?u=ca355d977d6503a80379b8e1f&id=5efd1366a9&e=63b8777989&c=95f112ba38>
+Sender: "Guide by Cell" <marketing=guidebycell.com@mail20.us4.mcsv.net>
+x-mcda: FALSE
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <!-- Facebook sharing information tags -->
+        <meta property="og:title" content="2012 BBB Mobile Giving Forum">
+        
+        <title>2012 BBB Mobile Giving Forum</title>
+		
+	<style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		body{
+			width:100% !important;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		body{
+			-webkit-text-size-adjust:none;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		table td{
+			border-collapse:collapse;
+		}
+		#backgroundTable{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		body,#backgroundTable{
+			background-color:#FAFAFA;
+		}
+		#templateContainer{
+			border:1px solid #DDDDDD;
+		}
+		h1,.h1{
+			color:#202020;
+			display:block;
+			font-family:Arial;
+			font-size:34px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h2,.h2{
+			color:#202020;
+			display:block;
+			font-family:Arial;
+			font-size:30px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h3,.h3{
+			color:#202020;
+			display:block;
+			font-family:Arial;
+			font-size:26px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h4,.h4{
+			color:#202020;
+			display:block;
+			font-family:Arial;
+			font-size:22px;
+			font-weight:bold;
+			line-height:100%;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#FFFFFF;
+		}
+		.preheaderContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:10px;
+			line-height:100%;
+			text-align:left;
+		}
+		.preheaderContent div a:link,.preheaderContent div a:visited,.preheaderContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#FFFFFF;
+			border-bottom:0;
+		}
+		.headerContent{
+			color:#202020;
+			font-family:Arial;
+			font-size:34px;
+			font-weight:bold;
+			line-height:100%;
+			padding:0;
+			text-align:center;
+			vertical-align:middle;
+		}
+		.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#headerImage{
+			height:auto;
+			max-width:600px;
+		}
+		#templateContainer,.bodyContent{
+			background-color:#FFFFFF;
+		}
+		.bodyContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		.bodyContent div a:link,.bodyContent div a:visited,.bodyContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.bodyContent img{
+			display:inline;
+			height:auto;
+		}
+		#templateSidebar{
+			background-color:#FFFFFF;
+			border-left:0;
+		}
+		.sidebarContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		.sidebarContent div a:link,.sidebarContent div a:visited,.sidebarContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.sidebarContent img{
+			display:inline;
+			height:auto;
+		}
+		.leftColumnContent{
+			background-color:#FFFFFF;
+		}
+		.leftColumnContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		.leftColumnContent div a:link,.leftColumnContent div a:visited,.leftColumnContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.leftColumnContent img{
+			display:inline;
+			height:auto;
+		}
+		.centerColumnContent{
+			background-color:#FFFFFF;
+		}
+		.centerColumnContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		.centerColumnContent div a:link,.centerColumnContent div a:visited,.centerColumnContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.centerColumnContent img{
+			display:inline;
+			height:auto;
+		}
+		.rightColumnContent{
+			background-color:#FFFFFF;
+		}
+		.rightColumnContent div{
+			color:#505050;
+			font-family:Arial;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		.rightColumnContent div a:link,.rightColumnContent div a:visited,.rightColumnContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.rightColumnContent img{
+			display:inline;
+			height:auto;
+		}
+		#templateFooter{
+			background-color:#F8F8F8;
+			border-top:0;
+		}
+		.footerContent div{
+			color:#707070;
+			font-family:Arial;
+			font-size:12px;
+			line-height:125%;
+			text-align:left;
+		}
+		.footerContent div a:link,.footerContent div a:visited,.footerContent div a .yshortcuts {
+			color:#336699;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.footerContent img{
+			display:inline;
+		}
+		#social{
+			background-color:#F8F8F8;
+			border:0;
+		}
+		#social div{
+			text-align:center;
+		}
+		#utility{
+			background-color:#F8F8F8;
+			border:0;
+		}
+		#utility div{
+			text-align:center;
+		}
+		#monkeyRewards img{
+			max-width:190px;
+		}
+		.headerContent a{
+			color:#333333;
+			text-decoration:none;
+		}
+		body,#backgroundTable{
+			background-color:#FFFFFF;
+		}
+</style></head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #FFFFFF;width: 100% !important;">
+    	<center>
+        	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable" style="margin: 0;padding: 0;background-color: #FFFFFF;height: 100% !important;width: 100% !important;">
+            	<tr>
+                	<td align="center" valign="top" style="border-collapse: collapse;">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border="0" cellpadding="10" cellspacing="0" width="600" id="templatePreheader" style="background-color: #FFFFFF;">
+                            <tr>
+                                <td valign="top" class="preheaderContent" style="border-collapse: collapse;">
+                                
+                                	<!-- // Begin Module: Standard Preheader \ -->
+                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                    	<tr>
+                                        	<td valign="top" style="border-collapse: collapse;">
+                                            	<div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;"></div>
+                                            </td>
+                                            <!-- 
+ -->
+											<td valign="top" width="190" style="border-collapse: collapse;">
+                                            	<div style="color: #505050;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                	Is this email not displaying correctly?<br><a href="http://us5.campaign-archive1.com/?u=ca355d977d6503a80379b8e1f&id=95f112ba38&e=63b8777989" target="_blank" style="color: #336699;font-weight: normal;text-decoration: underline;">View it in your browser</a>.
+                                                </div>
+                                            </td>
+											<!-- 
+ -->
+                                        </tr>
+                                    </table>
+                                	<!-- // End Module: Standard Preheader \ -->
+                                
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border: 1px solid #DDDDDD;background-color: #FFFFFF;">
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader" style="background-color: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class="headerContent" style="border-collapse: collapse;color: #202020;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center;vertical-align: middle;">
+                                            
+                                            	<!-- // Begin Module: Standard Header Image \\ -->
+                                            	<div style="text-align: left;"><a href="http://guidebycell.us5.list-manage1.com/track/click?u=ca355d977d6503a80379b8e1f&id=51943be5e8&e=63b8777989" style="color: #336699;text-decoration: underline;font-weight: normal;"><img src="http://gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/EBlast_Give_by_Cell_FLAG_HOLIDAY.png" alt="Give by Cell" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 103px;width: 597px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline: none;text-decoration: none;" width="597" height="103" id="headerImage campaign-icon"></a></div>
+                                            	<!-- // End Module: Standard Header Image \\ -->
+                                            
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                                    	<tr>
+                                        	<td valign="top" style="border-collapse: collapse;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="400">
+                                                	<tr>
+                                                    	<td valign="top" style="border-collapse: collapse;">
+                                                        	<table border="0" cellpadding="0" cellspacing="0" width="400">
+                                                            	<tr>
+                                                                	<td valign="top" class="bodyContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                        
+                                                                        <!-- // Begin Module: Standard Content \\ -->
+                                                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                                            <tr>
+                                                                                <td valign="top" style="border-collapse: collapse;">
+						                                                            <div style="color: #505050;font-family: Arial;font-size: 14px;line-height: 150%;text-align: left;"><h1 class="h1" style="text-align: center;color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;">
+	<span style="font-size:18px;">Mobile Fundraising Leaders to Speak&nbsp;<br>
+	at 3rd Annual BBB Mobile Giving Forum<br>
+	<br>
+	&nbsp;</span><img align="none" height="165" src="http://gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/EBlast_Mobile_Donate_Holiday_Gift_2.png" style="font-size: 18px;height: 165px;line-height: 20px;width: 300px;border: 0;outline: none;text-decoration: none;display: inline;" width="300"></h1>
+<br>
+<span style="color:#000000;">The BBB Mobile Giving Foundation is hosting the 3<sup>rd</sup> Annual BBB Mobile Giving Forum on December 5<sup>th</sup> in Washington, D.C., and Give by Cell&rsquo;s CEO, Dave Asheim, has been invited to speak, along with fellow industry experts. The Forum offers a day-long program on the advancement of non-profit donor engagement via mobile as well as mobile giving campaign strategies and how they fit into broader fund-development and mobile-marketing initiatives.&nbsp;For more information, <a href="http://guidebycell.us5.list-manage.com/track/click?u=ca355d977d6503a80379b8e1f&id=3f7f9e8274&e=63b8777989" target="_blank" style="color: #336699;font-weight: normal;text-decoration: underline;">please click here</a>.&nbsp;<br>
+<br>
+Dave&#39;s&nbsp;introductory session will cover the topics and best practices&nbsp;every nonprofit organization needs to know to achieve success in their text-to-give campaigns. For more experienced charities in mobile giving, this session offers a nice refresher on the basics. To register for the forum, </span><a href="http://guidebycell.us5.list-manage.com/track/click?u=ca355d977d6503a80379b8e1f&id=c102a0ddf3&e=63b8777989" target="_blank" style="color: #336699;font-weight: normal;text-decoration: underline;">please click here</a><em>.</em><br>
+<br>
+<span style="color:#000000;">Let us know if you will be attending the Forum. If you are unable to make it, Dave will conduct an introductory session in December via webinar, so please give us a call or email to sign-up and learn more.</span><br>
+<p style="margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; color: rgb(51, 51, 51); font-family: Arial, sans-serif; line-height: 20px;">
+	<br>
+	<span style="font-size:14px;"><span style="font-family: tahoma, geneva, sans-serif;"><span style="color: rgb(0, 0, 0);">Best,<br>
+	<br>
+	Jessica Dal Porto</span><br>
+	<span style="color: rgb(0, 0, 0);">Director of Marketing</span><br>
+	<span style="color: rgb(0, 0, 0);">Give by Cell<br>
+	P: (415) 615-0150</span><br>
+	<a href="mailto:Jessica@givebycell.com?subject=BBB%20Forum" target="_blank" style="color: #336699;font-weight: normal;text-decoration: underline;">Jessica@givebycell.com</a><br>
+	<a href="http://guidebycell.us5.list-manage1.com/track/click?u=ca355d977d6503a80379b8e1f&id=dff77f2b02&e=63b8777989" target="_blank" style="color: #336699;font-weight: normal;text-decoration: underline;">www.givebycell.com</a></span></span><br>
+	&nbsp;</p>
+</div>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                        <!-- // End Module: Standard Content \\ -->
+                                                                        
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>                                                
+                                            </td>
+                                        	<!-- // Begin Sidebar \\  -->
+                                        	<td valign="top" width="200" id="templateSidebar" style="border-collapse: collapse;background-color: #FFFFFF;border-left: 0;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="200">
+                                                	<tr>
+                                                    	<td valign="top" class="sidebarContent" style="border-collapse: collapse;">
+                                                        
+                                                            <!-- // Begin Module: Social Block with Icons \\ -->
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                <tr>
+                                                                    <td valign="top" style="padding-top: 10px;padding-right: 20px;padding-left: 20px;border-collapse: collapse;">
+                                                                        <table border="0" cellpadding="0" cellspacing="4">
+                                                                            
+                                                                            
+                                                                            <tr mc:hideable="hideable_3" mchideable="hideable_3">
+                                                                                <td align="left" valign="middle" width="16" style="border-collapse: collapse;">
+                                                                                    <img src="http://gallery.mailchimp.com/653153ae841fd11de66ad181a/images/sfs_icon_forward.png" style="margin: 0 !important;border: 0;height: auto;line-height: 100%;outline: none;text-decoration: none;display: inline;">
+                                                                                </td>
+                                                                                <td align="left" valign="top" style="border-collapse: collapse;">
+                                                                                    <div style="color: #505050;font-family: Arial;font-size: 12px;line-height: 150%;text-align: left;">
+                                                                                        <a href="http://us5.forward-to-friend2.com/forward?u=ca355d977d6503a80379b8e1f&id=95f112ba38&e=63b8777989" style="color: #336699;font-weight: normal;text-decoration: underline;">Forward to a Friend</a>
+                                                                                    </div>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <!-- // End Module: Social Block with Icons \\ -->
+
+                                                            <!-- // Begin Module: Top Image with Content \\ -->
+                                                            <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                                <tr mc:repeatable="repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1_1" mchideable="hideable_repeat_1_1">
+                                                                    <td valign="top" style="border-collapse: collapse;">
+                                                                        <a href="http://guidebycell.us5.list-manage.com/track/click?u=ca355d977d6503a80379b8e1f&id=59b512a44e&e=63b8777989"><img src="http://gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/EBlast_Mobile_Websites_BANNER_3.101a11f.png" alt="www.givebycell.com" border="0" style="border: px none;border-color: ;border-style: none;border-width: px;height: 160px;width: 160px;margin: 0;padding: 0;max-width: 160px;line-height: 100%;outline: none;text-decoration: none;display: inline;" width="160" height="160"></a>
+                                                                        <div style="color: #505050;font-family: Arial;font-size: 12px;line-height: 150%;text-align: left;"><h4 class="h4" style="color: #202020;display: block;font-family: Arial;font-size: 22px;font-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">
+	Want to learn more?&nbsp;</h4>
+<span style="font-size:12px;"><span style="font-family: tahoma, geneva, sans-serif;"><a href="http://guidebycell.us5.list-manage2.com/track/click?u=ca355d977d6503a80379b8e1f&id=1ec42f4d80&e=63b8777989" style="color: rgb(51, 102, 153);font-weight: normal;text-decoration: underline;" target="_blank">Fill out this form for an informational webinar.</a></span></span></div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <!-- // End Module: Top Image with Content \\ -->
+                                                        
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <!-- // End Sidebar \\ -->
+                                        </tr>
+                                        <tr>
+                                        	<td colspan="2" valign="top" width="600" style="border-collapse: collapse;">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="600">
+                                                	<tr>
+                                                    	<td valign="top" width="180" class="leftColumnContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                        
+                                                            <!-- // Begin Module: Top Image with Content \\ -->
+                                                            <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                                
+                                                            </table>
+                                                            <!-- // End Module: Top Image with Content \\ -->
+                                                        
+                                                        </td>
+                                                        <td valign="top" width="180" class="centerColumnContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                        
+                                                            <!-- // Begin Module: Top Image with Content \\ -->
+                                                            <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                                
+                                                            </table>
+                                                            <!-- // End Module: Top Image with Content \\ -->
+                                                        
+                                                        </td>
+                                                        <td valign="top" width="180" class="rightColumnContent" style="border-collapse: collapse;background-color: #FFFFFF;">
+                                                        
+                                                            <!-- // Begin Module: Top Image with Content \\ -->
+                                                            <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                                
+                                                            </table>
+                                                            <!-- // End Module: Top Image with Content \\ -->
+                                                        
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top" style="border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border="0" cellpadding="10" cellspacing="0" width="600" id="templateFooter" style="background-color: #F8F8F8;border-top: 0;">
+                                    	<tr>
+                                        	<td valign="top" class="footerContent" style="border-collapse: collapse;">
+                                            
+                                                <!-- // Begin Module: Standard Footer \\ -->
+                                                <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" id="social" style="border-collapse: collapse;background-color: #F8F8F8;border: 0;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center;"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top" width="350" style="border-collapse: collapse;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: left;">
+																<em>Copyright &copy; 2012 Guide by Cell, All rights reserved.</em>
+																<br>
+																
+ You are receiving this email because of your relationship with Give by Cell. Please <a href="mailto:marketing@givebycell.com?subject=Reconfirm Subscription">reconfirm</a> your interest in receiving emails from us. If you do not wish to receive any more emails, you can unsubscribe <a href="mailto:marketing@givebycell.com?subject=Unsubscribe">here</a>.
+																<br>
+																<strong>Our mailing address is:</strong>
+																<br>
+																<div class="vcard"><span class="org fn">Guide by Cell</span><div class="adr"><div class="street-address">300 Beale Street</div><div class="extended-address">Suite 608</div><span class="locality">San Francisco</span>, <span class="region">CA</span>  <span class="postal-code">94105</span></div><br><a href="http://guidebycell.us5.list-manage.com/vcard?u=ca355d977d6503a80379b8e1f&id=5efd1366a9" class="hcard-download">Add us to your address book</a></div>
+ 
+                                                            </div>
+                                                        </td>
+                                                        <td valign="top" width="190" id="monkeyRewards" style="border-collapse: collapse;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: left;">
+                                                                
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2" valign="middle" id="utility" style="border-collapse: collapse;background-color: #F8F8F8;border: 0;">
+                                                            <div style="color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-align: center;">
+                                                                &nbsp;<a href="http://guidebycell.us5.list-manage1.com/unsubscribe?u=ca355d977d6503a80379b8e1f&id=5efd1366a9&e=63b8777989&c=95f112ba38" style="color: #336699;font-weight: normal;text-decoration: underline;">unsubscribe from this list</a> | <a href="http://guidebycell.us5.list-manage1.com/profile?u=ca355d977d6503a80379b8e1f&id=5efd1366a9&e=63b8777989" style="color: #336699;font-weight: normal;text-decoration: underline;">update subscription preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standard Footer \\ -->
+                                            
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="http://guidebycell.us5.list-manage.com/track/open.php?u=ca355d977d6503a80379b8e1f&id=95f112ba38&e=63b8777989" height="1" width="1"></body>
+</html>

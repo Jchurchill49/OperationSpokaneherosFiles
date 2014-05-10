@@ -1,0 +1,326 @@
+
+
+  <link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js">
+</script>
+  <link href="../css/tabbedContent.css" rel="stylesheet" type="text/css" />
+<script src="../js/tabbedContent.js" type="text/javascript">
+</script>
+
+<div style="padding: 5;">
+<div class="content">
+
+<div class="tabbed_content">
+<div class="tabs">
+<div style="left: 0px;" class="moving_bg">
+&nbsp;</div>
+<span class="tab_item">
+A-F</span>
+<span class="tab_item">
+G-N</span><span class="tab_item">O-T</span><span class="tab_item">U-Z</span></div>
+<div class="slide_content">
+  <div style="margin-left: 0px;" class="tabslider">
+    <ul>
+      <li>  AStar
+Auto Class<br />
+
+7614 N. Market, 467-6809
+10% off all auto glass replacements or ½ of insurance deductibles when
+billing your insurance company. Valid for Fairchild & military personnel
+showing valid I.D.<br /><br />
+
+
+Air Cooled Engine Supply<br />
+
+1419 W. First, 624-8926
+10% discount on parts, variable discount<br /><br />
+
+
+Allegro Baroque & Beyond<br />
+
+455-6865, Dave Dutton, office@allegrobaroque.org
+$5.00 admission to concerts at the Metropolitan Performing Arts Center
+in Spokane for tickets purchased on day of performance (RUSH ticket)<br /><br />
+
+
+AMC River Park Square 20<br />
+
+747-3456, recording or 458-7578 theatre
+After 6 pm adult ticket price $6.50 ($2 discount)<br /><br />
+
+
+Anheuser Busch Co, Inc.<br />
+
+Free admission one time for deployed military and their families at Sea
+World in Orlando, Florida, San Antonio and San Diego; and Busch Gardens
+in Tampa, Florida and Williamsburg, Virginia.<br /><br />
+
+
+Best Western Peppertree Liberty Lake Inn<br />
+
+1816 N. Pepper Lane, 624-4655
+Government rate with valid military I.D. and gift at check-in.<br />
+<br />
+
+Blue Door Theatre<br />
+
+815 W Garland, 747-7045
+Military rate for any Friday night 8pm show is $6. This is $2 off the
+regular price. http://www.bluedoortheatre.com/<br />
+<br />
+
+Buckhorn<br />
+
+13311 W. Sunset Hwy, Airway Heights, 244-3991
+10% off meal with valid military I.D. (valid only on food items)<br />
+<br />
+
+CenterStage and Ella's Supper Club<br />
+
+1017 W. 1st Ave., 74-STAGE
+20% discount off food and drink in ella's Supper Club and the Library
+Lounge every Thursday for active and retired military.<br />
+<br />
+
+Chili's—Northtown Mall<br />
+
+50% off food for uniformed military only
+25% off food for uniformed military and guest<br />
+<br />
+
+Conner Dudley Communications<br />
+
+448-4705,
+20% discount on professional fees for any company which employs military
+reservists or retired military personnel.<br />
+<br />
+
+Cunningham Studio<br />
+
+9013 E. Frederick
+Free professional photo session for families impacted by deployment.
+Certificate entitles you to a free professional photo session at the
+studio plus 8 free wallet photos ($95-$115 value). Certificates available
+at Family Support Center.<br />
+<br />
+
+Dairy Queen—Northtown Mall, 482-7503<br />
+
+.60 cents off any Blizzard<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li>
+      
+    </ul>
+    <ul>
+      <li>Greater Spokane Incorporated<br />
+
+P. (509) 624-1393
+F. (509) 747-0077
+801 W. Riverside, Suite 100
+Spokane, WA 99201
+www.greaterspokaneincorporated.org<br />
+<br />Gordon's Jewelers—Northtown Mall<br />
+
+Gordon's Credit Card-interest rate 6% with verbal notification of military
+leave. Send written notification to credit center to follow-up<br />
+<br />
+
+Green Gables Photography—727 W. Francis Ave, 326-7412<br />
+
+In gratitude for your service to the people of this nation receive 10% off all
+pricing, including already discounted packages from the following categories:
+families, couples, individuals, pets, glamour and high school seniors.
+We thank you for your service.
+Visit our website at http://www.greengables.biz/.<br /><br /> Holiday Inn Express—Downtown Spokane<br />
+
+801 N. Division "on the rock", 328-8505
+ military rates available at both hotels (current government per diem rate).  Rate includes hot Express Start Breakfast Buffet from 6:30-9:30am, freshly baked cookies and milk served 7pm, free local and access phone calls, free parking, 24 hour business center, free high speed wired and wireless internet, shuttle upon confirmed reservation, manager reception with light meal, beer & wine on Monday, Tuesday and Wednesday evenings from 5:00-7:00pm.<br />
+<br />
+
+Homestead Birkenstock—Northtown Mall<br />
+ 482-4515
+10% off any regular priced item<br />
+<br />
+
+Huntington Learning Center<br />
+
+893-9000
+Free diagnostic evaluation. 10% discount on instruction; corrective
+reading, math, writing, study skills, SAT-ACT prep.<br />
+<br />
+LCD Exposition Services<br />
+
+www.lcdexpo.com (509) 325-9656<br />
+
+Military discounts available. Thank you for your service to our country.<br /><br />
+
+
+M.R.P. Services<br />
+
+ PMB 135—6208 N. Division,
+1-800-200-0457
+$20 off any service; clogged drains, broken pipes, septic &
+grease pumping, video inspection, hydro-jetting.<br />
+<br />
+
+Mastercuts—Northtown Mall<br />
+ 482-4000
+20% off all products or services
+Medical Lake School District
+116 W. Third St., Medical Lake, 565-3200
+Messages of support and other activities
+Mia & Maxx—Northtown Mall, 484-1111
+20% off services and products<br />
+<br />
+
+Mobius/Science Center (formerly Children's Museum of Spokane)
+624-5437
+$5 off membership; $1 off daily rate<br />
+<br />
+
+Money Concepts Financial Planning Center
+8605 N Valerie, 467-2529
+Free initial consultation and 10% discount on all fees thereafter.<br />
+<br />
+
+Motion Auto Supply<br />
+
+120 S. Cedar, 838-1465
+1217 E. Francis, 489-9731
+12722 W. Sunset Highway, 244-6920
+9525 E. 1st, 921-1556
+up to 20% discount on automotive parts & supplies<br />
+<br />
+
+Northern Quest Casino<br />
+ 100 N. Hayford Rd., Airway Heights, 242-7000
+$2 off any meal at the Rivers Edge Buffet<br />
+<br />
+
+
+
+</li>
+    </ul>
+    <ul>
+      <li>Peters & Sons Flowers & Gifts<br />
+829 W. Riverside, 624-4152
+25% off all plush animals<br /><br />
+
+
+Placidus Massage Center<br />
+424 S. Sullivan Rd, Ste 304, 922-1735
+Placidus Massage Center would like to thank the military men and
+women of Fairchild AFB for their dedication and protection of our freedom.
+In appreciation for your service to our country, until further notice,
+Placidus Massage Center is offering all services at a 20% discount to
+active duty service members and their spouses.<br />
+<br />
+
+Pohl Spring Works—6415 E. Nixon<br />
+ 535-3648
+10% off any auto repair service.<br />
+<br />
+
+PrePaid
+Legal Services, Inc.—Spokane Valley, WA,<br />
+ 979-4927
+I personally will give a credit of $10 for any new enrollment in legal plan
+and ID theft shield to be used toward ITC with military ID.
+Some restrictions apply. Call for details.
+<br />
+
+
+<br /> Ramada Inn—Spokane Airport<br />
+ 838-5211
+Government room rates available to all who who military ID; 30% off any
+suite to all who show military ID and mention Spokane Heroes; 20% off
+food or beverage purchase with military ID<br />
+<br />
+
+Regis Salon—Northtown Mall<br />
+ 483-3888
+20% off any full-priced product
+Salvation Army Thrift Store
+2020 N. Division, 325-6805
+20% off all purchases Monday through Saturday<br />
+<br />
+
+SBARRO—Northtown Mall<br />
+ 487-9012
+10% off everything
+Season Ticket
+1221 N. Howard, 327-9790
+10% discount with military ID<br />
+<br />
+
+Spartan Cutlery—Northtown Mall, 482-7554
+10% military discount on knives, excluding sale
+prices and kitchen cutlery<br />
+<br />
+
+Spokane Veterans Memorial Arena<br />
+
+720 W. Mallon, 324-0711
+Group discounts available for most family shows.
+Must mention "Operation Spokane Heroes" to qualify.<br />
+<br />
+
+Sylvan Learning Center<br />
+
+2527 E. 27th, 462-7300
+10% off<br />
+<br />
+
+Taco Time—Airway Heights, 244-8226
+10% off order with valid military ID<br />
+<br />
+
+The Viking<br />
+
+1221 N. Stevens, 326-2942
+10% discount with military ID
+Tony Roma's
+7640 N. Division, 482-7180
+10% discount<br />
+<br />
+
+Travelodge—33 W. Spokane Falls Blvd., 623-9727
+Government discounts on room rent</li>
+    </ul>
+    <ul>
+      <li> YMCA of the Inland Northwest — CentralY,
+
+NorthY
+and ValleyY<br />
+
+www.ymcaspokane.org (509) 777-9622<br />
+
+Free military memberships/ through DoD and Armed Service YMCA for
+families of the deployed—National Guard, Reserve and Active Duty Assigned to Independent Duty Locations. 
+Military Corporate Membership Discounts for Active, Reserve, Nat’l Grd
+include 50% off the joiner fee and 10% off the monthly draft.
+</li>
+    </ul>
+  </div>
+  <br style="clear: both;" />
+</div>
+</div>
+
+</div>
+</div>

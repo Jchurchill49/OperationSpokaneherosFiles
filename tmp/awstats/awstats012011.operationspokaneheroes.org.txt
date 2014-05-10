@@ -1,0 +1,332 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201101 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1986                
+POS_TIME 2666                
+POS_VISITOR 7689                
+POS_DAY 8717                
+POS_DOMAIN 3332                
+POS_LOGIN 3588                
+POS_ROBOT 3743                
+POS_WORMS 4031                
+POS_EMAILSENDER 4162                
+POS_EMAILRECEIVER 4305                
+POS_SESSION 8880                
+POS_SIDER 9080                
+POS_FILETYPES 4440                
+POS_OS 4619                
+POS_BROWSER 4741                
+POS_SCREENSIZE 4951                
+POS_UNKNOWNREFERER 5025                
+POS_UNKNOWNREFERERBROWSER 5144                
+POS_ORIGIN 5258                
+POS_SEREFERRALS 5393                
+POS_PAGEREFS 5548                
+POS_SEARCHWORDS 5839                
+POS_KEYWORDS 6069                
+POS_MISC 2330                
+POS_ERRORS 6219                
+POS_CLUSTER 3444                
+POS_SIDER_404 6304                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110201010316 460 135791 32818623894
+FirstTime 20110128115009
+LastTime 20110131233938
+LastUpdate 20110201060740 460 0 459 0 0
+TotalVisits 43                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 1 5 10647
+1 5 25 36899 0 18 1149
+2 0 0 0 0 2 5768
+3 2 35 1964064 0 5 0
+4 0 0 0 2 2 9550
+5 3 3 30050 0 0 0
+6 0 0 0 1 1 0
+7 2 27 1294875 4 15 34297
+8 0 0 0 0 0 0
+9 1 11 11994 0 3 0
+10 0 0 0 0 0 0
+11 3 47 1975452 0 8 0
+12 4 37 1977916 7 20 42994
+13 8 69 1396776 1 27 12243
+14 2 16 440464 8 27 23128
+15 2 22 11997 6 12 30608
+16 5 58 2434388 2 42 21294
+17 3 23 470324 1 27 11053
+18 11 69 2528585 2 33 11053
+19 18 141 5512992 0 33 0
+20 4 24 259150 6 23 242125
+21 4 34 35982 11 26 10647
+22 15 128 5513884 0 44 0
+23 3 23 484200 3 20 92383
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 94 791 26356945
+jp 1 1 11994
+cn 1 1 11053
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+slurp 25 162208 20110131152207 0
+googlebot 17 145306 20110131135736 0
+no_user_agent 3 31941 20110131200110 0
+bot[\s_+:,\.\;\/\\-] 2 219484 20110128201406 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 100 317589 0 0
+php 37 231458 0 0
+png 193 4795433 0 0
+html 59 546584 0 0
+jpg 343 15552236 0 0
+js 49 4933016 0 0
+gif 12 3676 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 179
+linuxandroid 11
+winlong 100
+winxp 183
+win2003 132
+Unknown 1
+win2008 187
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie6.0 14
+msie8.0 214
+android 11
+msie7.0 132
+chrome3.0.195.25 3
+chrome8.0.552.237 33
+firefox4.0 97
+safari4.0.5 168
+Unknown 1
+safari5.0.2 11
+firefox3.6.13 109
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+YahooCacheSystem 20110129133340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+YahooCacheSystem 20110129133340
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 44 44
+From1 0 0
+From2 2 2
+From3 8 8
+From4 42 739
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://JavaforJoes.org 2 2
+http://javaforjoes.org 2 2
+http://www.javaforjoes.org 2 2
+http://www.javaforjoes.org 1 1
+http://javaforjoes.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+spokane+military+families+that+need+help 1
+motion+auto+w+1st+ave+spokane+wa 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 12
+spokane 2
+w 1
+military 1
+that 1
+need 1
+1st 1
+ave 1
+auto 1
+motion 1
+families 1
+help 1
+wa 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 318 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 17
+/assets/images/btn_main_search_hover.png 24 http://operationspokaneheroes.org/_inc/slide.php
+/robots.txt 15 -
+/java_for_joes/fullsize/jquery.fullsize.minified.js 66 http://operationspokaneheroes.org/java_for_joes/index.html
+/assets/images/mastheadbg.png 24 http://operationspokaneheroes.org/css/nav_style.css
+/style.css 16 http://operationspokaneheroes.org/
+/admin/spaw/spacer.gif 1 
+/mysql/scripts/setup.php 2 operationspokaneheroes.org
+/java_for_joes/index.html/ 2 -
+/css/style.css 5 http://www.operationspokaneheroes.org/resources.php
+/java_for_joes/fullsize/jquery.js 65 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/fullsize/fullsize.css 62 http://operationspokaneheroes.org/java_for_joes/index.html
+/phpmyadmin/scripts/setup.php 2 operationspokaneheroes.org
+/pma/scripts/setup.php 2 operationspokaneheroes.org
+/assets/images/btn_top_search_hover.png 24 http://operationspokaneheroes.org/_inc/slide.php
+/phpMyAdmin/scripts/setup.php 2 operationspokaneheroes.org
+/scripts/setup.php 2 operationspokaneheroes.org
+/images/OSH_gunny_small.jpg 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+205.142.252.21 25 181 7963065 20110131223644
+98.225.29.95 14 97 5241848 20110128194249
+67.40.145.183 9 56 2276098 20110131181025
+166.205.140.235 9 89 93132 20110131015603
+67.185.194.129 8 119 5064301 20110131133952
+166.205.141.203 5 45 59970 20110131233938
+69.76.5.158 4 37 1977916 20110128120239
+68.168.105.57 3 3 30050 20110130052949
+12.231.118.178 2 27 1294875 20110131075400
+67.185.123.186 2 22 235162 20110129205030
+166.205.142.88 2 12 235162 20110129005629
+207.46.199.17 2 13 208593 20110131133914
+174.61.163.84 1 11 236103 20110130234822
+122.225.37.117 1 1 11053 20110129181511
+69.147.115.58 1 1 9550 20110129133340
+71.218.105.111 1 11 236103 20110130234837
+67.170.30.116 1 11 236103 20110131201239
+166.205.140.216 1 11 11994 20110131092745
+150.70.172.106 1 1 11994 20110131201439
+166.205.143.13 1 11 235162 20110128171010
+97.122.163.141 1 12 241434 20110131184942
+166.205.141.95 1 11 235162 20110129133900
+205.142.252.4 1 11 235162 20110128170648
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20110128 29 262 12099928 9
+20110129 14 107 2490949 11
+20110130 12 96 1224920 7
+20110131 41 328 10564195 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+15mn-30mn 1
+30s-2mn 3
+2mn-5mn 2
+0s-30s 31
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/java_for_joes/ 43 419554 35 32
+/_inc/slide.php 18 57690 0 7
+/ 10 106470 5 1
+/index.php 4 42588 0 0
+/resources.php 3 28650 2 1
+/business.php 3 47043 1 1
+/events.php 2 12392 0 0
+/events/care_package/care.html 2 6588 0 0
+/events/bbq/va_bbq.html 2 6958 0 0
+/contact.php 2 15122 0 0
+/_inc/contact.php 2 1512 0 0
+/events/ermy_event/ermy.html 2 7014 0 1
+/aboutus.php 1 8756 0 0
+/calendar.php 1 7581 0 0
+/donate.php 1 10124 0 0
+END_SIDER

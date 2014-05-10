@@ -1,0 +1,359 @@
+Return-path: <3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98@na.e.paypal.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Tue, 30 Oct 2012 14:02:40 -0500
+Received: from outbound.na.e.paypal.com ([96.47.30.199]:37781)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98@na.e.paypal.com>)
+	id 1TTH54-0001YG-GQ
+	for travis@operationspokaneheroes.org; Tue, 30 Oct 2012 14:02:30 -0500
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com; s=ED-DKIM-V3; c=simple/simple;
+	q=dns/txt; i=@e.paypal.com; t=1351623731;
+	h=From;
+	bh=mzr+HLgutJdldlNYYQnRMl2uB6o=;
+	b=B+hyffCwemy8bVHoSudLrptg9qNlyYU/rpXbKxO3xVFdfSFC8HjLfww6h7LcJ2NE
+	p3kTWjACFAuvnfaQOiyfWDU8zlSltUUWcXzIpDIQXlj0pamj1G6iyYIXZj59ARsv
+	9cgT1MFl1Nz6EF/RKNpCLhf3l5lpkoIQ2eVjui5IkGk=;
+Received: from [127.0.0.1] ([127.0.0.1:50718])
+	by bm1-08.bo3.e-dialog.com (envelope-from <3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98@na.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 6B/8C-17301-33420905; Tue, 30 Oct 2012 15:02:11 -0400
+Date: Tue, 30 Oct 2012 15:02:11 -0400
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com>
+Reply-To: "PayPal" <noreply@e.paypal.com>
+To: travis@operationspokaneheroes.org
+Subject: Notice of Policy Updates
+Message-Id: <5918-431-3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98@e-dialog.com>
+X-Mail-From: 3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98@na.e.paypal.com
+X-Match: na.e.paypal.com
+X-RCPT-To: travis@operationspokaneheroes.org
+X-Mailer: EDMAIL R6.00.02
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+==============================
+PayPal
+==============================
+
+Notice of Policy Updates
+
+Dear Travis Bonifield,
+
+PayPal recently posted a new Policy Update which includes changes to the PayPal User Agreement. 
+The update to the User Agreement is effective November 1, 2012 and contains several changes, including 
+changes that affect how claims you and PayPal have against each other are resolved. You will, with limited 
+exception, be required to submit claims you have against PayPal to binding and final arbitration, unless you 
+opt out of the Agreement to Arbitrate (Section 14.3) by December 1, 2012. Unless you opt out: (1) you will 
+only be permitted to pursue claims against PayPal on an individual basis, not as a plaintiff or class member 
+in any class or representative action or proceeding and (2) you will only be permitted to seek relief (including 
+monetary, injunctive, and declaratory relief) on an individual basis.
+
+You can view this Policy Update by logging in to your PayPal account. To log in to your account, go to 
+https://www.paypal.com and enter your member log in information. Once you are logged in, look at the 
+Notifications section on the top right side of the page for the latest Policy Updates. We encourage you to 
+review the Policy Update to familiarize yourself with all of the changes that have been made.
+
+If you need help logging in, go to our Help Center by clicking the Help link located in the upper right-hand corner of any PayPal page. 
+
+Sincerely, 
+
+PayPal
+
+
+View online
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/G1RT9/FI/t?a=3C04ZPG&b=99UX6&c=WGP198S&d=18TBT14&e=1
+
+==============================
+
+Accept Payments 
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/BFE3J/FI/t
+
+Help 
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/N6L08/FI/t
+
+Fees 
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/1K7YK/FI/t
+
+Security 
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/D39UP/FI/t
+
+PayPal App
+https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/CNQPP/FI/t
+
+============================== 
+
+Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking "Help" located on any PayPal page or email.
+
+Copyright (C) 2012 PayPal Inc. All rights reserved. 
+PayPal is located at 2211 N. First St., San Jose, CA 95131.
+
+
+[[3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=320" />
+        <title>PayPal</title>
+		<style type="text/css">
+		 .ReadMsgBody {width: 100%;}
+         .ExternalClass {width: 100%;}
+		@media screen and (max-width: 480px) {
+		table[class=emailnomob],td[class=emailnomob],img[class=emailnomob], span[class=emailnomob] {display:none !important;}
+		table[class=emailwrapto320] {width:320px !important; height:auto !important;}
+		table[class=emailwrapto315] {width:315px !important; height:auto !important;}
+		table[class=emailwrapto305] {width:305px !important; height:auto !important;}
+		table[class=emailwrapto300] {width:300px !important; height:auto !important;}
+		table[class=emailwrapto290] {width:290px !important; height:auto !important;}
+		table[class=emailwrapto280] {width:280px !important; height:auto !important;}
+		img[class=emailwrapto320] {width:320px !important; height:auto !important;}
+		img[class=emailwrapto305] {width:305px !important; height:auto !important;}
+		img[class=emailwrapto303] {width:300px !important; height:auto !important;}
+		img[class=emailwrapto290] {width:290px !important; height:auto !important;}
+		td[class=emailcolsplit]{width:316px; text-align:left; !important; float:left !important;}
+		td[class=emailcolsplit305]{width:305px; text-align:left; !important; float:left !important;}
+		td[class=emailcolsplit300]{width:300px; text-align:left; !important; float:left !important;}
+		td[class=emailcolsplit290]{width:290px; !important; float:left !important;}
+		td[class=emailcolsplit290a]{width:290px; !important; float:left !important; padding-top:8px; padding-left:10px; padding-bottom:10px;}
+		td[class=lesspadding]{padding-top:18px !important;}
+		img[class=emailimageresize300]{width:300px !important; height:auto !important;}
+		a[class=footer]{display:block !important;font-size:14px !important; font-weight:bold !important; padding:6px 4px 8px 4px !important; line-height:18px !important; background:#dddddd !important; border-radius:5px !important; margin:10px auto;width:240px; text-align:center; text-decoration:none;}
+		}
+		a {color:#006ba3;}
+		a img {border:none;margin:0;padding:0;}
+		</style>
+    </head>
+<body bgcolor="#e6e7e8" leftmargin="0" style="-webkit-text-size-adjust:none; font-family:Arial;">
+
+<!-- header -->	
+<table border="0" cellspacing="0" cellpadding="0" width="590" class="emailwrapto305" align="center">
+  <tr>
+    <td colspan="2"><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="10" border="0" style="display:block" /></td>
+  </tr>
+  <tr>
+    <td class="emailcolsplit305"></font></td>
+    <td class="emailcolsplit305" align="right"><a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/WMC4O/FI/h?a=3C04ZPG&b=99UX6&c=WGP198S&d=18TBT14&e=1" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#0079c1; font-weight:bold;" target="_blank"
+>View online</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="10" border="0" style="display:block" /></td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="600" class="emailwrapto305" align="center">
+  <tr>
+    <td colspan="3"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_promo1_grey.gif" class="emailwrapto305" alt="" width="600" height="25" border="0" style="display:block;" /></td>
+  </tr>
+  <tr>
+
+    <td width="1" bgcolor="#cecece"><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="10" border="0" style="display:block" /></td>
+    <td width="598" bgcolor="#ffffff">
+    <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="padding:0 0 16px 20px;"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/html/images/img_logo_1.gif" alt="PayPal" width="97" height="26" border="0" style="display:block;" /></td>
+      </tr>
+    </table>
+    <table width="598" border="0" cellspacing="0" cellpadding="0" align="center" class="emailwrapto290">
+  <tr>
+    <td align="left" valign="top" class="emailcolsplit290"><img  class="emailwrapto290" src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/html/images/img_grey_divider.gif" alt="" width="598" height="12" border="0" style="display:block;" /></td>
+    </tr>
+</table>
+<table align="center" width="560" class="emailwrapto280" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 40px; font-weight: normal; color: #00457c; text-decoration: none; line-height: 44px; padding-top:6px;">Notice of Policy Updates</td>
+              </tr>
+
+              <tr>
+                
+              </tr>
+             
+              <tr>
+                
+              </tr>              
+              <tr>
+                
+
+              </tr>           
+              <tr>
+                <td align="left" valign="top" height="25"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/html/images/img_spacer.gif" alt="" width="1" height="25" border="0" style="display:block;" /></td>
+              </tr>
+            </table>
+    <table width="560" border="0" cellspacing="0" cellpadding="0" align="center" class="emailwrapto280">
+
+                          <tr>
+
+                            <td valign="top" align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #0079c1; text-decoration: none; line-height: 18px;" class="lesspadding">Dear Travis Bonifield,</td>
+
+                          </tr>
+
+                          <tr>
+
+                            <td valign="top" align="left" height="22"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120601_Creative_Template1/images/img_spacer.gif" width="22" height="22" alt=""  border="0" style="display:block;"/></td>
+
+                          </tr>
+
+                          <tr>
+
+                            <td valign="top" align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #717074; text-decoration: none; line-height: 17px;">PayPal recently posted a new Policy Update which includes changes to the PayPal User Agreement. <strong>The update to the User Agreement is effective November 1, 2012 and contains several changes, including changes that affect how claims you and PayPal have against each other are resolved. You will, with limited 
+exception, be required to submit claims you have against PayPal to binding and final arbitration, unless you opt out of the Agreement to Arbitrate (Section 14.3) by December 1, 2012. <u>Unless you opt out: (1) you will only be permitted to pursue claims against PayPal on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding and (2) you will only be permitted to seek relief (including monetary, injunctive, and declaratory relief) on an 
+individual basis.</u></strong><br /><br /> 
+                            You can view this Policy Update by logging in to your PayPal account. To log in to your account, go to https://www.paypal.com and enter your member log in information. Once you are logged in, look at the Notifications section on the top right side of the page for the latest Policy Updates. <strong>We encourage you to review the Policy Update to familiarize yourself with all of the changes that have been made.</strong><br /><br />
+
+If you need help logging in, go to our Help Center by clicking the Help link located in the upper right-hand corner of any PayPal page.<br /><br />
+
+Sincerely, <br /><br />
+
+PayPal </td>
+
+                          </tr>
+
+                          <tr>
+
+                            
+
+                          <tr>
+
+                            <td valign="top" align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #717074; text-decoration: none; line-height: 17px;">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+    <td align="left" valign="top" width="24"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_spacer.gif" alt="" width="24" height="1" border="0" style="display:block;" /></td>
+                                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        
+                                        <td align="left" valign="top" width="4"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_spacer.gif" alt="" width="2" height="1" border="0" style="display:block;" /></td>
+                                        
+                                      </tr>
+                                    </table></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td align="left" valign="top" width="6" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #666666; text-decoration: none; line-height: 18px;"></td>
+                                        
+                                    </table></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      
+                                    </table></td>
+                                  </tr>
+                                </table></td>
+                              </tr>
+                            </table>
+                            </td>
+
+                          </tr>
+
+                         
+<tr>
+
+                            <td valign="top" align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #717074; text-decoration: none; line-height: 17px;"></td>
+
+        </tr>
+                        </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+    <td><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="40" border="0" style="display:block" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e6e6e6">
+  <tr>
+    <td><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="1" border="0" style="display:block" /></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding:10px 0 10px 0;"><a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/S28ZG/FI/h" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;" target="_blank" class="footer"
+><strong>Accept Payments</strong></a><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666;" class="emailnomob">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/HLFHF/FI/h" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;" target="_blank" class="footer"
+><strong>Help</strong></a><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666;" class="emailnomob">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/6QXSK/FI/h" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;" target="_blank" class="footer"
+><strong>Fees</strong></a><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666;" class="emailnomob">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/ZWAK7/FI/h" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;" target="_blank" class="footer"
+><strong>Security</strong></a><span style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666;" class="emailnomob">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href="https://email-edg.paypal.com/r/3C04ZPG/GNM8E/NSIQIDB/M9M57B/WMC4A/FI/h" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;" target="_blank" class="footer"
+><strong>PayPal App</strong></a></td>
+  </tr>
+</table>
+
+    </td>
+
+    <td width="1" bgcolor="#cecece"><img src="http://img.ed4.net/spacer.gif" alt="" width="1" height="10" border="0" style="display:block" /></td>
+  </tr>
+   <tr>
+    <td colspan="3"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_promo11_grey.gif" width="600" height="10" class="emailwrapto305" style="display:block" border="0" /></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_promo12_grey.gif" width="600" border="0" class="emailwrapto305" style="display:block" /></td>
+  </tr>
+</table>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center" class="emailwrapto305">
+
+        <tr>
+
+          <td valign="top" align="left" width="19"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120601_Creative_Template1/images/img_spacer.gif" width="19" height="1" alt=""  border="0" style="display:block;"/></td>
+
+          <td valign="top" align="left">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td valign="top" align="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; text-decoration: none;"><table border="0" cellspacing="0" cellpadding="0">
+<tr>
+  <td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="1" height="10" border="0"></td>
+</tr>
+<tr>
+<td><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="20" height="1" border="0"></td>
+<td style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10px; color: #666666;">Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking "Help" located on any PayPal page or email.<br>
+
+<br>
+Copyright &copy; 2012 PayPal Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.
+</td>
+<td><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="20" height="1" border="0"></td>
+</tr>
+<tr>
+  <td colspan="3"><img style="display: block" src="https://image.paypal-communication.com/paypal_na/common/spacer.gif" alt="" width="1" height="10" border="0"></td>
+</tr>
+</table></td>
+              </tr>
+              <tr>
+                <td valign="top" align="left"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_spacer.gif" width="10" height="15" alt=""  border="0" style="display:block;"/></td>
+              </tr>
+              <tr>
+                
+              </tr>
+              <tr>
+                <td valign="top" align="left"><img src="http://img.ed4.net/hosted/paypal/2012_Q2/20120608_Creative_Template_2_3_4_5/Promotional_Email_Photographic/images/img_spacer.gif" width="10" height="15" alt=""  border="0" style="display:block;"/></td>
+              </tr>
+            </table></td>
+
+        </tr>
+
+      </table>
+
+</body>
+
+</html><!-- [[3C04ZPG-99UX6-GNM8E-NSIQIDB-M9M57B-M-M2-20121026-a549884491c0c98]] --><img height="1" width="1" src="https://email-edg.paypal.com/o/3C04ZPG/GNM8E/NSIQIDB/M9M57B/NRH7/MS"><img height="1" width="1" src="https://email-edg.paypal.com/o/3C04ZPG/GNM8E/NSIQIDB/M9M57B/NRH7/52">
+
+---_-_-_-_-_1234567890--
+

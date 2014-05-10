@@ -1,0 +1,55 @@
+/* CSS Document */
+
+#footer {
+	overflow:hidden;
+	background-color:#0A074E;
+	width:965px;
+	margin:0 auto 10px auto;
+	text-align: center;
+}
+
+#footer .wrapper {
+
+	overflow:hidden;
+	text-align:center;
+	background:#0A074E;
+	margin:0 auto;
+}
+
+
+
+#footer #copyright {
+	width:100%;
+	clear:both;
+	font-size:12px;
+	color:#fff;
+	margin:5px 0 5px;
+	padding:10px;
+}
+
+#footer #copyright a {
+text-decoration:none;
+color:#82aebc;
+}
+
+#footer #copyright a:hover {
+color:#eceee0;
+border-bottom:1px dotted #eceee0 !important;
+}
+
+#involved_content h3,#contact_content h3 {
+color:#FFF;
+text-transform:uppercase;
+font-size:28px;
+
+margin:0 0 12px;
+}
+
+#involved_content p,#contact_content p {
+	color:#FFF;
+	font-size:13px;
+	line-height:14px;
+	margin: 0px 0px 0px 10px;
+}
+
+	

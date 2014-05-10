@@ -1,0 +1,385 @@
+Return-path: <marketing@bmsend.com>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Thu, 17 Jan 2013 13:03:22 -0600
+Received: from benchmarkmails25.com ([38.107.205.105]:59981)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <marketing@bmsend.com>)
+	id 1TvukD-0000tL-S5
+	for bethann@operationspokaneheroes.org; Thu, 17 Jan 2013 13:03:22 -0600
+Received: from benchmarkmails25.com (benchmarkmails25.com [127.0.0.1])
+	by benchmarkmails25.com (Postfix) with ESMTP id B87BB295DB9
+	for <bethann@operationspokaneheroes.org>; Thu, 17 Jan 2013 09:50:27 -0500 (EST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=
+	guidebycell.com.bmsend.com; h=reply-to:list-unsubscribe:from
+	:sender:to:subject:date:mime-version:content-type:message-id; s=
+	bmdeda; bh=ExxIIvRygD/hLIBcGheMDglBSNY=; b=EjUwJxJ+9FDNU0wimTz8E
+	8GKYD4/zCpjm4MXzf3d7VITcGHCsInMFgeVFLMtRMFBR03BhxrR4aWjZHUOAfh0s
+	A7a/z8HV606bVHI4ENqWDIS2lNgsDzVB3I8oyYoQpz0snvmPmouLPYMzMzlFWG8Y
+	k0Y+3iFA94bmr4ErKlgDtc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=guidebycell.com.bmsend.com;
+	 h=reply-to:list-unsubscribe:from:sender:to:subject:date
+	:mime-version:content-type:message-id; q=dns; s=bmdeda; b=d5grp6
+	sCC+Uah7owQpD7IfIH8QrweOfEtB64j7NrItWPvu8BUsgCjyOC0U8ifLOVVwbrB3
+	HfYBCSzwmU5mT93DJMm0Rh4EbnEq8SDYV6paHEy8n0uUegigG1R5EZUoSuMdfQBO
+	5giwyLzlDELgpCs2w0zQNrwknpM66KfMMzUJU=
+Reply-To: marketing@guidebycell.com
+X-Identify: <1868829_100599825@benchmarkemail.com>
+X-campaignid: 1868829
+RemoveEmail: unsubscribe.asp?g=0&c=1868829&l=100599825&e=bethann@operationspokaneheroes.org&ver=2&SentFromServer=38.107.205.105
+SentFromServer: 38.107.205.105
+List-Unsubscribe: <http://www.benchmarkemail.com/c/u?9tSN8Jgb1CbxaTknIhYq%2FAuHhmWdBR5vBHE54uoNl4Db7p%2FT0v%2BI8xM%2B3m9VIv36BZoJ5F8d2z9%2BPQALy89m3JjGAA6rwhdP>
+From: "Guide by Cell" <marketing@guidebycell.com>
+Sender: "Guide by Cell" <marketing@guidebycell.com.bmsend.com>
+To: "Bethann Long" <bethann@operationspokaneheroes.org>
+Subject: Mobile Trends for 2013
+Date: Thu, 17 Jan 2013 14:03:09 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_65381170217163971939767"
+Message-Id: <20130117145027.AC617295D6F@benchmarkmails25.com>
+
+------=_NextPart_65381170217163971939767
+Content-type: text/plain; charset=ISO-8859-1
+
+
+Having trouble viewing this email? click here: http://visitor.benchmarkemail.com/c/v?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+You are receiving this email because of your relationship with Guide by Cell. Please reconfirm 
+ Confirm URL :http://visitor.benchmarkemail.com/c/opt?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+  If you do not wish to receive any more emails, you can unsubscribe here or report abuse.
+http://visitor.benchmarkemail.com/c/u?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+
+[1]
+
+Mobile Trends for 2013
+
+Thanks to you, 2012 was a record year for Guide by Cell. We helped over 1,000 new clients leap into mobile!
+
+After a year of massive growth in Smartphone adoption, nobody is questioning the importance of mobile anymore. According to a new [2] TIME Mobility Poll, 84% of people say they couldn't go a single day without their mobile device in hand.
+
+Based on 2012,here are some of the trends we are witnessing for 2013:
+
+Separate Content for Mobile Devices- Organizations are implementing [3] mobile website strategies, optimizing their content to be viewed and experienced on a mobile device. Our clients use our mobile website builder platform, rather than apps, as a cost-effective and easy tool to share content across all mobile devices.
+
+QR codes gained traction - More [4] QR Codes are being scanned as organizations become better at making sure the user experience is optimized for mobile. Our clients placing QR codes on signs, packaging, training material, ads, forms, and more, directing their audience to relevant targeted content such as maps, videos, images, and sweepstakes sign-ups. [5] Click here to see some of 2012's top QR code campaign uses.
+
+Text messaging is exploding - Text messaging still remains the number one mobile phone activity behind phone calls, and is a top communication method. Clients use our SMS platform for employee training and communicating, visitor notifications, weather alerts, scavenger hunts, contests, and more.
+
+Mobile fundraising and mobile payments are rapidly growing-- Payments and donations via a cell phone became mainstream in 2012, with the increasing ubiquity of mobile devices. More than $50 million was raised through text message donations after the 2010 earthquake in Haiti, and [6] it is anticipated that mobile giving will account for more than 20% of Superstorm Sandy relief efforts.
+
+With 9 out of 10 Americans owning a mobile phone, organizations know the future is in mobile, but often do not know where to begin. We are here to help! We have experience in offering custom mobile solutions, whether your goal is engagement and communication, training and sales, marketing, or fundraising and payment collection.
+
+As mobile technologies advance, we are adapting to continue to be an industry leader and trusted resource. We have some big announcements for early 2013, so stay tuned! We hope you will join us on this exciting journey!
+
+Best Regards,
+
+Dave Asheim
+
+CEO/Founder
+
+Guide by Cell
+
+P: (415) 615-0150
+
+[7] Dave@guidebycell.com
+
+[8] www.guidebycell.com
+
+
+ References:
+
+1. http://guidebycell.com/?page_id=4059
+2. http://techland.time.com/2012/08/16/your-life-is-fully-mobile/
+3. https://www.youtube.com/watch?v=ZUYRxTWS7K0&list=UUqfeKhHCA5BLGv-9ZZjL_PQ&index=6
+4. https://www.youtube.com/watch?v=oh7Ui_YkFvU
+5. http://smartblogs.com/social-media/2013/01/03/top-30-qr-code-uses/
+6. http://www.mobilecommercedaily.com/mobile-giving-could-account-for-20pc-of-hurricane-sandy-relief-efforts
+7. mailto:Dave@guidebycell.com
+8. http://www.guidebycell.com
+
+
+
+
+
+
+This message was sent to bethann@operationspokaneheroes.org by marketing@guidebycell.com
+
+You can modify/update your subscription via the link below.
+
+Unsubscribe from all mailings
+http://visitor.benchmarkemail.com/c/su?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+Manage Subscription
+http://visitor.benchmarkemail.com/c/s?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+Forward Email
+http://visitor.benchmarkemail.com/c/f?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+Report Abuse
+http://visitor.benchmarkemail.com/Abuse?e=261F2D&c=E824&l=5FF0811&email=2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D&relid=266BCD69
+
+Address: 300 Beale Street, Suite 608,  San Francisco,  CA, 94105
+
+
+------=_NextPart_65381170217163971939767
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D1868829&l=3D100599825&e=3Dbethann@operation=
+spokaneheroes=2Eorg&ver=3D2&SentFromServer=3D38=2E107=2E205=2E105
+ -->
+<!-- Online Path -->
+<div align=3D"center"=20
+ style=3D"width:100%">
+<div
+ style=3D"font-size:11px; color:#666666; font-family:Arial, Helvetica, sa=
+ns-serif; width:600px; padding-bottom:5px;" align=3D"center" class=3Dbmeh=
+eadertext>
+Having trouble viewing this email=3F <a target=3D=5Fnew
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/v=3Fe=3D261F2D&c=3DE824&=
+l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD69">click here</a>
+
+<br />You are receiving this email because of your relationship with Guid=
+e by Cell=2E Please <a target=3D=5Fnew
+ style=3D'color:#0000ff;'
+ href=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/opt=3Fe=3D261F2D&c=3DE82=
+4&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZty=
+YxgAOq8IXTw%3D%3D&relid=3D266BCD69'>reconfirm</a> your interest in receiv=
+ing email from us=2E  If you do not wish to receive any more emails, you =
+can <a target=3D=5Fnew
+ style=3D'color:#0000ff;'
+ href=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/u=3Fe=3D261F2D&c=3DE824&=
+l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD69'>unsubscribe here</a>
+</div></div>
+<!-- /Online Path -->
+<div
+ style=3D"font-family: Arial, Verdana; font-size: 12px;" align=3D"center"=
+>
+<br>=20
+<table
+ style=3D"background-color: #ffffff;" width=3D"600" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0"> <tbody><tr> <td valign=3D"top"
+ style=3D"background-color: #ffffff; padding: 3px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <=
+tbody><tr> <td valign=3D"top"
+ style=3D"background-color:#FFFFFF;">
+<table name=3D"block=5FArticle" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"2" border=3D"0"
+ style=3D"background-repeat: repeat repeat;">=0A<tbody>=0A<tr>=0A<td
+ style=3D"text-align: center;">=0A
+<table align=3D"default" cellpadding=3D"0" cellspacing=3D"0"
+ style=3D"padding: 0px;" name=3D"imgHolder">=0A<tbody>=0A<tr>=0A<td align=
+=3D"center"><a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48163&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+><img caption=3D""
+ src=3D"http://images=2Ebenchmarkemail=2Ecom/client59428/image626174=2Epn=
+g" alt=3D"" width=3D"590" height=3D"102" border=3D"0" hspace=3D"0" vspace=
+=3D"0"></a></td>=0A</tr>=0A<tr>=0A<td align=3D"center" class=3D"CaptionTe=
+xt"
+ style=3D"font-family: Arial,Verdana; font-size: 12px;"></td>=0A</tr>=0A<=
+/tbody>=0A
+</table>=0A<span
+ style=3D"font-size: 20px;"><strong>
+<br></strong></span><span
+ style=3D"font-size: 20px;"><strong><span
+ style=3D"font-family: Arial, Helvetica, sans-serif;">Mobile Trends for 2=
+013</span></strong></span><span
+ style=3D"font-size: 20px;"><strong>
+<br>
+<br></strong></span></td>=0A</tr>=0A</tbody>=0A
+</table>
+<table border=3D"0" cellpadding=3D"2" cellspacing=3D"0" width=3D"100%" na=
+me=3D"block=5FArticle"
+ style=3D"  background-repeat: repeat repeat;">=0A<tbody>=0A<tr>=0A<td>=0A=
+<p><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Th=
+anks to you, 2012 was a record year for Guide by Cell=2E We helped over 1=
+,000 new clients leap into mobile!
+<br>
+<br>After a year of massive growth in Smartphone adoption, nobody is ques=
+tioning the importance of mobile anymore=2E According to a new <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48164&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>TIME Mobility Poll</a>, 84% of people say they couldn't go a single day =
+without their mobile device in hand=2E&nbsp;
+<br></span></p>=0A<p><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Ba=
+sed on 2012,here are some of the trends we are witnessing for 2013:
+<br>
+<br></span></p>=0A<ul>=0A
+<li
+ style=3D"text-align: justify;"><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><s=
+trong>Separate Content for Mobile Devices</strong> -&nbsp;Organizations a=
+re implementing <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48165&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>mobile website</a>&nbsp;strategies, optimizing their content to be viewe=
+d and experienced on a mobile device=2E Our clients use our mobile websit=
+e builder platform, rather than apps, as a cost-effective and easy tool t=
+o share content across all mobile devices=2E&nbsp;</span></li>=0A</ul>=0A=
+<ul>=0A
+<li
+ style=3D"text-align: justify;"><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><s=
+trong>QR codes gained traction</strong>&nbsp;- More <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48166&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>QR Codes</a>&nbsp;are being scanned as organizations become better at ma=
+king sure the user experience is optimized for mobile=2E Our clients plac=
+ing QR codes on signs, packaging, training material, ads, forms, and more=
+, directing their audience to relevant targeted content such as maps, vid=
+eos, images, and sweepstakes sign-ups=2E <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48167&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>Click here to see some of 2012's top QR code campaign uses</a>=2E&nbsp;<=
+/span></li>=0A</ul>=0A<ul>=0A
+<li
+ style=3D"text-align: justify;"><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><s=
+trong>Text messaging is exploding</strong>&nbsp;- Text messaging still re=
+mains the number one mobile phone activity behind phone calls, and is a t=
+op communication method=2E<strong>&nbsp;</strong>Clients use our SMS plat=
+form for employee training and communicating, visitor notifications, weat=
+her alerts, scavenger hunts, contests, and more=2E</span></li>=0A</ul>=0A=
+<ul>=0A
+<li
+ style=3D"text-align: justify;"><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><s=
+trong>Mobile fundraising and mobile payments are rapidly growing</strong>=
+ -- Payments and donations via a cell phone became mainstream in 2012, wi=
+th the increasing ubiquity of mobile devices=2E More than $50 million was=
+ raised through text message donations after the 2010 earthquake in Haiti=
+, and <a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48168&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>it is anticipated that mobile giving will account for more than 20% of S=
+uperstorm Sandy relief efforts</a>=2E&nbsp;</span></li>=0A</ul>=0A<p><spa=
+n
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Wi=
+th 9 out of 10 Americans owning a mobile phone, organizations know the fu=
+ture is in mobile, but often do not know where to begin=2E We are here to=
+ help! We have experience in offering custom mobile solutions, whether yo=
+ur goal is engagement and communication, training and sales, marketing, o=
+r fundraising and payment collection=2E&nbsp;
+<br>
+<br>As mobile technologies advance, we are adapting to continue to be an =
+industry leader and trusted resource=2E We have some big announcements fo=
+r early 2013, so stay tuned! We hope you will join us on this exciting jo=
+urney!</span></p>=0A<p><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Be=
+st Regards,
+<br>
+<br></span></p>=0A
+<table align=3D"default" cellpadding=3D"0" cellspacing=3D"0" name=3D"imgH=
+older">=0A<tbody>=0A<tr>=0A<td align=3D"center"><img caption=3D""
+ src=3D"http://images=2Ebenchmarkemail=2Ecom/client59428/image414753=2Ejp=
+g" alt=3D"" width=3D"150" height=3D"200" border=3D"0" hspace=3D"0" vspace=
+=3D"0"></td>=0A</tr>=0A</tbody>=0A
+</table>=0A
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Da=
+ve Asheim</span>
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;">CE=
+O/Founder</span>
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Gu=
+ide by Cell</span>
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;">P:=
+ (415) 615-0150</span>
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;"> <=
+a
+ href=3D"mailto:Dave@guidebycell=2Ecom" target=3D"=5Fblank">Dave@guidebyc=
+ell=2Ecom</a> </span>
+<br><span
+ style=3D"font-size: 14px; font-family: Arial, Helvetica, sans-serif;"> <=
+a
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/l=3Fu=3D1F48169&e=3D261F=
+2D&c=3DE824&t=3D0&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfH=
+ds%2Ffj0AC8vPZtyYxgAOq8IXTw%3D%3D" target=3D=5Fblank  target=3D"=5Fblank"=
+>www=2Eguidebycell=2Ecom</a></span>
+<br>=0A<p><span
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;">&n=
+bsp;</span></p>=0A</td>=0A</tr>=0A</tbody>=0A
+</table></td> </tr> <tr> <td align=3D"left" valign=3D"top"
+ style=3D"background-color:#FFFFFF;"></td> </tr> <tr> <td width=3D"100%" =
+align=3D"center" valign=3D"top"
+ style=3D"background-color:#ffffff; padding:5px;">   </td> </tr> <tr> <td=
+ align=3D"center"
+ style=3D"background-color:#FFFFFF;"></td> </tr> </tbody>
+</table></td> </tr> </tbody>
+</table>=20
+<br> </div><!-- Footer Path -->
+<div align=3D"center"  class=3Dbmefooter><div
+ style=3D"width: 600px; text-align: left; padding-top:10px;color: #666666=
+;font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px;" align=
+=3Dcenter>
+
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center">
+<tr><td align=3Dleft width=3D"79%"
+ style=3D"color: #666666;font-family: Verdana,Arial,Helvetica,sans-serif;=
+ font-size: 10px;" class=3Dbmefootertext>
+This message was sent to bethann@operationspokaneheroes=2Eorg by marketin=
+g@guidebycell=2Ecom
+<div
+ style=3D"padding-top: 10px; font-size: 10px;" class=3Dbmefootertext><a c=
+lass=3Dbmefootertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/su=3Fe=3D261F2D&c=3DE824=
+&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyY=
+xgAOq8IXTw%3D%3D&relid=3D266BCD69">Unsubscribe</a>   | <a class=3Dbmefoot=
+ertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/s=3Fe=3D261F2D&c=3DE824&=
+l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD69">Manage Subscription</a>   |  <a class=3D=
+bmefootertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/c/f=3Fe=3D261F2D&c=3DE824&=
+l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYx=
+gAOq8IXTw%3D%3D&relid=3D266BCD69">Forward Email</a>  |  <a class=3Dbmefoo=
+tertext=20
+ href=3D"http://visitor=2Ebenchmarkemail=2Ecom/Abuse=3Fe=3D261F2D&c=3DE82=
+4&l=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZty=
+YxgAOq8IXTw%3D%3D&relid=3D266BCD69">Report Abuse</a>
+<br /></div>
+<br/></td></tr>
+</table></div></div><div align=3D"center"  class=3Dbmefooter>
+<div
+ style=3D"text-align:left;">
+
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"center"><tr><td
+ style=3D"font-size: 10px; font-family: Verdana,Arial,Helvetica,sans-seri=
+f; color: #666666;" class=3Dbmefootertext>
+300 Beale Street, Suite 608,  San Francisco,  CA, 94105</td></tr><tr><td>=
+
+<br /></td></tr>
+</table></div></div><!-- /Footer Path -->
+<img
+ src=3D'http://visitor=2Ebenchmarkemail=2Ecom/c/o=3Fe=3D261F2D&c=3DE824&l=
+=3D5FF0811&email=3D2%2B6f09L%2FiPMTPt5vVSL9%2BgWaCeRfHds%2Ffj0AC8vPZtyYxg=
+AOq8IXTw%3D%3D&relid=3D266BCD69'>
+<!--=20
+unsubscribe=2Easp=3Fg=3D0&c=3D1868829&l=3D100599825&e=3Dbethann@operation=
+spokaneheroes=2Eorg&ver=3D2&SentFromServer=3D38=2E107=2E205=2E105
+ -->
+
+<!-- campaignid: 1868829 -->
+
+------=_NextPart_65381170217163971939767--
+

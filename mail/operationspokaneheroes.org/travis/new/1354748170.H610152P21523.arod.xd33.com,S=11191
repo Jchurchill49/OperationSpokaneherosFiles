@@ -1,0 +1,216 @@
+Return-path: <service@paypal.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Wed, 05 Dec 2012 16:56:10 -0600
+Received: from mx2.slc.paypal.com ([173.0.84.227]:48872 helo=mx0.slc.paypal.com)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <service@paypal.com>)
+	id 1TgNsw-0005b2-AF
+	for travis@operationspokaneheroes.org; Wed, 05 Dec 2012 16:56:10 -0600
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=dkim; d=paypal.com;
+	h=DKIM-Signature:Received:Date:Message-Id:AMQ-Delivery-Message-Id:Subject:X-MaxCode-Template:To:From:X-Email-Type-Id:X-XPT-XSL-Name:Content-Type:MIME-Version;
+	b=2wXavp/vivZtY6nvnOR1V87VSWq90mPBgp7seJyJp45oY02+CSVhtHVs3GBZW0Pb
+	5c97DvHrpMSI60ceypK64WmisDQ8lv1g7Ogaeg3KHY4ux43g1Krqz1EZzlhEOVrb
+	Pd79WrE/cKuT71ncPg/188tajXR10YXeSdXg/GzOF+c=
+DKIM-Signature: v=1; a=rsa-sha1; d=paypal.com; s=dkim; c=relaxed/relaxed;
+	q=dns/txt; i=@paypal.com; t=1354748169;
+	h=From:From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=tV8EeW6e0/sEi+bDtFR9smu4kL8=;
+	b=NzPPjy5xM3NxB4Kx0Y3Wbvta2F7L6/FTKgGAP653MuHQBqIz3ePPayDJCi7inkyN
+	s3YnMnWBjL4PSFH6Pnc6o4EuLBxJ04juq1FgP9nbVmIcfz0ihpnubvvgm73g1PLr
+	9OCckr+Lhztsw9XFQnYVgB4oZYuX2pHozoDD81y/6YQ=;
+Received: (qmail 7922 invoked by uid 993); 5 Dec 2012 22:56:09 -0000
+Date: Wed, 05 Dec 2012 14:56:09 -0800
+Message-Id: <1354748169.7922@paypal.com>
+AMQ-Delivery-Message-Id: EMAILDELIVERY-Notification_EmailDeliveryEvent-32-1354748163711-610939417
+Subject: Confirm your bank account with PayPal
+X-MaxCode-Template: email-bank-add-bank-done
+To: Travis Bonifield <travis@operationspokaneheroes.org>
+From: "service@paypal.com" <service@paypal.com>
+X-Email-Type-Id: PP414
+X-XPT-XSL-Name: notifications_email/default/en_US/FinancialInstrument/bank/AddBankDone.xsl
+Content-Type: multipart/alternative;
+ boundary=--NextPart_048F8BC8A2197DE2036A
+MIME-Version: 1.0
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=windows-1252
+
+----------------------------------------------------------------------
+Confirm your bank account with PayPal
+----------------------------------------------------------------------
+
+
+Dear Travis Bonifield,
+
+You just added a bank account, but you must confirm it to easily transfer =
+funds between your PayPal account and your bank account.
+
+----------------------------------------------------------------
+How to confirm your bank account and get Verified
+
+PayPal made two small deposits to your bank account. These deposits will =
+appear in your bank account in  business days.
+1.  Check your bank account and note the exact deposit amounts.
+2.  Log in to your PayPal account and click Confirm bank account  on the =
+Account Overview page.
+3.  Enter the two deposit amounts.
+
+
+
+Your PayPal account is Verified.
+
+Verifying your PayPal account helps increase confidence between buyers and =
+sellers. Also, when you=92re Verified, you can send payments using funds =
+from your bank account.
+
+Sincerely,
+PayPal
+=20
+----------------------------------------------------------------------
+Help Center:=20
+https://www.paypal.com/us/cgi-bin/helpweb?cmd=3D_help
+Security Center:=20
+https://www.paypal.com/us/security
+
+This email was sent by an automated system, so if you reply, nobody will =
+see it. To get in touch with us, log in to your account and click =
+=22Contact Us=22 at the bottom of any page.
+
+Copyright =A9 2012 PayPal, Inc. All rights reserved. PayPal is located at =
+2211 N. First St., San Jose, CA 95131.
+ =20
+PayPal Email ID  PP414
+
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=windows-1252
+
+<html><head title=3D=22PayPal=22/><body><div class=3D=22ppmail=22><style =
+type=3D=22text/css=22>=23emailWrapperTable h1, =23emailWrapperTable h2 =
+=7Bfont-family:Verdana,Arial;margin-bottom:2px; font-size:15px;=7D
+=23emailWrapperTable h3 =7Bfont-size:13px;=7D
+=23emailWrapperTable h4 =7Bfont-size:11px;=7D
+a =7Bcolor:=23084482; text-decoration:underline;=7Da.actionLink =
+=7Bcolor:=23000; text-decoration:none;=7D
+hr =7Bdisplay: none;=7D
+=2Esmall =7Bfont-size:10px;=7D
+=2Eppid =7Bcolor:=23757575;=7D
+p =7Bmargin:11px 0; padding:0;=7D
+</style>
+<=21--=5Bif gte mso 9=5D><style>.outlookFix =7Bfont-size:11px =
+=21important;=7D</style><=21=5Bendif=5D-->
+
+
+<table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+id=3D=22emailWrapperTable=22 style=3D=22font:11px Verdana, Arial, =
+Helvetica, sans-serif;color:=23333;=22 width=3D=22580=22><tr =
+valign=3D=22top=22><td colspan=3D=223=22><table border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22100%=22><tr =
+valign=3D=22top=22><td width=3D=22130px;=22><a =
+href=3D=22https://www.paypal.com/us=22><img =
+src=3D=22http://images.paypal.com/en_US/i/logo/logo_emailheader_113wx46h.gi=
+f=22 border=3D=220=22 alt=3D=22PayPal=22/></a></td></tr><tr><td><img =
+alt=3D=22=22 border=3D=220=22 height=3D=2210=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+width=3D=221=22/></td></tr><tr><td/></tr></table></td></tr><tr><td =
+colspan=3D=223=22><img height=3D=2213=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_emailTopCorners_580wx13h.=
+gif=22 border=3D=220=22 style=3D=22vertical-align:bottom=22 =
+alt=3D=22=22/></td></tr><tr><td width=3D=2212=22 =
+style=3D=22background:url(/i/scr/scr_emailLeftBorder_13wx1h.gif) left =
+repeat-y;border-left: 1px solid =23ddd;=22><img =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+border=3D=220=22 alt=3D=22=22/></td><td class=3D=22contentArea=22 =
+style=3D=22width:530px; word-wrap:break-word; padding:12px; margin:0=22 =
+width=3D=22530=22><table style=3D=22font:Verdana, Arial, Helvetica, =
+sans-serif;=22 width=3D=22100%=22><tr><td><h2><span =
+class=3D=22outlookFix=22>Confirm your bank account with =
+PayPal</span></h2></td></tr></table><p>Dear Travis =
+Bonifield,</p><span><style type=3D=22text/css=22>td.step02 =
+=7Bwidth:75px;=7Dtd.step01 =7Bwidth:220px;=7Dtd div.imgStep01 =
+=7Bmargin-left:20px;=7Dtd div.imgStep03 =7Bmargin-left:30px;=7Dtd =
+div.imgStep02 =7Bmargin-top:55px;=7Dtd div.contentBox =
+=7Bfont-size:11px;margin:5px;=7Dtd div.contentBox h4 =
+=7Bfont-size:13px;color:=23F97B00;margin:0;=7D.howTo td =
+=7Bbackground-color:=23ffffff =21important;=7D</style></span><p>You just =
+added a bank account, but you must confirm it to easily transfer funds =
+between your PayPal account and your bank account.</p><hr/><p><span =
+class=3D=22contentHeading=22>How to confirm your bank account and get =
+Verified</span><br/><br/>PayPal made two small deposits to your bank =
+account. These deposits will appear in your bank account in  business =
+days.</p><ol><li>Check your bank account and note the exact deposit =
+amounts.</li><li>Log in to your PayPal account and click <strong>Confirm =
+bank account </strong> on the Account Overview page.</li><li>Enter the two =
+deposit amounts.</li></ol><table align=3D=22center=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22560=22><tr><td =
+colspan=3D=223=22><img align=3D=22middle=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_VerifyBank_step1.jpg=22 =
+border=3D=220=22 alt=3D=22PayPal Inc.=22/><img align=3D=22middle=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_VerifyBank_horizontalArro=
+w.gif=22 border=3D=220=22 alt=3D=22arrow=22/><img align=3D=22middle=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_VerifyBank_step2.gif=22 =
+border=3D=220=22 alt=3D=22Your bank statement=22/><img =
+align=3D=22middle=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_VerifyBank_horizontalArro=
+w.gif=22 border=3D=220=22 alt=3D=22arrow=22/><img align=3D=22middle=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_VerifyBank_step3.gif=22 =
+border=3D=220=22 alt=3D=22Your PayPal account=22/></td></tr><tr><td =
+width=3D=22180=22><span id=3D=22ImageCaption=22>PayPal Inc.</span></td><td =
+width=3D=22190=22><span id=3D=22ImageCaption=22>Your bank =
+statement</span></td><td width=3D=22200=22><span =
+id=3D=22ImageCaption=22>Your PayPal account</span></td></tr><tr><td =
+colspan=3D=223=22><br/></td></tr><tr><td width=3D=22170=22><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22><tr><td valign=3D=22top=22 width=3D=2220=22><span =
+id=3D=22ImagePoints=22>1.</span></td><td><span =
+id=3D=22ImagePoints=22>PayPal has sent two deposits to your bank =
+account.</span></td></tr></table></td><td width=3D=22180=22><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22><tr><td valign=3D=22top=22 width=3D=2220=22><span =
+id=3D=22ImagePoints=22>2.</span></td><td><span =
+id=3D=22ImagePoints=22>Check your bank account in  days for the deposit =
+amounts.</span></td></tr></table></td><td><table align=3D=22center=22 =
+border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22><tr><td =
+valign=3D=22top=22 width=3D=2220=22><span =
+id=3D=22ImagePoints=22>3.</span></td><td><span id=3D=22ImagePoints=22>Log =
+in to your PayPal account and enter the =
+amounts.</span></td></tr></table></td></tr></table><br/><br/>Your PayPal =
+account is Verified.<br/><br/>Verifying your PayPal account helps increase =
+confidence between buyers and sellers. Also, when you=92re Verified, you =
+can send payments using funds from your bank =
+account.<br/><br/><p>Sincerely,<br/>PayPal</p></td><td width=3D=2212=22 =
+style=3D=22background:url(/i/scr/scr_emailRightBorder_13wx1h.gif) left =
+repeat-y;border-right:1px solid =23ddd;=22><img =
+src=3D=22http://images.paypal.com/en_US/i/scr/pixel.gif=22 =
+border=3D=220=22 alt=3D=22=22/></td></tr><tr><td colspan=3D=223=22><img =
+height=3D=2213=22 =
+src=3D=22http://images.paypal.com/en_US/i/scr/scr_emailBottomCorners_580wx1=
+3h.gif=22 border=3D=220=22 alt=3D=22=22/></td></tr></table><table =
+border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+id=3D=22emailFooter=22 width=3D=22580=22 =
+style=3D=22padding-top:20px;font:10px Verdana, Arial, Helvetica, =
+sans-serif;color:=23333;=22><tr><td><div class=3D=22footerLinks=22 =
+style=3D=22margin: 5px 0; padding: 0;=22><a target=3D=22_new=22 =
+href=3D=22https://www.paypal.com/us/cgi-bin/helpweb?cmd=3D_help=22>Help =
+Center</a><span style=3D=22color:=23ccc;=22> =7C </span><a =
+target=3D=22_new=22 =
+href=3D=22https://www.paypal.com/us/security=22>Security =
+Center</a></div><p>This email was sent by an automated system, so if you =
+reply, nobody will see it. To get in touch with us, log in to your account =
+and click =22Contact Us=22 at the bottom of any page.</p><p>Copyright =A9 =
+2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First =
+St., San Jose, CA 95131.</p><img height=3D=221=22 width=3D=221=22 =
+src=3D=22https://102.112.2O7.net/b/ss/paypalglobal/1/G.4--NS/123456?pageNam=
+e=3Dsystem_email_PP414=22 border=3D=220=22 alt=3D=22=22/><img =
+height=3D=221=22 width=3D=221=22 =
+src=3D=22https://t.paypal.com/ts?ppid=3DPP414&amp;cnac=3DUS&amp;rsta=3Den_U=
+S&amp;e=3Dop&amp;mchn=3Dem&amp;s=3Dci&amp;mail=3Dsys&amp;page=3Dmain:email:=
+:::::=22 border=3D=220=22 alt=3D=22=22/><p class=3D=22xptFooter ppid=22 =
+style=3D=22=22>PayPal Email ID  =
+PP414</p></td></tr></table></div></body></html>=
+
+----NextPart_048F8BC8A2197DE2036A--
+

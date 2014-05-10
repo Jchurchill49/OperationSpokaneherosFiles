@@ -1,0 +1,71 @@
+Return-path: <nancrotty@gmail.com>
+Envelope-to: contact@operationspokaneheroes.org
+Delivery-date: Tue, 22 Mar 2011 18:41:43 -0500
+Received: from mail-iw0-f170.google.com ([209.85.214.170]:48435)
+	by xd33.xd33.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.69)
+	(envelope-from <nancrotty@gmail.com>)
+	id 1Q2BCp-0007P3-MM
+	for contact@operationspokaneheroes.org; Tue, 22 Mar 2011 18:41:43 -0500
+Received: by iwn3 with SMTP id 3so8680290iwn.29
+        for <contact@operationspokaneheroes.org>; Tue, 22 Mar 2011 16:41:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:from:content-type:content-transfer-encoding
+         :subject:date:message-id:to:mime-version:x-mailer;
+        bh=SOYji46YRwqlBQ23Z3ZLarpzoahaOSfF1hrYPGUeitg=;
+        b=lkKSbs0jVZjpj6nnij8UPKvyS9vGZYOpRyfkpRhBTHQ88cacEVAgiWOUT6pfGE5O/u
+         k03b89umVBJXCQpyJb2WFDe7OD1LUaq855KmKXQK5pEh1LiC0a9hqgKwX3WXJpgzM+6l
+         HTpXqkSUa981Q4MNSCLjVuD0IloXnJl0/OQNo=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=from:content-type:content-transfer-encoding:subject:date:message-id
+         :to:mime-version:x-mailer;
+        b=TJax6so+yMu8dOMiiAVqfoQARUZnz3XZK9VSPCI62YYeg7W0Z/9NeMuiCybdFyqk+E
+         lWs+5RHO1ZWkNC5HVLpxODzmLDxFIKYLWNRJW0EvwuCyRzaTnRvCxga6UvXZ8HYmSAMs
+         2JocyvMlFBmP9gmwK6K55hthRX3BRSEJwWV00=
+Received: by 10.43.70.81 with SMTP id yf17mr5584752icb.464.1300837306210;
+        Tue, 22 Mar 2011 16:41:46 -0700 (PDT)
+Received: from [192.168.0.196] (den-69-171-160-18.evdo.leapwireless.net [69.171.160.18])
+        by mx.google.com with ESMTPS id e9sm2840646ibb.47.2011.03.22.16.41.40
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 22 Mar 2011 16:41:43 -0700 (PDT)
+From: Nancy Crotty <nancrotty@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: A problem with Java for Joes website
+Date: Tue, 22 Mar 2011 16:41:34 -0700
+Message-Id: <6E58370D-E2D3-4CD4-BFE2-52692BC51A3E@gmail.com>
+To: contact@operationspokaneheroes.org
+Mime-Version: 1.0 (Apple Message framework v1082)
+X-Mailer: Apple Mail (2.1082)
+X-Spam-Status: No, score=-0.7
+X-Spam-Score: -6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "xd33.xd33.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  I have some questions about the Java for Joes ordering menu
+	and tried to call the OSH number listed on Google's payment page (it lists
+	the number of OSH if one has questions). The number is invalid. Please check
+	on this: do a pretend order and on the page where you fill in credit card
+	info, the OSH number (?incorrect) is listed at the top of the page. Thanks,
+	Nancy Crotty [...] 
+	Content analysis details:   (-0.7 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.214.170 listed in list.dnswl.org]
+	0.0 FREEMAIL_FROM          Sender email is freemail (nancrotty[at]gmail.com)
+	0.0 T_TO_NO_BRKTS_FREEMAIL T_TO_NO_BRKTS_FREEMAIL
+X-Spam-Flag: NO
+
+I have some questions about the Java for Joes ordering menu and tried to =
+call the OSH number listed on Google's payment page (it lists the number =
+of OSH if one has questions). The number is invalid. Please check on =
+this: do a pretend order and on the page where you fill in credit card =
+info, the OSH number (?incorrect) is listed at the top of the page.
+Thanks, Nancy Crotty=

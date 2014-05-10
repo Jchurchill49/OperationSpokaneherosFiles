@@ -1,0 +1,922 @@
+Return-path: <bounce-mc.us5_10088423.154789-bethann=operationspokaneheroes.org@mail46.wdc03.rsgsv.net>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Mon, 06 May 2013 11:01:05 -0500
+Received: from mail46.wdc03.rsgsv.net ([205.201.131.46]:60257)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <bounce-mc.us5_10088423.154789-bethann=operationspokaneheroes.org@mail46.wdc03.rsgsv.net>)
+	id 1UZNqa-0006Zb-BB
+	for bethann@operationspokaneheroes.org; Mon, 06 May 2013 11:01:04 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail46.wdc03.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:Content-Transfer-Encoding; i=marketing=3Dgivebycell.com@mail46.wdc03.rsgsv.net;
+ bh=Dc3mlKZdGChvlSwXq+QtkqQXo0A=;
+ b=vYxT6qj9q8+fXdSFHzkGRu/3/CEww4XX4Koby+9n3o8O6scBIDj5szxvonG+rgD3Cuoz5E2Tqkui
+   oU5OX7qwSpWevGdx8eaNu1r3u8XJ8L9bous7/AjkXsQdxz82DOogWKMsLelA3SbuhlaV6TNk5T+u
+   pBS41j0/K2qv9N5PuTA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail46.wdc03.rsgsv.net;
+ b=Jp94tffYmi0UCxghMgi2Xl7ADVSw1yqbyLULX5THqeQlS/2jGWJ0dAHBsmNm5QqsFffz/3t/R6Kb
+   /zAW3UD4BUDVhoIOkD4pxPDmMiFWbEp3p4hEog9OXfwvF1a1z/OlicuwmVmTon3NIB3l/WYL61CF
+   jOThgn4wa9jebDKTbF8=;
+Received: from (127.0.0.1) by mail46.wdc03.rsgsv.net (PowerMTA(TM) v3.5r16) id hgv9s01jvlob for <bethann@operationspokaneheroes.org>; Mon, 6 May 2013 16:00:58 +0000 (envelope-from <bounce-mc.us5_10088423.154789-bethann=operationspokaneheroes.org@mail46.wdc03.rsgsv.net>)
+Subject: =?utf-8?Q?Give=20by=20Cell=20CEO=20Dave=20Asheim=20to=20Speak=20at=20Federal=20Trade=20Commission?=
+From: =?utf-8?Q?Give=20by=20Cell?= <marketing@givebycell.com>
+Reply-To: =?utf-8?Q?Give=20by=20Cell?= <marketing@givebycell.com>
+To: <bethann@operationspokaneheroes.org>
+Date: Mon, 6 May 2013 16:00:58 +0000
+Message-ID: <ca355d977d6503a80379b8e1f63b8777989.20130506160034@mail46.wdc03.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID5fb7a150f663b8777989**
+X-Campaign: mailchimpca355d977d6503a80379b8e1f.5fb7a150f6
+X-campaignid: mailchimpca355d977d6503a80379b8e1f.5fb7a150f6
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=ca355d977d6503a80379b8e1f&id=5fb7a150f6&e=63b8777989
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-ca355d977d6503a80379b8e1f-5fb7a150f6-63b8777989@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://guidebycell.us5.list-manage.com/unsubscribe?u=ca355d977d6503a80379b8e1f&id=fdc2b2b32e&e=63b8777989&c=5fb7a150f6>
+Sender: "Give by Cell" <marketing=givebycell.com@mail46.wdc03.rsgsv.net>
+x-mcda: FALSE
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Give by Cell CEO Dave Ashei=
+m to Speak at Federal Trade Commission">
+
+        <title>Give by Cell CEO Dave Asheim to Speak at Federal Trade Comm=
+ission</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body,#backgroundTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:1px solid #DDDDDD;
+=09=09}
+=09=09h1,.h1{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2,.h2{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3,.h3{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:26px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4,.h4{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:22px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.preheaderContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent div a:link,.preheaderContent div a:visited,.prehea=
+derContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#202020;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateContainer,.bodyContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.bodyContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent div a:link,.bodyContent div a:visited,.bodyContent div=
+ a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateSidebar{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.sidebarContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.sidebarContent div a:link,.sidebarContent div a:visited,.sidebarCon=
+tent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.sidebarContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09.leftColumnContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.leftColumnContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.leftColumnContent div a:link,.leftColumnContent div a:visited,.left=
+ColumnContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.leftColumnContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09.rightColumnContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.rightColumnContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.rightColumnContent div a:link,.rightColumnContent div a:visited,.ri=
+ghtColumnContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rightColumnContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border-top:0;
+=09=09}
+=09=09.footerContent div{
+=09=09=09color:#707070;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent div a:link,.footerContent div a:visited,.footerConten=
+t div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#social{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09}
+=09=09#social div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#utility{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09}
+=09=09#utility div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+=09=09.headerContent a{
+=09=09=09color:#333333;
+=09=09=09text-decoration:none;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #FFFFFF;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;background-color: #FFFFFF;height: 100% !important;width: 100% !importa=
+nt;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"border-col=
+lapse: collapse;">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"background-color: #=
+FFFFFF;">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConte=
+nt" style=3D"border-collapse: collapse;">
+                                =09
+                                =09<!-- // Begin Module: Standard Preheade=
+r \ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"100%">
+                                    =09<tr>
+                                        =09<td valign=3D"top" style=3D"bor=
+der-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">=
+</div>
+                                            </td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D=
+"border-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                =09Is this email not displ=
+aying correctly?<br><a href=3D"http://us5.campaign-archive1.com/?u=3Dca355=
+d977d6503a80379b8e1f&id=3D5fb7a150f6&e=3D63b8777989" target=3D"_blank" style=
+=3D"color: #336699;font-weight: normal;text-decoration: underline;">View i=
+t in your browser</a>.
+                                                </div>
+                                            </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader=
+ \ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #=
+DDDDDD;background-color: #FFFFFF;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background-c=
+olor: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class=3D"headerContent" st=
+yle=3D"border-collapse: collapse;color: #202020;font-family: Arial;font-si=
+ze: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center=
+;vertical-align: middle;">
+
+                                            =09<!-- // Begin Module: Stand=
+ard Header Image \\ -->
+                                            =09<div style=3D"text-align: l=
+eft;"><a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca=
+355d977d6503a80379b8e1f&id=3D6e388f6ce3&e=3D63b8777989" style=3D"color: #=
+336699;text-decoration: underline;font-weight: normal;"><img src=3D"http:/=
+/gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/EBlast_Give_by_Cel=
+l_FLAG_WEBINAR.1.png" alt=3D"Give by Cell" border=3D"0" style=3D"border: p=
+x none;border-color: ;border-style: none;border-width: px;height: 103px;wi=
+dth: 597px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline=
+: none;text-decoration: none;" width=3D"597" height=3D"103" id=3D"headerIm=
+age campaign-icon"></a></div>
+                                            =09<!-- // End Module: Standar=
+d Header Image \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    =09<tr>
+                                        =09<td valign=3D"top" width=3D"400=
+" style=3D"border-collapse: collapse;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"400">
+                                                =09<tr>
+                                                    =09<td valign=3D"top"=
+ style=3D"border-collapse: collapse;">
+                                            =09=09=09=09<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"400">
+                                                            =09<tr>
+                                                                =09<td val=
+ign=3D"top" class=3D"bodyContent" style=3D"border-collapse: collapse;backg=
+round-color: #FFFFFF;">
+
+                                                                        <!=
+-- // Begin Module: Standard Content \\ -->
+                                                                        <t=
+able border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+   <tr>
+                                                                         =
+       <td valign=3D"top" style=3D"border-collapse: collapse;">
+ =09=09=09=09=09=09                                                      =
+      <div style=3D"color: #505050;font-family: Arial;font-size: 14px;line=
+-height: 150%;text-align: left;"><h3 class=3D"null" style=3D"text-align: c=
+enter;color: #202020;display: block;font-family: Arial;font-size: 26px;fon=
+t-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bott=
+om: 10px;margin-left: 0;">
+=09<span style=3D"font-size:22px;"><img align=3D"none" height=3D"192" src=
+=3D"http://gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/mobile_c=
+ramming_logo.jpg" style=3D"width: 350px;height: 192px;border: 0;line-heigh=
+t: 100%;outline: none;text-decoration: none;display: inline;" width=3D"350=
+"><br>
+=09CEO Dave Asheim&nbsp;to Speak&nbsp;at<br>
+=09Federal Trade&nbsp;Commission&#39;s<br>
+=09Mobile Roundtable</span></h3>
+<p style=3D"margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px;=
+ font-size: 12.222222328186035px; vertical-align: baseline; background-col=
+or: transparent; color: rgb(51, 51, 51); font-family: Arial, sans-serif; l=
+ine-height: 20px; -webkit-text-size-adjust: auto; text-align: justify;">
+=09<span style=3D"color:#000000;"><span style=3D"font-size: 14px;">Dave As=
+heim, a leader in innovative mobile fundraising strategies and Founder of=
+ Give by Cell, will speak at the Federal Trade Commissions&rsquo; Mobile C=
+ramming roundtable in on May 8, 2013 in Washington, D.C.</span></span></p>
+<p style=3D"margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px;=
+ font-size: 12.222222328186035px; vertical-align: baseline; background-col=
+or: transparent; color: rgb(51, 51, 51); font-family: Arial, sans-serif; l=
+ine-height: 20px; -webkit-text-size-adjust: auto; text-align: justify;">
+=09<span style=3D"color:#000000;"><span style=3D"font-size: 14px;">The Fed=
+eral Trade Commission will host a roundtable to examine unauthorized third=
+-party charges on mobile phone bills&mdash;a practice known as &ldquo;mobi=
+le cramming.&rdquo; The roundtable will bring together consumer advocates,=
+ industry representatives, and government regulators to explore various is=
+sues, including how mobile cramming occurs and how to protect consumers fr=
+om this practice.</span></span></p>
+<p style=3D"margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px;=
+ font-size: 12.222222328186035px; vertical-align: baseline; background-col=
+or: transparent; color: rgb(51, 51, 51); font-family: Arial, sans-serif; l=
+ine-height: 20px; -webkit-text-size-adjust: auto; text-align: center;">
+=09<span style=3D"font-size:14px;"><strong><span style=3D"color: rgb(0, 0,=
+ 255);"><span style=3D"background-color: rgb(240, 255, 240);">&nbsp;</span=
+></span><a href=3D"http://guidebycell.us5.list-manage2.com/track/click?u=
+=3Dca355d977d6503a80379b8e1f&id=3D9da624c706&e=3D63b8777989" target=3D"_s=
+elf" style=3D"color: #336699;font-weight: normal;text-decoration: underlin=
+e;"><span style=3D"color: rgb(0, 0, 255);"><span style=3D"background-color=
+: rgb(240, 255, 240);">Please click here to read more</span></span></a><sp=
+an style=3D"color: rgb(0, 0, 255);"><span style=3D"background-color: rgb(2=
+40, 255, 240);">.&nbsp;</span></span></strong></span></p>
+</div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                        <!=
+-- // End Module: Standard Content \\ -->
+
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                =09=09</td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td valign=3D"top"=
+ style=3D"border-collapse: collapse;">
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"400">
+                                                                <tr>
+                                                                    <td va=
+lign=3D"top" width=3D"180" class=3D"leftColumnContent" style=3D"border-col=
+lapse: collapse;background-color: #FFFFFF;">
+
+                                                                        <!=
+-- // Begin Module: Top Image with Content \\ -->
+                                                                        <t=
+able border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+   <tr mc:repeatable=3D"repeat_1" mc:repeatindex=3D"0" mc:hideable=3D"hide=
+able_repeat_1_1" mchideable=3D"hideable_repeat_1_1">
+                                                                         =
+       <td valign=3D"top" style=3D"border-collapse: collapse;">
+                                                                         =
+           <img src=3D"http://gallery.mailchimp.com/ca355d977d6503a80379b8=
+e1f/images/twitter_bird_white_on_blue.png" alt=3D"" border=3D"0" style=3D"=
+border: px none;border-color: ;border-style: none;border-width: px;height:=
+ 160px;width: 160px;margin: 0;padding: 0;max-width: 160px;line-height: 100=
+%;outline: none;text-decoration: none;display: inline;" width=3D"160" heig=
+ht=3D"160">
+                                                                         =
+           <div style=3D"color: #505050;font-family: Arial;font-size: 14px=
+;line-height: 150%;text-align: left;"><br>
+<strong><span style=3D"font-size:16px;"><span style=3D"color:#000000;">Sev=
+en Tips for Charities Using Twitter</span></span></strong><br>
+<div style=3D"color: rgb(80, 80, 80);font-family: Arial;font-size: 14px;li=
+ne-height: 150%;text-align: left;">
+=09<br>
+=09<span style=3D"color:#000000;">Captivating your supporters through soci=
+al media is vital in engagement and establishing a relationship with your=
+ donors. </span><a href=3D"http://guidebycell.us5.list-manage.com/track/cl=
+ick?u=3Dca355d977d6503a80379b8e1f&id=3D4eb9ac1914&e=3D63b8777989" style=
+=3D"color: #336699;font-weight: normal;text-decoration: underline;" target=
+=3D"_self"><span style=3D"color:#0000ff;">David Moth from Econsultancy.com=
+</span></a><span style=3D"color:#000000;"> shares his inside information t=
+he best practices a charitable organization can use when utilizing their s=
+ocial media networks</span><br>
+=09<br>
+=09&nbsp;</div>
+<div style=3D"color: rgb(80, 80, 80); font-family: Arial; font-size: 14px;=
+ line-height: 150%; text-align: center;">
+=09<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355=
+d977d6503a80379b8e1f&id=3D5d9408f8dc&e=3D63b8777989" style=3D"color: #336=
+699;font-weight: normal;text-decoration: underline;" target=3D"_self"><spa=
+n style=3D"color:#0000ff;">Please click here for more information</span></=
+a>.&nbsp;</div>
+</div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                        <!=
+-- // End Module: Top Image with Content \\ -->
+
+                                                                    </td>
+                                                                    <td va=
+lign=3D"top" width=3D"180" class=3D"rightColumnContent" style=3D"border-co=
+llapse: collapse;background-color: #FFFFFF;">
+
+                                                                        <!=
+-- // Begin Module: Top Image with Content \\ -->
+                                                                        <t=
+able border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                                         =
+   <tr mc:repeatable=3D"repeat_2" mc:repeatindex=3D"0" mc:hideable=3D"hide=
+able_repeat_2_1" mchideable=3D"hideable_repeat_2_1">
+                                                                         =
+       <td valign=3D"top" style=3D"border-collapse: collapse;">
+                                                                         =
+           <img src=3D"http://gallery.mailchimp.com/ca355d977d6503a80379b8=
+e1f/images/32f9a68.jpg" alt=3D"" border=3D"0" style=3D"border: px none;bor=
+der-color: ;border-style: none;border-width: px;height: 160px;width: 160px=
+;margin: 0;padding: 0;max-width: 160px;line-height: 100%;outline: none;tex=
+t-decoration: none;display: inline;" width=3D"160" height=3D"160">
+                                                                         =
+           <div style=3D"color: #505050;font-family: Arial;font-size: 14px=
+;line-height: 150%;text-align: left;"><br>
+<span style=3D"color:#000000;"><strong><span style=3D"font-size: 16px;">Gi=
+ve by Cell Announces New Director of Mobile Museum Technology and the Laun=
+ch of its New Miami Regional Office</span></strong></span><br>
+<br>
+<span style=3D"background-color: transparent;"><a href=3D"http://guidebyce=
+ll.us5.list-manage.com/track/click?u=3Dca355d977d6503a80379b8e1f&id=3D4a7f=
+438f32&e=3D63b8777989" style=3D"color: rgb(51, 102, 153);font-family: Ari=
+al, sans-serif;line-height: 20px;-webkit-text-size-adjust: auto;font-weigh=
+t: normal;text-decoration: underline;" target=3D"_self"><span style=3D"col=
+or:#0000ff;">Give by Cell</span></a></span><span style=3D"background-color=
+: transparent; font-family: Arial, sans-serif; font-size: 12.2222223281860=
+35px; line-height: 20px; -webkit-text-size-adjust: auto; color: rgb(0, 0,=
+ 0);"><span style=3D"font-size: 14px;"> is pleased to announce that John S=
+uau has joined as its new Director of Mobile Museum Technology. Suau is an=
+ experienced museum and non-profit executive.&nbsp; He has over 25 years o=
+f experience working in museums, museum associations, non-profit organizat=
+ions and consulting with artists and cultural organizations. The firm also=
+ announced today that it is opening a new regional office in Miami, Florid=
+a.</span></span><br>
+<p style=3D"margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px;=
+ font-size: 12.222222328186035px; vertical-align: baseline; background-col=
+or: transparent; color: rgb(51, 51, 51); font-family: Arial, sans-serif; l=
+ine-height: 20px; -webkit-text-size-adjust: auto; text-align: center;">
+=09<span style=3D"font-size:14px;"><a href=3D"http://guidebycell.us5.list-=
+manage.com/track/click?u=3Dca355d977d6503a80379b8e1f&id=3Df1800ee53f&e=3D=
+63b8777989" style=3D"color: #336699;font-weight: normal;text-decoration: u=
+nderline;" target=3D"_self"><span style=3D"color: rgb(0, 0, 255);">Please=
+ click here to read more</span></a>.&nbsp;</span></p>
+</div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                        <!=
+-- // End Module: Top Image with Content \\ -->
+
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <!-- // Begin Sidebar \\ -->
+                                        =09<td valign=3D"top" width=3D"200=
+" id=3D"templateSidebar" style=3D"border-collapse: collapse;background-col=
+or: #FFFFFF;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"200">
+                                                =09<tr>
+                                                    =09<td valign=3D"top"=
+ class=3D"sidebarContent" style=3D"border-collapse: collapse;">
+
+                                                            <!-- // Begin=
+ Module: Social Block with Icons \\ -->
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                <tr>
+                                                                    <td va=
+lign=3D"top" style=3D"padding-top: 20px;padding-right: 20px;padding-left:=
+ 20px;border-collapse: collapse;">
+                                                                        <t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"4">
+                                                                         =
+   <tr mc:hideable=3D"hideable_1" mchideable=3D"hideable_1">
+                                                                         =
+       <td align=3D"left" valign=3D"middle" width=3D"24" style=3D"padding-=
+bottom: 5px;border-collapse: collapse;">
+                                                                         =
+           <img src=3D"http://cdn-images.mailchimp.com/icons/social-block/=
+color-facebook-128.png" width=3D"24" style=3D"height: auto !important;marg=
+in: 0 !important;border: 0;line-height: 100%;outline: none;text-decoration=
+: none;display: inline;">
+                                                                         =
+       </td>
+                                                                         =
+       <td align=3D"left" valign=3D"middle" style=3D"padding-bottom: 5px;b=
+order-collapse: collapse;">
+                                                                         =
+           <div style=3D"color: #505050;font-family: Arial;font-size: 12px=
+;line-height: 150%;text-align: left;"><a href=3D"http://guidebycell.us5.li=
+st-manage.com/track/click?u=3Dca355d977d6503a80379b8e1f&id=3D855603992a&e=
+=3D63b8777989" target=3D"_self" style=3D"color: #336699;font-weight: norm=
+al;text-decoration: underline;">Friend on Facebook</a> </div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                         =
+   <tr mc:hideable=3D"hideable_2" mchideable=3D"hideable_2">
+                                                                         =
+       <td align=3D"left" valign=3D"middle" width=3D"24" style=3D"padding-=
+bottom: 5px;border-collapse: collapse;">
+                                                                         =
+           <img src=3D"http://cdn-images.mailchimp.com/icons/social-block/=
+color-twitter-128.png" width=3D"24" style=3D"height: auto !important;margi=
+n: 0 !important;border: 0;line-height: 100%;outline: none;text-decoration:=
+ none;display: inline;">
+                                                                         =
+       </td>
+                                                                         =
+       <td align=3D"left" valign=3D"middle" style=3D"padding-bottom: 5px;b=
+order-collapse: collapse;">
+                                                                         =
+           <div style=3D"color: #505050;font-family: Arial;font-size: 12px=
+;line-height: 150%;text-align: left;"><a href=3D"http://guidebycell.us5.li=
+st-manage.com/track/click?u=3Dca355d977d6503a80379b8e1f&id=3D075b739268&e=
+=3D63b8777989" target=3D"_self" style=3D"color: #336699;font-weight: norm=
+al;text-decoration: underline;">Follow on Twitter</a> </div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                         =
+   <tr mc:hideable=3D"hideable_3" mchideable=3D"hideable_3">
+                                                                         =
+       <td align=3D"left" valign=3D"middle" width=3D"24" style=3D"padding-=
+bottom: 5px;border-collapse: collapse;">
+                                                                         =
+           <img src=3D"http://cdn-images.mailchimp.com/icons/social-block/=
+color-forwardtofriend-128.png" width=3D"24" style=3D"height: auto !importa=
+nt;margin: 0 !important;border: 0;line-height: 100%;outline: none;text-dec=
+oration: none;display: inline;">
+                                                                         =
+       </td>
+                                                                         =
+       <td align=3D"left" valign=3D"middle" style=3D"padding-bottom: 5px;b=
+order-collapse: collapse;">
+                                                                         =
+           <div style=3D"color: #505050;font-family: Arial;font-size: 12px=
+;line-height: 150%;text-align: left;">
+                                                                         =
+               <a href=3D"http://us5.forward-to-friend.com/forward?u=3Dca3=
+55d977d6503a80379b8e1f&id=3D5fb7a150f6&e=3D63b8777989" style=3D"color: #3366=
+99;font-weight: normal;text-decoration: underline;">Forward to a Friend</a=
+>
+                                                                         =
+           </div>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <!-- // End Mo=
+dule: Social Block with Icons \\ -->
+
+                                                            <!-- // Begin=
+ Module: Top Image with Content \\ -->
+                                                            <table border=
+=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                                <tr mc:rep=
+eatable=3D"repeat_3" mc:repeatindex=3D"0" mc:hideable=3D"hideable_repeat_3=
+_1" mchideable=3D"hideable_repeat_3_1">
+                                                                    <td va=
+lign=3D"top" style=3D"border-collapse: collapse;">
+                                                                        <i=
+mg src=3D"http://gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/gu=
+idebycelle8bcee.1ea6ea4caa133.jpg" alt=3D"" border=3D"0" style=3D"border:=
+ 1px solid;border-color: ;border-style: solid;border-width: 1px;height: 16=
+0px;width: 160px;margin: 0;padding: 0;max-width: 160px;line-height: 100%;o=
+utline: none;text-decoration: none;display: inline;" width=3D"160" height=
+=3D"160">
+                                                                        <d=
+iv style=3D"color: #505050;font-family: Arial;font-size: 12px;line-height:=
+ 150%;text-align: left;"><h4 class=3D"h4" style=3D"color: #202020;display:=
+ block;font-family: Arial;font-size: 22px;font-weight: bold;line-height: 1=
+00%;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-=
+align: left;">
+=09Upcoming Give by Cell events</h4>
+<span style=3D"color:#000000;">Request an appointment or RSVP for a webina=
+r, and a team member will be in contact with you shortly.<br>
+<br>
+<strong>Federal Trade Commission&rsquo;s Mobile Cramming Roundtable</stron=
+g><br>
+Washington, DC<br>
+May 8, 2013</span><br>
+<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355d97=
+7d6503a80379b8e1f&id=3De11a9feb51&e=3D63b8777989" style=3D"color: #336699=
+;font-weight: normal;text-decoration: underline;" target=3D"_self"><span s=
+tyle=3D"color:#0000ff;">Request more information</span></a><br>
+<span style=3D"color:#000000;">&nbsp;<br>
+<strong>WEBINAR: Strategizing Social Media and Mobile Fundraising</strong>=
+<br>
+May 15, 2013 at 1 p.m. PST/ 4 p.m. EST</span><br>
+<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355d97=
+7d6503a80379b8e1f&id=3D90610ffee4&e=3D63b8777989" style=3D"color: #336699=
+;font-weight: normal;text-decoration: underline;" target=3D"_self"><span s=
+tyle=3D"color:#0000ff;">Click here to RSVP</span></a><br>
+<span style=3D"color:#000000;">&nbsp;<br>
+<strong>American Alliance of Museums Conference</strong><br>
+Baltimore, ME<br>
+May 19-22, 2013</span><br>
+<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355d97=
+7d6503a80379b8e1f&id=3D379372fa72&e=3D63b8777989" style=3D"color: #336699=
+;font-weight: normal;text-decoration: underline;" target=3D"_self"><span s=
+tyle=3D"color:#0000ff;">Request more information</span></a><br>
+<br>
+<span style=3D"color:#000000;"><strong>WEBINAR: Collecting Mobile Alumni D=
+onations</strong><br>
+May 28, 2013 at 11 a.m./ 2 p.m. EST</span><br>
+<a href=3D"http://guidebycell.us5.list-manage1.com/track/click?u=3Dca355d9=
+77d6503a80379b8e1f&id=3Df490892202&e=3D63b8777989" style=3D"color: #33669=
+9;font-weight: normal;text-decoration: underline;" target=3D"_self"><span=
+ style=3D"color:#0000ff;">Click here to RSVP</span></a><br>
+<br>
+<span style=3D"color:#000000;"><strong>WEBINAR: How to Create a Disaster R=
+elief Plan</strong><br>
+June 4, 2013 &nbsp;at 11 a.m. PST/ 2 p.m. EST</span><br>
+<a href=3D"http://guidebycell.us5.list-manage1.com/track/click?u=3Dca355d9=
+77d6503a80379b8e1f&id=3Db23ebfabd3&e=3D63b8777989" style=3D"color: #33669=
+9;font-weight: normal;text-decoration: underline;" target=3D"_self"><span=
+ style=3D"color:#0000ff;">Click here to RSVP</span></a><br>
+<span style=3D"color:#000000;">&nbsp;<br>
+<strong>National Charter School Conference</strong><br>
+Washington, DC<br>
+June 30 &ndash; July 3, 2013</span><br>
+<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355d97=
+7d6503a80379b8e1f&id=3D627d105698&e=3D63b8777989" style=3D"color: #336699=
+;font-weight: normal;text-decoration: underline;" target=3D"_self"><span s=
+tyle=3D"color:#0000ff;">Request more information</span></a><br>
+<span style=3D"color:#000000;">&nbsp;<br>
+<strong>Nonprofit Mobile Day</strong><br>
+New York, NY<br>
+July 16, 2013</span><br>
+<a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca355d97=
+7d6503a80379b8e1f&id=3D536c68f294&e=3D63b8777989" style=3D"color: #336699=
+;font-weight: normal;text-decoration: underline;" target=3D"_self"><span s=
+tyle=3D"color:#0000ff;">Request more information</span></a><br>
+</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <!-- // End Mo=
+dule: Top Image with Content \\ -->
+
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <!-- // End Sidebar \\ -->
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                =09<table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #F8F8F8;border-top: 0;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"foo=
+terContent" style=3D"border-collapse: collapse;">
+
+                                                <!-- // Begin Module: Stan=
+dard Footer \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"social" style=3D"border-collapse: collapse;backgr=
+ound-color: #F8F8F8;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ width=3D"350" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<em>Copyright &copy; 2013=
+ Guide by Cell, All rights reserved.</em>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+ You are receiving this email because of your relationship with Give by Ce=
+ll. Please <a href=3D"mailto:marketing@givebycell.com?subject=3DReconfirm=
+ Subscription">reconfirm</a> your interest in receiving emails from us. If=
+ you do not wish to receive any more emails, you can unsubscribe <a href=
+=3D"mailto:marketing@givebycell.com?subject=3DUnsubscribe">here</a>.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Our mailing addres=
+s is:</strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"vcard"><span=
+ class=3D"org fn">Guide by Cell</span><div class=3D"adr"><div class=3D"str=
+eet-address">300 Beale Street</div><div class=3D"extended-address">Suite 6=
+08</div><span class=3D"locality">San Francisco</span>, <span class=3D"regi=
+on">CA</span>  <span class=3D"postal-code">94105</span></div><br><a href=
+=3D"http://guidebycell.us5.list-manage.com/vcard?u=3Dca355d977d6503a80379b=
+8e1f&id=3Dfdc2b2b32e" class=3D"hcard-download">Add us to your address book=
+</a></div>
+                                                            </div>
+                                                        </td>
+                                                        <td valign=3D"top"=
+ width=3D"190" id=3D"monkeyRewards" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"utility" style=3D"border-collapse: collapse;backg=
+round-color: #F8F8F8;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;">
+                                                                &nbsp;<a h=
+ref=3D"http://guidebycell.us5.list-manage.com/unsubscribe?u=3Dca355d977d65=
+03a80379b8e1f&id=3Dfdc2b2b32e&e=3D63b8777989&c=3D5fb7a150f6" style=3D"color:=
+ #336699;font-weight: normal;text-decoration: underline;">unsubscribe from=
+ this list</a> | <a href=3D"http://guidebycell.us5.list-manage.com/profile=
+?u=3Dca355d977d6503a80379b8e1f&id=3Dfdc2b2b32e&e=3D63b8777989" style=3D"colo=
+r: #336699;font-weight: normal;text-decoration: underline;">update subscri=
+ption preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Footer \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://guidebycell.us5.list-manage.com/track/open.php?u=3D=
+ca355d977d6503a80379b8e1f&id=3D5fb7a150f6&e=3D63b8777989" height=3D"1" wi=
+dth=3D"1"></body>
+</html>

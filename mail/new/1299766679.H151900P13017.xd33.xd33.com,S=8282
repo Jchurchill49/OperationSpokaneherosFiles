@@ -1,0 +1,115 @@
+Return-path: <3ld14TQcTADkijmZkgtXcZXfjpo.bjjbgZ.Xjh@cbg.bounces.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Thu, 10 Mar 2011 08:17:59 -0600
+Received: from mail-gx0-f198.google.com ([209.85.161.198]:37381)
+	by xd33.xd33.com with esmtps (TLSv1:RC4-MD5:128)
+	(Exim 4.69)
+	(envelope-from <3ld14TQcTADkijmZkgtXcZXfjpo.bjjbgZ.Xjh@cbg.bounces.google.com>)
+	id 1Pxggg-0003Ns-Mu
+	for admin@operationspokaneheroes.org; Thu, 10 Mar 2011 08:17:59 -0600
+Received: by gxk25 with SMTP id 25so1402415gxk.5
+        for <admin@operationspokaneheroes.org>; Thu, 10 Mar 2011 06:17:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=beta;
+        h=domainkey-signature:date:from:to:message-id:subject:mime-version
+         :content-type;
+        bh=a52MHOSBYeDmsNulh+7LqEWSvOMeK7plqjUkdeCNsb4=;
+        b=kK+94HCX0Ay87phXMaPFyBaayZlMgM/PV2nK6otM7NzTqRV8zTNWlzebnlTYKNSK0f
+         UtdPqItHSEdtxATIAG4A==
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=google.com; s=beta;
+        h=date:from:to:message-id:subject:mime-version:content-type;
+        b=ta/AJYnNdN5O5IASman7+DBcOHQP1Yg60SmvHPdx5ZHNSTBoNfj0bacCihqzd16cE9
+         rFgTsCYLy0p1huNIad7g==
+Received: by 10.146.108.7 with SMTP id g7mr543129yac.20.1299766677359;
+        Thu, 10 Mar 2011 06:17:57 -0800 (PST)
+Date: Thu, 10 Mar 2011 14:17:57 +0000 (UTC)
+From: Google Checkout <noreply@checkout.google.com>
+To: admin@operationspokaneheroes.org
+Message-ID: <313747172101814.1.8.1299766677350.3c1c30b7-e00b-4c1b-a3e2-08d061ef086b@checkout.google.com>
+Subject: Purchase Receipt for Order #313747172101814
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_34848_29881182.1299766677355"
+X-Spam-Status: No, score=-0.7
+X-Spam-Score: -6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "xd33.xd33.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hello admin@operationspokaneheroes.org, Robert-ba0oveohp1g@checkout.google.com
+	has just completed a purchase from your store. Below is the summary of the
+	transaction. Next step... Process this order in your Google Checkout account.
+	This cart is unsigned Donation date: Mar 10, 2011 6:17 AM PST Google order
+	number: 313747172101814 Qty Item Price 1 1 half Case Java for Joes coffee
+	- Java for Joes Fundraiser $47.94 Total: $47.94 [...] 
+	Content analysis details:   (-0.7 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.161.198 listed in list.dnswl.org]
+	-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+	domain
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.0 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+------=_Part_34848_29881182.1299766677355
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello admin@operationspokaneheroes.org,
+
+Robert-ba0oveohp1g@checkout.google.com has just completed a purchase
+from your store. Below is the summary of the transaction.
+Next step...
+Process this order in your Google Checkout account.
+This cart is unsigned Donation date: Mar 10, 2011 6:17 AM PST
+Google order number: 313747172101814 Qty Item Price 1 1 half Case Java
+for Joes coffee - Java for Joes Fundraiser $47.94 Total: $47.94
+
+Need help? Visit the Google Checkout help center. Please do not reply
+to this message.
+
+=C2=A92011 Google
+------=_Part_34848_29881182.1299766677355
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr valign="top"><td align="left" valign="top" style="border-bottom: none;"><img src="https://checkout.google.com/img/checkout_logo_sm.png" border="0" alt="Google Checkout"></td>
+<td style="width: 1%; border-bottom: none;"></td></tr></table>
+Hello <b> admin@operationspokaneheroes.org</b>, <br><br>  Robert-ba0oveohp1g@checkout.google.com has just completed a purchase from your store. Below is the summary of the transaction.
+<p>Next step...<br>
+<a href="https://checkout.google.com/sell/multiOrder?order=313747172101814&amp;searchField&amp;ctx=PurchaseReceiptForMerchantEmail">Process this order</a>
+in your Google Checkout account.</p>
+<table width="100%"><tr><td style="text-align: right;"><a href="https://checkout.google.com/support/sell/bin/answer.py?answer=88180&amp;hl=en_US&amp;ctx=PurchaseReceiptForMerchantEmail" target="&quot;_new&quot;">This cart is unsigned</a>
+<img src="https://checkout.google.com/img/unlocked_icon.gif" name="unlocked_icon" alt=""></td></tr>
+<tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" class="brandingBackground" style="background-color: #E5ECF9;"><tr><td class="font-size" style="font-size: 83%;">&nbsp;Donation date: <b>Mar 10, 2011 6:17 AM PST</b>
+<br>
+&nbsp;Google order number: <b>313747172101814</b>
+</td>
+<td style="padding-right: 15px;" align="right" nowrap></td></tr></table></td></tr>
+<tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" class="brandingTableEmail" style="background-color: #FFFFFF; border: 1px solid #E5ECF9;"><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" nowrap class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:1%;text-align:center; padding-right:1em;">&nbsp;Qty&nbsp;</td>
+<td colspan="89" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:89%; text-align: left;">Item</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%; text-align:right; padding-right:1em;">&nbsp;Price</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%;">&nbsp;</td></tr><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:1%; text-align: center;">&nbsp;1</td>
+<td colspan="89" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:89%;"><b><span class="brandingItemName" style="font-weight: bold; color: black;">1 half Case Java for Joes coffee</span></b>
+&nbsp;-&nbsp;
+<span class="brandingItemDescription" style="color: #666666;">Java for Joes Fundraiser</span>
+
+</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%; text-align:right; white-space: nowrap; padding-right: 1em;" id="itemAmount30173">$47.94</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%;">&nbsp;</td></tr>
+<tr style="background-color: #E5ECF9;"><td rowspan="4" colspan="70" style="width:70%;"></td>
+<td colspan="20" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:20%; text-align:right; vertical-align:text-top;">Total:</td>
+<td colspan="5" id="totalAmount" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:5%; text-align:right; white-space: nowrap; padding-right:1em;">$47.94</td>
+<td colspan="5" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:5%;">&nbsp;</td></tr></table></td></tr></tbody></table></td></tr></table>
+<p><div style="padding: 2px; border-top: 1px solid #3366CC"><center><font color="#676767" size="-2"><br>
+Need help? Visit the  <a href="https://checkout.google.com/support/sell?hl=en_US">Google Checkout help center</a>.
+Please do not reply to this message.
+<br><br>
+&copy;2011&nbsp;Google</font></center></div></p>
+------=_Part_34848_29881182.1299766677355--

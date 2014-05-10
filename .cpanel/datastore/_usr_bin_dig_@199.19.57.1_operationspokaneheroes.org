@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.3.6-P1-RedHat-9.3.6-16.P1.el5 <<>> @199.19.57.1 operationspokaneheroes.org
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54049
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;operationspokaneheroes.org.	IN	A
+
+;; AUTHORITY SECTION:
+operationspokaneheroes.org. 86400 IN	NS	ns2.xd33.com.
+operationspokaneheroes.org. 86400 IN	NS	ns1.xd33.com.
+
+;; Query time: 39 msec
+;; SERVER: 199.19.57.1#53(199.19.57.1)
+;; WHEN: Sat Jun 11 15:20:29 2011
+;; MSG SIZE  rcvd: 88
+

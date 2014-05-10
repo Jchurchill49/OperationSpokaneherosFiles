@@ -1,0 +1,1680 @@
+Return-path: <HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff@na.e.paypal.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Sat, 15 Sep 2012 20:05:08 -0500
+Received: from outbound.na.e.paypal.com ([96.47.30.201]:17604)
+	by arod.xd33.com with esmtp (Exim 4.77)
+	(envelope-from <HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff@na.e.paypal.com>)
+	id 1TD3IJ-0002dQ-7v
+	for travis@operationspokaneheroes.org; Sat, 15 Sep 2012 20:05:07 -0500
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com; s=ED-DKIM; c=simple/simple;
+	q=dns/txt; i=@e.paypal.com; t=1347757508;
+	h=From;
+	bh=VeQ2kfACmXTmYyrCuvnX7tsnbGQ=;
+	b=VatvPINToLdQ80oHdzwq0LQVzyaYOgGXdJdwuFmBttUe/SJ8cNJn27RTR50Z7DgS
+	wkwcC6JvdbCpirpud75hKyQxfA/+y/UUZ4pJ1XNup90JaZYBYbphbVKp3ZZKXgLX;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2011-04; d=e.paypal.com;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer;
+	b=QqiyMVPCz2DtdvsVW0W2IK6gysW0YVhHUwt9ncvKt6xrbpZSb3bVFki/FNMGW8IL
+	QNlHc2CQiYF/otnKccAB9Hr97NCC81GJ7NDO5Tk4IluytifxDbZDfw77ftCHlLtG
+Received: from [127.0.0.1] ([127.0.0.1:58710])
+	by bm1-08.bo3.e-dialog.com (envelope-from <HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff@na.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id CD/6E-32329-4C525505; Sat, 15 Sep 2012 21:05:08 -0400
+Date: Sat, 15 Sep 2012 21:05:08 -0400
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com>
+Reply-To: "PayPal" <noreply@e.paypal.com>
+To: travis@operationspokaneheroes.org
+Subject: PayPal Annual Privacy and Error Resolution Notice
+Message-Id: <26610-72-HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff@e-dialog.com>
+X-Mail-From: HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff@na.e.paypal.com
+X-Match: na.e.paypal.com
+X-RCPT-To: travis@operationspokaneheroes.org
+X-Mailer: EDMAIL R6.00.02
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+PayPal
+=20
+Dear Travis Bonifield,
+=20
+Your privacy and trust are important to us, so we want to make sure you kno=
+w what=20
+we do to make PayPal the best way to pay and get paid online. Part of that =
+job is=20
+keeping your financial information private.
+=20
+Each year we send you a copy of our privacy policy to answer questions and =
+explain=20
+exactly how we collect, use and protect your information. Please look it ov=
+er. You can=20
+also view the privacy policy online at any time by clicking the Privacy lin=
+k at the=20
+bottom of any PayPal page.
+=20
+We also want to make sure you know how to report unauthorized transactions =
+or=20
+other errors in payments made using PayPal's services. Please take a few mi=
+nutes=20
+to review our annual Error Resolution Notice. It explains what to do if you=
+ discover=20
+an error and outlines your rights for resolving issues. Please keep a copy =
+for your=20
+records. For more information, please see section 12 of the PayPal User Agr=
+eement=20
+(Resolution Procedures for Unauthorized Transactions and Other Errors).
+https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/A90BV/85/t
+=20
+In an electronic world, online privacy and fraud protection are vital. If y=
+ou'd like to know=20
+more about how to protect yourself, the PayPal Security Center offers a var=
+iety of powerful=20
+fraud-fighting tips, tools, and technology. You can find the Security Cente=
+r by clicking the=20
+Security and Protection link at the top of any PayPal page or you can conta=
+ct us with=20
+questions through the Contact Us link at the bottom of any page.
+=20
+Sincerely,
+=20
+Dan Oseran
+Privacy Counsel
+=20
+Kevin Thomas
+Director Compliance
+=20
+Privacy Policy for PayPal Services
+Last Update: April 1, 2012
+=20
+This policy describes the ways we collect, store, use and protect your pers=
+onal information.=20
+You accept this Privacy Policy when you sign up for or use our products, se=
+rvices or any=20
+other features, technologies or functionalities offered by us on our websit=
+e, application or=20
+through any other means (collectively the "PayPal Services"). We may amend =
+this policy=20
+at any time by posting a revised version on our website. The revised versio=
+n will be effective=20
+at the time we post it. In addition, if the revised version includes a subs=
+tantial change, we=20
+will provide you with 30 days' prior notice by posting notice of the change=
+ on the "Policy Updates"=20
+page of our website.
+=20
+Binding Corporate Rules
+=20
+In addition to the privacy practices set out in this Privacy Policy, eBay I=
+nc. has established=20
+a set of Corporate Rules (also referred to as Binding Corporate Rules), app=
+roved by a number=20
+of European Union privacy regulators. These Corporate Rules are a commitmen=
+t by eBay Inc.=20
+to adequately protect your personal information regardless of where the dat=
+a resides, and=20
+depending upon your location, may provide additional privacy rights through=
+ your privacy=20
+regulator or a court. If you would like additional information regarding th=
+e Corporate Rules=20
+contact us via the contact details below.
+=20
+How we collect information about you
+=20
+When you visit the PayPal website or use the PayPal Services or PayPal appl=
+ication, we collect=20
+information sent to us by your computer, mobile phone or other access devic=
+e. This information=20
+may include your IP address, device information including but not limited t=
+o identifier, name and=20
+type, operating system, location, mobile network information and standard w=
+eb log information,=20
+such as your browser type, traffic to and from our site and the pages you a=
+ccessed on our website.
+=20
+If you open an account or use the PayPal Services, we may collect the follo=
+wing types of information:
+=20
+- Contact information - your name, address, phone, email, Skype ID and othe=
+r similar information.
+- Financial information - the full bank account numbers and/or credit card =
+numbers that you link to=20=20=20
+your PayPal account or give us when you use the PayPal Services.
+=20
+Before permitting you to use the PayPal Services, we may require you to pro=
+vide additional information=20
+we can use to verify your identity or address or manage risk, such as your =
+date of birth, social security=20
+number or other information. We may also obtain information about you from =
+third parties such as=20
+credit bureaus and identity verification services.
+=20
+When you use the PayPal Services, we collect information about your transac=
+tions and your other=20
+activities on our website, application or when using the PayPal Services an=
+d we may collect information=20
+about your computer or other access device for fraud prevention purposes.
+=20
+You may choose to provide us with access to certain personal information st=
+ored by third parties such=20
+as social media sites (such as Facebook and Twitter). The information we ha=
+ve access to varies by site=20
+and is controlled by your privacy settings on that site and your authorizat=
+ion. By associating an account=20
+managed by a third party with your PayPal account and authorizing PayPal to=
+ have access to this=20
+information, you agree that PayPal may collect, store and use this informat=
+ion in accordance with this=20
+Privacy Policy.
+=20
+In order to help protect you from fraud and misuse of your personal informa=
+tion, we may collect=20
+information about your use and interaction with our website, application or=
+ the PayPal Services. For=20
+example, we may evaluate your computer, mobile phone or other access device=
+ to identify any=20
+malicious software or activity that may affect the availability of the PayP=
+al Services.
+=20
+Finally, we may collect additional information from or about you in other w=
+ays such as contacts with=20
+our customer support team or results when you respond to a survey and from =
+interactions with members=20
+of the eBay Inc. corporate family, and from other companies.
+=20
+How we use cookies
+=20
+When you access our website or content or use our application or the PayPal=
+ Services, we or companies=20
+we work with, may place small data files called cookies or pixel tags on yo=
+ur computer or other device.=20
+We use these technologies to recognize you as a PayPal customer, customize =
+the PayPal Services, content=20
+and advertising, measure promotional effectiveness, collect information abo=
+ut your computer or other=20
+access device to mitigate risk, help prevent fraud and promote trust and sa=
+fety.
+=20
+We use both session and persistent cookies when you access our website or c=
+ontent. Session cookies=20
+expire and no longer have any effect when you log out of your account or cl=
+ose your browser. Persistent=20
+cookies remain on your browser until you erase them or they expire.
+=20
+We also use Local Shared Objects, commonly referred to as "Flash cookies", =
+to help ensure that your=20
+account security is not compromised, to spot irregularities in behavior to =
+help prevent fraud and to support=20
+our sites and services.
+=20
+We encode our cookies so that only we can interpret the information stored =
+in them. You are free to decline=20
+our cookies if your browser or browser add-on permits, but doing so may int=
+erfere with your use of our=20
+website. The help section of most browsers or browser add-ons provides inst=
+ructions on blocking, deleting=20
+or disabling cookies.
+=20
+You may encounter PayPal cookies or pixel tags on websites that we do not c=
+ontrol. For example, if you view a=20
+web page created by a third party or use an application developed by a thir=
+d party, there may be a cookie or=20
+pixel tag placed by the web page or application. Likewise, these third part=
+ies may place cookies or pixel tags=20
+that are not subject to our control and the PayPal Privacy Policy does not =
+cover their use.
+=20
+How we protect and store personal information
+=20
+Throughout this policy, we use the term "personal information" to describe =
+information that can be associated=20
+with a specific person and can be used to identify that person. We do not c=
+onsider personal information to=20
+include information that has been anonymized so that it does not identify a=
+ specific user.
+=20
+We store and process your personal information on our computers in the US a=
+nd elsewhere in the world=20
+where PayPal facilities or our service providers are located, and we protec=
+t it by maintaining physical,=20
+electronic and procedural safeguards in compliance with applicable US feder=
+al and state regulations.=20
+We use computer safeguards such as firewalls and data encryption, we enforc=
+e physical access controls=20
+to our buildings and files, and we authorize access to personal information=
+ only for those employees=20
+who require it to fulfill their job responsibilities.
+=20
+How we use the personal information we collect
+=20
+Our primary purpose in collecting personal information is to provide you wi=
+th a secure, smooth, efficient,=20
+and customized experience. We may use your personal information to:
+=20
+- provide the PayPal Services and customer support you request;
+- process transactions and send notices about your transactions;
+- resolve disputes, collect fees, and troubleshoot problems;
+- prevent potentially prohibited or illegal activities, and enforce our Use=
+r Agreement;
+- customize, measure, and improve the PayPal Services and the content and l=
+ayout of our website and applications;
+- deliver targeted marketing, service update notices, and promotional offer=
+s based on your communication preferences;
+- compare information for accuracy and verify it with third parties.
+=20
+Marketing
+=20
+We don't sell or rent your personal information to third parties for their =
+marketing purposes without=20
+your explicit consent. We may combine your information with information we =
+collect from other=20
+companies and use it to improve and personalize the PayPal Services, conten=
+t and advertising.=20
+If you don't wish to receive marketing communications from us or participat=
+e in our ad-customization=20
+programs, simply indicate your preference by logging into your account and =
+going to the Profile subtab=20
+under the My Account tab and adjusting your preferences under Account Infor=
+mation, or by following=20
+the directions provided with the communication or advertisement.
+=20
+If you no longer wish to receive notifications via our application, you can=
+ adjust your preferences=20
+by visiting the settings page of the application.
+=20
+You can opt out of receiving SMS messages by texting STOP to the number we =
+send from for that=20
+particular service. Alternatively, you can indicate your preference by logg=
+ing into your account and=20
+adjusting your preferences under Account Information or by following the di=
+rections provided=20
+with the communication.
+=20
+How we share personal information with other PayPal users
+=20
+To process your payments, we may share some of your personal information wi=
+th the person or=20
+company that you are paying or that is paying you. Your contact information=
+, date of sign-up, the=20
+number of payments you have received from verified PayPal users, and whethe=
+r you have verified=20
+control of a bank account are provided to other PayPal users who you transa=
+ct with through PayPal.=20
+In addition, this and other information may also be shared with third parti=
+es when you use these=20
+third parties to access the PayPal Services. Unless you have agreed to it, =
+these third parties are=20
+not allowed to use this information for any purpose other than to enable th=
+e PayPal Services.
+=20
+If you are buying goods or services and pay through PayPal, we may also pro=
+vide the seller with your=20
+shipping and confirmed credit card billing address to help complete your tr=
+ansaction with the seller.=20
+The seller is not allowed to use this information to market their services =
+to you unless you have=20
+agreed to it. If an attempt to pay your seller fails, or is later invalidat=
+ed, we may also provide your=20
+seller with details of the unsuccessful payment. To facilitate dispute reso=
+lutions, we may provide a=20
+buyer with the seller's address so that goods can be returned to the seller.
+=20
+We work with third parties, including merchants, to enable them to accept o=
+r facilitate payments from=20
+or to you using PayPal. In doing so, a third party may share information ab=
+out you with us, such as=20
+your email address or mobile phone number to inform you that a payment is s=
+ent to you or when you=20
+attempt to pay that merchant or through that third party. We use this infor=
+mation to confirm that you=20
+are a PayPal customer and that PayPal as a form of payment can be enabled, =
+or where a payment is=20
+sent to you to send you notification that you have received a payment. Also=
+, if you request that we=20
+validate your status as a PayPal customer with a third party, we will do so=
+. Please note that merchants=20
+you buy from and contract with have their own privacy policies, and PayPal =
+may not be held responsible=20
+for their operations, including, but not limited to, their information prac=
+tices.
+=20
+Regardless, we will not disclose your credit card number or bank account nu=
+mber to anyone you have=20
+paid or who has paid you through PayPal or with the third parties that offe=
+r or use the PayPal Services,=20
+except with your express permission or if we are required to do so to compl=
+y with a credit card rules,=20
+subpoena or other legal process.
+=20
+How we share personal information with other parties
+=20
+We may share your personal information with:
+=20
+- Members of the eBay Inc. corporate family -- like eBay, Shopping.com or B=
+ill Me Later, Inc.--=20
+  to provide joint content, products and services (like registration, trans=
+actions and customer support),=20
+  to help detect and prevent potentially illegal acts and violations of our=
+ policies, and to guide decisions=20
+  about their products, services and communications. Members of our corpora=
+te family will use this=20
+  information to send you marketing communications only if you have request=
+ed their services.
+- Service providers under contract who help with parts of our business oper=
+ations such as fraud=20
+  prevention, bill collection, marketing and technology services. Our contr=
+acts dictate that these service=20
+  providers only use your information in connection with the services they =
+perform for us and not for=20
+  their own benefit.
+- Financial institutions that we partner with to jointly create and offer a=
+ product such as the PayPal Extras=20
+  credit card where we share information with GE Capital to determine wheth=
+er you should receive=20
+  pre-approved offers for the PayPal Extras credit card. These financial in=
+stitutions may only use this=20
+  information to market PayPal-related products, unless you have given cons=
+ent for other uses.
+-Credit bureaus to report account information, as permitted by law.
+- Banking partners as required by credit card association rules for inclusi=
+on on their list of terminated=20
+  merchants (in the event that you meet their criteria which includes havin=
+g PayPal close your PayPal Account=20
+  due to your breach of the PayPal User Agreement).
+- Companies that we plan to merge with or be acquired by. (Should such a co=
+mbination occur, we will require=20
+   that the new combined entity follow this privacy policy with respect to =
+your personal information. If your personal=20
+  information could be used contrary to this policy, you will receive prior=
+ notice.)
+- Law enforcement, government officials, or other third parties when=20
+   - we are compelled to do so by a subpoena, court order or similar legal =
+procedure
+   - we need to do so to comply with law or credit card rules
+   - we believe in good faith that the disclosure of personal information i=
+s necessary to prevent physical harm or=20
+     financial loss, to report suspected illegal activity or to investigate=
+ violations of our User Agreement.
+- Other third parties with your consent or direction to do so.
+=20
+PayPal will not sell or rent any of your personal information to third part=
+ies for their marketing purposes and=20
+only shares your personal information with third parties as described in th=
+is policy.
+=20
+If you open a PayPal account directly on a third party website or via a thi=
+rd party application, any information=20
+that you enter on that website or application (and not directly on a PayPal=
+ website) will be shared with the owner=20
+of the third party website or application and your information may be subje=
+ct to their privacy policies.
+=20
+How you can restrict PayPal from sharing your personal information
+=20
+Federal and state laws allow you to restrict the sharing of your personal i=
+nformation in certain instances. However,=20
+these laws also state that you cannot restrict other types of sharing. Beca=
+use we have chosen to refrain from=20
+certain types of data sharing, the only type of sharing of your personal in=
+formation that you may restrict is as follows:
+=20
+If you do not want PayPal to share your personal information with eBay comp=
+anies for the purpose of marketing=20
+their products or with other financial institutions for the purpose of mark=
+eting our jointly offered products to you,=20
+please log in to your account and uncheck the box in the Information Sharin=
+g section of the Notifications and Information=20
+Sharing page. This page can be accessed by going to the Profile subtab unde=
+r the My Account tab.
+=20
+You can also control how we use your contact information to market the PayP=
+al Services to you in the notifications preferences.
+=20
+How you can access or change your personal information
+=20
+You can review and edit your personal information at any time by logging in=
+ to your account and clicking the Profile=20
+subtab under the My Account tab. You can also close your account through th=
+e PayPal website. If you close your=20
+PayPal account, we will mark your account in our database as "Closed," but =
+will keep your account information in=20
+our database. This is necessary in order to deter fraud, by ensuring that p=
+ersons who try to commit fraud will not=20
+be able to avoid detection simply by closing their account and opening a ne=
+w account. However, if you close your=20
+account, your personally identifiable information will not be used by us fo=
+r any further purposes, nor sold or shared=20
+with third parties, except as necessary to prevent fraud and assist law enf=
+orcement, as required by law or in accordance=20
+with this Privacy Policy.
+=20
+How you can contact us about privacy questions
+=20
+If you have questions or concerns regarding this policy, you should contact=
+ us by using this form:
+https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/EFAOM/85/t
+=20
+Or writing to us at PayPal, Attn: Privacy Department, P.O. Box 45950, Omaha=
+, NE 68145-0950.=20
+PayPal maintains offices at 2211 N. First Street, San Jose, CA.
+=20
+PayPal has been awarded TRUSTe's Privacy Seal signifying that this privacy =
+policy and practices have been=20
+reviewed by TRUSTe for compliance with TRUSTe's program requirements:
+https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/XZN91/85/t
+=20
+Including transparency, accountability and choice regarding the collection =
+and use of your personal information.=20
+If after contacting PayPal our response to your privacy concern is unsatisf=
+actory, then you may contact TRUSTe=20
+by completing the form located at:
+https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/A90GZ/85/t
+=20
+The TRUSTe program covers only information that is collected through this W=
+eb site, www.paypal.com and=20
+does not cover information that may be collected through our mobile applica=
+tions or downloadable software.
+=20
+___________________________________________________________________________=
+______
+=20
+ANNUAL ERROR RESOLUTION NOTICE
+=20
+The purpose of this notice is to provide you with important information abo=
+ut reporting errors in payments=20
+made using PayPal's services. You should keep this notice for future refere=
+nce.
+=20
+What to do About Questions or Errors with Your Transactions.
+=20
+You should notify PayPal as soon as you can if you believe:
+=20
+- your account statement (you can access your account statement by logging =
+into your account)=20
+  or your transaction confirmation (which is sent to you via email) is wron=
+g;
+- you need more information about a transaction listed on the statement or =
+transaction confirmation; or
+- there has been an unauthorized transaction, other error or unauthorized a=
+ccess to your PayPal account.
+=20
+You must notify us no later than 60 days after the error first appears in y=
+our account statement. We=20
+will extend the 60-day time period if a good reason, such as a hospital sta=
+y, prevented you from=20
+notifying us within 60 days.
+=20
+For any type of error, you can telephone PayPal Customer Service at (402) 9=
+38-3614. You can also=20
+notify us in writing or online by following the instructions below.
+=20
+If the transaction does not involve a PayPal debit card, notify us by eithe=
+r:
+=20
+- Using the form available in the PayPal Resolution Center to file an unaut=
+horized transaction report, or
+           https://www.paypal.com/cgi-bin/marketingweb?cmd=3D_complaint-vie=
+w&nav=3D0.4:
+https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/9QOBZ/85/t
+=20
+- Writing to PayPal, Attn: Error Resolution Department, P.O. Box 45950, Oma=
+ha, NE 68145-0950.
+=20
+If the transaction involves your PayPal debit card, notify us by either:
+=20
+- Logging into your PayPal account, going to the "Account Overview" page an=
+d selecting the transaction=20
+  details for the transaction you wish to dispute. Then follow the directio=
+ns provided for disputing the transaction; or=20
+- Mailing the Written Statement of Disputed PayPal ATM/Debit Card Transacti=
+ons Form or other notice to=20
+  PayPal, Attn: PayPal Debit Card Department, P.O. Box 45950, Omaha, NE 681=
+45-0950, or faxing it to 303-395-2855.=20
+  A link to the form can be found with the directions provided for disputin=
+g the transaction as noted above.
+=20
+If you notify us orally, we may request that you send us your complaint or =
+question in writing (by following the=20
+notification procedures described in the paragraphs above) within 10 busine=
+ss days of providing us the oral notice.
+=20
+When you notify us (orally or in writing), provide us with the following in=
+formation:
+=20
+- Your name and email address you used to register your account, and
+- A description of the suspected unauthorized transaction or other error an=
+d an explanation as to why you=20
+  believe it is incorrect or why you need more information to identify the =
+transaction, and
+- The date and dollar amount of the suspected unauthorized transaction or o=
+ther error.
+=20
+During the course of our investigation, we may request additional informati=
+on from you.
+=20
+Once you notify us of a suspected error, we will investigate your complaint=
+ or question within 10 business days=20
+(or up to 20 business days for new accounts =E2=80=93 accounts that have 30=
+ days or fewer since the date of their first=20
+transaction). If we need more time, we may take up to 45 days to complete o=
+ur investigation (or up to 90 days=20
+for new accounts, point of sale or foreign initiated transactions).
+=20
+If we decide that we need more time to complete our investigation (as expla=
+ined directly above), we will provisionally=20
+credit your account for the amount of the suspected error. You will receive=
+ the provisional credit within 10 business=20
+days of the date we received your notice (20 business days for new accounts=
+). This will allow you to have use of the=20
+money until we complete the investigation. If we ask you to put your compla=
+int or question in writing and we do not=20
+receive your written complaint or question within 10 business days (or 20 f=
+or new accounts), we will not provisionally=20
+credit your account.
+=20
+We will inform you of our decision within three business days after complet=
+ing our investigation. If we determine that=20
+there was an error, we will promptly correct the error. If you have already=
+ received a provisional credit, you will be=20
+allowed to retain those funds. If we decide that there was not an error, we=
+ will include an explanation of our decision=20
+in our email to you. If you received a provisional credit, we will remove i=
+t from your account. You may request copies=20
+of the documents that we used in our investigation.
+=20
+For this purpose, our "business days" are Monday through Friday. Holidays a=
+re not included as business days.
+=20
+Please do not reply to this email. We are unable to respond to inquiries se=
+nt to this address. For immediate answers to your questions, visit our Help=
+ Center by clicking "Help" located on any PayPal page or email.
+
+Copyright (C) 2012 PayPal Inc. All rights reserved.=20
+PayPal is located at 2211 N. First St., San Jose, CA 95131.
+
+
+[[HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b0ff]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head><style type=3D"text/css">.ReadMsgBody { width: 100%;}.ExternalClass {=
+width: 100%;}div, p, a, li, td, span, font {-webkit-text-size-adjust:none;-=
+ms-text-size-adjust:none;}</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>PayPal</title>
+</head>
+<body style=3D"background-color:#FFFFFF;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td bgcolor=3D"#FFFFFF">
+
+<table style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;=
+ font-size:14px; color:#333333" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"600" align=3D"center">
+<tr valign=3D"top">
+<td colspan=3D"3">
+=20=20=20=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"555" align=
+=3D"center">
+<tr>
+<td height=3D"25"><img style=3D"display:block;" src=3D"https://image.paypal=
+-communication.com/spacer50.gif" alt=3D"" width=3D"25" height=3D"25" /></td>
+</tr>
+<tr>
+<td><img style=3D"display:block" src=3D"https://image.paypal-communication.=
+com/paypal/templates_global/generic/logo.gif" border=3D"0" alt=3D"PayPal" w=
+idth=3D"110" height=3D"28" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan=3D"3"><img style=3D"display:block;" src=3D"https://image.paypal=
+-communication.com/spacer50.gif" alt=3D"" height=3D"12" /></td>
+</tr>
+<tr>
+<td colspan=3D"3">
+=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600">
+<tr>
+<td height=3D"20"><img style=3D"display:block;" src=3D"https://image.paypal=
+-communication.com/paypal/templates_global/generic/hdr.gif" alt=3D"" width=
+=3D"600" height=3D"20" /></td>
+</tr>
+<tr>
+<td>
+=20=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600">
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width=3D"1" bgcolor=3D"#cecfce"><img style=3D"display:block;" src=3D"ht=
+tps://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" heig=
+ht=3D"1" /></td>
+<td style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fo=
+nt-size:14px; color:#333333; padding-left:19px; padding-right:19px;" width=
+=3D"598" align=3D"left" valign=3D"top">
+<p>Dear Travis Bonifield,<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Your privacy and trust are important to us, so we want to make s=
+ure you know what we do to make PayPal the best way to pay and get paid onl=
+ine. Part of that job is keeping your financial information private.<br /><=
+br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Each year we send you a copy of our privacy policy to answer que=
+stions and explain exactly how we collect, use and protect your information=
+. Please look it over. You can also view the privacy policy online at any t=
+ime by clicking the Privacy link at the bottom of any PayPal page.<br /><br=
+ />
+=20=20=20=20=20=20=20=20=20=20=20
+           We also want to make sure you know how to report unauthorized tr=
+ansactions or other errors in payments made using PayPal's services. Please=
+ take a few minutes to review our annual Error Resolution Notice. It explai=
+ns what to do if you discover an error and outlines your rights for resolvi=
+ng issues. Please keep a copy for your records. For more information, pleas=
+e see section 12 of the <a
+ href=3D"https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/BSC85/=
+85/h" target=3D"_blank"
+>PayPal User Agreement</a> (Resolution Procedures for Unauthorized Transact=
+ions and Other Errors).<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           In an electronic world, online privacy and fraud protection are =
+vital. If you'd like to know more about how to protect yourself, the PayPal=
+ Security Center offers a variety of powerful fraud-fighting tips, tools, a=
+nd technology. You can find the Security Center by clicking the Security an=
+d Protection link at the top of any PayPal page or you can contact us with =
+questions through the Contact Us link at the bottom of any page.<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Sincerely,<br /><br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20
+           Dan Oseran<br />
+           Privacy Counsel<br /><br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20
+           Kevin Thomas<br />
+           Director Compliance<br /><br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20
+           <font size=3D"4"><b>Privacy Policy for PayPal Services</b></font=
+><br />
+           Last Update: April 1, 2012<br /><br />
+           This policy describes the ways we collect, store, use and protec=
+t your personal information. You accept this Privacy Policy when you sign u=
+p for or use our products, services or any other features, technologies or =
+functionalities offered by us on our website, application or through any ot=
+her means (collectively the "PayPal Services"). We may amend this policy at=
+ any time by posting a revised version on our website. The revised version =
+will be effective at the time we post it. In=20
+addition, if the revised version includes a substantial change, we will pro=
+vide you with 30 days' prior notice by posting notice of the change on the =
+"Policy Updates" page of our website.<br /><br />
+           <font size=3D"4"><b>Binding Corporate Rules</b></font><br /><br =
+/>
+           In addition to the privacy practices set out in this Privacy Pol=
+icy, eBay Inc. has established a set of Corporate Rules (also referred to a=
+s Binding Corporate Rules), approved by a number of European Union privacy =
+regulators. These Corporate Rules are a commitment by eBay Inc. to adequate=
+ly protect your personal information regardless of where the data resides, =
+and depending upon your location, may provide additional privacy rights thr=
+ough your privacy regulator or a court. If you=20
+would like additional information regarding the Corporate Rules contact us =
+via the contact details below.<br /><br />
+           <font size=3D"4"><b>How we collect information about you</b></fo=
+nt><br /><br />
+           When you visit the PayPal website or use the PayPal Services or =
+PayPal application, we collect information sent to us by your computer, mob=
+ile phone or other access device. This information may include your IP addr=
+ess, device information including but not limited to identifier, name and t=
+ype, operating system, location, mobile network information and standard we=
+b log information, such as your browser type, traffic to and from our site =
+and the pages you accessed on our website. <br=20
+/><br />
+           If you open an account or use the PayPal Services, we may collec=
+t the following types of information:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Contact information - your name, address, phone, email, Skype I=
+D and other similar information.
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Financial information - the full bank account numbers and/or cr=
+edit card numbers that you link to your PayPal account or give us when you =
+use the PayPal Services.
+            </td>
+           </tr>
+           </table>
+=09=09=09
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20=20
+           Before permitting you to use the PayPal Services, we may require=
+ you to provide additional information we can use to verify your identity o=
+r address or manage risk, such as your date of birth, social security numbe=
+r or other information. We may also obtain information about you from third=
+ parties such as credit bureaus and identity verification services. <br /><=
+br />=20
+=20=20=20=20=20=20=20=20=20=20=20
+           When you use the PayPal Services, we collect information about y=
+our transactions and your other activities on our website, application or w=
+hen using the PayPal Services and we may collect information about your com=
+puter or other access device for fraud prevention purposes. <br /><br />
+           You may choose to provide us with access to certain personal inf=
+ormation stored by third parties such as social media sites (such as Facebo=
+ok and Twitter). The information we have access to varies by site and is co=
+ntrolled by your privacy settings on that site and your authorization. By a=
+ssociating an account managed by a third party with your PayPal account and=
+ authorizing PayPal to have access to this information, you agree that PayP=
+al may collect, store and use this information=20
+in accordance with this Privacy Policy.<br /><br />
+           In order to help protect you from fraud and misuse of your perso=
+nal information, we may collect information about your use and interaction =
+with our website, application or the PayPal Services. For example, we may e=
+valuate your computer, mobile phone or other access device to identify any =
+malicious software or activity that may affect the availability of the PayP=
+al Services.<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Finally, we may collect additional information from or about you=
+ in other ways such as contacts with our customer support team or results w=
+hen you respond to a survey and from interactions with members of the eBay =
+Inc. corporate family, and from other companies.<br /><br />
+           <font size=3D"4"><b>How we use cookies</b></font><br /><br />
+           When you access our website or content or use our application or=
+ the PayPal Services, we or companies we work with, may place small data fi=
+les called cookies or pixel tags on your computer or other device. We use t=
+hese technologies to recognize you as a PayPal customer, customize the PayP=
+al Services, content and advertising, measure promotional effectiveness, co=
+llect information about your computer or other access device to mitigate ri=
+sk, help prevent fraud and promote trust and=20
+safety. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           We use both session and persistent cookies when you access our w=
+ebsite or content. Session cookies expire and no longer have any effect whe=
+n you log out of your account or close your browser. Persistent cookies rem=
+ain on your browser until you erase them or they expire. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           We also use Local Shared Objects, commonly referred to as "Flash=
+ cookies", to help ensure that your account security is not compromised, to=
+ spot irregularities in behavior to help prevent fraud and to support our s=
+ites and services. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           We encode our cookies so that only we can interpret the informat=
+ion stored in them. You are free to decline our cookies if your browser or =
+browser add-on permits, but doing so may interfere with your use of our web=
+site. The help section of most browsers or browser add-ons provides instruc=
+tions on blocking, deleting or disabling cookies. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           You may encounter PayPal cookies or pixel tags on websites that =
+we do not control. For example, if you view a web page created by a third p=
+arty or use an application developed by a third party, there may be a cooki=
+e or pixel tag placed by the web page or application. Likewise, these third=
+ parties may place cookies or pixel tags that are not subject to our contro=
+l and the PayPal Privacy Policy does not cover their use.<br /><br />
+           <font size=3D"4"><b>How we protect and store personal informatio=
+n</b></font><br /><br />
+           Throughout this policy, we use the term "personal information" t=
+o describe information that can be associated with a specific person and ca=
+n be used to identify that person. We do not consider personal information =
+to include information that has been anonymized so that it does not identif=
+y a specific user. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           We store and process your personal information on our computers =
+in the US and elsewhere in the world where PayPal facilities or our service=
+ providers are located, and we protect it by maintaining physical, electron=
+ic and procedural safeguards in compliance with applicable US federal and s=
+tate regulations. We use computer safeguards such as firewalls and data enc=
+ryption, we enforce physical access controls to our buildings and files, an=
+d we authorize access to personal information=20
+only for those employees who require it to fulfill their job responsibiliti=
+es. <br /><br />
+           <font size=3D"4"><b>How we use the personal information we colle=
+ct</b></font><br /><br />
+           Our primary purpose in collecting personal information is to pro=
+vide you with a secure, smooth, efficient, and customized experience. We ma=
+y use your personal information to:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            provide the PayPal Services and customer support you request;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            process transactions and send notices about your transactions;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            resolve disputes, collect fees, and troubleshoot problems;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            prevent potentially prohibited or illegal activities, and enfor=
+ce our User Agreement;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            customize, measure, and improve the PayPal Services and the con=
+tent and layout of our website and applications;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            deliver targeted marketing, service update notices, and promoti=
+onal offers based on your communication preferences;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            compare information for accuracy and verify it with third parti=
+es.
+            </td>
+           </tr>
+           </table>
+=09=09=09
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20=20
+           <font size=3D"4"><b>Marketing</b></font><br /><br />
+           We don't sell or rent your personal information to third parties=
+ for their marketing purposes without your explicit consent. We may combine=
+ your information with information we collect from other companies and use =
+it to improve and personalize the PayPal Services, content and advertising.=
+ If you don't wish to receive marketing communications from us or participa=
+te in our ad-customization programs, simply indicate your preference by log=
+ging into your account and going to the=20
+Profile subtab under the My Account tab and adjusting your preferences unde=
+r Account Information, or by following the directions provided with the com=
+munication or advertisement.<br /><br />
+           If you no longer wish to receive notifications via our applicati=
+on, you can adjust your preferences by visiting the settings page of the ap=
+plication. <br /><br />
+           You can opt out of receiving SMS messages by texting STOP to the=
+ number we send from for that particular service. Alternatively, you can in=
+dicate your preference by logging into your account and adjusting your pref=
+erences under Account Information or by following the directions provided w=
+ith the communication. <br /><br />
+           <font size=3D"4"><b>How we share personal information with other=
+ PayPal users</b></font><br /><br />=20
+           To process your payments, we may share some of your personal inf=
+ormation with the person or company that you are paying or that is paying y=
+ou. Your contact information, date of sign-up, the number of payments you h=
+ave received from verified PayPal users, and whether you have verified cont=
+rol of a bank account are provided to other PayPal users who you transact w=
+ith through PayPal. In addition, this and other information may also be sha=
+red with third parties when you use these third=20
+parties to access the PayPal Services. Unless you have agreed to it, these =
+third parties are not allowed to use this information for any purpose other=
+ than to enable the PayPal Services. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           If you are buying goods or services and pay through PayPal, we m=
+ay also provide the seller with your shipping and confirmed credit card bil=
+ling address to help complete your transaction with the seller. The seller =
+is not allowed to use this information to market their services to you unle=
+ss you have agreed to it. If an attempt to pay your seller fails, or is lat=
+er invalidated, we may also provide your seller with details of the unsucce=
+ssful payment. To facilitate dispute=20
+resolutions, we may provide a buyer with the seller's address so that goods=
+ can be returned to the seller.<br /><br />=20
+=20=20=20=20=20=20=20=20=20=20=20
+           We work with third parties, including merchants, to enable them =
+to accept or facilitate payments from or to you using PayPal. In doing so, =
+a third party may share information about you with us, such as your email a=
+ddress or mobile phone number to inform you that a payment is sent to you o=
+r when you attempt to pay that merchant or through that third party. We use=
+ this information to confirm that you are a PayPal customer and that PayPal=
+ as a form of payment can be enabled, or where a=20
+payment is sent to you to send you notification that you have received a pa=
+yment. Also, if you request that we validate your status as a PayPal custom=
+er with a third party, we will do so. Please note that merchants you buy fr=
+om and contract with have their own privacy policies, and PayPal may not be=
+ held responsible for their operations, including, but not limited to, thei=
+r information practices. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Regardless, we will not disclose your credit card number or bank=
+ account number to anyone you have paid or who has paid you through PayPal =
+or with the third parties that offer or use the PayPal Services, except wit=
+h your express permission or if we are required to do so to comply with a c=
+redit card rules, subpoena or other legal process.<br /><br />
+           <font size=3D"4"><b>How we share personal information with other=
+ parties</b></font><br /><br />
+           We may share your personal information with:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Members of the eBay Inc. corporate family -- like eBay, Shoppin=
+g.com or Bill Me Later, Inc.-- to provide joint content, products and servi=
+ces (like registration, transactions and customer support), to help detect =
+and prevent potentially illegal acts and violations of our policies, and to=
+ guide decisions about their products, services and communications. Members=
+ of our corporate family will use this information to send you marketing co=
+mmunications only if you have=20
+requested their services.
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Service providers under contract who help with parts of our bus=
+iness operations such as fraud prevention, bill collection, marketing and t=
+echnology services. Our contracts dictate that these service providers only=
+ use your information in connection with the services they perform for us a=
+nd not for their own benefit.
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Financial institutions that we partner with to jointly create a=
+nd offer a product such as the PayPal Extras credit card where we share inf=
+ormation with GE Capital to determine whether you should receive pre-approv=
+ed offers for the PayPal Extras credit card. These financial institutions m=
+ay only use this information to market PayPal-related products, unless you =
+have given consent for other uses.
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Credit bureaus to report account information, as permitted by l=
+aw.
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Banking partners as required by credit card association rules f=
+or inclusion on their list of terminated merchants (in the event that you m=
+eet their criteria which includes having PayPal close your PayPal Account d=
+ue to your breach of the PayPal User Agreement).
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Companies that we plan to merge with or be acquired by. (Should=
+ such a combination occur, we will require that the new combined entity fol=
+low this privacy policy with respect to your personal information. If your =
+personal information could be used contrary to this policy, you will receiv=
+e prior notice.)
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Law enforcement, government officials, or other third parties w=
+hen=20
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td colspan=3D"2" align=3D"left" valign=3D"top">
+            <table border=3D"0" width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0">
+            <tr>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; font-size:14px; color:#333333; fon=
+t-size:14px;">
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=E2=97=
+=8B
+             </td>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; f=
+ont-size:14px;">
+             we are compelled to do so by a subpoena, court order or simila=
+r legal procedure
+             </td>
+            </tr>
+            <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+            <tr>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; font-size:14px; color:#333333; fon=
+t-size:14px;">
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=E2=97=
+=8B
+             </td>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; f=
+ont-size:14px;">
+             we need to do so to comply with law or credit card rules
+             </td>
+            </tr>
+            <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+            <tr>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; font-size:14px; color:#333333; fon=
+t-size:14px;">
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=E2=97=
+=8B
+             </td>
+             <td align=3D"left" valign=3D"top" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; f=
+ont-size:14px;">
+             we believe in good faith that the disclosure of personal infor=
+mation is necessary to prevent physical harm or financial loss, to report s=
+uspected illegal activity or to investigate violations of our User Agreemen=
+t.
+             </td>
+            </tr>
+            </table>
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+            Other third parties with your consent or direction to do so.
+            </td>
+           </tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+
+           PayPal will not sell or rent any of your personal information to=
+ third parties for their marketing purposes and only shares your personal i=
+nformation with third parties as described in this policy. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           If you open a PayPal account directly on a third party website o=
+r via a third party application, any information that you enter on that web=
+site or application (and not directly on a PayPal website) will be shared w=
+ith the owner of the third party website or application and your informatio=
+n may be subject to their privacy policies. <br /><br />
+           <font size=3D"4"><b>How you can restrict PayPal from sharing you=
+r personal information</b></font><br /><br />
+           Federal and state laws allow you to restrict the sharing of your=
+ personal information in certain instances. However, these laws also state =
+that you cannot restrict other types of sharing. Because we have chosen to =
+refrain from certain types of data sharing, the only type of sharing of you=
+r personal information that you may restrict is as follows: <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           If you do not want PayPal to share your personal information wit=
+h eBay companies for the purpose of marketing their products or with other =
+financial institutions for the purpose of marketing our jointly offered pro=
+ducts to you, please log in to your account and uncheck the box in the Info=
+rmation Sharing section of the Notifications and Information Sharing page. =
+This page can be accessed by going to the <font size=3D"3"><b>Profile</b></=
+font> subtab under the <font size=3D"3"><b>My=20
+Account</b></font> tab. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           You can also control how we use your contact information to mark=
+et the PayPal Services to you in the notifications preferences. <br /><br />
+           <font size=3D"4"><b>How you can access or change your personal i=
+nformation</b></font><br /><br />
+           You can review and edit your personal information at any time by=
+ logging in to your account and clicking the <font size=3D"3"><b>Profile</b=
+></font> subtab under the <font size=3D"3"><b>My Account</b></font> tab. Yo=
+u can also close your account through the PayPal website. If you close your=
+ PayPal account, we will mark your account in our database as "Closed," but=
+ will keep your account information in our database. This is necessary in o=
+rder to deter fraud, by ensuring that persons who=20
+try to commit fraud will not be able to avoid detection simply by closing t=
+heir account and opening a new account. However, if you close your account,=
+ your personally identifiable information will not be used by us for any fu=
+rther purposes, nor sold or shared with third parties, except as necessary =
+to prevent fraud and assist law enforcement, as required by law or in accor=
+dance with this Privacy Policy. <br /><br />
+           <font size=3D"4"><b>How you can contact us about privacy questio=
+ns</b></font><br /><br />
+           If you have questions or concerns regarding this policy, you sho=
+uld contact us by using <a
+ href=3D"https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/P8IXN/=
+85/h" target=3D"_blank"
+>this form</a> or writing to us at PayPal, Attn: Privacy Department, P.O. B=
+ox 45950, Omaha, NE 68145-0950. PayPal maintains offices at 2211 N. First S=
+treet, San Jose, CA.<br /><br />
+           PayPal has been awarded TRUSTe's Privacy Seal signifying that th=
+is privacy policy and practices have been reviewed by TRUSTe for compliance=
+ with <a
+ href=3D"https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/UVJET/=
+85/h" target=3D"_blank"
+>TRUSTe's program requirements</a> including transparency, accountability a=
+nd choice regarding the collection and use of your personal information. If=
+ after contacting PayPal our response to your privacy concern is unsatisfac=
+tory, then you may contact TRUSTe by completing the form located at <a
+ href=3D"https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/141NC/=
+85/h" target=3D"_blank"
+>http://watchdog.truste.com/pvr.php?page=3Dcomplaint</a>. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           The TRUSTe program covers only information that is collected thr=
+ough this Web site, www.paypal.com and does not cover information that may =
+be collected through our mobile applications or downloadable software.
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"1" bgcolor=3D"#000000"><img style=3D"display:b=
+lock;" src=3D"https://image.paypal-communication.com/spacer1.gif" alt=3D"" =
+width=3D"1" height=3D"1" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <font size=3D"4"><b>ANNUAL ERROR RESOLUTION NOTICE</b></font><br=
+ /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           The purpose of this notice is to provide you with important info=
+rmation about reporting errors in payments made using PayPal's services. Yo=
+u should keep this notice for future reference. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           <font size=3D"3.5"><b>What to do About Questions or Errors with =
+Your Transactions.</b></font><br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           You should notify PayPal as soon as you can if you believe:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			your account statement (you can access your account statement by logging=
+ into your account) or your transaction confirmation (which is sent to you =
+via email) is wrong;
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			you need more information about a transaction listed on the statement or=
+ transaction confirmation; or
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			there has been an unauthorized transaction, other error or unauthorized =
+access to your PayPal account.
+            </td>
+           </tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           You must notify us no later than 60 days after the error first a=
+ppears in your account statement. We will extend the 60-day time period if =
+a good reason, such as a hospital stay, prevented you from notifying us wit=
+hin 60 days.<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           For any type of error, you can telephone PayPal Customer Service=
+ at (402) 938-3614. You can also notify us in writing or online by followin=
+g the instructions below. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           If the transaction does <font size=3D"3.5"><b><i>not</i></b></fo=
+nt> involve a PayPal debit card, notify us by either:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			Using the form available in the PayPal Resolution Center <a
+ href=3D"https://email-edg.paypal.com/r/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/ROQDL/=
+85/h" target=3D"_blank"
+>https://www.paypal.com/cgi-bin/marketingweb?cmd=3D_complaint-view&nav=3D0.=
+4</a> to file an unauthorized transaction report, or
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			Writing to PayPal, Attn: Error Resolution Department, P.O. Box 45950, Om=
+aha, NE 68145-0950.
+            </td>
+           </tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           If the transaction involves <font size=3D"3.5"><b>your PayPal de=
+bit card</b></font>, notify us by either:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			Logging into your PayPal account, going to the "Account Overview" page a=
+nd selecting the transaction details for the transaction you wish to disput=
+e. Then follow the directions provided for disputing the transaction; or
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			Mailing the Written Statement of Disputed PayPal ATM/Debit Card Transact=
+ions Form or other notice to PayPal, Attn: PayPal Debit Card Department, P.=
+O. Box 45950, Omaha, NE 68145-0950, or faxing it to 303-395-2855. A link to=
+ the form can be found with the directions provided for disputing the trans=
+action as noted above.
+            </td>
+           </tr>
+           </table>=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20
+		   <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           If you notify us orally, we may request that you send us your co=
+mplaint or question in writing (by following the notification procedures de=
+scribed in the paragraphs above) within 10 business days of providing us th=
+e oral notice.<br /><br />=20
+=20=20=20=20=20=20=20=20=20=20=20
+           When you notify us (orally or in writing), provide us with the f=
+ollowing information:
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			Your name and email address you used to register your account, and
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			A description of the suspected unauthorized transaction or other error a=
+nd an explanation as to why you believe it is incorrect or why you need mor=
+e information to identify the transaction, and
+            </td>
+           </tr>
+           <tr><td height=3D"8"><img style=3D"display:block;" src=3D"https:=
+//image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"8" /></td></tr>
+           <tr>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; font-size:14px;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull;</td>
+            <td align=3D"left" valign=3D"top" style=3D"font-family:'Helveti=
+ca Neue', Helvetica, Arial, sans-serif; color:#333333; padding-left:5px; fo=
+nt-size:14px;">
+			The date and dollar amount of the suspected unauthorized transaction
+or other error.
+            </td>
+           </tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+           <tr><td height=3D"18"><img style=3D"display:block;" src=3D"https=
+://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" height=
+=3D"18" /></td></tr>
+           </table>
+=20=20=20=20=20=20=20=20=20=20=20
+           During the course of our investigation, we may request additiona=
+l information from you.<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           Once you notify us of a suspected error, we will investigate you=
+r complaint or question within 10 business days (or up to 20 business days =
+for new accounts &ndash; accounts that have 30 days or fewer since the date=
+ of their first transaction). If we need more time, we may take up to 45 da=
+ys to complete our investigation (or up to 90 days for new accounts, point =
+of sale or foreign initiated transactions). <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           If we decide that we need more time to complete our investigatio=
+n (as explained directly above), we will provisionally credit your account =
+for the amount of the suspected error. You will receive the provisional cre=
+dit within 10 business days of the date we received your notice (20 busines=
+s days for new accounts). This will allow you to have use of the money unti=
+l we complete the investigation. If we ask you to put your complaint or que=
+stion in writing and we do not receive your=20
+written complaint or question within 10 business days (or 20 for new accoun=
+ts), we will not provisionally credit your account.<br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           We will inform you of our decision within three business days af=
+ter completing our investigation. If we determine that there was an error, =
+we will promptly correct the error. If you have already received a provisio=
+nal credit, you will be allowed to retain those funds. If we decide that th=
+ere was not an error, we will include an explanation of our decision in our=
+ email to you. If you received a provisional credit, we will remove it from=
+ your account. You may request copies of the=20
+documents that we used in our investigation. <br /><br />
+=20=20=20=20=20=20=20=20=20=20=20
+           For this purpose, our "business days" are Monday through Friday.=
+ Holidays are not included as business days.=20
+         </p>
+</td>
+<td width=3D"1" bgcolor=3D"#cecfce"><img style=3D"display:block;" src=3D"ht=
+tps://image.paypal-communication.com/spacer1.gif" alt=3D"" width=3D"1" heig=
+ht=3D"1" /></td>
+</tr>
+<tr>
+<td colspan=3D"3"><img style=3D"display:block;" src=3D"https://image.paypal=
+-communication.com/paypal/templates_global/generic/bottom.gif" alt=3D"" wid=
+th=3D"600" height=3D"10" /></td>
+</tr>
+<tr>
+<td colspan=3D"3" align=3D"left" valign=3D"top"><table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0">
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+<tr>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"20" height=3D"1" border=
+=3D"0"></td>
+<td style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fo=
+nt-size: 10px; color: #666666;">Please do not reply to this email. We are u=
+nable to respond to inquiries sent to this address. For immediate answers t=
+o your questions, visit our Help Center by clicking "Help" located on any P=
+ayPal page or email.<br>
+
+<br>
+Copyright &copy; 2012 PayPal Inc. All rights reserved. PayPal is located at=
+ 2211 N. First St., San Jose, CA 95131.
+</td>
+<td><img style=3D"display: block" src=3D"https://image.paypal-communication=
+.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"20" height=3D"1" border=
+=3D"0"></td>
+</tr>
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+</table></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html><!-- [[HIYNS2W-P87Q4-2MCFZ-RNSRSQO-HD6GJP-M-M2-20120910-be8adc8fd51b=
+0ff]] --><img height=3D"1" width=3D"1" src=3D"https://email-edg.paypal.com/=
+o/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/T1OV/MS"><img height=3D"1" width=3D"1" src=
+=3D"https://email-edg.paypal.com/o/HIYNS2W/2MCFZ/RNSRSQO/HD6GJP/T1OV/52"></=
+body></html>
+
+---_-_-_-_-_1234567890--
+

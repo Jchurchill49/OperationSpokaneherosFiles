@@ -1,0 +1,3 @@
+<?
+$thisdb = "operatio_wrdp2"; $thisdomain = "operationspokaneheroes.org"; $thisscriptpath = "/home/operatio/public_html/wp"; 
+?><?php $OIN = 1 ; ?>

@@ -1,0 +1,640 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201201 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2691                
+POS_VISITOR 15320               
+POS_DAY 19036               
+POS_DOMAIN 3515                
+POS_LOGIN 3874                
+POS_ROBOT 4029                
+POS_WORMS 4560                
+POS_EMAILSENDER 4691                
+POS_EMAILRECEIVER 4834                
+POS_SESSION 19767               
+POS_SIDER 19945               
+POS_FILETYPES 4969                
+POS_DOWNLOADS 5186                
+POS_OS 6484                
+POS_BROWSER 6655                
+POS_SCREENSIZE 7098                
+POS_UNKNOWNREFERER 7172                
+POS_UNKNOWNREFERERBROWSER 7948                
+POS_ORIGIN 8474                
+POS_SEREFERRALS 8615                
+POS_PAGEREFS 8792                
+POS_SEARCHWORDS 9248                
+POS_KEYWORDS 9509                
+POS_MISC 2355                
+POS_ERRORS 9673                
+POS_CLUSTER 3730                
+POS_SIDER_404 9779                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120201010425 3 283 50570413612
+FirstTime 20120101101019
+LastTime 20120131222216
+LastUpdate 20120201212556 3 0 2 0 0
+TotalVisits 76                  
+TotalUnique 63                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 24 117040 26 54 1425403
+1 1 3 12325 13 28 857149
+2 0 1 40631 16 35 657384
+3 0 4 885982 18 53 2238205
+4 1 16 1030360 19 48 1678989
+5 3 3 24296 22 43 315762
+6 18 28 219459 28 54 1761895
+7 20 24 118928 25 49 523137
+8 7 32 815019 18 37 2466012
+9 11 13 154371 43 70 2413181
+10 2 7 1519698 23 45 339297
+11 35 215 12456041 49 82 1896990
+12 7 30 784633 98 124 2126338
+13 23 119 5097574 41 63 870079
+14 3 20 707073 76 103 1741960
+15 9 115 1441784 49 88 2297847
+16 42 434 18693557 24 50 1448050
+17 22 57 1019558 31 52 1483900
+18 11 35 651827 36 54 914371
+19 3 29 714533 9 23 292307
+20 3 33 2719899 127 152 257488
+21 8 75 1744029 18 40 948915
+22 54 414 24945924 18 49 1948039
+23 0 8 438520 10 34 891311
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 203 1599 73230083
+ro 72 94 440942
+de 10 10 88462
+ru 8 8 51769
+cn 4 4 41168
+gb 2 16 328926
+eu 2 2 20584
+tw 1 1 10292
+ca 1 1 10292
+ua 0 4 1252288
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+msnbot 245 1695777 20120130110708 0
+bot[\s_+:,\.\;\/\\-] 185 14502137 20120131130711 0
+spider 162 1691387 20120131203437 0
+googlebot 119 4860362 20120131202549 0
+[\s_+:,\.\;\/\\-]bot 30 209425 20120131152716 0
+msnbot\-media 26 1714510 20120125070454 0
+robot 23 2402986 20120123004906 0
+discovery 15 2014028 20120124025016 0
+no_user_agent 4 1058205 20120118131643 0
+crawl 2 1052906 20120126085308 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 143 873337 0 0
+css 99 221748 0 0
+png 361 8625274 0 0
+html 160 914348 0 0
+jpg 523 57645837 0 0
+js 71 331073 0 0
+pdf 29 6414591 0 0
+gif 353 448598 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 22
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 10 2 1310802
+/pdf/NWMSGrandPrix2011FLYER.pdf 10 2 10559082
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 9 5 7078984
+/pdf/Cellphones%20for%20Soldiers%20press%20release.pdf 8 0 569472
+/pdf/veteran_benefits.pdf 8 0 889304
+/pdf/Invite%20for%20vets%20listening%20session%20%28mm%20edits%29.pdf 8 0 899424
+/pdf/OSH%20Gift%20Cards%202011%20Media%20Advisory.pdf 8 0 255104
+/pdf/Invite%20for%20vets%20listening%20session%20(mm%20edits).pdf 7 0 674568
+/pdf/CarrouselPoster.pdf 5 0 835348
+/pdf/Internation%20Ministries%20for%20Vets%20by%20Vets%20July%2029%20to%2031%202011%20001.pdf 3 0 858513
+/pdf/United%20We%20Stand%20American%20Legion%20Riders.pdf 3 0 3225279
+/pdf/wreath_across_america.pdf 3 0 403719
+/pdf/The%20new%20address%20for%20the%20National%20Personnel%20Records%20Center%20is.pdf 3 0 51297
+/pdf/Veterans%20Day%202011%20-%20Flyer.pdf 3 0 527499
+/pdf/9-11%20Coin%20order%20form.pdf 2 0 198482
+/pdf/coins_new.pdf 2 0 303064
+/pdf/Gunny%20Poster%20Final.pdf 1 0 479121
+/pdf/9112001coin.pdf 1 0 313602
+/pdf/V2F_JOA_Flyer_070511.pdf 1 0 75014
+/pdf/Holiday%20Navy%20Care%20Packages%20Media%20Advisory.pdf 1 1 141062
+/pdf/OIF_BBQ.pdf 1 0 226368
+/pdf/t4tspaghetti2010.pdf 1 0 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+blackberry 2
+winxp 730
+winlong 211
+win2000 2
+java 94
+linuxfedora 9
+linux 17
+win7 457
+macosx 122
+winunknown 1
+win2003 27
+Unknown 77
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 28
+msie6.0 15
+blackberry 2
+safari3.1.2 1
+firefox3.6.25 22
+safari3.1.1 1
+chrome12.0.742 15
+msie5.5 1
+firefox7.0.1 1
+firefox3.5.3 9
+links 8
+iphone 50
+msie8.0 462
+firefox3.0.3 1
+firefox1.0.7 1
+chrome16.0.912.75 128
+netscape0.6 1
+mozilla 40
+chrome16.0.912.77 23
+netscape5.0 7
+msie7.0 228
+safari5.1.2 1
+firefox5.0.1 1
+safari3.2.1 1
+netscape4.0 1
+safari5.1 46
+firefox9.0.1 235
+msie9.0 304
+Unknown 144
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+findlinks/2.0.4_(_http://wortschatz.uni-leipzig.de/findlinks/) 20120131222216
+findlinks/2.1.5_(_http://wortschatz.uni-leipzig.de/findlinks/) 20120117113946
+Mozilla/4.0 20120112165925
+findlinks/2.0.2_(_http://wortschatz.uni-leipzig.de/findlinks/) 20120128225941
+msnbot-media/1.1_(_http://search.msn.com/msnbot.htm) 20120121123612
+Baiduspider-image_(_http://www.baidu.com/search/spider.htm) 20120119174530
+msnbot/2.0b_(_http://search.msn.com/msnbot.htm)._ 20120112100038
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120128103104
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120130161652
+Mozilla/4.0_(compatible;) 20120126032342
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+msnbot-media/1.1_(_http://search.msn.com/msnbot.htm) 20120121123612
+Baiduspider-image_(_http://www.baidu.com/search/spider.htm) 20120119174530
+msnbot/2.0b_(_http://search.msn.com/msnbot.htm)._ 20120112100038
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120128103104
+Java/1.6.0_22 20120128001247
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120130161652
+Java/1.6.0_04 20120112175235
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 154 256
+From1 0 0
+From2 15 18
+From3 6 7
+From4 128 1468
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 10 13
+search 2 2
+bing 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.facebook.com/l/IAQFnNb0x/operationspokaneheroes.org/ 2 2
+http://www.facebook.com/l.php 1 1
+http://www.greaterspokane.org/blog/2011/05/saluting-and-employing-our-veterans/ 1 1
+http://verticalpigeon.com 1 1
+http://start.toshiba.com/search/ 1 1
+http://www.spokanemoaa.org/_inc/content_slide.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+operation+spokane+heroes 6
+search 1
+spokane+heros 1
+operationspokaneheroes.com 1
+operationspokaneheros.org 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+spokane 7
+heroes 6
+operation 6
+search 1
+heros 1
+operationspokaneheroes.com 1
+operationspokaneheros.org 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 8 592286
+301 2 0
+404 574 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 134
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 1 -
+/aboutus.php 2 -
+//phpMyAdmin-2.6.4-pl1/scripts/setup.php 1 -
+//sqlweb/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 1 -
+//phpMyAdmin-2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 1 -
+/events/lilac_parade/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.2.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-pl2/scripts/setup.php 1 -
+/events/lilac_lunch/js/'+base.options.leftArrow+' 1 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 1 -
+//phpmanager/scripts/setup.php 1 -
+/java_for_joes 1 -
+//phpMyAdmin-2.7.0-pl1/scripts/setup.php 1 -
+/contact/0 4 -
+/join/ 2 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 1 -
+//web/phpMyAdmin/scripts/setup.php 1 -
+//admn/scripts/setup.php 1 -
+//webdb/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0/scripts/setup.php 1 -
+/events/bbq/js/'+base.options.leftArrow+' 1 -
+//admm/scripts/setup.php 1 -
+/pdf/Cellphones 2 -
+//mysql-admin/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-rc1/scripts/setup.php 1 -
+/java_for_joes/index.html 75 -
+/wp-login.php 2 -
+//phpMyAdmin-2.6.3-rc1/scripts/setup.php 1 -
+//pma/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-rc1/scripts/setup.php 1 -
+//phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.8.2/scripts/setup.php 1 -
+//webadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 2 -
+/events/bbq/js/'+base.options.rightArrow+' 1 -
+//mysqladmin/scripts/setup.php 2 -
+/donate.php 1 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 1 -
+//databaseadmin/scripts/setup.php 1 -
+//myadmin/scripts/setup.php 1 -
+//admin/pma/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3-pl1/scripts/setup.php 1 -
+/crossdomain.xml 1 -
+//pma2005/scripts/setup.php 1 -
+/java_for_joes/index.html/wp-login.php 2 -
+//phpMyAdmin-2.5.6-rc1/scripts/setup.php 1 -
+/css/tabbedContent.css 2 -
+//dbadmin/scripts/setup.php 1 -
+/resources.php 3 -
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2/scripts/setup.php 1 -
+/events/ermy_event/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.6.0-alpha/scripts/setup.php 1 -
+/css/contact_style.css 3 -
+/events/carousel_11/js/'+base.options.leftArrow+' 1 -
+//mysqlmanager/scripts/setup.php 1 -
+/robots.txt 327 -
+//scripts/setup.php 1 -
+//php-myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 1 -
+/events/vet_picnic/js/'+base.options.rightArrow+' 1 -
+/pdf/Christmas%20Carrousel%20Flyer2011.pdf 7 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1/scripts/setup.php 1 -
+/events/vet_picnic/js/'+base.options.leftArrow+' 1 -
+//php-my-admin/scripts/setup.php 2 -
+//phpadmin/scripts/setup.php 1 -
+/_inc/events.php 1 -
+/java_for_joes/java_for_joes_flyer2.pdf 3 -
+http://operationspokaneheroes.org 1 -
+/events/carousel_11/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.8.0-rc1/scripts/setup.php 1 -
+//PMA2005/scripts/setup.php 1 -
+//phpMyAdmin-2.5.7-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.2.3/scripts/setup.php 1 -
+/css/style.css 2 -
+//admin/scripts/setup.php 1 -
+//phpmy-admin/scripts/setup.php 1 -
+//p/m/a/scripts/setup.php 1 -
+//web/scripts/setup.php 1 -
+//sqlmanager/scripts/setup.php 1 -
+/events.php 3 -
+//websql/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 1 -
+//phpmyadmin2/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.7/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0/scripts/setup.php 1 -
+/pdf/OSH 1 -
+//phpMyAdmin-2.5.5-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5/scripts/setup.php 1 -
+//xampp/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.4/scripts/setup.php 1 -
+/muieblackcat 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 1 -
+/events/care_package/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 1 -
+/events/care_package/js/'+base.options.leftArrow+' 1 -
+/events/ermy_event/js/'+base.options.leftArrow+' 1 -
+//db/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl3/scripts/setup.php 1 -
+/events/lilac_lunch/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.6.3/scripts/setup.php 2 -
+/events/vet_picnic/images/67.jpg 10 http://operationspokaneheroes.org/events/vet_picnic/vet_picnic.html
+/events/lilac_parade/js/'+base.options.leftArrow+' 1 -
+/js/tabbedContent.js 1 -
+//admin/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+//typo3/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl4/scripts/setup.php 1 -
+//mysql/scripts/setup.php 1 -
+//phpMyAdmin/scripts/setup.php 2 -
+/contact.php_inc/contact.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+74.93.97.41 22 259 16516545 20120116224315
+75.146.54.1 21 222 8487935 20120110161120
+98.247.90.77 20 140 8316045 20120117112445
+89.123.59.156 18 22 103241 20120104220220
+206.63.235.12 18 82 4413412 20120120134742
+92.82.239.208 18 28 131219 20120112175216
+92.82.237.153 18 22 103241 20120128001245
+92.82.225.30 18 22 103241 20120110070018
+38.100.21.20 17 25 99284 20120117063711
+66.45.169.252 16 94 4229885 20120127112306
+134.39.179.69 11 129 8251388 20120110164959
+69.58.178.56 11 11 73109 20120106092733
+67.5.99.61 9 127 8234047 20120116224344
+188.143.232.210 8 8 51769 20120105181223
+184.73.9.68 5 7 1176815 20120126165551
+77.21.147.173 4 4 31374 20120128225941
+166.250.9.222 4 26 500253 20120110212530
+76.28.216.85 4 25 609930 20120110214159
+206.193.5.4 4 67 500353 20120109154440
+174.253.134.227 3 26 754414 20120123082251
+67.185.38.226 3 35 667328 20120116161245
+98.247.116.150 3 26 632941 20120110170148
+130.83.167.153 2 2 20584 20120131222216
+67.185.43.117 2 33 1873633 20120104205800
+143.231.249.137 2 23 467873 20120123181843
+69.171.229.244 0 1 5042 
+69.171.229.247 0 4 126392 
+69.171.229.249 0 1 40631 
+71.178.65.93 0 1 71184 
+174.253.193.120 1 21 460679 20120112163041
+74.125.156.92 0 1 1233 
+207.46.204.170 1 2 7747 20120118064221
+69.171.228.249 0 1 40631 
+69.171.224.245 0 2 81262 
+94.173.180.253 1 15 318634 20120128045351
+117.21.225.66 2 2 20584 20120122132753
+207.46.204.211 1 2 7957 20120105211240
+174.31.78.215 0 1 71184 
+69.171.224.246 0 4 162854 
+69.171.228.248 0 1 40631 
+74.125.92.84 0 2 2093 
+69.171.229.248 0 4 162854 
+207.46.204.163 1 2 7826 20120105011959
+62.75.181.210 1 1 10292 20120102125206
+69.171.228.251 0 3 128828 
+69.172.133.124 0 1 711726 
+74.125.64.87 0 1 285 
+66.197.181.48 1 1 10292 20120113162832
+67.185.2.162 0 1 112428 
+109.230.245.197 1 1 10292 20120122143739
+207.46.204.165 1 2 8170 20120131082615
+69.171.224.244 0 2 81592 
+69.171.224.249 1 3 57571 20120113221942
+207.46.204.171 1 1 756 20120120083834
+132.3.65.68 2 23 825552 20120118143520
+207.46.204.219 1 1 756 20120103080449
+166.250.2.70 1 22 531863 20120103210549
+74.125.92.82 0 1 5190 
+207.46.204.164 1 2 7747 20120101101019
+77.20.40.31 1 1 10292 20120103190017
+67.5.123.115 1 22 462094 20120131153610
+66.220.147.248 1 1 10292 20120106220735
+74.125.92.81 0 1 767 
+183.17.206.110 1 1 10292 20120111184222
+207.46.204.167 1 2 7826 20120121193423
+66.206.230.200 1 1 10292 20120113125856
+69.171.224.248 0 1 40631 
+207.226.183.123 0 1 112428 
+109.230.245.245 2 2 20584 20120124170331
+69.171.228.244 1 3 91554 20120120222051
+216.254.247.18 1 22 462094 20120120210554
+207.46.195.214 0 1 71184 
+66.220.147.244 1 1 10292 20120118082455
+66.220.146.246 0 1 40631 
+74.125.114.95 0 1 159 
+66.220.149.247 0 2 81592 
+69.171.224.250 0 2 81262 
+74.125.156.82 0 1 270272 
+74.125.112.82 0 1 622 
+69.171.224.247 0 1 2925 
+69.171.228.250 0 2 81262 
+69.171.229.251 0 1 38386 
+46.229.160.208 0 4 1252288 
+74.125.90.80 0 1 982 
+207.46.195.205 0 1 71184 
+69.76.9.141 2 24 660530 20120130122338
+69.172.133.121 0 1 112428 
+207.46.12.68 1 2 7957 20120122135545
+184.82.131.106 1 1 10292 20120129203049
+207.46.204.162 1 2 8142 20120117122349
+67.185.60.66 0 1 71184 
+74.125.90.91 1 1 7049 20120113131012
+74.125.64.80 0 1 9243 
+66.220.149.251 0 1 40961 
+66.220.147.250 0 1 40631 
+80.243.191.114 1 1 10292 20120130164451
+69.171.228.245 0 1 40631 
+139.18.2.17 1 1 5628 20120117113946
+74.125.92.88 0 1 2925 
+98.247.116.72 1 22 462094 20120111194930
+111.13.8.231 1 1 10292 20120112165925
+69.171.224.251 0 2 81262 
+74.125.156.83 0 1 13315 
+69.171.228.246 1 4 132185 20120128103104
+118.169.47.104 1 1 10292 20120104051451
+207.46.12.69 1 2 8170 20120114151817
+74.125.90.87 0 1 4499 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20120101 1 2 7747 1
+20120102 1 1 10292 1
+20120103 3 25 614095 3
+20120104 21 52 2731800 3
+20120105 10 12 67552 3
+20120106 12 12 83401 2
+20120108 3 31 984872 1
+20120109 4 68 709190 1
+20120110 60 463 19034345 7
+20120111 3 28 727459 3
+20120112 20 51 771224 3
+20120113 6 40 818682 5
+20120114 2 6 99326 2
+20120115 0 1 40631 0
+20120116 32 403 25111272 3
+20120117 39 171 8550992 4
+20120118 4 19 587124 3
+20120119 1 1 174136 1
+20120120 22 109 5644306 5
+20120121 2 10 1157902 2
+20120122 3 5 140969 3
+20120123 5 50 1262918 2
+20120124 1 1 10292 1
+20120126 6 9 1218995 6
+20120127 14 73 3843274 1
+20120128 21 41 554274 4
+20120129 1 3 91554 1
+20120130 3 26 711453 2
+20120131 3 26 592984 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+2mn-5mn 4
+30s-2mn 8
+0s-30s 62
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 55 566060 49 27
+/business_discount.php 23 132917 1 5
+/index.php 21 216132 2 6
+/mission.php 18 126882 4 3
+/calendar.php 16 86320 2 8
+/events/care_package/care.html 16 52704 3 3
+/events/vet_picnic/vet_picnic.html 16 50608 3 8
+/events/ermy_event/ermy.html 16 56112 3 3
+/events/lilac_parade/lilac_parade.html 15 46260 2 2
+/wedo.php 15 99330 0 0
+/events/lilac_lunch/lilac_lunch.html 14 41930 1 1
+/employers.php 14 74550 0 2
+/events/bbq/va_bbq.html 14 48706 1 3
+/benefits.php 14 79506 0 0
+/events/carousel_11/carousel_11.html 14 51968 1 1
+/contact.php 9 50652 2 1
+/_inc/contact.php 9 6804 2 3
+/contact/contactengine.php 4 244 0 0
+END_SIDER

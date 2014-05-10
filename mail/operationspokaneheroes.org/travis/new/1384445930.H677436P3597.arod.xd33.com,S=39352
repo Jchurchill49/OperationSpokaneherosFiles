@@ -1,0 +1,885 @@
+Return-path: <K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbde4c@na.e.paypal.com>
+Envelope-to: travis@operationspokaneheroes.org
+Delivery-date: Thu, 14 Nov 2013 10:18:50 -0600
+Received: from outbound.na.e.paypal.com ([96.47.30.203]:39498)
+	by arod.xd33.com with esmtp (Exim 4.80.1)
+	(envelope-from <K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbde4c@na.e.paypal.com>)
+	id 1Vgzd3-0000vl-I9
+	for travis@operationspokaneheroes.org; Thu, 14 Nov 2013 10:18:50 -0600
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.com; s=ED-DKIM-V3; c=relaxed/relaxed;
+	q=dns/txt; i=@e.paypal.com; t=1384445923;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=u2UMz07BXpp7gPY2ThoiNLBoyqE=;
+	b=Kt2sHfYywD5C9s0xLh4iECELe9oq3H6Js01pkbdbZYpGdDoWaZ1f/5CdOdN9YCyE
+	xoGOPbTb493Y1r/YbQGycYHYXGDYpOqb8VimzAZYu6vK2qluScWoV1jCgVU9g+29
+	dSm6Mqw+leo/GvAZHNDJwJV+Bd5SfZ+UEeVJ+1Fmpq8=;
+Received: from [127.0.0.1] ([127.0.0.1:58275])
+	by bm1-09.bo3.e-dialog.com (envelope-from <K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbde4c@na.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 04/E0-31920-3E7F4825; Thu, 14 Nov 2013 11:18:43 -0500
+Date: Thu, 14 Nov 2013 11:18:43 -0500
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.com>
+Reply-To: "PayPal" <noreply@e.paypal.com>
+To: travis@operationspokaneheroes.org
+Subject: Help Boost your Mobile and Web Sales
+Message-Id: <18160-369-K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbde4c@e-dialog.com>
+X-Mail-From: K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbde4c@na.e.paypal.com
+X-Match: na.e.paypal.com
+X-RCPT-To: travis@operationspokaneheroes.org
+X-Mailer: EDMAIL R6.00.02
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<title>PayPal</title>
+<style type=3D"text/css">.ReadMsgBody { width: 100%;}.ExternalClass {width:=
+ 100%;}div, p, a, li, td, span, font {-webkit-text-size-adjust:none;-ms-tex=
+t-size-adjust:none;} .hotmailimg img{height:10px; width:10px;}</style></hea=
+d>
+
+<body style=3D"background-color:#e6e7e8;margin:0px; padding:0px;"><table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tr><td align=
+=3D"center" valign=3D"top" bgcolor=3D"#e6e7e8">=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#e6e7e8">
+<style type=3D"text/css">=20
+.ReadMsgBody {
+    width: 100%;
+}
+
+.ExternalClass {
+    width: 100%;
+}
+.ExternalClass * {line-height:100%;}
+.undoreset * {line-height:100%;}
+</style>
+  <tr>
+    <td align=3D"center" valign=3D"top"><table width=3D"600" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"600" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#e6e7e8">
+        <tr>
+          <td valign=3D"top" align=3D"left" height=3D"10" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/pay=
+pal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" width=3D"1"  height=
+=3D"10" alt=3D""  border=3D"0" style=3D"display:block;"/></td>
+        </tr>
+        <tr>
+          <td valign=3D"top" align=3D"left" width=3D"600"><table width=3D"6=
+00" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+              <tr>
+                <td valign=3D"top" align=3D"left" width=3D"9" ><img src=3D"=
+https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_=
+20294/img_spacer.gif" width=3D"9" height=3D"1" alt=3D""  border=3D"0" style=
+=3D"display:block;"/></td>
+                <td valign=3D"middle" align=3D"left" width=3D"500" style=3D=
+"font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #0079c1=
+; text-decoration:underline; line-height: 14px;"><strong><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/ME0D8/=
+LR/h" target=3D"_blank" style=3D"color: #0079c1; text-decoration: underline=
+;"
+>Bill Me Later<font style=3D"font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 11px; color: #0079c1; text-decoration:none; line-height: 11px;">&#1=
+74; is now available for your mobile site. Learn more.</a></strong></td>
+                <td valign=3D"middle" align=3D"right" style=3D"font-family:=
+ Arial, Helvetica, sans-serif; font-size: 11px; color: #0079c1; line-height=
+: 14px;"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/HXB5T/=
+LR/h?a=3DK9QUF7D&b=3D1BOF8&c=3DE9MP3WB&d=3DGK5W573&e=3D1&f=3Dcdf3e1089ab700=
+ed7483" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size: 11px; color: #0079c1; text-decoration: underline; line-height=
+: 14px;"
+><strong>View online</strong></a></td>
+                <td valign=3D"top" align=3D"left" width=3D"11"><img src=3D"=
+https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_=
+20294/img_spacer.gif" width=3D"11" height=3D"1" alt=3D""  border=3D"0" styl=
+e=3D"display:block;"/></td>
+              </tr>
+            </table>
+			</td>
+			</tr>
+			<tr>
+            <td align=3D"left" valign=3D"top" height=3D"10" style=3D"font-s=
+ize:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/p=
+aypal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" width=3D"1" height=
+=3D"10" alt=3D""  border=3D"0" style=3D"display:block;"/></td>
+        </tr>
+=20=20=20=20=20=20=20
+      </table></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"600" height=3D"21"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_top.gif" alt=3D"" width=3D"600" height=3D"21" border=3D"0" st=
+yle=3D"display:block;" /></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"1" bgcolor=3D"#cccccc" style=
+=3D"font-size:0; line-height:0;"><img src=3D"https://image.paypal-communica=
+tion.com/paypal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D""=
+ width=3D"1" height=3D"1" border=3D"0" style=3D"display:block;" /></td>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td width=3D"598" align=3D"left" valign=3D"top"><table width=3D"100%" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"29"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" width=3D"29" height=3D"1" border=3D"0" style=3D"display:=
+block;" /></td>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" height=3D"12" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"12" border=3D"0" style=3D"display:block;" /></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"  width=3D"98" height=3D"29"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_logo.gif" alt=3D"PayPal=E2=84=A2" width=3D"98" height=3D"29" =
+border=3D"0" style=3D"display:block;" /></td>
+=20=20=20
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" height=3D"10" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"10" border=3D"0" style=3D"display:block;" /></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+  <td align=3D"left" valign=3D"top" >
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"  width=3D"598" height=3D"33"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_main3.jpg" alt=3D"" width=3D"598" height=3D"33" border=3D"0" =
+style=3D"display:block;" /></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"  >
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"bottom" bgcolor=3D"#f2f2f2" ><table width=
+=3D"257" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"29" height=3D"1" ><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_spacer.gif" alt=3D"" width=3D"29" height=3D"1" border=3D"0" s=
+tyle=3D"display:block;" /></td>
+    <td align=3D"left" valign=3D"top" ><table width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" style=3D"font-size:27px;line-height:2=
+7px;mso-line-height-rule:exactly;color:#007bc4;font-family:Arial, Helvetica=
+, sans-serif">Get your mobile sales rolling.  </td>
+    <td align=3D"left" valign=3D"top" width=3D"63"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" width=3D"63" height=3D"1"/></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+       <td align=3D"left" valign=3D"top" height=3D"11" style=3D"font-size:0=
+; line-height:0;"><img src=3D"https://image.paypal-communication.com/paypal=
+_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"displ=
+ay:block;" width=3D"1" height=3D"11" /></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" style=3D"font-size:15px;line-height:1=
+5px;mso-line-height-rule:exactly; color:#666666;font-family:Arial, Helvetic=
+a, sans-serif">Bill Me Later<sup style=3D"font-size:11px;line-height:11px;c=
+olor:#666666;font-family:Arial, Helvetica, sans-serif">&#174;</sup>  financ=
+ing banners are now available for web and mobile.  </td>
+  </tr>
+  <tr>
+     <td align=3D"left" valign=3D"top" height=3D"22" ><img src=3D"https://i=
+mage.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img=
+_spacer.gif" alt=3D"" style=3D"display:block;" width=3D"1" height=3D"22" />=
+</td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"123" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td align=3D"=
+left" valign=3D"top"><table width=3D"100%" background=3D"https://image.payp=
+al-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_bg.gif" =
+bgcolor=3D"#0091e6" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                  <tbody>
+                                                                    <tr>
+                                                                      <td v=
+align=3D"top" width=3D"6"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/F4T7L/=
+LR/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_side1.gif" alt=3D"" style=3D"display:block;" height=
+=3D"26" border=3D"0" width=3D"6" /></a></td>
+                                                                      <td h=
+eight=3D"26" align=3D"center" valign=3D"middle"><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                                          <=
+tbody>
+                                                                           =
+ <tr>
+                                                                           =
+   <td colspan=3D"3" height=3D"1" bgcolor=3D"#0074b9" width=3D"1" style=3D"=
+font-size:0; line-height:0;"><img src=3D"https://image.paypal-communication=
+.com/paypal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" sty=
+le=3D"display:block;" height=3D"1" width=3D"1"/></td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+   <td colspan=3D"3" height=3D"1" bgcolor=3D"#4abafb" width=3D"1" style=3D"=
+font-size:0; line-height:0;"><img src=3D"https://image.paypal-communication=
+.com/paypal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" sty=
+le=3D"display:block;" height=3D"1" width=3D"1"/></td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+   <td height=3D"23" width=3D"22"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/ZTDUD/=
+LR/h" target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:11px; color:#ffffff; text-decoration:none;"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:block;" height=
+=3D"23" border=3D"0" width=3D"22"/></a></td>
+                                                                           =
+   <td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; c=
+olor:#ffffff; text-decoration:none;" height=3D"23" align=3D"center" valign=
+=3D"middle"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/469BS/=
+LR/h" target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:11px; color:#ffffff; text-decoration:none; display:block;"
+><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:15px; c=
+olor:#ffffff; text-decoration:none;"><font style=3D"font-size: 11px; color:=
+ #ffffff; text-decoration: none;"><strong>Learn more</strong></font></span>=
+</a></td>
+                                                                           =
+   <td height=3D"23" width=3D"22"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/NQCY2/=
+LR/h" target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:11px; color:#ffffff; text-decoration:none;"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:block;" height=
+=3D"23" border=3D"0" width=3D"22"/></a></td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+   <td colspan=3D"3" height=3D"1" bgcolor=3D"#2e6d91" style=3D"font-size:0;=
+ line-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_=
+na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"displa=
+y:block;" height=3D"1" width=3D"1"/></td>
+                                                                           =
+ </tr>
+                                                                          <=
+/tbody>
+                                                                        </t=
+able></td>
+                                                                      <td v=
+align=3D"top" width=3D"6"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/ME0D2/=
+LR/h" target=3D"_blank"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_side2.gif" alt=3D"" style=3D"display:block;" height=
+=3D"26" border=3D"0" width=3D"6"/></a></td>
+                                                                    </tr>
+                                                                  </tbody>
+                                                                </table></t=
+d>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table></td>
+    <td align=3D"left" valign=3D"top" width=3D"134" height=3D"26" ><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_main5.jpg" alt=3D"" width=3D"134" height=3D"26" border=3D"0" =
+style=3D"display:block;" /></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table></td>
+   <td align=3D"left" valign=3D"top" width=3D"312" height=3D"161"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_main1.jpg" alt=3D"" width=3D"312" height=3D"161" border=3D"0"=
+ style=3D"display:block;" /></td>
+  </tr>
+</table>
+
+</td>
+
+  </tr>
+  <tr>
+     <td align=3D"left" valign=3D"top" width=3D"598" height=3D"58"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_main2.jpg" alt=3D"" width=3D"598" height=3D"58" border=3D"0" =
+style=3D"display:block;" /></td>
+  </tr>
+</table>
+</td>
+
+  </tr>
+</table>
+
+
+  </td>
+  </tr>
+  <tr>
+  <td align=3D"left" valign=3D"top">
+ <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"28"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" width=3D"28" height=3D"1"/></td>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" height=3D"29"><img src=3D"https://ima=
+ge.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_s=
+pacer.gif" alt=3D"" style=3D"display:block;" height=3D"29" width=3D"1"/></t=
+d>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+
+    <td align=3D"left" valign=3D"top" style=3D"color:#0079c1;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:16px;line-height:20px;">Hello Travis B=
+onifield,</td>
+
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+         <td align=3D"left" valign=3D"top"  height=3D"18" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/pay=
+pal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"di=
+splay:block;" height=3D"18" width=3D"1"/></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">Advertising Bi=
+ll Me Later as a financing option on your web or mobile site can help boost=
+ online sales by 18%  and lift average order size by 15% or more.=C2=B9  </=
+td>
+  </tr>
+    <tr>
+         <td align=3D"left" valign=3D"top"  height=3D"18" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/pay=
+pal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"di=
+splay:block;" height=3D"18" width=3D"1"/></td>
+  </tr>
+  <tr>
+  <td align=3D"left" valign=3D"top">
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"18"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"18"/></td>
+    <td align=3D"left" valign=3D"top"  style=3D"color:#727274;font-family:A=
+rial, Helvetica, sans-serif;font-size:19px;line-height:19px;">=E2=80=A2</td>
+     <td align=3D"left" valign=3D"top" width=3D"8"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"8"/></td>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">There=E2=80=99=
+s no extra cost or risk to you</td>
+       <td align=3D"left" valign=3D"top" width=3D"160"><img src=3D"https://=
+image.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/im=
+g_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"160"/=
+></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"18"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"18"/></td>
+    <td align=3D"left" valign=3D"top"  style=3D"color:#727274;font-family:A=
+rial, Helvetica, sans-serif;font-size:19px;line-height:19px;">=E2=80=A2</td>
+     <td align=3D"left" valign=3D"top" width=3D"8"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"8"/></td>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">You can set up=
+ your banners in minutes</td>
+       <td align=3D"left" valign=3D"top" width=3D"180"><img src=3D"https://=
+image.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/im=
+g_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"180"/=
+></td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"18"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"18"/></td>
+    <td align=3D"left" valign=3D"top"  style=3D"color:#727274;font-family:A=
+rial, Helvetica, sans-serif;font-size:19px;line-height:19px;">=E2=80=A2</td>
+     <td align=3D"left" valign=3D"top" width=3D"8"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"8"/></td>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">You still get =
+paid up front</td>
+       <td align=3D"left" valign=3D"top" width=3D"260"><img src=3D"https://=
+image.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/im=
+g_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"260"/=
+></td>
+  </tr>
+</table></td>
+  </tr>
+=20=20
+</table>
+
+  </td>
+  </tr>
+   <tr>
+         <td align=3D"left" valign=3D"top"  height=3D"18" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/pay=
+pal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"di=
+splay:block;" height=3D"18" width=3D"1"/></td>
+  </tr>
+   <tr>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">Promote Bill M=
+e Later on your website or mobile site.  </td>
+  </tr>
+  <tr>
+         <td align=3D"left" valign=3D"top"  height=3D"18" style=3D"font-siz=
+e:0; line-height:0;"><img src=3D"https://image.paypal-communication.com/pay=
+pal_na/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"di=
+splay:block;" height=3D"18" width=3D"1"/></td>
+  </tr>
+   <tr>
+    <td align=3D"left" valign=3D"top" style=3D"color:#727274;font-family:Ar=
+ial, Helvetica, sans-serif;font-size:14px;line-height:18px;">It=E2=80=99s g=
+ood for your customers, and great for your sales. <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/60J83/=
+LR/h" target=3D"_blank" style=3D"color:#0079c1;font-family:Arial, Helvetica=
+, sans-serif;font-size:14px;line-height:18px;text-decoration:underline;"
+><strong> Get started</strong></a>  </td>
+  </tr>
+  <tr>
+<td align=3D"left" valign=3D"top"  height=3D"10" style=3D"font-size:0; line=
+-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na/20=
+13/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:blo=
+ck;" height=3D"10" width=3D"1"/></td>
+  </tr>
+=20
+=20
+=20=20
+  <tr>
+    <td align=3D"left" valign=3D"top"  height=3D"20" style=3D"font-size:0; =
+line-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_n=
+a/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display=
+:block;" height=3D"20" width=3D"1"/></td>
+  </tr>
+=20
+  <tr>
+    <td align=3D"left" valign=3D"top"  height=3D"17" ><img src=3D"https://i=
+mage.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img=
+_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"17" width=3D"1"/><=
+/td>
+  </tr>
+
+</table>
+</td>
+     <td align=3D"left" valign=3D"top"  width=3D"63"><img src=3D"https://im=
+age.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_=
+spacer.gif" alt=3D"" style=3D"display:block;" width=3D"63" height=3D"1"/></=
+td>
+  </tr>
+</table>
+
+
+  </td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+
+=20=20
+  <tr>
+  <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0">
+=20=20
+</table>
+</td>
+  </tr>
+
+      <tr>
+         <td valign=3D"top" align=3D"left" width=3D"598" height=3D"1" bgcol=
+or=3D"#969696"  style=3D"font-size:0; line-height:0;"><img src=3D"https://i=
+mage.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img=
+_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1" width=3D"1"/></=
+td>
+    </tr>
+     <tr>
+         <td valign=3D"top" align=3D"left" width=3D"598" height=3D"21" ><im=
+g src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML=
+_Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"=
+21" width=3D"1"/></td>
+    </tr>
+  <tr>
+    <td valign=3D"top" align=3D"center"><table  border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+  <tr>
+
+    <td align=3D"center" valign=3D"top"><table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"center" style=3D"padding:10px 0 10px 0;"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/U3WQK/=
+LR/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; =
+color: #666666; text-decoration: none;" target=3D"_blank" class=3D"footer"
+><strong>Help Center</strong></a><span style=3D"font-family: Arial, Helveti=
+ca, sans-serif; font-size: 11px; color: #666666;" class=3D"emailnomob">&nbs=
+p;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/KY0M2/=
+LR/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; =
+color: #666666; text-decoration: none;" target=3D"_blank" class=3D"footer"
+><strong>Partner Directory</strong></a><span style=3D"font-family: Arial, H=
+elvetica, sans-serif; font-size: 11px; color: #666666;" class=3D"emailnomob=
+">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/46J13/=
+LR/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; =
+color: #666666; text-decoration: none;" target=3D"_blank" class=3D"footer"
+><strong>Logo Center</strong></a><span style=3D"font-family: Arial, Helveti=
+ca, sans-serif; font-size: 11px; color: #666666;" class=3D"emailnomob">&nbs=
+p;&nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/SF5ID/=
+LR/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; =
+color: #666666; text-decoration: none;" target=3D"_blank" class=3D"footer"
+><strong>Security</strong></a><span style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size: 11px; color: #666666;" class=3D"emailnomob">&nbsp;&=
+nbsp;|&nbsp;&nbsp;</span>
+      <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/X1DJS/=
+LR/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; =
+color: #666666; text-decoration: none;" target=3D"_blank" class=3D"footer"
+><strong>Business Center</strong></a></td>
+  </tr>
+</table></td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"5" style=3D"font-size:0; li=
+ne-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na/=
+2013/20131114_BML_Adopter_20294/img_spacer.gif" width=3D"1" height=3D"5" al=
+t=3D""  border=3D"0" style=3D"display:block;"/></td>
+  </tr>
+</table></td>
+  </tr>
+</table>
+</td>
+    <td align=3D"left" valign=3D"top" width=3D"1" bgcolor=3D"#cccccc"><img =
+src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_A=
+dopter_20294/img_spacer.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0"=
+ style=3D"display:block;" /></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"600" height=3D"18"><img src=
+=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_Adop=
+ter_20294/img_btm.gif" alt=3D"" width=3D"600" height=3D"18" border=3D"0" st=
+yle=3D"display:block;" /></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#e6e7e8">
+     <tr>
+    <td valign=3D"top" align=3D"left" height=3D"12" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" width=3D"1" height=3D"12" =
+alt=3D""  border=3D"0" style=3D"display:block;"/></td>
+  </tr>
+ <tr>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+                      <td height=3D"46" align=3D"left" valign=3D"top" width=
+=3D"16" style=3D"font-size:0; line-height:0;"><img src=3D"https://image.pay=
+pal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_side3.g=
+if" alt=3D"" style=3D"display:block;" height=3D"46" border=3D"0" width=3D"1=
+6"></td>
+    <td align=3D"center" valign=3D"top"><table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+                      <td height=3D"9" align=3D"left" valign=3D"top" width=
+=3D"568" style=3D"font-size:0; line-height:0;"><img src=3D"https://image.pa=
+ypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_top1.g=
+if" alt=3D"" style=3D"display:block;" height=3D"9" border=3D"0" width=3D"56=
+8"></td>
+  </tr>
+  <tr>
+    <td align=3D"center" valign=3D"middle"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center">
+  <tr>
+                              <td style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 11px; color: #666666; text-decoration: none; line-hei=
+ght: 13px;" align=3D"center" valign=3D"middle"><strong>Let=E2=80=99s connec=
+t:</strong></td>
+                      <td align=3D"center" valign=3D"top" width=3D"14"><img=
+ src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_=
+Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1=
+" border=3D"0" width=3D"14"></td>
+                      <td height=3D"9" align=3D"center" valign=3D"top" widt=
+h=3D"27"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/BZPVH/=
+LR/h"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_fb.gif" alt=3D"Facebook" style=3D"display:block;" he=
+ight=3D"28" border=3D"0" width=3D"27"></a></td>
+                      <td align=3D"center" valign=3D"top" width=3D"14"><img=
+ src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114_BML_=
+Adopter_20294/img_spacer.gif" alt=3D"" style=3D"display:block;" height=3D"1=
+" border=3D"0" width=3D"14"></td>
+                      <td height=3D"9" align=3D"center" valign=3D"top" widt=
+h=3D"27"><a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/60J8U/=
+LR/h"
+><img src=3D"https://image.paypal-communication.com/paypal_na/2013/20131114=
+_BML_Adopter_20294/img_tweet.gif" alt=3D"Twitter" style=3D"display:block;" =
+height=3D"28" border=3D"0" width=3D"27"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+                      <td height=3D"9" align=3D"left" valign=3D"top" width=
+=3D"568" style=3D"font-size:0; line-height:0;"><img src=3D"https://image.pa=
+ypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_btm1.g=
+if" alt=3D"" style=3D"display:block;" height=3D"9" border=3D"0" width=3D"56=
+8"></td>
+  </tr>
+</table>
+</td>
+                      <td height=3D"46" align=3D"left" valign=3D"top" width=
+=3D"16" style=3D"font-size:0; line-height:0;"><img src=3D"https://image.pay=
+pal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_side4.g=
+if" alt=3D"" style=3D"display:block;" height=3D"46" border=3D"0" width=3D"1=
+6"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left" height=3D"18" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" width=3D"1" height=3D"18" =
+alt=3D""  border=3D"0" style=3D"display:block;"/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" valign=3D"top" width=3D"18"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" width=3D"18" height=3D"1" border=3D"0" style=3D"display:=
+block;" /></td>
+    <td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+=20
+  <tr>
+<td align=3D"left" valign=3D"top" ><table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">
+  <tr>
+  <td align=3D"left" valign=3D"top" width=3D"4"><img src=3D"https://image.p=
+aypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_space=
+r.gif" alt=3D"" width=3D"4" height=3D"1" border=3D"0" style=3D"display:bloc=
+k;" /></td>
+    <td align=3D"left" valign=3D"top"  style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; line-height:15px; text-decoration:none; colo=
+r:#717074;">Bill Me Later is subject to credit approval, as determined by t=
+he lender, Comenity Capital Bank.</td>
+  </tr>
+</table>
+</td>
+  </tr>
+
+  <tr>
+    <td align=3D"left" valign=3D"top" height=3D"15" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"15" border=3D"0" style=3D"display:block;" /></td>
+  </tr>
+
+
+   <tr>
+<td align=3D"left" valign=3D"top" ><table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">
+  <tr>
+  <td align=3D"left" valign=3D"top" width=3D"4"><img src=3D"https://image.p=
+aypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_space=
+r.gif" alt=3D"" width=3D"4" height=3D"1" border=3D"0" style=3D"display:bloc=
+k;" /></td>
+    <td align=3D"left" valign=3D"top"  style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; line-height:15px; text-decoration:none; colo=
+r:#717074;">=C2=B9A recent Forrester Consulting study found a composite org=
+anization based on businesses interviewed saw an 18% online sales lift when=
+ it placed Bill Me Later financing banners on its sites. The study also fin=
+ds that businesses interviewed and surveyed reported average order values b=
+y 15-80% as a benefit of putting Bill Me Later=20
+financing banners on their site. </td>
+  </tr>
+</table>
+</td>
+  </tr>
+    <tr>
+    <td align=3D"left" valign=3D"top" height=3D"15" style=3D"font-size:0; l=
+ine-height:0;"><img src=3D"https://image.paypal-communication.com/paypal_na=
+/2013/20131114_BML_Adopter_20294/img_spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"15" border=3D"0" style=3D"display:block;" /></td>
+  </tr>
+  <tr>
+<td align=3D"left" valign=3D"top"><table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+<tr>
+<td style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; fo=
+nt-size: 10px; color: #666666;">This email was sent to <a
+ href=3D"#" style=3D"color: #666666; text-decoration: none;"
+>travis@operationspokaneheroes.org</a>, because your email preferences are =
+set to receive "News and Promotions". Click here to <a
+ href=3D"https://email-edg.paypal.com/r/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/NQZU3/=
+LR/h?a=3D6MH84391R94274744&b=3DNDFF2sCWxAuU40RdoMaghMbM46wmPKyMs9tIqqqAPOg2=
+-6W0vs2Mew&c=3DPNP&d=3D26621456&e=3D26628433&f=3DPNP" target=3D"_blank" sty=
+le=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size=
+: 10px; color: #0A3D7B; text-decoration: underline"
+>Unsubscribe</a>.<br>
+<br>
+
+Please do not reply to this email. We are unable to respond to inquiries se=
+nt to this address. For immediate answers to your questions, visit our Help=
+ Center by clicking "Help" located on any PayPal page or email.
+<br>
+
+<br>
+
+Copyright <span class=3D"hotmailimgfooter">&copy;</span> 2013 PayPal, Inc. =
+All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 9=
+5131.</td>
+</tr>
+<tr>
+  <td colspan=3D"3"><img style=3D"display: block" src=3D"https://image.payp=
+al-communication.com/paypal_na/common/spacer.gif" alt=3D"" width=3D"1" heig=
+ht=3D"10" border=3D"0"></td>
+</tr>
+</table></td>
+  </tr>
+<tr>
+    <td align=3D"left" valign=3D"top" height=3D"30"><img src=3D"https://ima=
+ge.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_s=
+pacer.gif" alt=3D"" width=3D"1" height=3D"30" border=3D"0" style=3D"display=
+:block;" /></td>
+  </tr>
+
+</table>
+</td>
+    <td align=3D"left" valign=3D"top" width=3D"18"><img src=3D"https://imag=
+e.paypal-communication.com/paypal_na/2013/20131114_BML_Adopter_20294/img_sp=
+acer.gif" alt=3D"" width=3D"18" height=3D"1" border=3D"0" style=3D"display:=
+block;" /></td>
+  </tr>
+  <tr>
+  <td align=3D"left" valign=3D"top"></td>
+  </tr>
+</table>
+
+</td>
+  </tr>
+</table>
+
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td></tr></table></body>
+</html><!-- [[K9QUF7D-1BOF8-MEMFB-LQDIDXT-SP5UJU-H-M2-20131114-fe33e72e2bbd=
+e4c]] --><img height=3D"1" width=3D"1" src=3D"https://email-edg.paypal.com/=
+o/K9QUF7D/MEMFB/LQDIDXT/SP5UJU/K9VU/52">
+
+

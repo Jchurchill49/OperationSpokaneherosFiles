@@ -1,0 +1,1494 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201112 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2676                
+POS_VISITOR 40877               
+POS_DAY 45139               
+POS_DOMAIN 3518                
+POS_LOGIN 3901                
+POS_ROBOT 4056                
+POS_WORMS 4613                
+POS_EMAILSENDER 4744                
+POS_EMAILRECEIVER 4887                
+POS_SESSION 45897               
+POS_SIDER 46086               
+POS_FILETYPES 5022                
+POS_DOWNLOADS 5243                
+POS_OS 6411                
+POS_BROWSER 6595                
+POS_SCREENSIZE 7067                
+POS_UNKNOWNREFERER 7141                
+POS_UNKNOWNREFERERBROWSER 7827                
+POS_ORIGIN 8220                
+POS_SEREFERRALS 8363                
+POS_PAGEREFS 8565                
+POS_SEARCHWORDS 9003                
+POS_KEYWORDS 9767                
+POS_MISC 2340                
+POS_ERRORS 10219               
+POS_CLUSTER 3757                
+POS_SIDER_404 10318               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120101040300 1 0 36979120532
+FirstTime 0
+LastTime 20111229152131
+LastUpdate 20120102035030 1 0 0 0 0
+TotalVisits 113                 
+TotalUnique 96                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 109                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 271 13071537 63 95 293751
+1 9 74 1188328 1049 1079 307792
+2 0 1 17099 82 108 703020
+3 18 48 608950 14 52 1559704
+4 10 11 89436 71 96 603695
+5 5 7 44258 38 58 858499
+6 3 6 44724 57 69 506892
+7 2 4 27721 79 108 475484
+8 21 26 120494 451 473 1234975
+9 35 419 22435938 271 323 647924
+10 37 168 7438452 92 124 1004842
+11 34 373 22592327 93 140 2720747
+12 8 94 1889103 95 117 377021
+13 20 67 1168879 19 37 144881
+14 8 80 1150683 156 185 343749
+15 11 109 1867502 48 77 332345
+16 4 27 685187 101 131 629025
+17 1 22 492567 115 125 301388
+18 20 152 5797393 33 78 387791
+19 12 155 9826472 84 104 485352
+20 21 44 658463 34 55 457109
+21 61 95 1008024 74 93 348267
+22 11 35 870557 29 59 364695
+23 9 57 1118668 18 44 8641609
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 246 2169 93014017
+ro 90 122 572658
+de 33 33 247919
+ru 5 8 67030
+cn 3 3 30876
+nl 2 2 20584
+hk 2 2 20584
+jp 1 1 10292
+ca 1 1 10292
+cz 1 1 10292
+ua 0 2 88283
+mt 0 1 17099
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+spider 194 3786940 20111231215803 0
+msnbot 179 1280456 20111231190851 0
+bot[\s_+:,\.\;\/\\-] 156 7058579 20111231145939 0
+googlebot 81 10205608 20111230195738 0
+[\s_+:,\.\;\/\\-]bot 33 326801 20111231021810 0
+crawl 25 129481 20111209161046 0
+robot 20 415893 20111228083829 0
+no_user_agent 6 211939 20111225194954 0
+msnbot\-media 6 157459 20111228152824 0
+discovery 2 20584 20111208133348 0
+netcraft 2 10292 20111229194613 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 168 1057176 0 0
+css 147 418928 0 0
+png 464 13700594 0 0
+html 216 1400005 0 0
+pdf 34 3144765 0 0
+js 85 382366 0 0
+jpg 682 73265496 0 0
+gif 549 740596 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 20
+/pdf/Cellphones%20for%20Soldiers%20press%20release.pdf 16 3 1200819
+/pdf/OSH%20Gift%20Cards%202011%20Media%20Advisory.pdf 16 0 510208
+/pdf/The%20new%20address%20for%20the%20National%20Personnel%20Records%20Center%20is.pdf 10 0 170990
+/pdf/wreath_across_america.pdf 9 0 1211157
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 8 0 983104
+/pdf/Veterans%20Day%202011%20-%20Flyer.pdf 3 0 527499
+/pdf/Internation%20Ministries%20for%20Vets%20by%20Vets%20July%2029%20to%2031%202011%20001.pdf 2 0 572342
+/pdf/CarrouselPoster.pdf 2 0 417674
+/pdf/9112001coin.pdf 2 0 627204
+/pdf/veteran_benefits.pdf 2 0 222326
+/pdf/msvcf.pdf 2 0 2128177
+/pdf/NWMSGrandPrix2011FLYER.pdf 2 0 2095432
+/pdf/9-11%20Coin%20order%20form.pdf 1 0 99241
+/pdf/United%20We%20Stand%20American%20Legion%20Riders.pdf 1 0 1075093
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 1 0 711726
+/pdf/Invite%20for%20vets%20listening%20session%20%28mm%20edits%29.pdf 1 0 112428
+/pdf/osh_show.pdf 1 0 6794939
+/pdf/OIF_BBQ.pdf 1 0 226368
+/pdf/t4tspaghetti2010.pdf 1 0 81736
+/pdf/Holiday%20Navy%20Care%20Packages%20Media%20Advisory.pdf 0 1 40961
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 190
+blackberry 1
+winxp 775
+winlong 224
+java 122
+winnt 15
+win98 1
+linuxfedora 10
+win7 591
+macosx 230
+winme 8
+win2003 39
+Unknown 143
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 30
+msie6.0 30
+firefox3.6.24 45
+safari5.0.3 22
+firefox5.0 1
+blackberry 1
+firefox4.0.1 10
+android 190
+ossproxy 15
+safari3.1.2 1
+safari3.1.1 1
+firefox8.0 97
+firefox3.5.3 10
+safari5.0.2 123
+firefox3.0.5 1
+firefox3.6.15 9
+links 3
+msie8.0 476
+chrome15.0.874.121 128
+mozilla 138
+netscape5.0 8
+msie7.0 150
+firefox5.0.1 1
+safari5.1 42
+netscape4.0 1
+firefox3.6.12 1
+firefox3.6.3 2
+msie9.0 344
+Unknown 131
+firefox8.0.1 367
+safari1.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20111204185054
+HTMLParser/2.0 20111229152131
+freelinkexplorerbot 20111223004446
+Mozilla/4.0 20111226234202
+findlinks/2.0.2_(_http://wortschatz.uni-leipzig.de/findlinks/) 20111220095309
+msnbot/2.0b_(_http://search.msn.com/msnbot.htm)._ 20111229212520
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20111223100642
+Mozilla/5.0_(webOS/1.4.5;_U;_en-US)_AppleWebKit/532.2_(KHTML,_like_Gecko)_Version/1.0_Safari/532.2_Pre/1.0 20111225194952
+Mozilla/4.0_(compatible;) 20111231153621
+Twisted_PageGetter 20111225141055
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+msnbot/2.0b_(_http://search.msn.com/msnbot.htm)._ 20111229212520
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20111223100642
+Java/1.6.0_22 20111207132256
+HTMLParser/2.0 20111229152131
+Twisted_PageGetter 20111225141055
+Java/1.6.0_04 20111227212331
+freelinkexplorerbot 20111223004446
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 211 416
+From1 0 0
+From2 42 49
+From3 14 14
+From4 117 1870
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 26 32
+searchalot 2 2
+bing 7 7
+yandex 3 3
+yahoo 4 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.facebook.com/l.php 8 8
+http://www.diywebpros.com/spokanecares/index.php 2 2
+http://www.2bcreativemedia.com 1 1
+http://mycenturylink.com/search/index.php 1 1
+http://org.saferpage.com/operationspokaneheroes 1 1
+http://www.launchpadinw.com/group/operationspokaneheroescommittee 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 19
+operation+spokane+heroes 10
+operationspokaneheroes.org 4
+military+donations+for+spokane+wa 2
+military+families+donation+spokane 2
+spokane+heros 2
+operation+spokane+heros 2
+maine+wreath+company 2
+arlington+national+cemetery+wreaths+spokane 1
+christmas+party+carousel+national+guard+spokane 1
+operation+spokae 1
+northern+quest+casino+military+discount+buffet 1
+www.operationspokaneheroes.org 1
+operation+spokane+hero 1
+military+spokane+donations 1
+quest+casino+military+discount 1
+operation+spokane+hereos 1
+miltary+families+in+need+in+spokane+wa 1
+cell+phones+for+soldiers+spokane 1
+wreaths+for+heroes+spokane 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 37
+spokane 26
+operation 15
+heroes 11
+military 7
+for 4
+heros 4
+operationspokaneheroes.org 4
+wa 3
+donations 3
+families 3
+quest 2
+wreath 2
+national 2
+in 2
+wreaths 2
+company 2
+maine 2
+donation 2
+discount 2
+casino 2
+miltary 1
+cemetery 1
+need 1
+guard 1
+hereos 1
+hero 1
+buffet 1
+phones 1
+christmas 1
+northern 1
+www.operationspokaneheroes.org 1
+carousel 1
+cell 1
+spokae 1
+soldiers 1
+party 1
+arlington 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 126525
+404 3048 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 932
+//phpMyAdmin-2.5.5-pl1/index.php 2 -
+/include/mysql.php 1 -
+/phpMyAdmin-2.6.4-pl1/ 2 -
+/mysqladmin/ 2 -
+/includes/db_adodb.php 1 -
+/java_for_joes/index.html/qql/ 2 -
+/skin/zero_vote/setup.php 2 -
+/java_for_joes/index.html/phpmya/ 2 -
+/java_for_joes/index.html/sqlmanager/ 2 -
+/phpMyAdmin-2.8.0/ 2 -
+/java_for_joes/index.html/db/dbweb/ 3 -
+/extras/poll/poll.php 1 -
+/phpMyAdmin-2.7.0-pl1/ 2 -
+/modules/phpThumb/phpThumb.php 8 -
+/phpMyAdmin-2.11.10.1-all-languages/ 2 -
+/adlayer.php 1 -
+/phpMyAdmin-2.6.2-pl1/ 2 -
+/cmd.php 1 -
+/phpMyAdmin-3.3.10.2-english/ 2 -
+/joomla/index.php 141 -
+/phpMyAdmin-3.3.10.5-all-languages/ 2 -
+/events/lilac_lunch/js/'+base.options.leftArrow+' 2 -
+/Farsi1/index.php 1 -
+/artmedic-kleinanzeigen-path/index.php 1 -
+/java_for_joes/index.html/webadmin/ 2 -
+/includes/phpdig/includes/config.php 1 -
+/java_for_joes/index.html/db/db-admin/ 3 -
+/blend_data/blend_common.php 1 -
+/phpMyAdmin-3.3.9.1/ 2 -
+/contact/0 5 -
+/join/ 2 -
+/pm/lib.inc.php 4 -
+/phpMyAdmin-3.4.2-all-languages/ 2 -
+/Sources/Packages.php 1 -
+/phpMyAdmin-2.11.11.3/ 2 -
+//xampp/phpmyadmin/index.php 2 -
+//phpMyAdmin-2.5.5/index.php 2 -
+/modules/Forums/admin/admin_users.php 2 -
+/photoalbums/main.php 1 -
+/admin/plog-admin-functions.php 1 -
+/gallery/captionator.php 2 -
+/modules/xgallery/upgrade_album.php 5 -
+/administrator/ 2 -
+/PhotoGal/ops/gals.php 1 -
+/forums/index.php 1 -
+/phpMyAdmin-2.6.4-pl2/ 2 -
+/java_for_joes/index.html/sql/websql/ 2 -
+/calendar/index.php 1 -
+/java_for_joes/index.html/PMA2005/ 2 -
+/scgi-bin/stats/awstats.pl 15 -
+/links.php 1 -
+/forum/impex/ImpExData.php 1 -
+/admin_modules/admin_module_delimage.inc 2 -
+/java_for_joes/index.html/phpadmin/ 2 -
+/sqlweb/ 2 -
+/phpMyAdmin-2.6.0-pl2/ 2 -
+/java_for_joes/index.html/~/phpmanager/ 2 -
+/cgi/awstats/awstats.pl 15 -
+/index1.php 2 -
+/java_for_joes/index.html/database/phpmyadmin/ 3 -
+/shop/ 2 -
+/java_for_joes/index.html/db/phpMyAdmin-2/ 3 -
+/photos/main.php 1 -
+/assets/components/phpthumb/phpThumb.php 8 -
+/mambots/editors/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/wp-content/themes/comfy-plus/scripts/phpThumb/phpThumb.php 16 -
+/eyeos/desktop.php 1 -
+/fav.php 1 -
+/phpMyAdmin-3.4.5-all-languages/ 2 -
+/My_eGallery/public/displayCategory.php 2 -
+/phpgedview/help_text_vars.php 1 -
+/nukebrowser.php 1 -
+/phpMyAdmin-2.6.0-rc3/ 2 -
+/phpMyAdmin-2.6.4/ 2 -
+/admin/addentry.php 1 -
+//phpmyadmin/index.php 4 -
+/index.php/main.php 2 -
+/apps/phpAlbum/main.php 15 -
+/java_for_joes/index.html/administrator/PMA/ 3 -
+/includes/db_connect.php 1 -
+/phpalbum/main.php 15 -
+/pollvote/pollvote.php 3 -
+/java_for_joes/index.html/sql/webdb/ 2 -
+/sources/post.php 2 -
+/mail_autocheck.php 1 -
+/java_for_joes/index.html/admin/phpMyAdmin/ 3 -
+/java_for_joes/index.html/phpMyAdmin2/ 1 -
+/phpMyAdmin-3.3.9.2-all-languages/ 2 -
+/java_for_joes/index.html/sql/phpmy-admin/ 2 -
+/pmwiki 1 -
+/mail/index.php 1 -
+/classified_right.php 1 -
+/modules/module_db.php 1 -
+/java_for_joes/index.html/phpmyadmin2/ 2 -
+/site.php 13 -
+/e107/e107_handlers/secure_img_render.php 5 -
+/phpMyAdmin-3.4.3.2-all-languages/ 2 -
+/content/phpthumb/phpthumb.php 8 -
+/java_for_joes/images/Homepage_pics.gif 1 -
+//admin/phpmyadmin/index.php 2 -
+/phpMyAdmin-3.3.8.1/ 2 -
+/derniers_commentaires.php 2 -
+/phpMyAdmin-3.3.10.1/ 2 -
+/modules/newbb_plus/class/forumpollrenderer.php 3 -
+/phpMyAdmin-2.5.4/ 2 -
+/phpMyAdmin-2.8.0.2 2 -
+/events/carousel_11/js/'+base.options.leftArrow+' 2 -
+/forum/bb_admin.php 1 -
+/PHPNews/auth.php 1 -
+/path/include/SQuery/gameSpy2.php 1 -
+/inc/header.php/step_one.php 3 -
+/topsites/sources/lostpw.php 1 -
+/phpMyAdmin-3.3.9-all-languages/ 2 -
+/album_portal.php 2 -
+/Blog/BlogModel.php 1 -
+/modernbill/samples/news.php 1 -
+/main.php 23 -
+/phpMyAdmin-3.4.3-all-languages/ 2 -
+/awstatstotals.php 15 -
+/phpMyAdmin-2.6.1/ 2 -
+/java_for_joes/index.html/administrator/db/ 3 -
+/galeri/index.php 1 -
+/modules/Forums/admin/admin_avatar.php 1 -
+/phpMyAdmin-3.3.7/ 2 -
+/include/global.php 1 -
+/forum/addpost_newpoll.php 1 -
+/htmltonuke.php 2 -
+/modules/4nAlbum/public/displayCategory.php 4 -
+/extensions/moblog/moblog_lib.php 1 -
+/toplist/sources/join.php 1 -
+/albums/main.php 1 -
+/pathofhostadmin/ 1 -
+/protection.php 2 -
+/src/index_passwd-admin.inc.php 1 -
+/java_for_joes/index.html/sql/php-myadmin/ 2 -
+/modules/vwar/admin/admin.php 1 -
+/java_for_joes/index.html/webdb/ 2 -
+/modules/admin/vw_usr_roles.php 1 -
+/cgi-bin/awstats.pl 17 -
+/forums/impex/ImpExData.php 1 -
+/zboard/zboard.php../../../../../../../proc/self/environ%00 1 -
+/websql/ 2 -
+/include/init.inc.php 1 -
+/web_statistics//calendar/tools/send_reminders.php 1 -
+/dotproject/modules/tasks/addedit.php 2 -
+/live-support/inc/pipe.php 2 -
+/addevent.inc.php 1 -
+/java_for_joes/index.html/PMA/ 2 -
+/allmylinks/include/footer.inc.php 2 -
+/shannen/index.php 1 -
+/sendmail.php 1 -
+/addsite.php 1 -
+/admin_modules/admin_module_rotimage.inc 2 -
+/Forums/bb_smilies.php 1 -
+/java_for_joes/index.html/3rdparty/pma2005/ 3 -
+/components/com_hotornot2/phpThumb/phpThumb.php 8 -
+/include/print_category.php 1 -
+/phpMyAdmin-3.4.0-english/ 2 -
+/phpMyAdmin-3.4.8/ 2 -
+/java_for_joes/index.html/administrator/admin/ 3 -
+/java_for_joes/index.html/mysql-admin/ 1 -
+/phpMyAdmin-2.0.5-all-languages/ 2 -
+/ews/q-news.php 1 -
+/armygame.php 1 -
+//phpMyAdmin-2.5.7-pl1/index.php 2 -
+/java_for_joes/images/LOGOdowntown.jpg 1 -
+/modules/My_eGallery/public/displayCategory.php 4 -
+/phpMyAdmin-3.4.3.1/ 2 -
+/phpGedView/individual.php 1 -
+/java_for_joes/index.html/administrator/pma/ 3 -
+/phpMyAdmin-2.5.5-rc2/ 2 -
+/phpMyAdmin-2.6.0-pl3/ 2 -
+/phpMyAdmin-2.11.11.3-english/ 2 -
+/java_for_joes/index.html/db/phpmyadmin2/ 3 -
+/java_for_joes/index.html/cpadmin/ 2 -
+/phpMyAdmin-2.2.6/ 2 -
+/forums/addpost_newpoll.php 1 -
+/phorum/plugin/replace/plugin.php 2 -
+/trg_news30/trgnews/install/article.php 1 -
+/phpMyAdmin-3.4.3.1-english/ 2 -
+/tell_friend.php 1 -
+/java_for_joes/index.html/phpmy/ 1 -
+/bug_sponsorship_list_view 1 -
+/events/care_package/js/'+base.options.rightArrow+' 2 -
+/auth/auth.php 2 -
+/phpMyAdmin-2.6.4-rc1/ 2 -
+/include/db.php 2 -
+/admin/config_settings.tpl.php 1 -
+/java_for_joes/index.html/admin/web/ 3 -
+/forum/viewtopic.php 1 -
+/phpThumb.php 8 -
+/phpMyAdmin-3.3.8-english/ 2 -
+/osticket/include/main.php 1 -
+/cgi-bin/main.php 1 -
+/backend/addons/links/index.php 1 -
+/java_for_joes/index.html/php-my-admin/ 2 -
+/libs/phpThumb/phpThumb.php 8 -
+/modules/My_eGallery/public/imagen.php 1 -
+/java_for_joes/index.html/~/admin/ 3 -
+/phpMyAdmin-3.3.9/ 2 -
+/src/index_leftnavbar.inc.php 1 -
+/topsites/config.php 1 -
+/java_for_joes/index.html/administrator/phpmyadmin/ 3 -
+/phpMyAdmin-3.4.3/ 2 -
+//websql/index.php 2 -
+/chat/messagesL.php3 1 -
+/phpMyAdmin-3.4.7.1/ 2 -
+//db/index.php 2 -
+/become_editor.php 1 -
+/achievo/atk/javascript/class.atkdateattribute.js 1 -
+/java_for_joes/index.html/cpanelsql/ 3 -
+/cgi-bin//classes/adodbt/sql.php 1 -
+/qnews/q-news.php 1 -
+/modules/public/calendar.php 1 -
+/phpMyAdmin-2.8.2/ 2 -
+/nucleus/libs/globalfunctions.php 1 -
+/forum/admin/actions/del.php 1 -
+/events/oif/images/rightarrow.png 9 http://operationspokaneheroes.org/events/oif/oif.html
+/java_for_joes/index.html/db/webadmin/ 3 -
+/phpmanager/ 2 -
+//phpMyAdmin-2.5.6-rc2/index.php 2 -
+/ 41 -
+/java_for_joes/images/osh_logo.png 1 -
+/java_for_joes/index.html/db/phpMyAdmin/ 3 -
+/includes/header.php 4 -
+/phpMyAdmin-3.4.4-all-languages/ 2 -
+/phpMyAdmin-3.4.6-rc1/ 2 -
+/live/inc/pipe.php 1 -
+/auth/auth_phpbb/phpbb_root_path=../../../../../../../proc/self/environ%00 2 -
+/aboutus.php 5 -
+/contacts.php 2 -
+/phpMyAdmin-3.4.9/ 2 -
+/community/modules/agendax/addevent.inc.php 1 -
+/phpMyAdmin-2.1.0-english/ 2 -
+/sources/lostpw.php 1 -
+/phpMyAdmin-2.6.1-pl3/ 2 -
+/java_for_joes/index.html/db/dbadmin/ 3 -
+/phpMyAdmin-2.6.2-pl1 2 -
+/stats/awstats.pl 15 -
+/staticfiles/phpThumb/phpThumb.php 8 -
+/pic/main.php 1 -
+/events/lilac_parade/js/'+base.options.rightArrow+' 2 -
+//phpMyAdmin-2.5.1/index.php 2 -
+/include/mssql7.php 1 -
+/webadmin/ 2 -
+/wp-content/themes/wp-max/scripts/phpThumb/phpThumb.php 16 -
+/classes/adodbt/sql.php 1 -
+/events/carousel_11/images/leftarrow.png 1 http://operationspokaneheroes.org/events/carousel_11/carousel_11.html
+/phpgreetz/content.php 1 -
+/java_for_joes/index.html/3rdparty/dbadmin/ 3 -
+/include/help.php 1 -
+//web/index.php 2 -
+/modules/Forums/admin/admin_disallow.php 1 -
+/index.cgiupgrade_album.ph 1 -
+/phpMyAdmin-3.4.3.2-english/ 2 -
+/phpMyAdmin-3.4.1-english/ 2 -
+/register.php 1 -
+/java_for_joes/index.html/sql/sql-admin/ 1 -
+/phpMyAdmin-2.7.0-pl2/ 2 -
+/hcl/inc/pipe.php 2 -
+/topsites/sources/join.php 1 -
+/java_for_joes/index.html/sql/sqladmin/ 2 -
+/img/main.php 1 -
+/phpMyAdmin-2.6.2-beta1 2 -
+/browse.php 1 -
+/events/bbq/js/'+base.options.leftArrow+' 2 -
+/phpMyAdmin-3.3.10.4-all-languages/ 2 -
+/phpMyAdmin-2.1.0/ 2 -
+/src/album.class.php 2 -
+/modify.php 1 -
+/phpMyAdmin-2.8.0-rc1/ 2 -
+/modules/coppermine/themes/default/theme.php 6 -
+/java_for_joes/index.html/db/webdb/ 2 -
+/phpMyAdmin-2.6.3/ 2 -
+/java_for_joes/index.html/admin/sysadmin/ 3 -
+/phpMyAdmin-3.3.9.1-english/ 2 -
+/default.php 3 -
+/toplist/sources/lostpw.php 1 -
+/include/main.php 1 -
+/forums/ubbt.inc.php 1 -
+/components/com_alphacontent/assets/phpthumb/phpThumb.php 8 -
+/phpMyAdmin-2.5.6/ 2 -
+/java_for_joes/index.html/admin/phpmyadmin/ 3 -
+/phpMyAdmin-2.6.2-rc1/ 2 -
+/topsite/sources/join.php 1 -
+/bad_link.php 1 -
+/modules/My_eGallery/public/inc/ 1 -
+/phpMyAdmin-2.6.0-rc1/ 2 -
+/phpMyAdmin-2.11.10.1/ 2 -
+/thumb/phpThumb.php 8 -
+/classes.php 1 -
+/phpMyAdmin-2.6.4-pl4/ 2 -
+/cutenews/comments.php 1 -
+/b2-tools/gm-2-b2.php 2 -
+/web_statistics//coppercop/theme.php 1 -
+/mainfile.php 2 -
+/java_for_joes/Banner.swf 1 -
+/java_for_joes/index.html/mysqladminconfig/ 2 -
+/java_for_joes/index.html/db/myadmin/ 3 -
+/webcalendar/tools/send_reminders.php 1 -
+/user/ldap_example.php 1 -
+//phpmyadmin1/index.php 2 -
+/forum/auth/auth_phpbb/phpbb_root_path=../../../../../../../proc/self/environ%00 1 -
+/admin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/db.php 2 -
+/skin/zero_vote/ask_password.php 1 -
+/components/com_simpleboard/image_upload.php 1 -
+/components/com_alphauserpoints/assets/phpThumb/phpThumb.php 8 -
+/modules/My_eGallery/index.php 2 -
+/java_for_joes/index.html/mysql/sqlmanager/ 2 -
+/crossdomain.xml 1 -
+/phpadmin3 2 -
+/forum/install.php 1 -
+/src/image-gd.class.php 2 -
+/library/lib.php 5 -
+/catalog/includes/include_once.php 1 -
+/forum/toplist.php 1 -
+/modules/projects/vw_files.php 1 -
+//typo3/phpmyadmin/index.php 2 -
+/modules/center/admin/accounts/process.php 1 -
+/cgi-bin/awstats/awstats.pl 15 -
+/java_for_joes/index.html/database/ 2 -
+/events/ermy_event/js/'+base.options.rightArrow+' 2 -
+/aMember/plugins/db/mysql/mysql.inc.php 1 -
+/java_for_joes/index.html/phpmyadmin/ 2 -
+/phpThumb/phpThumb.php 8 -
+/java_for_joes/index.html/myadmin/ 3 -
+/wp-content/plugins/com-resize/phpthumb/phpThumb.php 8 -
+/religions/faq.php 1 -
+/includes/include_onde.php 2 -
+/phpMyAdmin-3.3.8.1-english/ 2 -
+/phpMyAdmin-3.4.4/ 2 -
+/add.php 1 -
+/forum/admin/addentry.php 1 -
+/impex/ImpExData.php 2 -
+/forum/include/common.php 1 -
+/java_for_joes/index.html/mysql/dbadmin/ 2 -
+//scripts/setup.php 1 -
+/modules/coppermine/themes/maze/theme.php 2 -
+/apps/phpalbum/main.php 15 -
+/phpMyAdmin-3.4.5-english/ 2 -
+/phpMyAdmin-3.3.8/ 2 -
+/class/phpthumb/phpThumb.php 8 -
+/top_rated.php 1 -
+/include/common.php 1 -
+/pick.php 1 -
+/phpMyAdmin-3.4.6-all-languages/ 2 -
+/pdf/Christmas%20Carrousel%20Flyer2011.pdf 31 http://operationspokaneheroes.org/
+/java_for_joes/index.html/phppma/ 2 -
+/modules/vWar_Account/includes/functions_common.php 1 -
+/web_statistics/modules/coppermine/themes/default/theme.php 1 -
+/events/vet_picnic/js/'+base.options.leftArrow+' 2 -
+/includes/dbal.php 1 -
+/admin_modules/admin_module_captions.inc 2 -
+/modules/foro/includes/functions_admin.php 1 -
+/class.mysql.php 1 -
+/claroline/auth/ldap/authldap.php 1 -
+/events/carousel_11/js/'+base.options.rightArrow+' 2 -
+/allmylinks/include/info.inc.php 2 -
+/mysqlmanager/ 2 -
+/mysql/ 2 -
+/Gallery/displayCategory.php 2 -
+/list.php 1 -
+/phpMyAdmin-2.6.1-pl2/ 2 -
+/pivot/modules/module_db.php 6 -
+/displayCategory.php 1 -
+/demo/includes/init.php 2 -
+/modules/agendax/addevent.inc.php 5 -
+/auction/auction_common.php 1 -
+/java_for_joes/index.html/database/phpMyAdmin2/ 3 -
+/phpadmin2 2 -
+/secure.php 1 -
+/phpMyAdmin-3.3.10-all-languages/ 2 -
+/css/style.css 4 http://operationspokaneheroes.org/business.php
+/global/phpthumb/phpThumb.php 8 -
+/phpMyAdmin-3.3.7-english/ 2 -
+/phpMyAdmin-2.6.0-beta1/ 2 -
+/phpMyAdmin-2.6.2/ 2 -
+/phpMyAdmin-2.5.7-pl1/ 2 -
+/includes/pafiledb_constants.php 1 -
+/agenda.php3 1 -
+/components/com_extcalendar/admin_events.php 1 -
+/modules/public/date_format.php 1 -
+/phpMyAdmin-2.11.10.1-english/ 2 -
+/phpMyAdmin-2.11.11.1-all-languages/ 2 -
+/phpMyAdmin-2.6.0-pl1 2 -
+/phpMyAdmin-2/ 2 -
+/show.php 1 -
+/vuln.php 1 -
+/votebox.php 1 -
+/phpMyAdmin-3.3.10.5/ 2 -
+/modules/news/archivednews.php 1 -
+/phpBB/includes/pafiledb_constants.php 1 -
+/agendax/addevent.inc.php 3 -
+/dotproject/modules/projects/addedit.php 2 -
+/events.php 3 -
+/java_for_joes/index.html/mysql/pMA/ 2 -
+/print.php 1 -
+/phpMyAdmin-3.4.8-all-languages/ 2 -
+/phpMyAdmin-2.8.0.1/ 2 -
+/manager/frontinc/prepend.php 1 -
+/java_for_joes/index.html/sql/sql/ 2 -
+/phpMyAdmin-3.4.6-english/ 2 -
+/coppermine/thumbnails.php 1 -
+/java_for_joes/images/java_for_joes_flyer2.jpg 1 -
+/mya/ 2 -
+/scripts/awstats.pl 15 -
+/path_of_cpcommerce/_functions.php 2 -
+/java_for_joes/index.html/mysql/db/ 1 -
+/phpMyAdmin-3.4.1-all-languages/ 2 -
+/phpMyAdmin-2.5.7/ 2 -
+/phpMyAdmin-2.6.1-pl1/ 2 -
+/captionator.php 1 -
+/java_for_joes/images/schwans_logo.png 1 -
+//php-my-admin/index.php 4 -
+/web_statistics//modules/My_eGallery/public/displayCategory.php 1 -
+/java_for_joes/images/schwans.jpg 1 -
+/phpMyAdmin-3.4.9-english/ 2 -
+/pafiledb/includes/pafiledb_constants.php 1 -
+/phpMyAdmin-3.3.9.2/ 2 -
+/phpMyAdmin-2.7.0-rc1/ 2 -
+/cmd/product_info.php/products_id/1622/shop_content.php 1 -
+/web_statistics//include/write.php 1 -
+/review.php 1 -
+/power_search.php 1 -
+/coppercop/theme.php 3 -
+/forum/ubbt.inc.php 1 -
+/muieblackcat 3 -
+/webdb/ 2 -
+/apc-aa/cached.php3 1 -
+/java_for_joes/index.html/3rdparty/myadmin/ 3 -
+/phpopenchat/contrib/yabbse/poc.php 2 -
+/_head.php 1 -
+/phpMyAdmin-3.3.5.1-english/ 2 -
+/events/ermy_event/js/'+base.options.leftArrow+' 2 -
+/ladders/stats.php 1 -
+/components/com_smf/smf.php 1 -
+/search.php 2 -
+/events/lilac_lunch/js/'+base.options.rightArrow+' 2 -
+/al_initialize.php 1 -
+/xcomic/initialize.php 1 -
+/events/vet_picnic/images/67.jpg 16 http://operationspokaneheroes.org/events/vet_picnic/vet_picnic.html
+/apc-aa/cron.php3 1 -
+/rating.php 1 -
+/calendar/events/header.inc.php 2 -
+/js/tabbedContent.js 3 http://operationspokaneheroes.org/business.php
+/phpMyAdmin-2.6.2-beta1/ 2 -
+/includes/class_template.php 1 -
+/gnu3/index.php 2 -
+/dotproject/modules/tasks/viewgantt.php 2 -
+//phpMyAdmin-2.5.5-rc2/index.php 2 -
+/phpMyAdmin-2.6.3-rc1/ 2 -
+/admin/common.inc.php 1 -
+/detail.php 1 -
+/phpMyAdmin-3.4.7-english/ 2 -
+//phpMyAdmin-2.2.6/index.php 2 -
+/phpMyAdmin-3.3.9.2-english/ 2 -
+/java_for_joes/images/Goal.jpg 1 -
+/java_for_joes/index.html/__media__/js/trademark.php 1 -
+/phpMyAdmin-3.3.9-english/ 2 -
+/photoalbum/main.php 1 -
+/index.php 227 -
+//mysql/scripts/setup.php 1 -
+/admin1/ 1 -
+/modules/Forums/admin/admin_board.php 2 -
+/phpMyAdmin-2.5.5/ 2 -
+/nphp/nphpd.php 2 -
+/cgi-bin//gadgets/Blog/BlogModel.php 1 -
+/visitorupload.php 1 -
+/admin_modules/admin_module_edit.inc.php 2 -
+/admin.php 2 -
+/java_for_joes/index.html/sql/sqlweb/ 2 -
+/modules/projects/gantt.php 1 -
+/phpatm/index.php 1 -
+/modules/PNphpBB2/includes/functions_admin.php 1 -
+/java_for_joes/index.html/phpmanager/ 2 -
+/java_for_joes/index.html/admin/db/ 3 -
+/java_for_joes/index.html/database/phpMyAdmin/ 2 -
+/editsite.php 1 -
+/CubeCart/includes/orderSuccess.inc.php 1 -
+/modules/xoopsgallery/upgrade_album.php 4 -
+/java_for_joes/index.html/web/ 2 -
+/calendar/functions/popup.php 2 -
+/modules/newbb_plus/class/class.forumposts.php 1 -
+/phpMyAdmin-2.11.11.1/ 2 -
+/phpMyAdmin-3.3.5.1/ 2 -
+/zboard/include/write.php 1 -
+/includes/include_once.php 2 -
+/show_archives.php 2 -
+/java_for_joes/index.html/program/ 2 -
+/mysql-admin//mysql-admin/ 2 -
+/gadgets/Blog/BlogModel.php 1 -
+/phpMyAdmin-3.3.6-all-languages/ 2 -
+/lire.php 1 -
+/expanded.php 1 -
+/phpMyAdmin-2.11.11/ 2 -
+/java_for_joes/index.html/phpMyAdmin-2/ 2 -
+/infusions/last_seen_users_panel/last_seen_users_panel.php 1 -
+/admin_modules/admin_module_delcomments. 2 -
+/phpMyAdmin-2.8.0.3/ 2 -
+/phpMyAdmin-3.3.8-all-languages/ 2 -
+/phpMyAdmin-3.4.7.1-english/ 2 -
+/phpMyAdmin-3.4.8-english/ 2 -
+/presse/stampa.php3 1 -
+//phpadmin/index.php 2 -
+/phpMyAdmin-2.6.4-pl3/ 2 -
+/photo/main.php 1 -
+/images/main.php 1 -
+/includes/kb_constants.php 1 -
+/phpMyAdmin-2.11.11-english/ 2 -
+/myadmin/ 2 -
+/gallery/index.php 1 -
+/pdf/Cellphones 1 -
+/java_for_joes/index.html/dbadmin/ 3 -
+/phpMyAdmin-3.4.0/ 2 -
+/GradeMap/index.php 3 -
+/claroline/auth/extauth/drivers/ldap.inc.php 1 -
+/phpMyAdmin-2.6.1-pl1 2 -
+/phpMyAdmin-2.0.5-english/ 2 -
+/java_for_joes/index.html/administrator/web/ 3 -
+/admin/configset.php 2 -
+/phpMyAdmin-1.3.0/ 2 -
+/phpMyAdmin-3.4.7.1-all-languages/ 2 -
+/include/postgres65.php 1 -
+/java_for_joes/index.html/3rdparty/pma/ 3 -
+/java_for_joes/index.html/sqlweb/ 1 -
+/includes/session.php 1 -
+/research/boards/encapsbb-0.3.2_fixed/index_header.php 1 -
+/vCard/admin/define.inc.php 1 -
+/src/index_overview.inc.php 2 -
+/modules/coppermine/themes/coppercop/theme.php 3 -
+/phpMyAdmin-3.3.10.1-english/ 2 -
+/upgrade_album.php 1 -
+/sphider/admin/configset.php 2 -
+/forum/auth/auth.php 1 -
+/includes/calendar.php 3 -
+/cgi-bin//admin.php 1 -
+/dkp/includes/dbal.php 1 -
+/docebo/modules/credits/help.php 1 -
+/java_for_joes/index.html/index.html 1 http://www.javaforjoes.org/
+/donate.php 2 -
+/aWebNews/visview.php 1 -
+/local/investing_industrialeasta 1 -
+/public_includes/pub_popup/popup_finduser.php 1 -
+/phpMyAdmin-2.6.0-rc2 2 -
+/stats/include/write.php 1 -
+/application.php 1 -
+/includes/orderSuccess.inc.php 1 -
+/sources/join.php 1 -
+/modules/Forums/admin/admin_forum_prune.php 1 -
+/phpMyAdmin-2.6.0/ 2 -
+/gnu/index.php 2 -
+/phpMyAdmin-3.4.7/ 2 -
+/userlist.php 1 -
+/ashnews.php 5 -
+/java_for_joes/index.html/mysql/web/ 2 -
+/PMA/ 2 -
+/java_for_joes/index.html/mysql/admin/ 2 -
+/modules/Forums/admin/admin_forums.php 1 -
+/awstats/awstatstotals.php 15 -
+/wp-content/themes/fama/scripts/phpThumb/phpThumb.php 8 -
+/admin/lang.php 1 -
+/modules/tasks/gantt.php 1 -
+/arpuivo.php 1 -
+/phpMyAdmin-3.3.9.1-all-languages/ 2 -
+/phpMyAdmin-2.11.11.1-english/ 2 -
+/java_for_joes/index.html/sql/phpmanager/ 2 -
+/webmail/lib/emailreader_execute_on_ea 1 -
+/modules/Forums/admin/index.php 1 -
+/vwar/admin/admin.php 1 -
+/os/pointer.php 1 -
+/admin_modules/admin_module_deldir.inc.p 2 -
+/user/agora_user.php 1 -
+/java_for_joes/index.html/web/phpMyAdmin/ 1 -
+/step_one.php 1 -
+/phpMyAdmin-2.6.1-rc1/ 2 -
+/phpMyAdmin-3.3.10.2-all-languages/ 2 -
+/phpshop/index.php 2 -
+/dotproject/modules/projects/vw_files.php 2 -
+//mysql/index.php 2 -
+/css/contact_style.css 5 -
+/send_pwd.php 1 -
+/yappa-ng/src/index_overview.inc.php 1 -
+/robots.txt 340 -
+/gui/include/sql.php 1 -
+/calendar/embed/day.php 1 -
+/modules/Forums/admin/admin_styles.php 2 -
+/calendar/setup/header.inc.php 2 -
+/phpMyAdmin-3.4.3.2/ 2 -
+/java_for_joes/index.html/mysqladmin/ 2 -
+/java_for_joes/index.html/3rdparty/phpMyAdmin/ 3 -
+/java_for_joes/index.html/db/ 3 -
+/phpMyAdmin-3.4.2/ 2 -
+/include/oci8.php 1 -
+/master.php 1 -
+/phpMyAdmin-3.3.10.3/ 2 -
+/zentrack/index.php 4 -
+/src/image.class.php 2 -
+/pollensondage.inc.php 1 -
+/cpcommerce/_functions.php 3 -
+/phpdig/includes/config.php 1 -
+/phpMyAdmin-2.6.3-pl1/ 2 -
+/phpMyAdmin-3.3.10/ 2 -
+/globals.php3 1 -
+/java_for_joes/index.html/database/phpmyadmin2/ 3 -
+/java_for_joes/java_for_joes_flyer2.pdf 5 -
+/phpMyAdmin-2.6.0-beta2/ 2 -
+/phpMyAdmin-2.7.0-beta1/ 2 -
+/cgi-bin//include/write.php 1 -
+//phpMyAdmin-2.5.6/index.php 2 -
+/includes/setup.php 3 -
+/java_for_joes/index.html/phpmyadmin1/ 2 -
+/agenda2.php3 1 -
+/phpmyadmin2/ 2 -
+/phpgwapi/setup/tables_update.inc.php 2 -
+/phpMyAdmin-3.4.1/ 2 -
+//phpMyAdmin-2.5.5-rc1/index.php 2 -
+/forum/language/lang_english/lang_activity.php 1 -
+/phpMyAdmin-3.3.6-english/ 2 -
+/includes/page_header.php 1 -
+/mwchat/libs/start_lobby.php 2 -
+/phpMyAdmin-3.4.7-all-languages/ 2 -
+/include/livre_include.php 2 -
+/java_for_joes/index.html/cpanelphpmyadmin/ 2 -
+/phpMyAdmin-2.6.1-rc2/ 2 -
+/poll/admin/common.inc.php 2 -
+/calendar/add_event.php 1 -
+/awstats/awstats.pl 16 -
+/forum/misc.php 1 -
+/admin/ 1 -
+/java_for_joes/index.html/phpmy-admin/ 2 -
+/language/lang_english/lang_activity.php 1 -
+/php-my-admin/ 2 -
+/phpcoin/config.php 1 -
+/dotproject/modules/projects/view.php 2 -
+/phpMyAdmin-2.11.11-all-languages/ 2 -
+/phonebook.php 1 -
+/ladder/stats.php 1 -
+/awstatstotals/awstatstotals.php 15 -
+/src/index_image.inc.php 1 -
+/java_for_joes/index.html/mysql/pma/ 2 -
+/phpBB2/admin/admin_cash.php 1 -
+/login.php 1 -
+/admin/objects.inc.php4 1 -
+/java_for_joes/index.html/db/websql/ 3 -
+/phpMyAdmin-3.4.9-all-languages/ 2 -
+/wagora/extras//quicklist.php 1 -
+/java_for_joes/index.html/admin/sqladmin/ 3 -
+/administartor/ 2 -
+/java_for_joes/index.html/3rdparty/setup.php 3 -
+/fclick/show.php 1 -
+/java_for_joes/index.html/3rdparty/ 3 -
+/phpMyAdmin-3.4.0-all-languages/ 2 -
+/phpWebLog/include/init.inc.php 1 -
+/coppermine/themes/maze/theme.php 2 -
+/admin/scripts/tinymce/jscripts/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/myPHPCalendar/admin.php 5 -
+/java_for_joes/index.html/phpMyAdmin/ 2 -
+/phpMyAdmin-2.6.0-rc3 2 -
+//phpMyAdmin-2.2.3/index.php 2 -
+/java_for_joes/index.html/sql/webadmin/ 2 -
+/java_for_joes/images/logo_holiday_inn.jpg 1 -
+/block.php 1 -
+/family/phpgedview/index.php 1 -
+/phpMyAdmin-2.11.11.2/ 2 -
+/cms/plugins/content/jthumbs/includes/phpThumb.php 8 -
+/js/combined.js 1 http://operationspokaneheroes.org/_inc/slide.php
+/apa_phpinclude.inc.php 1 -
+/forum/index.php 1 -
+/phpMyAdmin/ 2 -
+/page.php 1 -
+/components/com_flexicontent/librairies/phpthumb/phpThumb.php 8 -
+/wp-content/themes/victore/phpthumb/phpThumb.php 8 -
+/catalog/ 2 -
+/forums/bb_admin.php 1 -
+//web/phpMyAdmin/index.php 2 -
+/p_uppc_francais/pages_php/p_aidcon_conseils/index.php 1 -
+/phpadmin 2 -
+/modules/coppermine/include/init.inc.php 4 -
+/java_for_joes/index.html/sql/phpmyadmin2/ 2 -
+/include/write.php 3 -
+//myadmin/index.php 2 -
+/4images/index.php 1 -
+/bazar/classified_right.php 1 -
+/java_for_joes/index.html/admin/pMA/ 3 -
+/java_for_joes/index.html/cpadmindb/ 3 -
+/phpMyAdmin-3.4.6/ 2 -
+/stats/modules/My_eGallery/index.php 1 -
+/_conf/core/common-tpl-vars.php 1 -
+/java_for_joes/index.html/mysql/mysqlmanager/ 2 -
+/forums/includes/kb_constants.php 1 -
+/phpMyAdmin-2.11.11.2-english/ 2 -
+/zadmin/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/index2.php 8 -
+/java_for_joes/index.html/php-myadmin/ 2 -
+//phpMyAdmin/index.php 4 -
+/gb/form.inc.php3 1 -
+/cgi-bin/install/index.php 1 -
+/java_for_joes/index.html/db/phpMyAdmin2/ 3 -
+/pdf/Veterans 1 -
+/shoutbox/expanded.php 6 -
+//admin/pma/index.php 2 -
+/modules/Forums/admin/admin_mass_email.php 1 -
+/web_statistics//tools/send_reminders.php 1 -
+/include/new-visitor.inc.php 5 -
+/pma/ 2 -
+/phpMyAdmin2/ 2 -
+//pma/index.php 2 -
+/invoice.php 1 -
+/java_for_joes/index.html/~/phpadmin/ 2 -
+/_wk/wk_lang.php 1 -
+/cgi-bin/include/print_category.php 1 -
+/java_for_joes/press_release.pdf 2 -
+/phpMyAdmin-2.5.6-rc1/ 2 -
+/pics/main.php 1 -
+/inc/authform.inc.php 2 -
+/java_for_joes/index.html/admin/pma/ 3 -
+/phpMyAdmin-2.8.1/ 2 -
+/inc/pipe.php 4 -
+/html/affich.php 2 -
+/phpMyAdmin-2.5.5-pl1/ 2 -
+/loginout.php 1 -
+/java_for_joes/index.html/administrator/phpMyAdmin/ 3 -
+/events/carousel_11/images/rightarrow.png 1 http://operationspokaneheroes.org/events/carousel_11/carousel_11.html
+/phpMyAdmin-3.3.7-all-languages/ 2 -
+/forum/includes/kb_constants.php 1 -
+/user_search.php 1 -
+/quick_reply.php 1 -
+/java_for_joes/index.html/p/m/a/ 2 -
+/modules.php 2 -
+/java_for_joes/index.html/~/myadmin/ 2 -
+/java_for_joes/index.html 61 -
+/phpMyAdmin-2.8.0.2/ 2 -
+/catalog/shopping_cart.php 1 -
+/helpcenter/inc/pipe.php 2 -
+/support/faq/inc/pipe.php 2 -
+/gallery/setup/index.php 1 -
+/get_rated.php 1 -
+/gallery/phpThumb/phpThumb.php 8 -
+//pma/scripts/setup.php 1 -
+/phpAlbum/main.php 15 -
+/phpMyAdmin-3.4.2-english/ 2 -
+/phpMyAdmin-3.4.4-english/ 2 -
+//phpmyadmin/scripts/setup.php 1 -
+/email.php 1 -
+/stat/awstatstotals.php 15 -
+/phpMyAdmin-3.3.5.1-all-languages/ 2 -
+/ipchat.php 1 -
+/common/scripts/phpThumb/phpThumb.php 8 -
+/journal.php 1 -
+/new.php 1 -
+/modules/vWar_Account/includes/get_header.php 1 -
+/java_for_joes/index.html/websql/ 2 -
+/inc/shows.inc.php 2 -
+/dotproject/modules/files/index_table.php 2 -
+/events/bbq/js/'+base.options.rightArrow+' 2 -
+/skin/zero_vote/error.php 1 -
+//mysqladmin/index.php 2 -
+/phpMyAdmin-3.3.10.3-english/ 2 -
+/pma2005/ 2 -
+/ubbthreads/addpost_newpoll.php 1 -
+/include/msql.php 1 -
+/album/main.php 1 -
+/wp-content/themes/max/scripts/phpThumb/phpThumb.php 8 -
+/java_for_joes/index.html/MyAdmin/ 3 -
+/include/footer.inc.php 1 -
+/modules/My_eGallery/public//inc/ 1 -
+/java_for_joes/index.html/cpanelmysql/ 2 -
+/modules/credits/help.php 1 -
+/admin/includes/classes/spaw/spaw_control.class.php 1 -
+/support/mailling/maillist/inc/initdb.php 3 -
+/convert-date.php 2 -
+/java_for_joes/index.html/SQL/ 2 -
+/_functions.php 2 -
+/manager/phpThumb/phpThumb.php 8 -
+/phpMyAdmin-2.0.5/ 2 -
+/phpMyAdmin-3.3.10.5-english/ 2 -
+/bb_lib/checkdb.inc.php 2 -
+/calendar/calendar.php 2 -
+/scgi-bin/awstats/awstats.pl 15 -
+/src/show_random.inc.php 2 -
+/Popper/index.php 1 -
+/phpMyAdmin-2.2.3/ 2 -
+/phpBB/admin/admin_styles.php 2 -
+/css/tabbedContent.css 4 http://operationspokaneheroes.org/business.php
+/phpMyAdmin-2.11.11.3-all-languages/ 2 -
+/java_for_joes/index.html/pma/ 3 -
+/learnlinc/clmcpreload.php 1 -
+/java_for_joes/index.html/roundcube/ 2 -
+/resources.php 4 -
+/install.php 1 -
+/phpMyAdmin-3.4.5/ 2 -
+/components/com_videodb/core/videodb.class.xml.php 1 -
+//phpmyadmin2/index.php 2 -
+/new/bbs//include/write.php 1 -
+/php-myadmin/ 2 -
+/wp-content/themes/Comfy/scripts/phpThumb/phpThumb.php 8 -
+//phpMyAdmin-2.5.6-rc1/index.php 2 -
+/phpprojekt/lib/authform.inc.php 1 -
+/cgi-bin/stats/awstats.pl 15 -
+/phpMyAdmin-2.5.5-rc1/ 2 -
+//phpMyAdmin-2/index.php 2 -
+/mailing_list.php 1 -
+/phpMyAdmin-2.8.1-rc1/ 2 -
+/modules/calendar/index.php 1 -
+/livehelp/inc/pipe.php 2 -
+/phpMyAdmin-3.3.6/ 2 -
+/library/editor/editor.php 4 -
+/modules/TotalCalendar/index.php 1 -
+/phpMyAdmin-2.6.4-pl1 2 -
+/phpMyAdmin-2.8.0-beta1/ 2 -
+/wp-content/themes/redcarpet/scripts/phpthumb/phpthumb.php 16 -
+/inc/step_one_tables.php 1 -
+/phpMyAdmin-2.6.0-rc2/ 2 -
+/lib/phpThumb/phpThumb.php 8 -
+//admin/index.php 2 -
+/web_statistics//skin/zero_vote/error.php 1 -
+/magicforum/misc.php 1 -
+/forums.php 1 -
+/template.php 2 -
+/phpMyAdmin-3.3.10-english/ 2 -
+/phpMyAdmin-3.3.8.1-all-languages/ 2 -
+/calogic/reconfig.php 1 -
+/event/index.php 1 -
+/ashheadlines.php 2 -
+/user_detail.php 1 -
+/index.inc.php 2 -
+/events/vet_picnic/js/'+base.options.rightArrow+' 2 -
+/java_for_joes/index.html/sqladmin/ 1 -
+/phpMyAdmin-3.4.3.1-all-languages/ 2 -
+/PMA2005/ 2 -
+/forum/ubbthreads.php 1 -
+/java_for_joes/index.html/sl2/data/ 2 -
+/java_for_joes/index.html/pma2005/ 2 -
+/phpMyAdmin-2.5.6-rc2/ 2 -
+/cgi-bin/calendar.pl 1 -
+/zb41/include/write.php 1 -
+/eshow.php 1 -
+/phpMyAdmin-1.1.0/ 2 -
+/phpMyAdmin-2.6.0-alpha2/ 2 -
+/phpMyAdmin-2.11.11.2-all-languages/ 2 -
+/r.php 1 -
+/inc/formmail.inc.php 1 -
+/phpmy-admin/ 2 -
+/components/com_loudmounth/includes/abbc/abbc.class.php 1 -
+/phpMyAdmin-2.6.0-alpha/ 2 -
+/phpmyadmin/ 2 -
+/forums/toplist.php 1 -
+/scgi-bin/awstats.pl 15 -
+/admin/phpThumb/phpThumb.php 8 -
+/skin/zero_vote/login.php 1 -
+/ubbthreads/ubbt.inc.php 1 -
+/stats.php 1 -
+/java_for_joes/index.html/db/phpmyadmin/ 3 -
+/modules/AllMyGuests/signin.php 1 -
+/src/main.inc.php 2 -
+/mt-comments.cgi 1 -
+/phpMyAdmin-3.4.3-english/ 2 -
+/admin/upload/phpThumb.php 8 -
+/in.php 1 -
+/iframe.php 1 -
+/phpMyChat/chat/messagesL.php3 1 -
+/phpMyAdmin-2.1.0-all-languages/ 2 -
+/jaf/index.php 2 -
+/bbs/include/write.php 1 -
+//phpMyAdmin-2.5.7/index.php 2 -
+/include/authform.inc.php 2 -
+/phorum/admin/actions/del.php 1 -
+/java_for_joes/index.html/sql/phpMyAdmin2/ 2 -
+/java_for_joes/index.html/PHPMYADMIN/ 3 -
+/eblog/blog.inc.php 2 -
+/components/com_hotornot2/phpthumb/phpThumb.php 16 -
+/phpMyAdmin-3.3.10.3-all-languages/ 2 -
+/ideabox/include.php 2 -
+/java_for_joes/index.html/cpphpmyadmin/ 3 -
+/eqdkp/includes/dbal.php 1 -
+/joomla/index2.php 1 -
+/gallery/thumbnails.php 1 -
+/java_for_joes/index.html/database/database/ 3 -
+/gallery.php=../../../../../../../proc/self/environ%00 1 -
+/rss.php 1 -
+/java_for_joes/index.html/bbs/data/ 3 -
+/wp-content/plugins/ione-core/phpthumb/phpThumb.php 8 -
+//dbadmin/index.php 2 -
+/phpMyAdmin-3.3.10.1-all-languages/ 2 -
+/calendar/setup/setupSQL.php 2 -
+/phpMyAdmin-2.8.0-rc2/ 2 -
+/mantis/login_page.php 2 -
+/phpMyAdmin-3.3.10.2/ 2 -
+/modules/mod_mainmenu.php 6 -
+/config.php 1 -
+/modules/projects/gantt2.php 1 -
+/phpMyAdmin-2.8.0.4/ 2 -
+/java_for_joes/index.html/sql/phpMyAdmin/ 2 -
+/java_for_joes/index.html/mysql/ 3 -
+/js/tiny_mce/plugins/ibrowser/scripts/phpThumb/phpThumb.php 8 -
+/install/index.php 3 -
+/events/care_package/js/'+base.options.leftArrow+' 2 -
+//phpMyAdmin-2.5.4/index.php 2 -
+/modules/Forums/admin/admin_smilies.php 1 -
+/help/faq/inc/pipe.php 2 -
+/phpMyAdmin-2.5.1/ 2 -
+//block.php 1 -
+/java_for_joes/index.html/admin/ 3 -
+/phpMyAdmin-3.3.10.4/ 2 -
+/becommunity/community/index.php 4 -
+/phpBazar/classified_right.php 1 -
+/java_for_joes/index.html/mysqlmanager/ 2 -
+/events/lilac_parade/js/'+base.options.leftArrow+' 2 -
+/ACalendar/embed/day.php 1 -
+/modules/Forums/bb_smilies.php 1 -
+/calendar/events/datePicker.php 2 -
+/gallery/init.php 2 -
+/java_for_joes/index.html/cpdbadmin/ 3 -
+/stats/tools/send_reminders.php 1 -
+/sqlmanager/ 2 -
+/announcements.php 1 -
+/sqladmin/ 2 -
+/events/oif/images/leftarrow.png 9 http://operationspokaneheroes.org/events/oif/oif.html
+/java_for_joes/index.html/sql/myadmin/ 2 -
+/oneadmin/config.php 1 -
+/p/m/a/ 2 -
+/yabbse/Sources/Packages.php 2 -
+/user.php 1 -
+/include/postgres.php 1 -
+/phpMyAdmin-3.3.10.4-english/ 2 -
+/java_for_joes/index.html/typo3/phpmyadmin/ 2 -
+//phpMyAdmin/scripts/setup.php 1 -
+/phpMyAdmin-2.7.0/ 2 -
+/dbadmin/ 2 -
+/java_for_joes/index.html/3rdparty/admin/ 3 -
+/scgi/awstats/awstats.pl 15 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 109
+89.122.29.82 36 56 262438 20111227212326
+89.123.61.116 36 44 206482 20111221083234
+67.183.107.137 20 304 11941389 20111212185328
+97.119.243.22 20 260 12562919 20111211095227
+89.123.4.146 18 22 103738 20111207132251
+38.100.21.23 17 25 99284 20111217033820
+67.170.29.35 15 39 1078267 20111213232916
+132.3.65.68 15 251 17730040 20111220114730
+50.37.137.27 14 69 3803698 20111209113402
+147.222.228.87 14 83 4380210 20111214185015
+69.58.178.58 11 11 73093 20111208215455
+174.255.166.123 11 99 6429847 20111223101458
+67.171.59.205 10 134 9371172 20111209091559
+208.90.56.152 10 10 47197 20111213203702
+174.253.192.11 9 130 9272610 20111202190142
+46.4.100.138 9 9 62045 20111205044953
+217.172.180.18 9 9 62061 20111217213630
+75.101.181.182 8 8 51769 20111220211451
+198.228.222.73 3 36 941874 20111212013636
+66.162.130.58 3 24 479435 20111204202439
+205.142.252.21 3 24 473552 20111202150551
+98.247.59.184 3 29 486739 20111207234507
+174.47.95.69 2 44 472386 20111222145150
+207.46.12.167 2 4 27721 20111222073413
+85.17.213.242 2 2 20584 20111229115022
+207.46.195.208 1 2 23258 20111213223500
+188.138.120.209 1 1 6622 20111218203508
+188.138.83.141 1 1 10292 20111219145437
+216.229.172.219 1 22 492567 20111202171927
+198.228.220.46 1 5 30841 20111218153339
+69.171.227.251 1 1 10292 20111209214719
+188.138.116.151 1 1 7049 20111220154116
+66.225.29.196 1 21 460679 20111226112606
+174.253.193.177 1 15 318634 20111212100522
+157.55.112.216 1 2 15482 20111208103916
+207.46.195.207 1 2 12239 20111219062745
+77.21.130.56 1 1 10292 20111220095309
+38.99.98.78 1 1 10292 20111204185054
+76.15.43.216 1 22 462094 20111205132114
+207.46.12.24 1 2 5094 20111214063000
+220.179.64.23 1 1 10292 20111217101259
+92.251.26.118 0 1 17099 
+209.131.38.131 1 1 10292 20111211005825
+98.247.57.53 1 22 462094 20111210194724
+207.46.204.163 1 2 8170 20111229100609
+67.185.248.80 0 4 133059 
+69.171.228.247 0 1 40961 
+95.221.108.202 1 2 15482 20111209180107
+207.46.12.62 1 2 15482 20111222075852
+97.107.201.37 2 23 469143 20111212125749
+67.185.168.255 1 21 460679 20111205215405
+50.132.103.130 1 21 460679 20111220004019
+157.55.112.208 1 2 7747 20111215105808
+207.46.12.118 0 1 31888 
+85.10.204.194 1 1 10292 20111217044708
+85.25.110.102 1 1 5679 20111220081251
+184.107.223.82 1 1 10292 20111223004446
+67.171.57.111 2 26 1563886 20111203000940
+69.172.134.20 0 1 31888 
+97.114.124.226 1 22 462094 20111215231646
+77.20.40.173 2 2 20584 20111215065654
+207.46.204.210 1 1 3098 20111214050239
+174.253.192.158 1 23 603047 20111203001628
+97.119.243.109 2 42 921358 20111224125126
+72.94.249.38 1 1 10292 20111227012103
+157.55.17.77 0 1 17099 
+207.46.12.205 2 3 11574 20111222081231
+46.4.95.200 2 2 20584 20111208094633
+156.33.93.189 1 22 462094 20111206115648
+24.16.121.137 2 23 469143 20111217144336
+152.132.10.75 1 9 161179 20111202141042
+46.4.104.35 1 1 10292 20111205193005
+80.86.90.79 1 1 5395 20111218202753
+71.221.196.73 2 23 469143 20111213162541
+150.70.64.194 1 1 10292 20111208000421
+67.136.10.66 1 21 460679 20111202185853
+188.138.114.234 1 1 5779 20111217201037
+69.171.224.250 1 1 10292 20111203000843
+95.28.188.43 1 2 15482 20111220163300
+69.171.227.248 1 1 10292 20111223100642
+207.118.113.164 1 23 493982 20111218152307
+67.161.101.21 1 22 492567 20111216030916
+207.170.225.140 0 1 31888 
+174.255.183.56 2 22 467728 20111218004734
+157.55.17.75 1 3 9319 20111215123513
+46.229.160.208 0 2 88283 
+72.14.202.89 0 1 17099 
+188.138.90.118 1 1 5628 20111219164501
+107.62.39.101 0 1 71184 
+207.46.199.33 1 2 5094 20111217050608
+107.21.157.241 1 1 10292 20111225141055
+184.82.131.106 1 1 10292 20111224194201
+207.46.204.162 1 2 7957 20111220181712
+50.135.247.93 1 23 467284 20111216123227
+12.104.244.6 0 1 71184 
+76.28.253.189 1 22 531863 20111215135226
+223.18.225.219 2 2 20584 20111229152131
+207.46.12.28 0 1 17099 
+69.172.133.102 0 1 17099 
+69.171.229.246 1 1 10292 20111223100638
+67.187.46.169 2 22 470971 20111205091600
+111.13.8.231 1 1 10292 20111226234202
+109.206.179.181 1 1 10292 20111225145628
+95.27.164.155 1 2 15482 20111209151726
+112.238.71.87 1 1 10292 20111221054034
+31.192.105.2 2 2 20584 20111213123233
+75.165.181.23 2 22 470971 20111202015829
+80.86.81.6 1 1 5325 20111221221709
+207.46.12.69 1 2 7826 20111220012823
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20111202 17 228 11331558 6
+20111203 22 271 12412027 6
+20111204 4 25 489727 2
+20111205 15 96 1926760 6
+20111206 2 43 922773 2
+20111207 22 72 1051156 3
+20111208 15 16 119451 4
+20111209 28 230 13678220 6
+20111210 5 27 621637 2
+20111211 23 297 13500605 4
+20111212 6 65 1535663 5
+20111213 24 75 1485792 7
+20111214 16 86 4388402 3
+20111215 5 50 1021315 5
+20111216 20 67 1063092 3
+20111217 32 62 661945 7
+20111218 6 52 1004568 5
+20111219 22 39 317320 5
+20111220 29 256 17531278 9
+20111221 20 25 159489 3
+20111222 6 54 631852 4
+20111223 14 103 6501354 4
+20111224 3 43 931650 3
+20111225 2 3 91768 2
+20111226 2 23 488070 2
+20111227 19 29 141511 2
+20111228 0 1 40631 0
+20111229 5 6 131260 3
+20111231 0 1 31888 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 93
+30s-2mn 10
+2mn-5mn 6
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 99 1018908 80 61
+/wedo.php 26 172631 1 1
+/index.php 24 247008 9 9
+/mission.php 22 155078 6 7
+/business_discount.php 19 109801 1 1
+/events/lilac_parade/lilac_parade.html 17 52428 1 3
+/events/vet_picnic/vet_picnic.html 17 53771 1 6
+/events/ermy_event/ermy.html 17 59619 2 2
+/events/lilac_lunch/lilac_lunch.html 16 47920 0 2
+/calendar.php 16 86320 2 3
+/events/care_package/care.html 16 52704 1 1
+/benefits.php 16 90864 1 2
+/events/bbq/va_bbq.html 15 52185 0 1
+/employers.php 13 69225 1 4
+/contact.php 13 73164 2 2
+/events/carousel_11/carousel_11.html 13 37120 0 0
+/_inc/contact.php 9 6804 0 3
+/events/oif/oif.html 6 25350 0 0
+/contact/contactengine.php 5 305 0 0
+/business.php 2 36136 2 2
+/_inc/upcoming.php 2 6742 2 2
+/_inc/slide.php 1 3098 1 1
+END_SIDER

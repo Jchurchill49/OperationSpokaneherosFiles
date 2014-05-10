@@ -1,0 +1,158 @@
+Return-path: <39fIOUAcTAJwJKNALHU8DA8GKQP.CKKCHA.8KI@cbg.bounces.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Tue, 24 Jul 2012 14:09:41 -0500
+Received: from mail-vc0-f198.google.com ([209.85.220.198]:38985)
+	by arod.xd33.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.77)
+	(envelope-from <39fIOUAcTAJwJKNALHU8DA8GKQP.CKKCHA.8KI@cbg.bounces.google.com>)
+	id 1StkUG-0006o4-Rp
+	for admin@operationspokaneheroes.org; Tue, 24 Jul 2012 14:09:40 -0500
+Received: by vcbfy27 with SMTP id fy27so13523286vcb.5
+        for <admin@operationspokaneheroes.org>; Tue, 24 Jul 2012 12:09:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=date:from:to:message-id:subject:mime-version:content-type;
+        bh=DW7NUwvFkFePix1EtG1PGRvS8fkj4/05EeKN8+T2kTo=;
+        b=gnoJ5d6XAeAPiof88yTMkQmTAbKfsjL7yJ6AzLOx1KlFf/JRRNc+bPX9Dp0fQtRSjP
+         YNC7xATfpvZpLPlcofhNtdh1bw3bVV27hSJjCw9i4nXicwSZGNgKEVB+FWgzk4GP8XI/
+         bLzINpwwk49mtTGyll7jBe0uNN7MK9RKhyjdDoT99n3emhSGKcvXwVpb1ccDW7XQ6NIj
+         S2jjj+Nr9KJ/hnkO33N2NaLD6chOi8zZ441KLXlwsOF4e8O2PfClb/U3ovZEs8dX5Z3M
+         sIfdcB2nmcxNE7UbGfwFHVRkFA3vLFb9F+gArN+NlxnMP6E+pyCx7TV3BAkUgoBOsFNW
+         I3bw==
+Received: by 10.42.115.8 with SMTP id i8mr3832736icq.22.1343156981727;
+        Tue, 24 Jul 2012 12:09:41 -0700 (PDT)
+Date: Tue, 24 Jul 2012 19:09:41 +0000 (UTC)
+From: Google Checkout <noreply@checkout.google.com>
+To: admin@operationspokaneheroes.org
+Message-ID: <658478663130536.1.8.1343156981724.24d3ef34-c6b3-4c45-93c0-7101dd729a3d@checkout.google.com>
+Subject: Purchase Receipt for Order #658478663130536
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_12832_14249201.1343156981725"
+
+------=_Part_12832_14249201.1343156981725
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+New! Google Checkout is now part of Google Wallet. Google Wallet makes
+buying easy with one wallet for online, mobile and in-store shopping.
+Learn more Hello admin@operationspokaneheroes.org,
+
+amber.r.pope@gmail.com has just completed a purchase from your store.
+Below is the summary of the transaction.
+Next step...
+Process this order in your Google Checkout account.
+This cart is unsigned Donation date: Jul 24, 2012 12:09 PM PDT
+Google order number: 658478663130536 Qty Item Price 1 OSH Donation -
+Donation to Operation Spokane Heroes $20.00 Total: $20.00
+
+Need help? Visit the Google Checkout help center. Please do not reply
+to this message.
+
+=C2=A92012 Google
+------=_Part_12832_14249201.1343156981725
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr =
+valign=3D"top"><td align=3D"left" valign=3D"top" style=3D"border-bottom: no=
+ne;"><img src=3D"https://checkout.google.com/img/checkout_logo_sm.png" bord=
+er=3D"0" class=3D"logo" alt=3D"Google Checkout"><div id=3D"wallet-promo-msg=
+" style=3D"font:13px/18px Arial, Helvetica, sans-serif;                    =
+                         color:#222;                                       =
+      padding:10px;                                             margin:14px=
+ 0 22px 0;                                             width:632px;        =
+                                     background:#f0f0f3;                   =
+                          border:solid 1px #e3e3e3;                        =
+                     border-radius:2px;                                    =
+         -webkit-border-radius:2px;                                        =
+     -moz-border-radius:2px;"><table style=3D"margin:0;                    =
+       padding:0;                           border-spacing:0;"><tr><td clas=
+s=3D"wallet-promo-logo" style=3D"padding-right:10px; width:108px;"><div><im=
+g src=3D"https://checkout.google.com/img/logo-wallet-sm.png" alt=3D"Google =
+Wallet" width=3D"108" height=3D"22" style=3D"padding-top:4px;"></div></td>
+<td style=3D"padding-left:10px;                            width:500px;    =
+                        border-left:solid 1px #ccc;"><div><strong>New!</str=
+ong> Google Checkout is now part of Google Wallet. Google Wallet makes buyi=
+ng easy with one wallet for online, mobile and in-store shopping. <a href=
+=3D"http://www.google.com/support/wallet/bin/answer.py?answer=3D1691527" st=
+yle=3D"text-decoration: none; cursor: pointer; color: #15c;">Learn more</a>=
+</div></td></tr></table></div></td>
+<td style=3D"width: 1%; border-bottom: none;"></td></tr></table>
+Hello <b> admin@operationspokaneheroes.org</b>, <br><br>  amber.r.pope@gmai=
+l.com has just completed a purchase from your store. Below is the summary o=
+f the transaction.
+<p>Next step...<br>
+<a href=3D"https://checkout.google.com/sell/multiOrder?order=3D658478663130=
+536&amp;searchField&amp;ctx=3DPurchaseReceiptForMerchantEmail">Process this=
+ order</a>
+in your Google Checkout account.</p>
+<table width=3D"100%"><tr><td style=3D"text-align: right;"><a href=3D"https=
+://support.google.com/checkout/sell/bin/answer.py?answer=3D88180&amp;hl=3De=
+n_US&amp;ctx=3DPurchaseReceiptForMerchantEmail" target=3D"&quot;_new&quot;"=
+>This cart is unsigned</a>
+<img src=3D"https://checkout.google.com/img/unlocked_icon.gif" name=3D"unlo=
+cked_icon" alt=3D""></td></tr>
+<tr><td><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tbody><tr><td><table width=3D"100%" border=3D"0" cellpadding=3D"2" cel=
+lspacing=3D"0" class=3D"brandingBackground" style=3D"background-color: #F5F=
+5F5;"><tr><td class=3D"font-size" style=3D"font-size: 83%;">&nbsp;Donation =
+date: <b>Jul 24, 2012 12:09 PM PDT</b>
+<br>
+&nbsp;Google order number: <b>658478663130536</b>
+</td>
+<td style=3D"padding-right: 15px;" align=3D"right" nowrap></td></tr></table=
+></td></tr>
+<tr><td><table width=3D"100%" border=3D"0" cellpadding=3D"4" cellspacing=3D=
+"0" class=3D"brandingTableEmail" style=3D"background-color: #FFFFFF; border=
+: 1px solid #F5F5F5;"><tr valign=3D"top" style=3D"margin-right: 15px; margi=
+n-left: 5px;"><td colspan=3D"1" nowrap class=3D"brandingColumnNames brandin=
+gRow font-size" style=3D"font-size: 83%; border-bottom: 1px solid #F5F5F5; =
+font-weight: bold; color: #222; width:1%;text-align:center; padding-right:1=
+em;">&nbsp;Qty&nbsp;</td>
+<td colspan=3D"89" class=3D"brandingColumnNames brandingRow font-size" styl=
+e=3D"font-size: 83%; border-bottom: 1px solid #F5F5F5; font-weight: bold; c=
+olor: #222; width:89%; text-align: left;">Item</td>
+<td colspan=3D"5" class=3D"brandingColumnNames brandingRow font-size" style=
+=3D"font-size: 83%; border-bottom: 1px solid #F5F5F5; font-weight: bold; co=
+lor: #222; width:5%; text-align:right; padding-right:1em;">&nbsp;Price</td>
+<td colspan=3D"5" class=3D"brandingColumnNames brandingRow font-size" style=
+=3D"font-size: 83%; border-bottom: 1px solid #F5F5F5; font-weight: bold; co=
+lor: #222; width:5%;">&nbsp;</td></tr><tr valign=3D"top" style=3D"margin-ri=
+ght: 15px; margin-left: 5px;"><td colspan=3D"1" class=3D"brandingRow font-s=
+ize" style=3D"font-size: 83%; border-bottom: 1px solid #F5F5F5; width:1%; t=
+ext-align: center;">&nbsp;1</td>
+<td colspan=3D"89" class=3D"brandingRow font-size" style=3D"font-size: 83%;=
+ border-bottom: 1px solid #F5F5F5; width:89%;"><b><span class=3D"brandingIt=
+emName" style=3D"font-weight: bold; color: #222;">OSH Donation</span></b>
+&nbsp;-&nbsp;
+<span class=3D"brandingItemDescription" style=3D"color: #666666;">Donation =
+to Operation Spokane Heroes</span>
+
+</td>
+<td colspan=3D"5" class=3D"brandingRow font-size" style=3D"font-size: 83%; =
+border-bottom: 1px solid #F5F5F5; width:5%; text-align:right; white-space: =
+nowrap; padding-right: 1em;" id=3D"itemAmount49968">$20.00</td>
+<td colspan=3D"5" class=3D"brandingRow font-size" style=3D"font-size: 83%; =
+border-bottom: 1px solid #F5F5F5; width:5%;">&nbsp;</td></tr>
+<tr style=3D"background-color: #F5F5F5;"><td rowspan=3D"4" colspan=3D"70" s=
+tyle=3D"width:70%;"></td>
+<td colspan=3D"20" class=3D"brandingFooter" style=3D"font-weight: bold; fon=
+t-size: 105%; width:20%; text-align:right; vertical-align:text-top;">Total:=
+</td>
+<td colspan=3D"5" id=3D"totalAmount" class=3D"brandingFooter" style=3D"font=
+-weight: bold; font-size: 105%; width:5%; text-align:right; white-space: no=
+wrap; padding-right:1em;">$20.00</td>
+<td colspan=3D"5" class=3D"brandingFooter" style=3D"font-weight: bold; font=
+-size: 105%; width:5%;">&nbsp;</td></tr></table></td></tr></tbody></table><=
+/td></tr></table>
+
+<p><div style=3D"padding: 2px; border-top: 1px solid #3366CC"><center><font=
+ color=3D"#676767" size=3D"-2"><br>
+Need help? Visit the  <a href=3D"https://support.google.com/checkout/sell?h=
+l=3Den_US">Google Checkout help center</a>.
+Please do not reply to this message.
+
+<br><br>
+&copy;2012&nbsp;Google</font></center></div></p>
+------=_Part_12832_14249201.1343156981725--

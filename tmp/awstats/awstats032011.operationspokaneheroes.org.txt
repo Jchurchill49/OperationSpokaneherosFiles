@@ -1,0 +1,1026 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201103 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1986                
+POS_TIME 2665                
+POS_VISITOR 17285               
+POS_DAY 32633               
+POS_DOMAIN 3608                
+POS_LOGIN 3995                
+POS_ROBOT 4150                
+POS_WORMS 4744                
+POS_EMAILSENDER 4875                
+POS_EMAILRECEIVER 5018                
+POS_SESSION 33547               
+POS_SIDER 33759               
+POS_FILETYPES 5153                
+POS_OS 5394                
+POS_BROWSER 5603                
+POS_SCREENSIZE 6427                
+POS_UNKNOWNREFERER 6501                
+POS_UNKNOWNREFERERBROWSER 7886                
+POS_ORIGIN 8806                
+POS_SEREFERRALS 8952                
+POS_PAGEREFS 9169                
+POS_SEARCHWORDS 10288               
+POS_KEYWORDS 11495               
+POS_MISC 2329                
+POS_ERRORS 12219               
+POS_CLUSTER 3851                
+POS_SIDER_404 12335               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110401044620 148 41444 41740579286
+FirstTime 20110301024645
+LastTime 20110331185437
+LastUpdate 20110401071031 148 0 147 0 0
+TotalVisits 508                 
+TotalUnique 349                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 383                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 107 26480453 23 43 6774717
+1 27 171 22180190 28 88 633909
+2 15 104 31505820 40 96 202500
+3 7 42 15758512 62 131 690572
+4 7 17 6413413 33 66 12930606
+5 7 23 7881074 32 47 4897298
+6 7 41 15699563 25 54 245792
+7 20 49 8291971 39 81 8920182
+8 52 467 177386013 45 203 13983949
+9 72 520 189248972 47 218 30611103
+10 72 514 159160197 73 234 11670629
+11 143 1498 243289506 38 382 6424106
+12 129 1153 195507916 89 440 10953326
+13 77 1260 165510571 85 293 4805352
+14 64 1074 155507547 40 195 23633363
+15 100 502 99921679 43 217 51523404
+16 103 870 98052653 41 251 12548907
+17 56 436 72919537 57 243 16113979
+18 116 1083 145612940 36 278 6284700
+19 46 477 81502716 57 220 2669010
+20 88 753 153541246 54 333 20714615
+21 72 382 168421773 64 211 9079607
+22 45 304 67844416 60 138 23539206
+23 81 523 159386354 48 221 13750548
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 1294 11937 2246997751
+jp 69 111 194574972
+ca 17 202 13706379
+ro 16 25 601747
+ru 8 79 10962093
+cn 6 6 53750
+de 3 3 35207
+ua 2 2 25377
+gb 2 2 28478
+be 2 2 28492
+sg 1 1 10786
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+slurp 492 23680142 20110331184903 0
+googlebot 195 57896309 20110331183536 0
+bot[\s_+:,\.\;\/\\-] 158 83273835 20110331205830 0
+spider 138 1493336 20110331205449 0
+msnbot 62 611381 20110329222341 0
+[\s_+:,\.\;\/\\-]bot 49 402666 20110331084544 0
+no_user_agent 37 6249170 20110327150557 0
+robot 10 91756 20110329132353 0
+crawl 10 103142 20110326181144 0
+netcraft 4 27922 20110328123445 0
+msnbot\-media 2 32798 20110320193320 0
+^voyager\/ 1 14232 20110310181226 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 829 1876707 0 0
+png 2807 36212759 0 0
+pdf 56 223304552 0 0
+swf 306 1639266146 0 0
+php 421 2388081 0 0
+html 637 6907588 0 0
+jpg 4844 209513044 0 0
+js 796 36260399 0 0
+gif 1674 311295756 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 14
+blackberry 204
+linuxandroid 341
+winlong 1484
+winxp 5608
+java 21
+win2000 17
+linuxubuntu 2
+linuxfedora 9
+winme 4
+macosx 1198
+wince 19
+win2003 524
+Unknown 220
+win2008 2719
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 51
+msie6.0 1746
+safari5.0.3 146
+firefox3.8 2
+firefox3.6 7
+firefox3.6.11 66
+android 281
+firefox3.0.14 1
+firefox4.0 98
+safari4.0.5 204
+curl 2
+firefox2.0.0.12 3
+firefox3.5.3 9
+opera9.80 2
+firefox3.6.15 1031
+safari5.0.2 290
+iphone 78
+msie8.0 4229
+netscape3.0 2
+msie7.0 1616
+chrome8.0.552.237 20
+firefox3.6.9 1
+wget 11
+msie9.0 20
+Unknown 81
+firefox3.0.8 2
+chrome10.0.648.127 60
+chrome9.0.597.98 55
+blackberry 204
+chrome9.0.597.107 193
+firefox3.6.14 745
+firefox2.0.0.20 21
+firefox3.5.17 174
+firefox3.0.17 1
+chrome10.0.648.133 59
+libwww 10
+samsung 77
+firefox3.6.16 143
+firefox3.0.3 1
+safari4.0 57
+firefox3.5.5 72
+mozilla 117
+safari5.0.4 70
+netscape5.0 2
+firefox3.0.6 2
+chrome10.0.648.151 110
+safari4.0.4 2
+firefox3.5.9 11
+firefox3.6.3 85
+firefox2.0.0.16 4
+safari 1
+firefox3.6.13 146
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 24
+Mozilla/3.0 20110322040539
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20110310110552
+NING/1.0 20110319121539
+Firefox 20110310150829
+PycURL/7.18.2 20110310182429
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20110322070146
+Jakarta_Commons-HttpClient/3.1 20110310120329
+Facebook_share_follower 20110310113252
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110331171346
+Flipboard/1.2_CFNetwork/485.13.8_Darwin/11.0.0 20110312182908
+Summify_(Summify/1.0.1;__http://summify.com) 20110312114004
+Wget/1.9_cvs-stable_(Red_Hat_modified) 20110329162305
+GeoHasher/Nutch-1.0_(GeoHasher_Web_Search_Engine;_geohasher.gotdns.org;_geo_hasher_at_yahoo_*_com) 20110309184000
+PostRank/2.0_(postrank.com) 20110319121357
+CC-rget/5.818_libwww-perl/5.831 20110311164230
+xpymep.exe 20110315013303
+Mozilla/5.0 20110310181632
+YahooCacheSystem 20110316231811
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110330234519
+Mozilla/4.0_(compatible;_ICS) 20110315180426
+UnwindFetchor/1.0_(_http://www.gnip.com/) 20110319121351
+Mozilla/4.0_(compatible;) 20110326203805
+example/1.0 20110301074731
+SAMSUNG-SGH-T469/T469UVIG4_SHP/VPP/R5_NetFront/3.5_SMM-MMS/1.2.0_profile/MIDP-2.1_configuration/CLDC-1.1 20110310215859
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 16
+PostRank/2.0_(postrank.com) 20110319121357
+NING/1.0 20110319121539
+Firefox 20110310150829
+Gimmie60/5.0_(Windows;_U;_Windows_NT_5.1;_en-US;_rv:1.9.1.11) 20110323051425
+xpymep.exe 20110315013303
+Jakarta_Commons-HttpClient/3.1 20110310120329
+YahooCacheSystem 20110316231811
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110330234519
+Facebook_share_follower 20110310113252
+Java/1.6.0_22 20110313221057
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110331171346
+Flipboard/1.2_CFNetwork/485.13.8_Darwin/11.0.0 20110312182908
+UnwindFetchor/1.0_(_http://www.gnip.com/) 20110319121351
+Summify_(Summify/1.0.1;__http://summify.com) 20110312114004
+example/1.0 20110301074731
+GeoHasher/Nutch-1.0_(GeoHasher_Web_Search_Engine;_geohasher.gotdns.org;_geo_hasher_at_yahoo_*_com) 20110309184000
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 490 753
+From1 3 3
+From2 80 80
+From3 110 110
+From4 737 11424
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+google 52 52
+search 2 2
+live 4 4
+bing 10 10
+yandex 5 5
+ask 3 3
+yahoo 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+http://www.facebook.com/l.php 37 37
+http://www.khq.com/Global/story.asp 33 33
+http://haroyoshi.com/2011/02/06/java-for-joes/ 9 9
+http://www.bestsuspenders.com 6 6
+http://us.mg2.mail.yahoo.com/dc/launch 2 2
+http://sz0100.ev.mail.comcast.net/zimbra/mail 2 2
+http://www.javaforjoes.org 2 2
+http://www.youtube.com/embed/4Mu1hXuCjc4 2 2
+http://us.mc585.mail.yahoo.com/mc/welcome 2 2
+http://g7.in/12BB.html 2 2
+http://javaforjoes.org 2 2
+http://us.mg3.mail.yahoo.com/dc/launch 1 1
+http://m.facebook.com/l.php 1 1
+http://touch.facebook.com/l.php 1 1
+http://events.greaterspokane.org/sbaweb/common/logreferral.asp 1 1
+http://campaign.r20.constantcontact.com/render 1 1
+http://sz0011.ev.mail.comcast.net/zimbra/mail 1 1
+http://us.mg4.mail.yahoo.com/dc/launch 1 1
+http://webmaila.juno.com/webmail/new/21 1 1
+http://webmail.c.earthlink.net/wam/preview.jsp 1 1
+http://md05.quartz.synacor.com/zimbra/h/search 1 1
+http://www.launchpadinw.com/group/operationspokaneheroescommittee 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 38
+operation+spokane+heroes 17
+java+for+joes 10
+javaforjoes.org 4
+operation+spokane+heros 3
+operationspokaneheroes.org 3
+www.operationspokaneheroes.com 2
+java+for+joes+spokane 2
+operations+spokane+heroes+801+riverside 2
+operation+spokane 1
+java+for+joes.org 1
+javaforjoes 1
+spokane+operation+heroes 1
+java+forjoes+.org 1
+lee+ermey+gunny+event+segst 1
+www.operationspokaneheroes.org 1
+chili+s+military+discount+spokane+wa 1
+spencers+gifts+es+sally+s+beauty+supply 1
+java+for+joes+in+spokane 1
+spokane+operation+heroe 1
+java+joe+s+cory+pape 1
+operation+spokane+heroes+org 1
+topsearchbox.search 1
+ttsearch 1
+operation+spokane+heroes.org 1
+where+to+donate+to+schwan+s+java+for+joes 1
+helping+military+families+spokane+wa 1
+retired+military+discount+at+ymca 1
+w+1st+ave+74+stage+20+discount 1
+spokane+operations+heroes 1
+prepaid+legal+spokane 1
+military+discounts+in+spokane 1
+schwann+s+java+for+joes 1
+the+local+families+of 1
+spokane+military+discounts 1
+military+discounts+site+.org 1
+schwanns+java+for+joes 1
+operations+spokane+heroes 1
+sandy+kates+spokane 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 69
+spokane 38
+operation 25
+heroes 23
+java 19
+for 17
+joes 16
+military 6
+s 5
+javaforjoes.org 4
+operations 4
+discounts 3
+heros 3
+discount 3
+operationspokaneheroes.org 3
+riverside 2
+www.operationspokaneheroes.com 2
+801 2
+to 2
+in 2
+.org 2
+wa 2
+families 2
+heroes.org 1
+kates 1
+cory 1
+legal 1
+74 1
+donate 1
+topsearchbox.search 1
+20 1
+supply 1
+w 1
+stage 1
+of 1
+forjoes 1
+pape 1
+gunny 1
+spencers 1
+local 1
+helping 1
+schwanns 1
+ymca 1
+where 1
+site 1
+retired 1
+gifts 1
+lee 1
+the 1
+javaforjoes 1
+es 1
+joes.org 1
+org 1
+event 1
+sally 1
+ttsearch 1
+joe 1
+ave 1
+ermey 1
+www.operationspokaneheroes.org 1
+heroe 1
+beauty 1
+at 1
+schwann 1
+schwan 1
+sandy 1
+chili 1
+1st 1
+prepaid 1
+segst 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 123 119717539
+301 19 7152
+404 3003 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 79
+/js/'+s.src+' 1 -
+/assets/images/btn_main_search_hover.png 220 http://www.operationspokaneheroes.org/_inc/slide.php
+//java_for_joes//25000.0 2 http://operationspokaneheroes.org//java_for_joes//index.html
+/robots.txt 287 -
+/java_for_joes/7.99 2 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/25000.0 2 http://operationspokaneheroes.org/java_for_joes/index.html
+/fullsize/jquery.fullsize.minified.js 375 http://operationspokaneheroes.org/java_for_joes/index.html
+//fullsize/jquery.js 4 http://operationspokaneheroes.org//java_for_joes//index.html
+/images/logo_holiday_inn.jpg 10 -
+//fullsize/fullsize.css 4 http://operationspokaneheroes.org//java_for_joes//index.html
+/java_for_joes/fullsize/jquery.js 37 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/47.94 2 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/95.88 2 http://operationspokaneheroes.org/java_for_joes/index.html
+/html5 4 -
+/js/:this.idOrName(element),generated:true}).addClass(this.settings.errorClass).html(message|| 1 -
+/js/,f) 1 -
+/../css/footer.css 4 http://operationspokaneheroes.org/events.php
+/../fullsize/jquery.js 5 http://operationspokaneheroes.org/java_for_joes/index.html
+/images/LOGOdowntown.jpg 10 -
+/js/)j.html(e 1 -
+/js/]} 1 -
+/images/OSH_gunny_small.jpg 13 -
+/SecondaryBanner.jpg 10 -
+/fullsize/fullsize.css 347 http://operationspokaneheroes.org/java_for_joes/index.html
+/%22http:////get.adobe.com//flashplayer///%22 4 -
+/images/2b_creative_media.jpg 10 -
+/images/osh_logo.png 10 -
+/contact/0 1 -
+/images/schwans_logo.png 10 -
+/join/ 8 -
+/js/).html(options.highlight(formatted,term)).addClass(i%2==0 1 -
+/java_for_joes/press_release.pdf 3 -
+/css/style.css 56 http://www.operationspokaneheroes.org/business.php
+/images/best_suspenders.jpg 9 -
+/java_for_joes/java_for_joes_flyer.pdf 2 -
+/j 1 -
+/js/).show().html(unescape($c.attr( 1 -
+/a 1 -
+//java_for_joes//47.94 2 http://operationspokaneheroes.org//java_for_joes//index.html
+/../fullsize/fullsize.css 4 http://operationspokaneheroes.org/java_for_joes/index.html
+/spaw/spacer.gif 1 
+//templatemo_style.css 4 http://operationspokaneheroes.org//java_for_joes//index.html
+/js/).html(unescape($c.find( 1 -
+/java_for_joes/fullsize/jquery.fullsize.minified.js 39 http://operationspokaneheroes.org/java_for_joes/index.html
+/js/'+opts.iframeSrc+' 1 -
+/js/)&&label.html(message) 1 -
+//fullsize/jquery.fullsize.minified.js 4 http://operationspokaneheroes.org//java_for_joes//index.html
+/java_for_joes/images/java_for_joes_flyer2.jpg 68 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/fullsize/fullsize.css 37 http://operationspokaneheroes.org/java_for_joes/index.html
+//java_for_joes//7.99 2 http://operationspokaneheroes.org//java_for_joes//index.html
+/../css/nav_style.css 4 http://operationspokaneheroes.org/events.php
+/../templatemo_style.css 4 http://operationspokaneheroes.org/java_for_joes/index.html
+/spaw2/spacer.gif 1 
+/images/schwans.jpg 10 -
+/java_for_joes/templatemo_style.css 1 -
+/java_for_joes/images/SecondaryBanner.jpg 117 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/Banner.swf 1 http://operationspokaneheroes.org/java_for_joes/index.html
+//java_for_joes//95.88 2 http://operationspokaneheroes.org//java_for_joes//index.html
+/../fullsize/jquery.fullsize.minified.js 5 http://operationspokaneheroes.org/java_for_joes/index.html
+/crossdomain.xml 1 http://service.dropdowndeals.com/App/DddWrapper.swf
+/../images/contacticon.png 4 http://operationspokaneheroes.org/aboutus.php
+/images/Goal.jpg 10 -
+/images/gsi.jpg 10 -
+/java_for_joes/images/background.jpg 3 http://operationspokaneheroes.org/java_for_joes/index.html
+/join 2 -
+/select_3d_mode 4 -
+/Homepage_pics.gif 10 -
+/assets/images/mastheadbg.png 219 http://www.operationspokaneheroes.org/css/nav_style.css
+/java_for_joes_flyer2.jpg 10 -
+/templatemo_style.css 358 http://operationspokaneheroes.org/java_for_joes/index.html
+/images/c_marketing.jpg 10 -
+/fullsize/jquery.js 358 http://operationspokaneheroes.org/java_for_joes/index.html
+/PDF/INVITE%20FOR%20VETS%20LISTENING%20SESSION%20(MM%20EDITS).PDF 1 -
+/assets/images/btn_top_search_hover.png 220 http://www.operationspokaneheroes.org/_inc/slide.php
+/java_for_joes/6.0.65.0 2 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/images/Body3.jpg 1 http://operationspokaneheroes.org/java_for_joes/index.html
+/java_for_joes/images/Homepage_pics.gif 4 http://operationspokaneheroes.org/java_for_joes/index.html
+//java_for_joes//6.0.65.0 2 http://operationspokaneheroes.org//java_for_joes//index.html
+/java_for_joes/Scripts/swfobject_modified.js 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 383
+205.142.252.21 67 663 174951351 20110327124510
+67.185.68.97 57 849 46099785 20110309202742
+173.202.194.116 54 525 21239131 20110329160719
+67.136.10.67 39 298 50809261 20110330173804
+207.170.225.18 39 458 36485519 20110331185437
+205.143.51.52 38 248 5846691 20110322102058
+38.127.197.109 26 38 144425 20110314150643
+67.171.61.69 25 231 37852868 20110325190213
+150.70.97.37 24 35 74084184 20110316222334
+67.185.222.174 22 187 14902005 20110321152351
+64.206.247.57 20 75 14384429 20110310170952
+150.70.172.106 20 29 65203518 20110327110655
+76.103.147.154 17 63 9311072 20110324201447
+67.185.127.7 17 117 12893716 20110314013532
+184.97.124.27 16 221 4992335 20110326144920
+69.84.207.147 15 45 2561885 20110324215059
+24.19.153.68 15 52 1792145 20110321124651
+150.70.75.28 14 26 36063281 20110326180516
+209.147.127.18 13 68 9648004 20110318151955
+67.168.114.222 12 94 15927621 20110329235316
+67.185.203.114 12 65 2154982 20110302122036
+76.104.156.67 12 74 1817415 20110330101222
+96.26.35.71 12 120 47130096 20110313164349
+92.85.169.194 12 21 544819 20110313221047
+69.58.178.57 11 11 102542 20110313071923
+67.185.33.74 8 67 14503321 20110319121313
+64.12.237.18 2 10 134170 20110310104904
+188.40.128.224 1 1 13635 20110304073655
+78.22.171.66 2 2 28492 20110322040539
+174.253.209.55 1 17 1692345 20110320113850
+65.208.151.112 2 22 6883480 20110312130903
+174.253.196.219 1 19 1740597 20110316195614
+98.247.118.28 2 18 7831940 20110322212312
+174.253.213.31 2 20 7842591 20110310200142
+12.18.111.2 10 100 12581329 20110310133405
+205.242.229.70 2 20 7842591 20110310115850
+173.159.241.201 4 22 17321909 20110325091958
+69.19.14.20 6 40 29503454 20110313153213
+67.202.7.134 1 1 0 20110309211616
+174.145.95.210 2 20 0 20110312115016
+166.205.142.112 3 18 5145091 20110304125717
+89.151.84.180 1 1 14232 20110319122330
+64.55.170.66 2 11 7902295 20110308182353
+74.82.64.16 2 28 1132219 20110315184948
+204.45.213.100 1 1 4724492 20110315180426
+95.220.233.237 2 20 7880159 20110316184158
+69.63.181.247 1 1 10786 20110305093231
+143.231.249.137 2 20 7880159 20110318104205
+74.82.64.35 1 2 31552 20110308222103
+74.82.64.19 2 41 3375807 20110315185100
+216.229.189.20 2 18 7831940 20110323061054
+97.114.120.86 1 19 1703043 20110309214323
+95.27.255.214 2 13 688848 20110327094225
+205.178.190.235 2 2 10786 20110321020748
+174.129.184.126 2 2 0 20110312114004
+75.196.24.154 2 17 7836225 20110312111954
+50.37.151.218 2 18 7831907 20110319204050
+205.188.117.69 0 1 43985 
+67.185.227.133 2 18 7831940 20110323162744
+174.31.68.141 4 36 7831940 20110322213555
+166.205.141.23 1 19 1733666 20110328134315
+68.186.113.237 2 20 7842605 20110310092829
+66.220.146.249 0 1 52066 
+209.120.218.201 3 3 10786 20110313221301
+71.33.125.38 2 27 1295312 20110312011800
+207.46.204.208 2 3 6175490 20110319201718
+166.205.141.227 1 2 35942 20110310110116
+67.185.197.144 3 21 12567097 20110310081157
+66.45.214.66 2 27 1295312 20110325192531
+70.89.141.89 7 69 7249662 20110303173410
+207.118.121.116 2 20 7842605 20110310084051
+98.247.59.155 2 20 7842605 20110309223603
+166.205.142.156 1 16 343213 20110303183254
+184.97.91.30 2 20 0 20110316230306
+67.185.0.68 2 20 7880159 20110312143918
+205.178.190.236 6 6 56984 20110320075000
+131.35.138.10 2 3 96352 20110304125449
+174.253.211.121 1 5 14260 20110321073758
+205.188.117.65 0 1 5331 
+72.14.194.1 2 27 1289452 20110331184253
+97.115.180.244 2 18 1576568 20110319233440
+166.216.130.89 7 44 33662384 20110316232235
+66.193.134.10 2 20 0 20110310095512
+91.213.117.100 1 1 14591 20110324215952
+74.82.64.20 3 38 2716229 20110315185120
+174.253.199.157 2 20 7842605 20110310083920
+174.129.162.224 2 2 13991 20110311033253
+149.174.8.77 0 1 1188049 
+69.63.181.245 0 1 25112 
+38.127.197.122 2 2 13991 20110313213440
+64.12.237.17 1 5 67071 20110310120328
+208.80.194.67 1 1 14232 20110310230227
+71.33.127.67 6 75 17435788 20110318230549
+69.63.189.246 0 1 32563 
+98.247.60.239 4 68 3350270 20110311003616
+67.185.94.125 2 20 7842605 20110310103431
+204.57.229.98 10 10 102783 20110311164230
+24.75.1.126 4 40 1729986 20110324091318
+184.72.46.156 1 1 14232 20110319121539
+67.160.114.215 6 47 9591421 20110304233757
+166.164.191.48 4 22 17291589 20110310084200
+67.185.241.37 2 20 7880159 20110312135143
+50.35.231.100 2 20 7880159 20110313033753
+67.185.233.99 2 20 7880159 20110312121030
+72.102.209.54 5 41 12567083 20110310173638
+67.185.125.125 3 21 7856851 20110310111027
+76.178.151.94 2 20 7842591 20110311082121
+216.104.15.138 2 2 6154153 20110327110607
+173.153.40.15 1 19 0 20110315172320
+208.115.138.254 4 4 56942 20110314153203
+75.71.135.76 2 20 7880159 20110317221935
+204.16.25.237 2 16 7576455 20110314153204
+50.37.124.84 10 49 1773597 20110305093803
+64.146.255.66 2 10 7492373 20110314134604
+38.99.96.187 1 1 14246 20110310110552
+63.227.96.18 8 136 1717108 20110326164620
+174.129.117.216 2 2 25018 20110310164509
+205.188.117.78 0 1 35532 
+76.108.231.193 2 11 7902295 20110307145153
+205.188.116.13 0 2 19939 
+69.19.14.19 3 22 15471989 20110313164117
+67.110.215.197 2 20 7842605 20110310084651
+65.208.151.118 3 17 11419288 20110312233853
+66.163.172.45 2 2 10786 20110310085530
+198.1.40.144 4 40 15685182 20110310115810
+76.178.130.25 0 1 1188049 
+66.220.155.123 1 1 14232 20110310113252
+67.185.178.73 2 20 7842605 20110310084204
+108.126.90.252 2 20 7757148 20110324181258
+50.37.98.63 2 20 7880159 20110312112144
+69.28.34.52 1 19 1740597 20110312231035
+166.205.140.247 1 17 1692378 20110323032017
+50.37.159.120 4 40 15753387 20110326180215
+76.100.17.17 2 27 1295312 20110329205910
+65.52.21.120 1 1 14246 20110309222437
+205.188.117.14 0 1 5740 
+205.188.116.133 0 1 1216 
+184.232.67.179 2 10 7866763 20110305175307
+205.188.116.207 0 1 13370 
+97.86.113.9 4 38 15705168 20110326213542
+68.54.139.103 5 33 1647647 20110314110425
+67.185.64.8 2 20 7873228 20110329193811
+166.205.141.30 3 53 3415732 20110315183518
+67.185.32.245 2 20 7880159 20110312161523
+95.26.242.103 1 20 1073343 20110316170441
+66.220.149.250 1 1 10786 20110320182719
+184.96.225.177 2 11 7902295 20110306140220
+166.205.140.121 2 38 1716675 20110310023619
+65.52.4.133 2 2 28478 20110319122442
+97.115.185.79 2 20 7880159 20110312114306
+166.205.142.43 1 19 1703043 20110310110856
+188.138.113.145 1 1 10786 20110323052456
+65.208.151.113 6 33 24984046 20110313000820
+65.208.151.119 5 29 14300358 20110312234447
+24.19.153.56 2 18 7831940 20110322210721
+66.225.29.88 9 46 1770503 20110302111209
+50.37.129.209 2 20 7842605 20110310083931
+67.142.168.27 5 34 25079487 20110310091754
+204.69.227.27 5 55 2033816 20110304131655
+65.101.104.137 2 18 7831907 20110321184140
+67.185.221.180 2 20 7842605 20110310102126
+183.61.2.25 1 1 10726 20110302013728
+50.18.58.153 2 2 0 20110310102535
+69.63.189.247 0 1 5004 
+95.26.65.94 1 1 3507 20110331000403
+69.28.58.35 2 2 21572 20110324131526
+65.113.247.2 2 20 7842605 20110310102943
+216.104.15.142 1 1 6139562 20110314215804
+166.216.130.183 1 16 343213 20110301213939
+75.142.73.80 2 20 7842591 20110311094700
+174.253.193.199 1 19 1740597 20110311215831
+174.25.13.222 2 20 7880159 20110312123051
+50.8.78.221 3 50 2018348 20110304125822
+67.135.33.162 2 11 7902295 20110307132743
+66.228.35.220 1 1 14260 20110322095106
+69.63.189.250 0 1 2556 
+67.185.20.115 2 20 7880159 20110312114152
+74.82.64.21 0 11 179340 
+69.63.189.249 0 2 84316 
+204.16.25.238 6 77 7935691 20110313002908
+150.70.64.198 7 13 18605804 20110326180358
+188.72.213.174 1 1 10786 20110311185914
+209.191.87.216 2 2 21572 20110307114920
+150.70.64.194 4 8 618185 20110304203907
+63.234.22.2 2 20 7842591 20110311120509
+65.208.151.117 2 23 1796480 20110312234442
+66.220.145.247 1 1 10786 20110330234519
+65.52.2.153 2 2 28478 20110319121352
+122.225.222.98 2 2 10786 20110327064457
+195.54.163.122 1 1 10786 20110322234939
+72.29.44.176 2 20 7880159 20110312114003
+71.208.183.151 2 11 7902295 20110305092754
+75.165.169.158 7 34 1342349 20110307195412
+66.239.236.122 2 20 7842605 20110310081604
+174.253.211.1 4 22 17329143 20110312112455
+74.47.17.79 2 20 7842605 20110310092059
+70.6.95.255 2 32 0 20110303140149
+166.205.140.203 1 19 1740597 20110316232200
+95.26.124.195 1 5 32897 20110316170438
+173.129.58.132 2 20 0 20110327124707
+50.90.100.100 2 20 7880159 20110312102106
+74.82.64.34 0 1 22477 
+50.18.49.42 1 1 0 20110309211321
+64.139.99.4 4 22 20159283 20110312093509
+205.188.116.72 0 1 121035 
+68.27.201.210 1 19 1617889 20110327110308
+67.185.3.199 6 75 9555629 20110314203229
+75.148.58.62 2 34 1675135 20110304201138
+205.178.190.237 2 2 10786 20110321020724
+66.220.146.245 0 1 5737 
+69.171.160.18 7 55 9521066 20110322185222
+216.38.216.220 2 3 50216 20110319234445
+98.129.76.112 1 1 14246 20110310102742
+67.185.181.11 2 20 7872925 20110324022704
+97.115.178.175 2 19 7837470 20110310200428
+205.188.117.67 0 1 577 
+216.104.15.134 0 1 21696 
+69.63.189.248 0 1 25112 
+108.103.220.127 2 11 7902295 20110304223518
+66.220.146.247 0 2 35240 
+66.225.13.46 3 21 12597720 20110331130908
+65.208.151.114 8 32 27221381 20110313000243
+184.72.46.160 2 2 28492 20110310102731
+66.193.135.216 2 34 1675135 20110304183722
+174.253.195.216 3 18 9792197 20110304140113
+98.247.87.214 2 35 2046256 20110309225632
+74.82.64.33 0 19 2039840 
+107.25.18.246 2 20 7842605 20110310104127
+66.239.236.158 2 34 1683972 20110303130838
+71.5.110.140 1 1 0 20110302122205
+134.121.236.165 2 20 7842605 20110310102140
+67.106.13.226 2 18 7948127 20110309183741
+184.73.16.213 1 1 0 20110312170133
+66.220.149.248 1 1 10786 20110315142333
+12.156.90.225 2 20 7842591 20110310121926
+65.101.119.9 2 20 7842591 20110310121056
+69.147.114.107 1 1 10786 20110316231811
+114.215.29.31 1 1 10786 20110328131601
+95.28.60.49 0 16 1092668 
+98.247.9.191 3 39 12567083 20110310135924
+174.253.193.221 1 13 1670828 20110310123808
+129.34.20.23 1 1 10786 20110322193434
+209.174.173.194 2 18 7831940 20110323111649
+96.240.119.194 2 20 7880159 20110314151307
+8.21.4.254 10 10 177309 20110331174611
+199.19.248.105 1 1 10786 20110324164714
+207.46.199.20 2 11 207489 20110310045814
+174.31.5.49 2 20 7880159 20110312135120
+38.127.197.112 1 1 14232 20110313213749
+208.80.194.58 1 1 7639 20110310230452
+65.208.151.116 4 32 8298094 20110313000253
+75.76.214.114 2 20 7880159 20110313131136
+205.188.116.200 0 2 30450 
+89.178.110.10 0 2 189072 
+69.171.224.248 0 1 32563 
+205.143.51.32 2 34 13991 20110330175519
+174.125.104.113 2 20 7873228 20110329083848
+72.62.48.154 2 20 7873228 20110326144926
+70.7.69.119 2 20 0 20110315190329
+67.185.61.213 2 20 7842605 20110310110625
+174.129.58.35 1 1 14232 20110310181632
+71.162.81.113 2 18 7831907 20110321174852
+174.253.209.36 3 18 9792197 20110304140415
+216.229.170.227 3 50 2018348 20110304133803
+69.76.12.154 2 20 7842605 20110310081531
+95.64.12.17 4 4 56928 20110315013304
+166.205.143.195 1 17 1692345 20110321181849
+50.37.105.29 2 18 7831940 20110322212519
+208.80.194.61 1 1 10786 20110310230551
+222.216.28.22 2 2 21452 20110301074731
+64.188.208.236 2 20 7842605 20110310084713
+174.121.75.26 1 1 11435 20110309184000
+67.183.244.73 2 20 7842605 20110309212703
+98.247.9.49 2 27 1295312 20110325183502
+76.178.29.80 2 20 7880159 20110312120515
+97.118.20.28 2 11 7902295 20110305160005
+184.97.88.72 2 20 7842605 20110310104035
+119.27.62.254 1 1 10786 20110315140011
+71.32.0.53 2 18 7831940 20110322215425
+76.178.136.95 2 20 7842605 20110310103406
+50.35.201.11 2 27 1295312 20110304222704
+74.82.64.36 2 13 182755 20110312132946
+69.76.20.105 3 21 12567097 20110310091148
+66.220.146.244 0 1 2385 
+67.185.132.40 2 20 7842605 20110310110742
+97.115.147.167 2 20 7880159 20110312133309
+50.18.47.177 1 1 0 20110319121351
+205.188.117.7 0 1 10311 
+67.137.238.164 2 2 91021 20110304125448
+66.220.149.251 0 1 32563 
+71.217.193.114 6 59 9560762 20110310092534
+166.205.143.158 1 5 1267191 20110322084756
+168.99.76.2 2 20 7842605 20110310103224
+205.188.117.76 1 2 39589 20110301193614
+166.205.143.83 2 17 5067705 20110301204753
+67.183.245.152 7 58 9564537 20110322051957
+174.253.211.175 1 15 1666368 20110309234832
+74.82.64.32 0 13 2967303 
+184.97.72.132 2 18 7831681 20110322125911
+207.170.238.139 3 21 12604651 20110312094528
+50.17.122.90 1 6 1357682 20110312170133
+67.185.233.204 2 20 7842605 20110310084005
+108.122.62.97 2 12 96533 20110310213708
+50.18.49.49 1 1 0 20110319121350
+67.136.17.230 2 20 7842591 20110310132944
+71.35.168.215 5 38 16147803 20110304233135
+98.247.89.92 7 57 23619287 20110308213814
+97.114.118.120 2 20 7842605 20110310084315
+199.80.52.5 3 3 30406 20110323042359
+68.118.209.17 2 20 7880159 20110313015929
+89.151.113.134 1 1 14246 20110309211641
+95.26.55.254 1 2 1599 20110331081805
+67.185.65.154 2 18 7831940 20110322232149
+71.37.135.114 2 20 7880159 20110312140358
+67.168.112.209 6 72 11356059 20110326192808
+174.31.84.214 4 22 20159283 20110312154631
+98.247.107.15 2 20 7842591 20110311091201
+66.215.63.130 2 20 7842591 20110310131012
+184.73.156.247 2 2 0 20110310150829
+216.229.170.90 3 21 12597720 20110329120442
+167.239.77.164 2 20 7873228 20110329092137
+198.29.1.9 1 16 343213 20110301172757
+204.236.254.109 2 2 0 20110319121357
+208.54.14.101 2 17 7798657 20110310215859
+67.185.164.26 2 20 7880159 20110313155849
+67.168.116.92 2 18 7831940 20110322213150
+63.224.213.98 4 39 1718157 20110329161606
+98.247.187.142 2 38 3481194 20110313223313
+70.90.181.174 7 79 25268412 20110312111445
+206.193.5.4 2 20 7872925 20110324142803
+74.82.64.18 4 19 311956 20110315185103
+166.205.141.41 1 19 1703043 20110310102812
+76.104.158.57 2 20 7880159 20110312113622
+67.185.165.50 2 20 7880159 20110312114305
+67.207.136.128 2 2 24447 20110324181152
+67.185.241.99 2 18 7831940 20110322205037
+166.205.140.167 1 10 1762733 20110307125803
+67.168.114.102 4 54 9517740 20110310085505
+67.51.216.236 3 1295 3583899 20110322122548
+216.104.15.130 1 2 6161258 20110314215806
+206.183.1.74 1 3 251597 20110322070146
+99.204.148.142 1 9 35532 20110308153508
+184.73.68.97 1 1 0 20110310182429
+173.30.254.129 2 11 7902295 20110304230637
+166.205.141.26 2 26 2100615 20110304220408
+66.220.149.245 2 2 21572 20110329234913
+205.188.116.20 0 1 16138 
+152.132.10.75 2 37 1675470 20110316134802
+74.38.124.63 2 20 7842605 20110310081439
+97.115.188.244 1 19 1733666 20110330021539
+65.208.151.115 4 26 13336216 20110313000815
+174.253.194.205 2 17 7827565 20110317190329
+69.28.58.10 2 2 21572 20110311183901
+166.205.142.130 1 17 1692378 20110323140908
+208.81.157.74 7 61 20447256 20110312112412
+74.82.64.17 3 17 746901 20110315185019
+173.51.255.169 1 1 14519 20110323051425
+50.18.61.102 1 1 0 20110310102533
+69.28.58.33 3 3 32298 20110329162305
+63.254.118.4 4 54 9555294 20110318131646
+98.247.90.77 5 32 20506946 20110312123342
+67.185.32.86 2 20 7880159 20110312123522
+64.128.78.220 0 1 0 
+65.101.110.219 2 20 7842605 20110309213611
+184.77.7.137 1 1 13635 20110301024645
+67.168.91.232 3 21 12567097 20110309204201
+69.28.58.9 4 4 40604 20110324131706
+69.171.163.67 4 51 6751677 20110303192055
+71.37.140.50 2 20 7842605 20110310105652
+74.203.131.24 2 20 7842605 20110310103734
+72.94.249.37 1 1 10786 20110314103902
+24.119.165.39 1 19 1740597 20110312125741
+138.163.0.44 2 18 7831940 20110323143635
+97.46.61.124 2 26 1289203 20110331184259
+207.46.12.28 1 6 28086 20110313072712
+76.104.156.116 6 49 23607204 20110325200207
+67.185.22.205 3 21 12567097 20110310082907
+184.234.244.74 5 69 9507075 20110323201711
+65.103.158.206 2 20 7880159 20110312115141
+98.143.127.13 3 21 14019721 20110311200303
+71.37.136.85 2 20 7842629 20110310112249
+74.162.147.37 1 18 1718901 20110312153728
+71.32.11.94 11 47 1792795 20110330234635
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20110301 15 121 7285692 13
+20110302 27 147 4644089 8
+20110303 17 203 20689265 7
+20110304 103 1211 109155990 30
+20110305 31 149 74197353 9
+20110306 2 11 7902295 1
+20110307 22 104 54690232 10
+20110308 15 102 45999882 7
+20110309 71 562 128490088 25
+20110310 214 1664 554969834 97
+20110311 66 504 127721909 25
+20110312 105 873 354770467 51
+20110313 57 298 104346438 20
+20110314 69 360 75312488 14
+20110315 31 243 33546203 17
+20110316 38 249 106997375 19
+20110317 12 130 40679952 5
+20110318 35 313 58722489 7
+20110319 32 158 23767146 14
+20110320 9 60 3464507 4
+20110321 82 542 55569649 12
+20110322 65 1799 111889252 24
+20110323 49 462 89044569 21
+20110324 90 622 62704151 15
+20110325 12 116 35658989 5
+20110326 39 497 47871821 9
+20110327 13 81 22506162 7
+20110328 2 20 1744452 2
+20110329 44 363 57055772 10
+20110330 39 287 29222325 11
+20110331 14 119 16404196 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 23
+2mn-5mn 31
+30s-2mn 41
+15mn-30mn 10
+0s-30s 385
+30mn-1h 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 38
+/java_for_joes/ 441 5169415 337 147
+/java_for_joes/Banner.swf 296 1602425682 24 200
+/_inc/slide.php 214 685870 6 46
+/ 153 1583908 103 47
+/java_for_joes/java_for_joes_flyer2.pdf 45 207877648 7 27
+/contact.php 26 198614 1 1
+/index.php 26 269888 2 3
+/aboutus.php 25 220850 3 2
+/business.php 25 402950 8 1
+/_inc/contact.php 24 18144 2 4
+/resources.php 22 225676 3 0
+/donate.php 17 173434 2 1
+/calendar.php 14 107226 0 0
+/events.php 13 81497 0 1
+/events/ermy_event/ermy.html 10 31563 1 1
+/events/care_package/care.html 9 26352 0 0
+/events/bbq/va_bbq.html 9 27832 0 2
+/contact/contactengine.php 8 488 0 1
+/java_for_joes/press_release.pdf 7 541702 3 6
+/contact/contactthanks.php 7 3444 0 5
+//java_for_joes/Banner.swf 6 36837372 2 5
+//java_for_joes/ 4 56928 2 2
+/java_for_joes/Scripts/expressInstall.swf 2 1546 1 1
+//java_for_joes/Scripts/expressInstall.swf 2 1546 0 1
+//java_for_joes/java_for_joes_flyer2.pdf 2 9448984 0 1
+/events/bbq/js/ 1 574 0 1
+/events/bbq/images/ 1 1110 0 0
+/events/bbq/ 1 574 0 0
+/events/care_package/images/ 1 1137 0 0
+/events/care_package/ 1 678 0 0
+/events/bbq/css/ 1 476 0 0
+/events/ 1 539 0 0
+/events/care_package/Care%2520Package%2520Pictures%2521/ 1 509 0 0
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 1 711726 0 1
+/events/care_package/js/ 1 601 0 0
+/java_for_joes_flyer2.pdf 1 4724492 1 1
+/events/ermy_event/ 1 4889 0 0
+/events/care_package/css/ 1 503 0 0
+END_SIDER

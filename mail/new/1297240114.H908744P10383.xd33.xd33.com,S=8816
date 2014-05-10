@@ -1,0 +1,136 @@
+Return-path: <3M1BSTQcTACMMNQDOKXBGDBJNTS.FNNFKD.BNL@cbg.bounces.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Wed, 09 Feb 2011 02:28:34 -0600
+Received: from mail-pz0-f70.google.com ([209.85.210.70]:61981)
+	by xd33.xd33.com with esmtps (TLSv1:RC4-MD5:128)
+	(Exim 4.69)
+	(envelope-from <3M1BSTQcTACMMNQDOKXBGDBJNTS.FNNFKD.BNL@cbg.bounces.google.com>)
+	id 1Pn5Pe-0002hL-Gi
+	for admin@operationspokaneheroes.org; Wed, 09 Feb 2011 02:28:34 -0600
+Received: by pzk26 with SMTP id 26so1185248pzk.5
+        for <admin@operationspokaneheroes.org>; Wed, 09 Feb 2011 00:28:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=beta;
+        h=domainkey-signature:date:from:to:message-id:subject:mime-version
+         :content-type;
+        bh=A0YPBZlxf1NfTirOecauvBfdr6Iz3JGjGO6mzFVJ9mg=;
+        b=pZirymrTFGmCTSZiHqEohggMzHMRtxSMBiPN6sqfBMPIkfW2s7hpZPBycEkk6h85ny
+         KZD1hf+JvXqbyOud9pRg==
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=google.com; s=beta;
+        h=date:from:to:message-id:subject:mime-version:content-type;
+        b=hTGWPfgS5d6EPHlk6l5fP2pSbqz5TAaybx+Qzgz7yDFKOn5iqdySGBHwMqCaBpWIcU
+         5qfBgXx8SFhWlsUqscbw==
+Received: by 10.142.11.5 with SMTP id 5mr2965745wfk.34.1297240115778;
+        Wed, 09 Feb 2011 00:28:35 -0800 (PST)
+Date: Wed, 9 Feb 2011 08:28:35 +0000 (UTC)
+From: Google Checkout <noreply@checkout.google.com>
+To: admin@operationspokaneheroes.org
+Message-ID: <441216090190913.1.33.1297240115774.9f54b234-c521-4764-aafb-7aa27b2f22ef@checkout.google.com>
+Subject: Order 441216090190913 has been cancelled by Google
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_169744_30400436.1297240115776"
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "xd33.xd33.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hello Operation Spokane Heroes, In an ongoing effort to protect
+	merchants, Google reviews orders on a regular basis. During a recent review,
+	we discovered that one or more of your orders appeared to be high-risk because
+	we were unable to verify that buyer's account information. [...] 
+	Content analysis details:   (-0.6 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+	domain
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	-0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.210.70 listed in list.dnswl.org]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.1 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+------=_Part_169744_30400436.1297240115776
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Operation Spokane Heroes,
+
+In an ongoing effort to protect merchants, Google reviews orders on a
+regular basis. During a recent review, we discovered that one or more
+of your orders appeared to be high-risk because we were unable to
+verify that buyer's account information.
+
+For your protection, the following order has been cancelled:
+
+Donation date: Feb 8, 2011 11:00 PM PST
+Google order number: 441216090190913 Qty Item Price 1 1 Case Java for
+Joes coffee - Java for Joes Fundraiser $95.88 Total : $95.88 Order
+cancelled
+
+To learn more about our review process and how Google Checkout protects
+merchants, please visit:
+https://checkout.google.com/support/sell/bin/answer.py?answer=3D45175&hl=3D=
+en_US
+
+Sincerely,
+
+The Google Checkout Team
+
+Need help? Visit the Google Checkout help center. Please do not reply
+to this message.
+
+=C2=A92011 Google
+------=_Part_169744_30400436.1297240115776
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr valign="top"><td align="left" valign="top" style="border-bottom: none;"><img src="https://checkout.google.com/img/checkout_logo_sm.png" border="0" alt="Google Checkout"></td>
+<td style="width: 1%; border-bottom: none;"><table width="100%" align="right" border="0" cellpadding="2" cellspacing="0"><tr valign="top"><td></td></tr></table></td></tr></table>
+<b>Hello  Operation Spokane Heroes</b>,<br>
+<br>
+In an ongoing effort to protect merchants, Google reviews orders on a regular basis.
+During a recent review, we discovered that one or more of your orders appeared to be high-risk
+because we were unable to verify that buyer&#39;s account information.<br><br>
+For your protection, the following order has been cancelled:
+<br>
+<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" class="brandingBackground" style="background-color: #E5ECF9;"><tr><td class="font-size" style="font-size: 83%;">&nbsp;Donation date: <b>Feb 8, 2011 11:00 PM PST</b>
+<br>
+&nbsp;Google order number: <b>441216090190913</b>
+</td>
+<td style="padding-right: 15px;" align="right" nowrap></td></tr></table></td></tr>
+<tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" class="brandingTableEmail" style="background-color: #FFFFFF; border: 1px solid #E5ECF9;"><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" nowrap class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:1%;text-align:center; padding-right:1em;">&nbsp;Qty&nbsp;</td>
+<td colspan="89" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:89%; text-align: left;">Item</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%; text-align:right; padding-right:1em;">&nbsp;Price</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%;">&nbsp;</td></tr><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:1%; text-align: center;">&nbsp;1</td>
+<td colspan="89" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:89%;"><b><span class="brandingItemName" style="font-weight: bold; color: black;">1 Case Java for Joes coffee</span></b>
+&nbsp;-&nbsp;
+<span class="brandingItemDescription" style="color: #666666;">Java for Joes Fundraiser</span>
+
+</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%; text-align:right; white-space: nowrap; padding-right: 1em;" id="itemAmount550375">$95.88</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%;">&nbsp;</td></tr><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="90" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; with:90%; text-align:right; vertical-align:text-top;">Total :</td>
+<td colspan="5" id="totalAmount" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%; text-align:right; white-space: nowrap; padding-right:1em;">$95.88</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%;">&nbsp;</td></tr>
+<tr style="background-color: #E5ECF9;"><td colspan="100" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:100%; text-align:right; padding-right: 0.8em;">Order cancelled</td></tr></table></td></tr></tbody></table>
+<br>
+<br>
+To learn more about our review process and how Google Checkout protects merchants, please visit:<br>
+ <a href="https://checkout.google.com/support/sell/bin/answer.py?answer=45175&amp;hl=en_US">  https://checkout.google.com/support/sell/bin/answer.py?answer=45175&amp;hl=en_US  </a>
+<br>
+<br>
+Sincerely,<br><br>
+The Google Checkout Team
+<p><div style="padding: 2px; border-top: 1px solid #3366CC"><center><font color="#676767" size="-2"><br>
+Need help? Visit the  <a href="https://checkout.google.com/support/sell?hl=en_US">Google Checkout help center</a>.
+Please do not reply to this message.
+<br><br>
+&copy;2011&nbsp;Google</font></center></div></p>
+------=_Part_169744_30400436.1297240115776--

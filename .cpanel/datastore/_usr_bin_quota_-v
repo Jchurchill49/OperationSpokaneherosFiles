@@ -1,0 +1,6 @@
+Disk quotas for user operatio (uid 568): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+      /dev/sda5       4  5120000 5120000               3       0       0        
+      /dev/sda8  315004  5120000 5120000             770       0       0        
+      /dev/sda3       0  5120000 5120000               0       0       0        
+      /dev/sda2       0  5120000 5120000               1       0       0        

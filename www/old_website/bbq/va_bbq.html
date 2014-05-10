@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+
+
+
+
+  <link type="text/css" href="css/style.css" media="screen" charset="utf-8" rel="stylesheet"  />
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="js/jquery.movingboxes.min.js" charset="utf-8"></script>
+  <script type="text/javascript">
+  $(function(){
+
+   $('#slider-one').movingBoxes({
+    startPanel  : 4,   // start with this panel
+    width       : 600, // overall width of movingBoxes
+    imageRatio  : 1    // Image ration set to 1:1
+   });
+
+   $('#slider-two').movingBoxes({
+    startPanel  : 3,   // start with this panel
+    width       : 550, // overall width of movingBoxes
+    panelWidth  : .7,  // current panel width adjusted to 50% of overall width
+    imageRatio  : 16/9 // Image ratio set to 16:9
+   });
+
+   // Example of how to move the panel from outside the plugin, only works on first selector (Use ID instead of class to target other movingboxes).
+   // get: var currentPanel = $('.slider').data('movingBoxes').currentPanel(); // returns # of currently selected/enlarged panel
+   // set: var currentPanel = $('.slider').data('movingBoxes').currentPanel(2); // scrolls to 2nd panel & returns 2.
+
+   // Set up navigation links
+   var i, t = '', len = $('#slider-one .panel').length + 1;
+   for ( i=1; i<len; i++ ){
+    t += '<a href="#" rel="' + i + '">' + i + '</a> ';
+   }
+   $('.dlinks')
+    .find('span').html(t).end()
+    .find('a').click(function(){
+     $('#slider-one').data('movingBoxes').currentPanel( $(this).attr('rel') );
+     return false;
+    });
+
+  });
+ </script>
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+<div style="width:560px; margin:0px 0px 10px 35px; ">
+<div style="float:left;width:250px;font-size: 16px;
+	font-weight: bold; color:#02213D;">Newman Lake BBQ   </div>
+  
+
+   <div style="float:right; width:250px; font-size:16px;
+	font-weight: bold; text-align:right; color:#02213D;">Saturday, June 27, 2009</div>
+ 
+
+</div>
+<div style="clear:both; height:15px; "></div>
+
+
+
+
+
+
+    
+    <!-- Slider #2 (images of slider #1 reversed) -->
+    <div class="slider" id="slider-two">
+      
+      
+      
+      
+      <div class="panel"><img src="images/10.jpg" alt="picture" /></div>
+    
+  
+      <div class="panel">
+      <img src="images/9.jpg" alt="picture" width="450" height="299" />   </div>
+    
+  
+      <div class="panel">
+        <img src="images/8.jpg" alt="picture" />      </div>
+    
+  
+      <div class="panel">
+      <img src="images/7.jpg" alt="picture" width="450" height="299" />   </div>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    <div class="panel">
+      <img src="images/6.jpg" alt="picture" />      </div>
+     <div class="panel">
+       <img src="images/5.jpg" alt="picture" />      </div>
+  
+   <div class="panel">
+     <img src="images/4.jpg" alt="picture" />     </div>
+  
+   <div class="panel">
+     <img src="images/3.jpg" alt="picture" width="450" height="299" />   </div>
+  
+   <div class="panel">
+     <img src="images/2.jpg" alt="picture" width="450" height="323" />   </div>
+  
+   <div class="panel">
+     <img src="images/1.jpg" alt="picture" />     </div>
+  </div>
+  
+  <!-- end wrapper -->
+
+
+</body>
+</html>

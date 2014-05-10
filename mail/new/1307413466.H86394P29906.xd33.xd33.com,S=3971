@@ -1,0 +1,84 @@
+Return-path: <bounce-20-815095312@trakken.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Mon, 06 Jun 2011 21:24:26 -0500
+Received: from smtp-out.google.com ([216.239.44.51]:57357)
+	by xd33.xd33.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from <bounce-20-815095312@trakken.google.com>)
+	id 1QTlxw-0007mD-3p
+	for admin@operationspokaneheroes.org; Mon, 06 Jun 2011 21:24:25 -0500
+Received: from hpaq6.eem.corp.google.com (hpaq6.eem.corp.google.com [172.25.149.6])
+	by smtp-out.google.com with ESMTP id p572OQpR014055
+	for <admin@operationspokaneheroes.org>; Mon, 6 Jun 2011 19:24:26 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=google.com; s=beta;
+	t=1307413467; bh=eQN2rJUg+h3d3+QdUQrd5DFAuwU=;
+	h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type;
+	b=j4P40Yxx9O9XB39BEKAVjdfbo/sU6kW2hf0hTnh1oM53aPLoBgoFftjzu6IPzEKBP
+	 ZAEnMYDlRVQaSrIeq3jeg==
+Received: from pxi8 (pxi8.prod.google.com [10.243.27.8])
+	by hpaq6.eem.corp.google.com with ESMTP id p572MKVw029226
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=NOT)
+	for <admin@operationspokaneheroes.org>; Mon, 6 Jun 2011 19:24:25 -0700
+Received: by pxi8 with SMTP id 8so34767pxi.4
+        for <admin@operationspokaneheroes.org>; Mon, 06 Jun 2011 19:24:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=beta;
+        h=domainkey-signature:date:from:to:subject:message-id
+         :x-trak-surveyticket:mime-version:content-type:user-agent;
+        bh=VE4N8abOby1dg/pFQ476YhsA/JfED8yhQb6Hmsl5/r4=;
+        b=B75vjVY5+l6sMuHaXZDKkVoiHNh8pKgGWPPgpFhwcm6WXkjNURgMXhGqrH/ErTcC0a
+         7D5KgvDscvR73ywu3DvQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=google.com; s=beta;
+        h=date:from:to:subject:message-id:x-trak-surveyticket:mime-version
+         :content-type:user-agent;
+        b=NCetBsb23nVBKetvJI5CrF9lonU5xmPW3mS9M0z1GrgnJcD8H878ncMCJJgDoDTpqm
+         fAxEflgk/ZLhGnccLaow==
+Received: by 10.68.55.136 with SMTP id s8mr17496pbp.46.1307413464614;
+        Mon, 06 Jun 2011 19:24:24 -0700 (PDT)
+Date: Tue, 07 Jun 2011 02:24:08 -0000
+From: checkout-support@google.com
+To: admin@operationspokaneheroes.org
+Subject: Google Checkout: Did we help answer your question?
+Message-ID: <#14.30955e10.7a1b9160.4ded8bc8.1781@google.trakken.com>
+X-Trak-SurveyTicket: 813007104
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+User-Agent: Neotonic Trakken/periodic_tasks-trakken/3.5.2-RC7
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "xd33.xd33.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Dear Google Checkout Merchant, Thank you for contacting us
+	about your query 813007104 When you have questions, we want to help. With
+	a few quick clicks, tell us about our performance. We will listen and learn.
+	[...] 
+	Content analysis details:   (-0.0 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+	domain
+X-Spam-Flag: NO
+
+Dear Google Checkout Merchant,
+
+Thank you for contacting us about your query 813007104
+
+When you have questions, we want to help. With a few quick clicks, tell us
+about our performance. We will listen and learn.
+
+https://survey.googleratings.com/wix/p0621608.aspx/ts3?l=9&p=3&t=813007104&k=tkst1oOLUU.tI&b=23799&c=1306981428&w=3114
+
+
+If your issue has not yet been resolved, we want to help. To best assist
+you, please don't reply to this email. Contact us again at
+http://checkout.google.com/support/sell/bin/request.py
+
+And, as always, thank you for using Checkout!
+
+The Google Checkout Team
+

@@ -1,0 +1,80 @@
+/* masthead and logo */
+#masthead {
+	width:100%;
+	background:url('/assets/images/mastheadbg.png') 0 0 repeat-x;
+	}
+#masthead .wrapper {
+	width:968px;
+	margin:0 auto;
+	overflow:hidden;
+	text-align:left;
+	height:200px;
+	}
+#logo {
+	width:968px;
+	height:200px;
+	display:inline;
+	float:left;
+	margin:0px;
+	}
+#logo a {
+	display:block;
+	width:100%;
+	height:100%;
+	text-indent:-9999px;
+	background:url('../images/logo.png') 0 0 no-repeat;
+	}
+
+
+
+#navbar ul {
+	margin: 0;
+	padding: 5px;
+	list-style-type: none;
+	text-align: center;
+    }
+
+
+
+#navigation{
+	width:968px;
+	height:50px;
+	background-image:url(../images/nav.png);
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+}
+
+
+
+
+#nav {
+	width: 968px;
+	margin: 0 auto;
+	padding: 5px;
+	text-align: center;
+}
+#nav ul {
+	list-style: none;
+	width: 950px;
+	margin: 0 auto;
+	padding: 0;
+}
+#nav li {
+	float: left;
+	width: 130px;
+}
+#nav li a {
+	display: block;
+	padding: 8px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	
+}
+
+#nav li a:hover {
+	color: #FFFFFF;
+	background-color: #0A074E;
+}

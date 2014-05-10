@@ -1,0 +1,934 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201108 will be lost/reset.
+# Last config file used to build this data file was /home/operatio/tmp/awstats/awstats.operationspokaneheroes.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2020                
+POS_TIME 2686                
+POS_VISITOR 25923               
+POS_DAY 28344               
+POS_DOMAIN 3515                
+POS_LOGIN 3818                
+POS_ROBOT 3973                
+POS_WORMS 4533                
+POS_EMAILSENDER 4664                
+POS_EMAILRECEIVER 4807                
+POS_SESSION 29078               
+POS_SIDER 29268               
+POS_FILETYPES 4942                
+POS_DOWNLOADS 5165                
+POS_OS 5982                
+POS_BROWSER 6128                
+POS_SCREENSIZE 6415                
+POS_UNKNOWNREFERER 6489                
+POS_UNKNOWNREFERERBROWSER 7000                
+POS_ORIGIN 7349                
+POS_SEREFERRALS 7490                
+POS_PAGEREFS 7678                
+POS_SEARCHWORDS 8116                
+POS_KEYWORDS 8521                
+POS_MISC 2350                
+POS_ERRORS 8760                
+POS_CLUSTER 3674                
+POS_SIDER_404 8846                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110901000247 176 38990 37851273717
+FirstTime 0
+LastTime 20110831144821
+LastUpdate 20110901070511 176 0 175 0 0
+TotalVisits 67                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 61                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 8616 18 39 3161504
+1 28 155 9395301 28 69 2465294
+2 0 0 0 84 169 10795891
+3 27 211 12174208 17 65 2400166
+4 19 29 133992 46 73 3019239
+5 0 0 0 30 61 442756
+6 1 1 9540 175 197 2091419
+7 1 1 8616 168 185 1649713
+8 1 1 8616 36 62 444046
+9 2 23 3565907 28 55 4737055
+10 6 52 2651543 28 66 252990
+11 17 155 9709256 20 67 3706459
+12 42 445 29401637 14 59 893588
+13 34 377 29020430 22 61 6996317
+14 23 211 14204315 31 61 350356
+15 36 349 20413127 49 100 1810004
+16 1 23 513971 23 57 1378485
+17 18 163 10731365 23 55 1162303
+18 7 127 6445661 267 292 2456274
+19 1 1 8616 123 151 767795
+20 3 47 1048698 18 39 389042
+21 36 328 19872978 24 61 2215507
+22 5 69 10557918 22 43 1391761
+23 1 5 30841 24 52 125924
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 283 2733 166294253
+ro 19 29 136980
+dk 4 4 36312
+ru 2 4 28536
+cz 2 2 18156
+bh 0 2 2095432
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+slurp 230 22220257 20110831171803 0
+spider 191 2002478 20110831185102 0
+bot[\s_+:,\.\;\/\\-] 121 7054536 20110831212827 0
+googlebot 104 20666575 20110831000238 0
+[\s_+:,\.\;\/\\-]bot 41 386891 20110831140848 0
+robot 20 150448 20110830150823 0
+discovery 15 2002377 20110825180744 0
+no_user_agent 11 398622 20110831010204 0
+crawl 10 95401 20110820220305 0
+msnbot\-media 7 117687 20110824105712 0
+netcraft 1 8616 20110824185034 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 176 349819 0 0
+png 568 10043736 0 0
+pdf 23 27267580 0 0
+php 138 847947 0 0
+html 172 920223 0 0
+jpg 1055 128120049 0 0
+js 110 512930 0 0
+gif 532 547385 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 15
+/pdf/9112001coin.pdf 15 1 4961313
+/pdf/backtoschool.pdf 13 6 25263448
+/pdf/United%20We%20Stand%20American%20Legion%20Riders.pdf 13 6 15596793
+/pdf/NWMSGrandPrix2011FLYER.pdf 10 3 13598102
+/pdf/Internation%20Ministries%20for%20Vets%20by%20Vets%20July%2029%20to%2031%202011%20001.pdf 9 0 2575539
+/pdf/veteran_benefits.pdf 9 0 889304
+/pdf/174%20Stores%20and%20Business%20Offering%20Military%20Discounts1.pdf 8 1 991518
+/pdf/2010_Top100_Military_Friendly_Employers.pdf 6 4 4949637
+/pdf/Invite%20for%20vets%20listening%20session%20(mm%20edits).pdf 5 0 449712
+/pdf/V2F_JOA_Flyer_070511.pdf 4 0 300056
+/pdf/CarrouselPoster.pdf 3 0 417674
+/pdf/t4tspaghetti2010.pdf 2 0 81736
+/pdf/Gunny%20Poster%20Final.pdf 1 0 479121
+/pdf/OIF_BBQ.pdf 1 0 226368
+/pdf/osh_show.pdf 1 0 6794939
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+winxp 995
+winlong 587
+win2000 14
+java 28
+linuxfedora 11
+linux 1
+win7 793
+macosx 27
+win2003 27
+Unknown 312
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 17
+msie6.0 7
+firefox5.0 392
+msie5.01 1
+firefox2.0.0.20 1
+msie5.5 9
+firefox3.5.3 11
+opera9.80 28
+chrome4.1.249.1064 1
+msie8.0 556
+mozilla 280
+msie7.0 226
+firefox6.0 173
+firefox3.6.3 24
+firefox3.6.20 136
+msie9.0 913
+Unknown 32
+safari5.0.5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_getfavicon) 20110809212126
+Mnogosearch-3.1.21 20110810093621
+Mozilla/4.0_(compatible;_ICS) 20110829042826
+Opera/9.80_(Android;_Opera_Mini/6.1.25577/25.729;_U;_en)_Presto/2.5.25_Version/10.54 20110818183516
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110819015118
+Mozilla/4.0_(compatible;) 20110824132538
+integrity/3 20110809151151
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_getfavicon) 20110809212126
+Mnogosearch-3.1.21 20110810093621
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110819015118
+integrity/3 20110809151151
+Java/1.6.0_04 20110824041103
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 100 407
+From1 0 0
+From2 21 23
+From3 5 8
+From4 184 2357
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 11 13
+search 5 5
+bing 3 3
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://www.facebook.com/l.php 1 1
+http://www1.dlinksearch.com/main 1 1
+http://sz0161.ev.mail.comcast.net/zimbra/mail 1 1
+http://www.launchpadinw.com/group/operationspokaneheroescommittee 1 1
+http://www.swagbucks.com 1 1
+http://www.greaterspokane.org/community-overview/78-military.html 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 10
+homepage 5
+operation+spokane+heroes 4
+operationspokaneheroes.org 2
+operation+hero+spokane 1
+spokane+heros 1
+keirsten+hess+-kirsten+-kiersten 1
+operationspokaneheroes.org. 1
+operation+spokane+heros 1
+operation+spokane+heroes+org 1
+military+id+spokane 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 15
+spokane 9
+operation 7
+heroes 5
+homepage 5
+heros 2
+operationspokaneheroes.org 2
+org 1
+-kiersten 1
+military 1
+operationspokaneheroes.org. 1
+-kirsten 1
+hero 1
+hess 1
+id 1
+keirsten 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 1331 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 488
+//phpMyAdmin-2.6.1-pl2/ 2 -
+//phpMyAdmin-2.9.0/ 2 -
+//phpMyAdmin-3.0.1.1/ 2 -
+//mysql.bck/scripts/setup.php 1 -
+//sqlweb/scripts/setup.php 1 -
+//nildbnil/scripts/setup.php 1 -
+//adminsql/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-beta1/ 2 -
+//phpMyAdmin-2.11.9.5/scripts/setup.php 2 -
+/site/calendar.php 1 http://localhost/
+//_pma/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.4/scripts/setup.php 1 -
+//wbsadmin/html/scripts/setup.php 1 -
+//mydb/scripts/setup.php 1 -
+//db_backup/scripts/setup.php 1 -
+//phpmanager/ 2 -
+//!mysql/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-pl2/scripts/setup.php 1 -
+/events/lilac_lunch/js/'+base.options.leftArrow+' 1 -
+//phpadmin2011/scripts/setup.php 1 -
+//phpMyAdmin-2.11.2.2-all-languages/scripts/setup.php 2 -
+//sqladmin_old/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 1 -
+//admin/pma/ 2 -
+//phpmyadmin2/ 2 -
+//phpMyAdmin-2.6.4-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 1 -
+//phpmanager/scripts/setup.php 1 -
+/java_for_joes 1 -
+//phpMyAdmin-2.7.0-pl1/scripts/setup.php 1 -
+//PMA/scripts/setup.php 1 -
+/contact/0 1 -
+//phpMyAdmin-3.0.1.0/ 2 -
+//phpMyAdmin-2.9.1/scripts/setup.php 1 -
+//old/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 1 -
+//pmy/phpMyAdmin-2.10.0.2-english/scripts/setup.php 1 -
+//phpmy-admin/ 2 -
+//web/phpMyAdmin/scripts/setup.php 1 -
+//admin/my/scripts/setup.php 1 -
+//phpMyAdmin-2.5.4/ 2 -
+//admn/scripts/setup.php 2 -
+//phpmyadmin1/scripts/setup.php 2 -
+//admin/mysqladmin/scripts/setup.php 1 -
+//admm/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc2/ 2 -
+//phpMyAdmin-2.7.0-rc1/scripts/setup.php 1 -
+//_php/scripts/setup.php 1 -
+//My-php/scripts/setup.php 1 -
+//phpMyAdmin-2.11.5.1-all-languages/scripts/setup.php 1 -
+//_admin/scripts/setup.php 1 -
+//aadm/pma/scripts/setup.php 1 -
+//_myadmin/scripts/setup.php 1 -
+//_bon_dbadmin/scripts/setup.php 3 -
+//phpMyAdmin.life/scripts/setup.php 1 -
+//phpMyAdmin-2.11.3.0/ 2 -
+//phpMyAdmin-3.0.0.0/ 2 -
+//admdb947/scripts/setup.php 1 -
+//phpMyAdmin/ 4 -
+//phpmyadminnemo/scripts/setup.php 1 -
+//phpMyAdmin-2.11.4.0/ 2 -
+//webadmin/scripts/setup.php 1 -
+//pmadm/scripts/setup.php 2 -
+//phpMyAdmin-2.5.1/scripts/setup.php 1 -
+//pma2006/ 2 -
+//PmA/scripts/setup.php 1 -
+/java_for_joes/index.html/index.html 1 http://javaforjoes.org/
+/site/index.php 1 http://localhost/
+/donate.php 7 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.10.0.1/ 2 -
+//databaseadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-pl3/ 2 -
+//phpMyAdmin-2.6.2-beta1/ 2 -
+//pma211/scripts/setup.php 1 -
+//portable-phpmyadmin/wp-pma-mod/scripts/setup.php 1 -
+//phpMyAdminpcs41/scripts/setup.php 1 -
+//admin/pma/scripts/setup.php 1 -
+//admsql1/scripts/setup.php 1 -
+//pma2/scripts/setup.php 1 -
+//Myphp/scripts/setup.php 1 -
+//phpmy/my/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl1/ 2 -
+//pma2005/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6/ 2 -
+//.bash/scripts/setup.php 1 -
+//adminn/scripts/setup.php 1 -
+//phpMyAdmin-2.9.0.1/ 2 -
+//etetetet.old/scripts/setup.php 1 -
+//php2011/scripts/setup.php 1 -
+/site/pdf/United%20We%20Stand%20American%20Legion%20Riders.pdf 1 http://localhost/
+//phpMyAdmin-2.8.1-rc1/ 2 -
+//phpMyAdmin2011/scripts/setup.php 2 -
+//db1/scripts/setup.php 1 -
+/site/mission.php 1 http://localhost/
+//phpMyAdmin-3.1.1.0/ 2 -
+//phpadmin211/scripts/setup.php 1 -
+//phpma1/scripts/setup.php 1 -
+//cb/scripts/setup.php 1 -
+//MySQL/scripts/setup.php 1 -
+//phpMyAdmin-3.4.3.1/ 2 -
+//cbadmin/scripts/setup.php 1 -
+//myadmin_a/scripts/setup.php 1 -
+//databaseadmin/ 2 -
+//admin/myadmin/scripts/setup.php 1 -
+//admdb/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl3/ 2 -
+//Admin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.2/scripts/setup.php 1 -
+//php-myadmin/ 2 -
+//phpMyAdmin-3.0.1.1-all-languages/scripts/setup.php 1 -
+/site/benefits.php 1 http://localhost/
+//phpMyAdmin-2.11.11.3/scripts/setup.php 1 -
+//webdb/ 2 -
+//phpMyAdmin-2.5.5-rc1/ 2 -
+/css/contact_style.css 9 http://www.operationspokaneheroes.org/_inc/contact.php
+//phpMyAdmin-2.6.2-rc1/ 4 -
+//pma3/scripts/setup.php 1 -
+/events/oif/js/'+base.options.leftArrow+' 1 -
+/events/oif/js/'+base.options.rightArrow+' 1 -
+/robots.txt 394 -
+//xx_phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl3/ 2 -
+//websql/ 4 -
+//php-myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.8.2.4/ 2 -
+//bbs/phpMyAdmin/scripts/setup.php 1 -
+//phpmyadmin/2.11.10/htdocs/scripts/setup.php 1 -
+//db4/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.0/ 2 -
+//phpMyAdmin-2.5.5-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.10.0.2/ 2 -
+//phpmyadmin/2.11.9.4/htdocs/scripts/setup.php 1 -
+//webmail2/scripts/setup.php 1 -
+//php-my-admin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.2-pl1/ 2 -
+//_dbadmin/scripts/setup.php 1 -
+//sql/scripts/setup.php 1 -
+//phpMyAdmin-2.11.5.0/ 2 -
+//phpMyAdmin-2.11.1.1/ 2 -
+//phpMyAdmin-2.2.6/ 2 -
+//pa/scripts/setup.php 1 -
+//phpmyadmin_old/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.3/ 2 -
+//pma2005/ 2 -
+/java_for_joes/java_for_joes_flyer2.pdf 9 -
+//db3/scripts/setup.php 1 -
+//php2/scripts/setup.php 1 -
+//pmy/scripts/setup.php 2 -
+//dbadm/phpMyAdmin/scripts/setup.php 1 -
+//phpmyadmin/phpMyAdmin-2.11.5-english/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3-pl1/ 2 -
+//phpMyAdmin-2.11.2.2/ 2 -
+//phpMyAdmin-2.6.4/ 2 -
+//phadmin/scripts/setup.php 1 -
+/business.php' 1 -
+//phpMyAdmin-2.2.3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl1/ 2 -
+//admin/phpAdmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0-rc1/ 2 -
+//admin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1/ 2 -
+//phpMyAdmin-2.11.5.1/ 2 -
+//_phpMyAdmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-rc1/ 2 -
+//pma2008/ 2 -
+//p/m/a/ 2 -
+/java_for_joes/java_for_joes_flyer.pdf 1 -
+//phpMyAdminpcs81/scripts/setup.php 1 -
+//phpmy-admin/scripts/setup.php 1 -
+//p/m/a/scripts/setup.php 1 -
+//phpmyadminx/scripts/setup.php 1 -
+//phpmysql/scripts/setup.php 1 -
+//p/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0/ 2 -
+//dvphp/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin_2.11.10/scripts/setup.php 1 -
+//phpmyAdmin/scripts/setup.php 1 -
+//phpas/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0/ 2 -
+//phpMyAdmin-2.6.4-pl2/ 2 -
+//phpmyadmin1/ 2 -
+//db/ 2 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-pl1/scripts/setup.php 1 -
+//phpmyadmin29/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2/ 2 -
+//myadmin/MyAdmin/scripts/setup.php 1 -
+//dbadmin211/scripts/setup.php 1 -
+//mysql2011/scripts/setup.php 1 -
+//phpMyAdmin-2.5.4/scripts/setup.php 1 -
+//myadmin2/scripts/setup.php 1 -
+//PMYADM/phpMyAdmin-2.10.0.2-english/scripts/setup.php 1 -
+//2010/phpMyAdmin/scripts/setup.php 1 -
+//myphp/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.11.2.2/scripts/setup.php 1 -
+/events/care_package/js/'+base.options.rightArrow+' 1 -
+//pmaold/scripts/setup.php 3 -
+//phpmyadmin32/scripts/setup.php 1 -
+//phpMyAdmin-2.11.7.1-all-languages-utf-8-only/scripts/setup.php 1 -
+//my/scripts/setup.php 1 -
+//phpmyadm/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl3/scripts/setup.php 1 -
+//pma_ai/scripts/setup.php 2 -
+//pma2007/ 2 -
+//mysql211/scripts/setup.php 1 -
+//.phpadmin/scripts/setup.php 1 -
+//sgl/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc2/ 2 -
+//myad/scripts/setup.php 2 -
+//phpMyAdmin-3.1.3.0/ 2 -
+//phpMyAdmin-2.11.11.3-english/scripts/setup.php 1 -
+//sql211/scripts/setup.php 1 -
+//web/ 2 -
+//php-my-admin/ 4 -
+//phpMyAdmin-2.6.4-pl4/scripts/setup.php 1 -
+//phpMyAdmin-2.9.0.3/scripts/setup.php 1 -
+//phpMyAdmin-2.9.0.2/ 2 -
+//phpMyAdmin-2.8.2.3/ 2 -
+//phpmyadmin-bkp/scripts/setup.php 1 -
+//pma2011/scripts/setup.php 1 -
+/wp/wp-includes/images/blank.gif 1 -
+//phpMyAdmin-2.11.5/scripts/setup.php 1 -
+//phpmyadmin_old/scripts/setup.php 1 -
+//mysql_administrator/scripts/setup.php 1 -
+/events/oif/images/rightarrow.png 18 http://www.operationspokaneheroes.org/events/oif/oif.html
+//phpMyAdmin-2.8.2.2/ 2 -
+//php211/scripts/setup.php 1 -
+//phpmyadmin291/scripts/setup.php 1 -
+//phpmyadmin/2.11.9.6/htdocs/scripts/setup.php 1 -
+//mysqladmin/ 4 -
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.9.1/ 2 -
+//phpMyAdmin-2.9.0/scripts/setup.php 2 -
+/aboutus.php 7 -
+//wp-includes/images/blank.gif 1 -
+//phpMyAdmin-3.1.0.0/ 2 -
+//phpMyAdmin-2.6.4-pl1/scripts/setup.php 1 -
+//phpMyAdmin-1/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.4/ 2 -
+/site/contact.php 1 http://localhost/
+//_phpmyadmin_/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 1 -
+//phpMyAdmin-3.1.2.0/ 2 -
+//phpMyAdmin-2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-rc1/ 2 -
+//phpMyAdminpcs/scripts/setup.php 1 -
+//typo3/phpmyadmin/ 2 -
+//phpMyAdmin-2.11.2.0/ 2 -
+//phpMyAdmin-2.6.3-rc1/ 2 -
+//phpMyAdmin-2.5.7-pl1/ 2 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+/events/lilac_parade/js/'+base.options.rightArrow+' 1 -
+//wp-pma-mod/scripts/setup.php 1 -
+//_db/scripts/setup.php 1 -
+/site/business_discount.php 1 http://localhost/
+//phpMyAdmin-2.2.6/scripts/setup.php 1 -
+//myAdmin/scripts/setup.php 2 -
+//_db_man_aa/scripts/setup.php 1 -
+//pma2009/ 2 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 1 -
+//_phpmyadmin/_v2.8/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.3/ 2 -
+//phpmyadmin/myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.1/ 2 -
+//phpMyAdmin-2.11.9.1/ 2 -
+//phpMyAdmin-2.7.0-beta1/scripts/setup.php 1 -
+//_phpadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.11.1.2/ 2 -
+//phpMyAdmin393/scripts/setup.php 1 -
+/site/pdf/backtoschool.pdf 1 http://localhost/
+//admn/ 2 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 1 -
+//mysql2/scripts/setup.php 1 -
+//.phpMyAdmin/scripts/setup.php 1 -
+//dbadmin/ 2 -
+//phpMyAdmin-2.11.6-all-languages/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta2/ 2 -
+//phpMyAdmin-2.5.5/ 2 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 1 -
+/java_for_joes/press_release.pdf 1 -
+//admin/pmadm/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0/scripts/setup.php 1 -
+/events/bbq/js/'+base.options.leftArrow+' 1 -
+//phpmyadmin/2.11.9.5/htdocs/scripts/setup.php 1 -
+//mysql-admin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl2/ 2 -
+//admsql/scripts/setup.php 1 -
+//phpMyAdmin-2.11.0.0/ 2 -
+//dbadmin2011/scripts/setup.php 1 -
+/java_for_joes/index.html 125 -
+//phpMyAdmin-2.11.2.1/ 2 -
+//db2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1/ 2 -
+//phpMyAdmin-2.6.3-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.11.7.0/ 2 -
+//pma/scripts/setup.php 2 -
+/V20xRmRRPT0K 2 -
+/site/employers.php 1 http://localhost/
+//phpMyAdmin-2.6.1-rc2/ 2 -
+//phpMyAdmin-2.6.4-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.7/ 2 -
+//phpmyadmin/scripts/setup.php 3 -
+//phpMyAdmin-2.8.2/scripts/setup.php 1 -
+//phpMyAdmin-3.4.3.1-all-languages/ 2 -
+//ladminadminl/scripts/setup.php 1 -
+//pma/ 2 -
+//phpMyAdmin-2.6.0-rc3/ 2 -
+//phpMyAdmin-2.8.0.4/ 2 -
+//phpMyAdmin-2.10.0.0/ 2 -
+//php1/scripts/setup.php 1 -
+//phpmyadmin-ramy/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.2/ 2 -
+//phpMyA/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 2 -
+/events/bbq/js/'+base.options.rightArrow+' 1 -
+//mysqladmin/scripts/setup.php 3 -
+//phpMyAdmin-2.8.0.1/ 2 -
+//pma_tpfocus/scripts/setup.php 1 -
+//phpMyAdmin-2.11.8.0/ 2 -
+//phpMyAdmin-2.11.5-english/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl4/ 2 -
+//phpMyAdmin-2.6.2/ 2 -
+//sqlweb/ 2 -
+//pma1/scripts/setup.php 1 -
+//cbadmin2/scripts/setup.php 1 -
+//phpMyAdmini/scripts/setup.php 1 -
+//myadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0-pl2/ 2 -
+//phpMyAdmin-2.6.3-pl1/scripts/setup.php 1 -
+//_myphp/scripts/setup.php 1 -
+//phpM/scripts/setup.php 2 -
+//phpmyadmin2011/scripts/setup.php 1 -
+//phpAdmin/scripts/setup.php 2 -
+/css/tabbedContent.css 5 http://operationspokaneheroes.org/business.php
+//dbadmin/scripts/setup.php 2 -
+//db211/scripts/setup.php 1 -
+//pma_rs/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 1 -
+/resources.php 8 -
+//_v2.8/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 2 -
+//phpMyAdmin-3.4.3.1-english/ 2 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 1 -
+//_phpmyadmin_db4/scripts/setup.php 1 -
+//sqladm/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4/scripts/setup.php 1 -
+//phpmyadmin/ 4 -
+/events/ermy_event/js/'+base.options.rightArrow+' 1 -
+//mysqlmanager/scripts/setup.php 1 -
+//mygoodadmin/scripts/setup.php 1 -
+//phpadmin/ 2 -
+//phpma/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-alpha/ 2 -
+//scripts/setup.php 2 -
+//phpMyAdmin-3.0.0-rc2/scripts/setup.php 1 -
+/events/vet_picnic/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin-2.11.9.3/scripts/setup.php 1 -
+//phpMyAdmin-2.11.10.1/scripts/setup.php 1 -
+//phpMyAdmin-2.10.3/scripts/setup.php 1 -
+//.dbadmin/scripts/setup.php 1 -
+/site/wedo.php 1 http://localhost/
+//phpMyAdmin-2.5.6-rc1/ 2 -
+//phpma12345/scripts/setup.php 1 -
+//web/phpMyAdmin/ 2 -
+//phpMyAdmin-2.8.2/ 2 -
+//phpMyAdmin-2.8.1/scripts/setup.php 1 -
+/blog/wp-includes/images/blank.gif 1 -
+/events/vet_picnic/js/'+base.options.leftArrow+' 1 -
+//phpMyAdmin-2.11.4/scripts/setup.php 1 -
+//phpMyAdmin-2.10.2.0/ 2 -
+//phpMyAdmin-2.6.0-rc1/ 2 -
+//phpmya/scripts/setup.php 2 -
+//phpadmin/scripts/setup.php 2 -
+//webadmin/ 2 -
+//2011/phpMyAdmin/scripts/setup.php 1 -
+//dba/scripts/setup.php 1 -
+//.pma/scripts/setup.php 1 -
+//phpMyAdmin-2.11.1-all-languages/scripts/setup.php 1 -
+//prog/scripts/setup.php 1 -
+//phpMyAdmin-2.2.3/ 2 -
+//phpmysql/sql/scripts/setup.php 2 -
+//xampp/phpmyadmin/ 2 -
+//phpMyAdmin-2.10.0.2/scripts/setup.php 1 -
+//.phpmyadmin/scripts/setup.php 1 -
+//phpmyadmin211/scripts/setup.php 1 -
+//PMA2005/scripts/setup.php 1 -
+//dcgadmin/scripts/setup.php 1 -
+/css/style.css 4 http://operationspokaneheroes.org/business.php
+//admin/phpmyadmin/ 2 -
+//./scripts/setup.php 1 -
+//phpMyAdmin-2.8.0/ 2 -
+//my-php/scripts/setup.php 1 -
+//admm/ 2 -
+//wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-3.0.2.0/ 2 -
+//_qsql/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta1/ 2 -
+/wordpress/wp-includes/images/blank.gif 1 -
+//dbAdmin/scripts/setup.php 2 -
+//phpmyadmin123/scripts/setup.php 1 -
+//web/scripts/setup.php 1 -
+//PMA2005/ 2 -
+//_sql/scripts/setup.php 2 -
+//sqladm.old/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3/ 4 -
+//backup/scripts/setup.php 1 -
+//sqlmanager/scripts/setup.php 1 -
+/events.php 16 -
+//mysql/ 2 -
+//___pma/scripts/setup.php 1 -
+//websql/scripts/setup.php 2 -
+//phpmyadmin2/scripts/setup.php 1 -
+//dbc/scripts/setup.php 1 -
+//phpMyAdmin-2.9.2/ 2 -
+//examples/scripts/setup.php 1 -
+//phpmyadmin_2.10/scripts/setup.php 3 -
+//~phpmyadmin21152/scripts/setup.php 1 -
+//pmabd/scripts/setup.php 1 -
+//phpMyAdmin-2.8.2.1/ 2 -
+//xampp/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.5-all-languages/scripts/setup.php 1 -
+//admin--/mysqladmin/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-rc1/ 2 -
+//phpad/scripts/setup.php 1 -
+/images/fair.jpg 1 http://operationspokaneheroes.org/
+//phpMyAdmin-2.6.1-pl1/ 2 -
+//phpMyAdmin.old/scripts/setup.php 1 -
+/site/ 1 http://localhost/
+//_phpmyadmin/scripts/setup.php 1 -
+//mysql-admin/ 2 -
+//phpMyAdmin-2.8.0-rc2/ 2 -
+/muieblackcat 1 -
+//_phpmyadmin_db3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 1 -
+/events/care_package/js/'+base.options.leftArrow+' 1 -
+/events/ermy_event/js/'+base.options.leftArrow+' 1 -
+//db/scripts/setup.php 2 -
+//phpMyAdmin-2.9.0-rc1/ 2 -
+//Files/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-pl1/ 2 -
+//html/scripts/setup.php 1 -
+/events/lilac_lunch/js/'+base.options.rightArrow+' 1 -
+//phpMyAdmin211/scripts/setup.php 2 -
+//phpMyAdmin-2.6.3/scripts/setup.php 2 -
+//mysqlmanager/ 2 -
+//PMYADM/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-pl1/ 2 -
+/events/lilac_parade/js/'+base.options.leftArrow+' 1 -
+/events/vet_picnic/images/67.jpg 25 http://www.operationspokaneheroes.org/events/vet_picnic/vet_picnic.html
+//sql2011/scripts/setup.php 1 -
+/js/tabbedContent.js 3 http://operationspokaneheroes.org/business.php
+//pma_2/scripts/setup.php 1 -
+//mysqlAdmin/scripts/setup.php 1 -
+//db2011/scripts/setup.php 1 -
+/events/oif/images/leftarrow.png 18 http://www.operationspokaneheroes.org/events/oif/oif.html
+//madm/scripts/setup.php 1 -
+//phpMyAdmin-2.11.7.1/ 2 -
+//admin/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+/site/pdf/9112001coin.pdf 1 http://localhost/
+//phpMyAdmin-2.8.0-beta1/ 2 -
+//admin/ 2 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.11.5.2/ 2 -
+/java_for_joes/index.html/__media__/js/trademark.php 1 -
+//phpMyAdmin-2.10.1.0/ 2 -
+//myadmin/ 2 -
+//phpMyAdmin/scripts/setup.php 3 -
+//mysql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.1.0/ 2 -
+//sqlmanager/ 2 -
+//phpMyAdmin-2.6.0-alpha2/ 2 -
+//phpMyAdmin-2.11.6.0/ 2 -
+//pma_mydb/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6-rc2/ 2 -
+//phpMyAdmin-2.8.0.2/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 61
+156.33.94.250 26 152 13536257 20110818133241
+67.185.3.199 24 200 8195759 20110817151615
+92.82.228.147 18 28 128364 20110824041100
+38.100.21.21 17 25 98277 20110813014434
+67.185.214.230 16 142 9717743 20110817213204
+67.185.97.255 16 139 9382508 20110815140053
+67.185.210.198 15 138 9380047 20110809154023
+68.63.243.65 14 180 10888276 20110803033234
+98.232.116.9 14 129 9164481 20110829110454
+98.247.90.77 14 158 10691711 20110819173650
+138.163.106.71 13 124 10334863 20110824132528
+76.28.216.43 12 136 9410275 20110830150353
+67.185.211.146 12 144 12391652 20110831144821
+69.58.178.59 11 11 70837 20110806031822
+138.163.0.41 10 132 11017387 20110805121444
+67.185.83.163 10 128 9162458 20110831014325
+67.5.97.39 9 135 1432696 20110803153835
+138.163.106.72 7 116 9321337 20110824132530
+67.5.101.102 6 94 557739 20110806143047
+67.5.100.217 4 94 7982093 20110816220221
+184.97.91.180 4 75 589975 20110818180920
+93.160.60.22 4 4 36312 20110825084108
+71.221.207.41 3 24 518940 20110815154527
+199.19.249.196 2 2 18156 20110825174211
+8.21.4.254 2 2 17232 20110830110744
+64.126.141.18 1 5 30841 20110823124843
+99.70.200.32 1 22 512556 20110806104440
+173.49.24.118 1 1 9540 20110810093621
+74.92.168.213 1 1 8616 20110819171213
+64.255.180.199 1 28 4584537 20110818183452
+71.221.223.19 1 1 9540 20110809151151
+71.83.252.53 1 21 432026 20110818212907
+109.206.163.207 1 1 9540 20110808013257
+24.18.115.240 1 24 1004326 20110823184455
+188.24.228.149 1 1 8616 20110822224721
+99.196.224.56 0 7 380596 
+95.25.61.128 1 1 9540 20110809134511
+50.53.196.70 1 1 5628 20110829042826
+207.46.195.202 1 2 23258 20110802035734
+67.5.119.156 1 21 432026 20110827211250
+46.73.93.39 0 1 5190 
+69.171.228.249 0 1 125026 
+89.178.71.206 0 1 5190 
+66.74.193.43 1 1 8616 20110823005923
+75.106.192.54 0 5 81219 
+193.188.105.20 0 2 2095432 
+75.106.255.38 1 12 226993 20110802120117
+75.101.163.64 1 9 132526 20110830143900
+67.185.225.133 1 25 2531743 20110820093752
+75.106.192.36 0 3 16297 
+184.82.131.106 1 1 8616 20110817194051
+72.94.249.37 1 1 9540 20110811103601
+95.26.217.60 1 1 8616 20110823174053
+138.163.0.44 1 23 513971 20110802163747
+50.132.49.236 1 5 30841 20110812235941
+8.28.16.254 0 1 226368 
+109.206.163.193 1 1 8616 20110829150610
+99.196.192.58 0 9 114186 
+209.85.224.85 1 1 9540 20110809212126
+67.5.96.18 1 22 512556 20110814031739
+67.168.114.102 1 21 432026 20110817212414
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20110801 2 25 536142 1
+20110802 5 86 1892662 4
+20110803 38 410 19558117 4
+20110804 2 18 14935 2
+20110805 10 132 11017387 1
+20110806 17 112 3231169 4
+20110807 3 26 24475 1
+20110808 1 2 235908 1
+20110809 18 142 9413857 4
+20110810 1 1 9540 1
+20110811 1 1 9540 1
+20110812 1 5 30841 1
+20110813 17 25 98277 1
+20110814 1 22 512556 1
+20110815 21 186 10423544 4
+20110816 5 89 12827009 3
+20110817 19 167 10186965 4
+20110818 32 273 22263737 5
+20110819 15 160 10825353 2
+20110820 2 23 3564983 2
+20110822 1 1 8616 1
+20110823 4 31 1314872 4
+20110824 38 268 19784564 3
+20110825 3 3 25848 3
+20110827 1 21 432026 1
+20110829 16 131 9178725 3
+20110830 14 145 9559831 3
+20110831 22 269 22933673 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 7
+0s-30s 47
+2mn-5mn 5
+30s-2mn 5
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 59 536792 56 35
+/calendar.php 29 156387 2 11
+/wedo.php 23 151938 1 0
+/mission.php 20 140980 3 4
+/events/bbq/va_bbq.html 17 59143 0 2
+/events/oif/oif.html 16 67600 0 0
+/events/lilac_parade/lilac_parade.html 16 49344 0 0
+/events/lilac_lunch/lilac_lunch.html 16 47920 0 0
+/events/care_package/care.html 16 52704 0 2
+/benefits.php 16 90864 0 2
+/events/vet_picnic/vet_picnic.html 16 50608 0 1
+/events/ermy_event/ermy.html 16 56112 0 0
+/employers.php 12 63900 1 0
+/business_discount.php 12 69348 0 2
+/index.php 9 82164 0 1
+/contact.php 6 33768 1 1
+/_inc/contact.php 5 3780 0 3
+/business.php 3 54204 3 3
+/contact/contactengine.php 2 122 0 0
+/contact/contactthanks.php 1 492 0 0
+END_SIDER

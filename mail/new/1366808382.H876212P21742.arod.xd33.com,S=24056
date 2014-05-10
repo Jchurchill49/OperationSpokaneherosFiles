@@ -1,0 +1,541 @@
+Return-path: <bounce-mc.us5_10088423.154705-bethann=operationspokaneheroes.org@mail58.wdc01.mcdlv.net>
+Envelope-to: bethann@operationspokaneheroes.org
+Delivery-date: Wed, 24 Apr 2013 07:59:42 -0500
+Received: from mail58.wdc01.mcdlv.net ([205.201.129.58]:49666)
+	by arod.xd33.com with esmtp (Exim 4.80)
+	(envelope-from <bounce-mc.us5_10088423.154705-bethann=operationspokaneheroes.org@mail58.wdc01.mcdlv.net>)
+	id 1UUzIU-0005eZ-JM
+	for bethann@operationspokaneheroes.org; Wed, 24 Apr 2013 07:59:42 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail58.wdc01.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:Content-Transfer-Encoding; i=marketing=3Dgivebycell.com@mail58.wdc01.mcdlv.net;
+ bh=cMJw5QVjxbsSsmuA0WHNPGVYS5Q=;
+ b=wcN/VNlRdBkLxFIVSCBZJbYMCaQ6g6T0j5KG5EAYQqdN3/x8FoK/WgUdvU+lVG6mUTitHoFPNSHO
+   EZE/HPtfHPNJ/aLnFZZXI4MxTbUJbgyZmGmcFMH1awWLt+7HME7p+h5bLhSv2a0AwwooOOHCK/cY
+   LhIYdEuPVKuVgBBsMi8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail58.wdc01.mcdlv.net;
+ b=SbXZCcL66QDk4hTZmfcepXAnhPJuZNTJ64W9StNVhQuZej+YQxPbSREv/WneCIi9VqiYCymCBWDi
+   wJukzbfeJ+djsaHymZN5jzvGVSW/WV6zC7MQSY5K07jngHAoQZKN1I5R5m+xEeE9cPTPlykyt8Op
+   T8uHhLMgAvHTFbt+cSU=;
+Received: from (127.0.0.1) by mail58.wdc01.mcdlv.net (PowerMTA(TM) v3.5r16) id hevbju0rhio6 for <bethann@operationspokaneheroes.org>; Wed, 24 Apr 2013 12:59:42 +0000 (envelope-from <bounce-mc.us5_10088423.154705-bethann=operationspokaneheroes.org@mail58.wdc01.mcdlv.net>)
+Subject: =?utf-8?Q?Our=20=22Money=2DBack=22=20Guarantee=20Will=20Knock=20Your=20Socks=20Off?=
+From: =?utf-8?Q?Give=20by=20Cell?= <marketing@givebycell.com>
+Reply-To: =?utf-8?Q?Give=20by=20Cell?= <marketing@givebycell.com>
+To: <bethann@operationspokaneheroes.org>
+Date: Wed, 24 Apr 2013 12:59:42 +0000
+Message-ID: <ca355d977d6503a80379b8e1f63b8777989.20130424125926@mail58.wdc01.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDbf76c7482a63b8777989**
+X-Campaign: mailchimpca355d977d6503a80379b8e1f.bf76c7482a
+X-campaignid: mailchimpca355d977d6503a80379b8e1f.bf76c7482a
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=ca355d977d6503a80379b8e1f&id=bf76c7482a&e=63b8777989
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-ca355d977d6503a80379b8e1f-bf76c7482a-63b8777989@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://guidebycell.us5.list-manage.com/unsubscribe?u=ca355d977d6503a80379b8e1f&id=fdc2b2b32e&e=63b8777989&c=bf76c7482a>
+Sender: "Give by Cell" <marketing=givebycell.com@mail58.wdc01.mcdlv.net>
+x-mcda: FALSE
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Our "Money-Back" Guarantee=
+ Will Knock Your Socks Off">
+
+        <title>Our "Money-Back" Guarantee Will Knock Your Socks Off</title=
+>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body,#backgroundTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:1px solid #DDDDDD;
+=09=09}
+=09=09h1,.h1{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2,.h2{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3,.h3{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:26px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4,.h4{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:22px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.preheaderContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent div a:link,.preheaderContent div a:visited,.prehea=
+derContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#202020;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link,.headerContent a:visited,.headerContent a .ysh=
+ortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateContainer,.bodyContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.bodyContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent div a:link,.bodyContent div a:visited,.bodyContent div=
+ a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border-top:0;
+=09=09}
+=09=09.footerContent div{
+=09=09=09color:#707070;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent div a:link,.footerContent div a:visited,.footerConten=
+t div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#social{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09}
+=09=09#social div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#utility{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09}
+=09=09#utility div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+=09=09.headerContent a{
+=09=09=09color:#333333;
+=09=09=09text-decoration:none;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #FFFFFF;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;background-color: #FFFFFF;height: 100% !important;width: 100% !importa=
+nt;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"border-col=
+lapse: collapse;">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"background-color: #=
+FFFFFF;">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConte=
+nt" style=3D"border-collapse: collapse;">
+
+                                =09<!-- // Begin Module: Standard Preheade=
+r \ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"100%">
+                                    =09<tr>
+                                        =09<td valign=3D"top" style=3D"bor=
+der-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">=
+</div>
+                                            </td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D=
+"border-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                =09Is this email not displ=
+aying correctly?<br><a href=3D"http://us5.campaign-archive1.com/?u=3Dca355=
+d977d6503a80379b8e1f&id=3Dbf76c7482a&e=3D63b8777989" target=3D"_blank" style=
+=3D"color: #336699;font-weight: normal;text-decoration: underline;">View i=
+t in your browser</a>.
+                                                </div>
+                                            </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader=
+ \ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #=
+DDDDDD;background-color: #FFFFFF;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background-c=
+olor: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class=3D"headerContent" st=
+yle=3D"border-collapse: collapse;color: #202020;font-family: Arial;font-si=
+ze: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center=
+;vertical-align: middle;">
+
+                                            =09<!-- // Begin Module: Stand=
+ard Header Image \\ -->
+                                            =09<div style=3D"text-align: l=
+eft;"><a href=3D"http://guidebycell.us5.list-manage.com/track/click?u=3Dca=
+355d977d6503a80379b8e1f&id=3D02e0507e5f&e=3D63b8777989" style=3D"color: #=
+336699;text-decoration: underline;font-weight: normal;"><img src=3D"http:/=
+/gallery.mailchimp.com/ca355d977d6503a80379b8e1f/images/EBlast_Give_by_Cel=
+l_FLAG_WEBINAR.2.png" alt=3D"Give by Cell" border=3D"0" style=3D"border: p=
+x none;border-color: ;border-style: none;border-width: px;height: 103px;wi=
+dth: 597px;margin: 0;padding: 0;max-width: 600px;line-height: 100%;outline=
+: none;text-decoration: none;" width=3D"597" height=3D"103" id=3D"headerIm=
+age campaign-icon"></a></div>
+                                            =09<!-- // End Module: Standar=
+d Header Image \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    =09<tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContent" style=3D"border-collapse: collapse;background-color: #FFFFFF;">
+
+                                                <!-- // Begin Module: Stan=
+dard Content \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #505050;font-family: Arial;font-size: 14px;line-height: 150%;text-a=
+lign: left;"><h1 style=3D"margin-bottom: 0px;padding: 0px;border: 0px;outl=
+ine: 0px;font-size: 22px;vertical-align: baseline;background-color: transp=
+arent;line-height: 30px;color: rgb(51, 51, 51);font-family: Arial, sans-se=
+rif;-webkit-text-size-adjust: auto;text-align: center;display: block;font-=
+weight: bold;margin-top: 0;margin-right: 0;margin-left: 0;">
+=09<span style=3D"font-size:32px;">Give by Cell Announces<br>
+=09&quot;Money-Back&quot; Guarantee</span><br>
+=09<br>
+=09<img align=3D"none" height=3D"281" src=3D"http://gallery.mailchimp.com/=
+ca355d977d6503a80379b8e1f/images/Website_Give_Mobile_Donate_Special_SLIDER=
+_0.png" style=3D"color: rgb(32, 32, 32);font-family: Arial;font-size: 30px=
+;font-weight: bold;line-height: 30px;text-align: left;-webkit-text-size-ad=
+just: none;width: 450px;height: 281px;border: 0;outline: none;text-decorat=
+ion: none;display: inline;" width=3D"450"></h1>
+<br>
+<span style=3D"font-family:tahoma,verdana,segoe,sans-serif;"><span style=
+=3D"font-size: 14px;"><span style=3D"color: rgb(0, 0, 0);">We&#39;ve helpe=
+d thousands of non-profits take the leap into mobile in the most affordabl=
+e and successful way.&nbsp;<span style=3D"line-height: 20px; -webkit-text-=
+size-adjust: auto;">Now we&rsquo;ve made it even easier to try our latest=
+ service &ndash; Mobile Donate!</span></span></span></span><br>
+<br>
+<span style=3D"color: rgb(0, 0, 0); font-family: tahoma, verdana, segoe, s=
+ans-serif; background-color: transparent; line-height: 20px; -webkit-text-=
+size-adjust: auto;">We are so confident that Mobile Donate will raise subs=
+tantial funds that we are offering a refund of up to 100% of our set-up fe=
+e.&nbsp;</span><a href=3D"http://guidebycell.us5.list-manage.com/track/cli=
+ck?u=3Dca355d977d6503a80379b8e1f&id=3Dd56c8163a7&e=3D63b8777989" target=
+=3D"_self" style=3D"color: #336699;font-weight: normal;text-decoration: un=
+derline;"><span style=3D"color:#0000ff;">Please click for a full sales she=
+et</span></a>.&nbsp;<br>
+<br>
+<span style=3D"background-color: transparent; color: rgb(51, 51, 51); font=
+-size: 12.222222328186035px; line-height: 20px; -webkit-text-size-adjust:=
+ auto; font-family: tahoma, verdana, segoe, sans-serif;"><span style=3D"fo=
+nt-size: 14px;"><span style=3D"color: rgb(0, 0, 0);">Now, we&rsquo;re offe=
+ring our &ldquo;risk free&rdquo; Mobile Donate special pricing. Beginning=
+ April 24, 2013, organizations can either choose a one-month contract for=
+ $500 (refunds are unavailable with this plan) plus a transaction fee; or=
+ choose our ongoing plan for $2,000 plus a transaction fee, with no expira=
+tion date.&nbsp;</span></span></span><span style=3D"background-color: tran=
+sparent; line-height: 20px; -webkit-text-size-adjust: auto; color: rgb(0,=
+ 0, 0); font-family: tahoma, verdana, segoe, sans-serif;">With the ongoing=
+ plan, we will refund up to $2,000 less what you have made using Mobile Do=
+nate at the end of year two.</span>
+<p style=3D"margin: 0px 0px 20px; padding: 0px; border: 0px; outline: 0px;=
+ font-size: 12.222222328186035px; vertical-align: baseline; background-col=
+or: transparent; color: rgb(51, 51, 51); font-family: Arial, sans-serif; l=
+ine-height: 20px; -webkit-text-size-adjust: auto;">
+=09<span style=3D"font-size:14px;"><span style=3D"color:#000000;">Want to=
+ learn more about mobile fundraising? Give us a call or email today, or</s=
+pan>&nbsp;<a href=3D"http://guidebycell.us5.list-manage1.com/track/click?u=
+=3Dca355d977d6503a80379b8e1f&id=3D2f4383ee36&e=3D63b8777989" target=3D"_b=
+lank" style=3D"color: #336699;font-weight: normal;text-decoration: underli=
+ne;"><span style=3D"color:#0000ff;">fill out this form for an informationa=
+l webinar</span></a>.</span><br>
+=09<br>
+=09<span style=3D"font-size:14px;"><span style=3D"color:#000000;">Best,<br=
+>
+=09<br>
+=09Dave Asheim<br>
+=09CEO/Founder<br>
+=09Give by Cell<br>
+=09P: <span id=3D"gc-number-0" title=3D"Call with Google Voice">(415) 615-=
+0150</span></span><br>
+=09<a href=3D"mailto:Dave@givebycell.com?subject=3DMobile%20Fundraising%20=
+Inquiry" target=3D"_blank" style=3D"color: #336699;font-weight: normal;tex=
+t-decoration: underline;"><span style=3D"color:#0000ff;">Dave@givebycell.c=
+om</span></a><br>
+=09<a href=3D"http://guidebycell.us5.list-manage2.com/track/click?u=3Dca35=
+5d977d6503a80379b8e1f&id=3D08797d07f0&e=3D63b8777989" target=3D"_blank" s=
+tyle=3D"color: #336699;font-weight: normal;text-decoration: underline;"><s=
+pan style=3D"color:#0000ff;">www.givebycell.com</span></a></span></p>
+</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Content \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                =09<table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #F8F8F8;border-top: 0;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"foo=
+terContent" style=3D"border-collapse: collapse;">
+
+                                                <!-- // Begin Module: Stan=
+dard Footer \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"social" style=3D"border-collapse: collapse;backgr=
+ound-color: #F8F8F8;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ width=3D"350" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<em>Copyright &copy; 2013=
+ Guide by Cell, All rights reserved.</em>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+ You are receiving this email because of your relationship with Give by Ce=
+ll. Please <a href=3D"mailto:marketing@givebycell.com?subject=3DReconfirm=
+ Subscription">reconfirm</a> your interest in receiving emails from us. If=
+ you do not wish to receive any more emails, you can unsubscribe <a href=
+=3D"mailto:marketing@givebycell.com?subject=3DUnsubscribe">here</a>.
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Our mailing addres=
+s is:</strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"vcard"><span=
+ class=3D"org fn">Guide by Cell</span><div class=3D"adr"><div class=3D"str=
+eet-address">300 Beale Street</div><div class=3D"extended-address">Suite 6=
+08</div><span class=3D"locality">San Francisco</span>, <span class=3D"regi=
+on">CA</span>  <span class=3D"postal-code">94105</span></div><br><a href=
+=3D"http://guidebycell.us5.list-manage.com/vcard?u=3Dca355d977d6503a80379b=
+8e1f&id=3Dfdc2b2b32e" class=3D"hcard-download">Add us to your address book=
+</a></div>
+                                                            </div>
+                                                        </td>
+                                                        <td valign=3D"top"=
+ width=3D"190" id=3D"monkeyRewards" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"utility" style=3D"border-collapse: collapse;backg=
+round-color: #F8F8F8;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;">
+                                                                &nbsp;<a h=
+ref=3D"http://guidebycell.us5.list-manage.com/unsubscribe?u=3Dca355d977d65=
+03a80379b8e1f&id=3Dfdc2b2b32e&e=3D63b8777989&c=3Dbf76c7482a" style=3D"color:=
+ #336699;font-weight: normal;text-decoration: underline;">unsubscribe from=
+ this list</a> | <a href=3D"http://guidebycell.us5.list-manage.com/profile=
+?u=3Dca355d977d6503a80379b8e1f&id=3Dfdc2b2b32e&e=3D63b8777989" style=3D"colo=
+r: #336699;font-weight: normal;text-decoration: underline;">update subscri=
+ption preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Footer \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://guidebycell.us5.list-manage.com/track/open.php?u=3D=
+ca355d977d6503a80379b8e1f&id=3Dbf76c7482a&e=3D63b8777989" height=3D"1" wi=
+dth=3D"1"></body>
+</html>

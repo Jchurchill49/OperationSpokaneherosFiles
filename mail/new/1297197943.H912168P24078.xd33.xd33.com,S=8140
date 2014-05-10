@@ -1,0 +1,114 @@
+Return-path: <3datRTQcTAL8stwjuq3hmjhptzy.lttlqj.htr@cbg.bounces.google.com>
+Envelope-to: admin@operationspokaneheroes.org
+Delivery-date: Tue, 08 Feb 2011 14:45:43 -0600
+Received: from mail-pv0-f198.google.com ([74.125.83.198]:63285)
+	by xd33.xd33.com with esmtps (TLSv1:RC4-MD5:128)
+	(Exim 4.69)
+	(envelope-from <3datRTQcTAL8stwjuq3hmjhptzy.lttlqj.htr@cbg.bounces.google.com>)
+	id 1PmuRS-0006GH-Lf
+	for admin@operationspokaneheroes.org; Tue, 08 Feb 2011 14:45:43 -0600
+Received: by pvc21 with SMTP id 21so1092028pvc.5
+        for <admin@operationspokaneheroes.org>; Tue, 08 Feb 2011 12:45:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=beta;
+        h=domainkey-signature:date:from:to:message-id:subject:mime-version
+         :content-type;
+        bh=xqFENV2rQRudcp6Gi3IQYBMr3Zk61VEbHshOIaNzSxA=;
+        b=U1w+i4Q93ACD2wOZ+w1JuGynhI1y8p9xvNiRf2Jzl8MS8aagprJCLl1qZ8DZjVzBsy
+         FKJS3fJRjDMwhLTmnJBw==
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=google.com; s=beta;
+        h=date:from:to:message-id:subject:mime-version:content-type;
+        b=pVtKVDNGiYWdHvxlGgEG5pZelxU0ZBIffDTzWjA8p+ZgAWSYfoZddwaW+Jsw7LCcqt
+         phM7R4sbjAeBzzlCVJrA==
+Received: by 10.142.11.5 with SMTP id 5mr2835847wfk.34.1297197941665;
+        Tue, 08 Feb 2011 12:45:41 -0800 (PST)
+Date: Tue, 8 Feb 2011 20:45:41 +0000 (UTC)
+From: Google Checkout <noreply@checkout.google.com>
+To: admin@operationspokaneheroes.org
+Message-ID: <916853719735429.1.8.1297197941661.06046569-3dc5-40a0-a5b6-5c21b9495ff1@checkout.google.com>
+Subject: Purchase Receipt for Order #916853719735429
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_141824_9368317.1297197941663"
+X-Spam-Status: No, score=-0.7
+X-Spam-Score: -6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "xd33.xd33.com", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hello admin@operationspokaneheroes.org, maxieflies@hotmail.com
+	has just completed a purchase from your store. Below is the summary of the
+	transaction. Next step... Process this order in your Google Checkout account.
+	This cart is unsigned Donation date: Feb 8, 2011 12:45 PM PST Google order
+	number: 916853719735429 Qty Item Price 1 OSH Donation - Donation to Operation
+	Spokane Heroes $100.00 Total: $100.00 [...] 
+	Content analysis details:   (-0.7 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+	domain
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	-0.7 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[74.125.83.198 listed in list.dnswl.org]
+X-Spam-Flag: NO
+
+------=_Part_141824_9368317.1297197941663
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello admin@operationspokaneheroes.org,
+
+maxieflies@hotmail.com has just completed a purchase from your store.
+Below is the summary of the transaction.
+Next step...
+Process this order in your Google Checkout account.
+This cart is unsigned Donation date: Feb 8, 2011 12:45 PM PST
+Google order number: 916853719735429 Qty Item Price 1 OSH Donation -
+Donation to Operation Spokane Heroes $100.00 Total: $100.00
+
+Need help? Visit the Google Checkout help center. Please do not reply
+to this message.
+
+=C2=A92011 Google
+------=_Part_141824_9368317.1297197941663
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr valign="top"><td align="left" valign="top" style="border-bottom: none;"><img src="https://checkout.google.com/img/checkout_logo_sm.png" border="0" alt="Google Checkout"></td>
+<td style="width: 1%; border-bottom: none;"></td></tr></table>
+Hello <b> admin@operationspokaneheroes.org</b>, <br><br>  maxieflies@hotmail.com has just completed a purchase from your store. Below is the summary of the transaction.
+<p>Next step...<br>
+<a href="https://checkout.google.com/sell/multiOrder?order=916853719735429&amp;searchField&amp;ctx=PurchaseReceiptForMerchantEmail">Process this order</a>
+in your Google Checkout account.</p>
+<table width="100%"><tr><td style="text-align: right;"><a href="https://checkout.google.com/support/sell/bin/answer.py?answer=88180&amp;hl=en_US&amp;ctx=PurchaseReceiptForMerchantEmail" target="&quot;_new&quot;">This cart is unsigned</a>
+<img src="https://checkout.google.com/img/unlocked_icon.gif" name="unlocked_icon" alt=""></td></tr>
+<tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" class="brandingBackground" style="background-color: #E5ECF9;"><tr><td class="font-size" style="font-size: 83%;">&nbsp;Donation date: <b>Feb 8, 2011 12:45 PM PST</b>
+<br>
+&nbsp;Google order number: <b>916853719735429</b>
+</td>
+<td style="padding-right: 15px;" align="right" nowrap></td></tr></table></td></tr>
+<tr><td><table width="100%" border="0" cellpadding="4" cellspacing="0" class="brandingTableEmail" style="background-color: #FFFFFF; border: 1px solid #E5ECF9;"><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" nowrap class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:1%;text-align:center; padding-right:1em;">&nbsp;Qty&nbsp;</td>
+<td colspan="89" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:89%; text-align: left;">Item</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%; text-align:right; padding-right:1em;">&nbsp;Price</td>
+<td colspan="5" class="brandingColumnNames brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; font-weight: bold; color: black; width:5%;">&nbsp;</td></tr><tr valign="top" style="margin-right: 15px; margin-left: 5px;"><td colspan="1" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:1%; text-align: center;">&nbsp;1</td>
+<td colspan="89" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:89%;"><b><span class="brandingItemName" style="font-weight: bold; color: black;">OSH Donation</span></b>
+&nbsp;-&nbsp;
+<span class="brandingItemDescription" style="color: #666666;">Donation to Operation Spokane Heroes</span>
+
+</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%; text-align:right; white-space: nowrap; padding-right: 1em;" id="itemAmount543800">$100.00</td>
+<td colspan="5" class="brandingRow font-size" style="font-size: 83%; border-bottom: 1px solid #E5ECF9; width:5%;">&nbsp;</td></tr>
+<tr style="background-color: #E5ECF9;"><td rowspan="4" colspan="70" style="width:70%;"></td>
+<td colspan="20" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:20%; text-align:right; vertical-align:text-top;">Total:</td>
+<td colspan="5" id="totalAmount" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:5%; text-align:right; white-space: nowrap; padding-right:1em;">$100.00</td>
+<td colspan="5" class="brandingFooter" style="font-weight: bold; font-size: 105%; width:5%;">&nbsp;</td></tr></table></td></tr></tbody></table></td></tr></table>
+<p><div style="padding: 2px; border-top: 1px solid #3366CC"><center><font color="#676767" size="-2"><br>
+Need help? Visit the  <a href="https://checkout.google.com/support/sell?hl=en_US">Google Checkout help center</a>.
+Please do not reply to this message.
+<br><br>
+&copy;2011&nbsp;Google</font></center></div></p>
+------=_Part_141824_9368317.1297197941663--
